@@ -9,6 +9,7 @@ from openai import OpenAI
 from openai import AuthenticationError
 
 import ollama
+from ollama import ResponseError
 
 import base64
 
@@ -33,7 +34,7 @@ class ImageBrowser:
         self.open_button = tk.Button(self.root, text="Choose Directory", command=self.choose_directory)
         self.open_button.pack()
 
-        # Button to runt the AI analysis
+        # Button to run the AI analysis
         self.run_button = tk.Button(self.root, text="Run AI Analysis", command=self.get_ai_rating)
         self.run_button.pack()
 
@@ -132,11 +133,17 @@ class ImageBrowser:
                 }
             ] 
         )
-        for chunk in stream:
-            if wait_window:
-                wait_window.destroy()
+        try:
 
-            self.add_text(chunk.message.content)
+            for chunk in stream:
+                if wait_window:
+                    wait_window.destroy()
+
+                self.add_text(chunk.message.content)
+
+        except ResponseError:
+            wait_window.destroy()
+            self.rating_text.insert('end', "You need to select a jpg photo before running the analysis")
         
     def add_text(self, added_text):
         self.rating_text.insert('end', added_text)
