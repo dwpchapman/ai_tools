@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 19,
+      "Los Angeles Chargers": 22
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        3,
+        3,
+        3,
+        10
+      ],
+      "Los Angeles Chargers": [
+        7,
+        3,
+        3,
+        6
+      ]
+    },
+    "week": 14,
+    "date": "December 8, 2025",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Chargers": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 26,
+            "completions": 12,
+            "yards": 139,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 60,
+            "sacks": 7,
+            "loss": 33,
+            "rate": 59.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 10,
+            "yards": 66,
+            "average": 6.6,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Omarion Hampton",
+            "attempts": 13,
+            "yards": 56,
+            "average": 4.31,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 14,
+            "yards": 44,
+            "average": 3.14,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tre Harris",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Omarion Hampton",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 1,
+            "yards": 60,
+            "average": 60.0,
+            "long": 60,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 59
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 5,
+            "fg_att": 5,
+            "long": 54,
+            "points": 16
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "134",
+          "pass_yards_allowed": "231",
+          "total_yards_allowed": "365"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 40,
+            "completions": 21,
+            "yards": 240,
+            "touchdowns": 0,
+            "interceptions": 4,
+            "long": 28,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 31.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 20,
+            "yards": 122,
+            "average": 6.1,
+            "long": 52,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 4,
+            "yards": 8,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dallas Goedert",
+            "receptions": 8,
+            "yards": 78,
+            "average": 9.75,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 100,
+            "average": 16.67,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 13,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Darius Cooper",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Will Shipley",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 54,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "169",
+          "pass_yards_allowed": "106",
+          "total_yards_allowed": "275"
+        }
+      }
+    }
+  }
+}

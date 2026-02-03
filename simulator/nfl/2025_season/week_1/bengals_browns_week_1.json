@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cincinnati Bengals": 17,
+      "Cleveland Browns": 16
+    },
+    "team_scores_by_quarter": {
+      "Cincinnati Bengals": [
+        7,
+        7,
+        3,
+        0
+      ],
+      "Cleveland Browns": [
+        0,
+        10,
+        6,
+        0
+      ]
+    },
+    "week": 1,
+    "date": "September 7, 2025",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 45,
+            "completions": 31,
+            "yards": 290,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 25,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 75.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Dylan Sampson",
+            "attempts": 12,
+            "yards": 29,
+            "average": 2.42,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 6,
+            "yards": 8,
+            "average": 1.33,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Harold Fannin",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Raheim Sanders",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dylan Sampson",
+            "receptions": 8,
+            "yards": 64,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 89
+          },
+          {
+            "player": "Harold Fannin",
+            "receptions": 7,
+            "yards": 63,
+            "average": 9.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 5,
+            "yards": 66,
+            "average": 13.2,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 5,
+            "yards": 52,
+            "average": 10.4,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "David Njoku",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jamari Thrash",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 45,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "46",
+          "pass_yards_allowed": "95",
+          "total_yards_allowed": "141"
+        }
+      },
+      "Cincinnati Bengals": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 23,
+            "completions": 14,
+            "yards": 113,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 20,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 87.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 21,
+            "yards": 43,
+            "average": 2.05,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Noah Fant",
+            "receptions": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 35,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "49",
+          "pass_yards_allowed": "278",
+          "total_yards_allowed": "327"
+        }
+      }
+    }
+  }
+}

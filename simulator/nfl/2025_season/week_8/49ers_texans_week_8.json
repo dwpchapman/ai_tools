@@ -1,0 +1,364 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 15,
+      "Houston Texans": 26
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        0,
+        7,
+        8,
+        0
+      ],
+      "Houston Texans": [
+        3,
+        13,
+        7,
+        3
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 39,
+            "completions": 30,
+            "yards": 318,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 50,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 106.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 11,
+            "yards": 62,
+            "average": 5.64,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Nick Chubb",
+            "attempts": 17,
+            "yards": 56,
+            "average": 3.29,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 7,
+            "yards": 30,
+            "average": 4.29,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 5,
+            "yards": 69,
+            "average": 13.8,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Braxton Berrios",
+            "receptions": 5,
+            "yards": 38,
+            "average": 7.6,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 5,
+            "yards": 63,
+            "average": 12.6,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jared Wayne",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Harrison Bryant",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 37,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "48",
+          "pass_yards_allowed": "175",
+          "total_yards_allowed": "223"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Mac Jones",
+            "attempts": 32,
+            "completions": 19,
+            "yards": 193,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 2,
+            "loss": 18,
+            "rate": 84.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 8,
+            "yards": 25,
+            "average": 3.12,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jauan Jennings",
+            "receptions": 4,
+            "yards": 45,
+            "average": 11.25,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 3,
+            "yards": 44,
+            "average": 14.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 3,
+            "yards": 43,
+            "average": 14.33,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jordan Watkins",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jake Tonges",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Skyy Moore",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "157",
+          "pass_yards_allowed": "318",
+          "total_yards_allowed": "475"
+        }
+      }
+    }
+  }
+}

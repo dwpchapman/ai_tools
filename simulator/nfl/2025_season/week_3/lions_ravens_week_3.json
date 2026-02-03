@@ -1,0 +1,322 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 38,
+      "Baltimore Ravens": 30
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        7,
+        7,
+        7,
+        17
+      ],
+      "Baltimore Ravens": [
+        7,
+        7,
+        7,
+        9
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2025",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 27,
+            "completions": 21,
+            "yards": 288,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 7,
+            "loss": 55,
+            "rate": 148.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 12,
+            "yards": 50,
+            "average": 4.17,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 7,
+            "yards": 35,
+            "average": 5.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mark Andrews",
+            "receptions": 6,
+            "yards": 91,
+            "average": 15.17,
+            "long": 27,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 5,
+            "yards": 63,
+            "average": 12.6,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 3,
+            "yards": 45,
+            "average": 15.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Devontez Walker",
+            "receptions": 1,
+            "yards": 34,
+            "average": 34.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tylan Wallace",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Loop",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 41,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "224",
+          "pass_yards_allowed": "202",
+          "total_yards_allowed": "426"
+        }
+      },
+      "Detroit Lions": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 28,
+            "completions": 20,
+            "yards": 202,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 103.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "David Montgomery",
+            "attempts": 12,
+            "yards": 151,
+            "average": 12.58,
+            "long": 72,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 22,
+            "yards": 67,
+            "average": 3.05,
+            "long": 9,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 4,
+            "yards": 6,
+            "average": 1.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 7,
+            "yards": 77,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 5,
+            "yards": 32,
+            "average": 6.4,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 2,
+            "yards": 43,
+            "average": 21.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Isaac TeSlaa",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 45,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "85",
+          "pass_yards_allowed": "233",
+          "total_yards_allowed": "318"
+        }
+      }
+    }
+  }
+}

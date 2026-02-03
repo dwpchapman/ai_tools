@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 34,
+      "Las Vegas Raiders": 10
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        7,
+        10,
+        10,
+        7
+      ],
+      "Las Vegas Raiders": [
+        0,
+        3,
+        7,
+        0
+      ]
+    },
+    "week": 17,
+    "date": "December 28, 2025",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 28,
+            "completions": 20,
+            "yards": 176,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 26,
+            "sacks": 3,
+            "loss": 24,
+            "rate": 69.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 16,
+            "yards": 60,
+            "average": 3.75,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Zamir White",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Mayer",
+            "receptions": 9,
+            "yards": 89,
+            "average": 9.89,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 5,
+            "yards": 49,
+            "average": 9.8,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Shedrick Jackson",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dont'e Thornton",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 42,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "155",
+          "pass_yards_allowed": "188",
+          "total_yards_allowed": "343"
+        }
+      },
+      "New York Giants": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Jaxson Dart",
+            "attempts": 30,
+            "completions": 22,
+            "yards": 207,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 36,
+            "sacks": 2,
+            "loss": 19,
+            "rate": 91.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 14,
+            "yards": 62,
+            "average": 4.43,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 9,
+            "yards": 48,
+            "average": 5.33,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 8,
+            "yards": 45,
+            "average": 5.62,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 11,
+            "yards": 113,
+            "average": 10.27,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 14,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Isaiah Hodgins",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Gunner Olszewski",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 1,
+            "yards": -5,
+            "average": -5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ben Sauls",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 32,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "63",
+          "pass_yards_allowed": "168",
+          "total_yards_allowed": "231"
+        }
+      }
+    }
+  }
+}

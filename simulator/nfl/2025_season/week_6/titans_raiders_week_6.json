@@ -1,0 +1,333 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 10,
+      "Las Vegas Raiders": 20
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        0,
+        0,
+        3,
+        7
+      ],
+      "Las Vegas Raiders": [
+        3,
+        7,
+        7,
+        3
+      ]
+    },
+    "week": 6,
+    "date": "October 12, 2025",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 23,
+            "completions": 17,
+            "yards": 174,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 91.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 23,
+            "yards": 75,
+            "average": 3.26,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 4,
+            "yards": -3,
+            "average": -0.75,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 5,
+            "yards": -4,
+            "average": -0.8,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tre Tucker",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 5,
+            "yards": 50,
+            "average": 10.0,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Ian Thomas",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Alex Cappa",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jack Bech",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 50,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "65",
+          "pass_yards_allowed": "160",
+          "total_yards_allowed": "225"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 38,
+            "completions": 26,
+            "yards": 222,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 23,
+            "sacks": 6,
+            "loss": 62,
+            "rate": 81.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 10,
+            "yards": 34,
+            "average": 3.4,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 5,
+            "yards": 31,
+            "average": 6.2,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 6,
+            "yards": 46,
+            "average": 7.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 4,
+            "yards": 19,
+            "average": 4.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 4,
+            "yards": 75,
+            "average": 18.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Chimere Dike",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "David Martin-Robinson",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matthew Wright",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 46,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "158",
+          "total_yards_allowed": "226"
+        }
+      }
+    }
+  }
+}

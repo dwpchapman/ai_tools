@@ -1,0 +1,400 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cincinnati Bengals": 45,
+      "Miami Dolphins": 21
+    },
+    "team_scores_by_quarter": {
+      "Cincinnati Bengals": [
+        7,
+        10,
+        21,
+        7
+      ],
+      "Miami Dolphins": [
+        7,
+        7,
+        0,
+        7
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "Hard Rock Stadium",
+    "teams": {
+      "Miami Dolphins": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Quinn Ewers",
+            "attempts": 30,
+            "completions": 20,
+            "yards": 260,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 66.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 15,
+            "yards": 81,
+            "average": 5.4,
+            "long": 48,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaylen Wright",
+            "attempts": 9,
+            "yards": 35,
+            "average": 3.89,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Malik Washington",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Quinn Ewers",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 5,
+            "yards": 72,
+            "average": 14.4,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "De'Von Achane",
+            "receptions": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Greg Dulcich",
+            "receptions": 3,
+            "yards": 46,
+            "average": 15.33,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Darren Waller",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Theo Wease",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Alec Ingold",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jaylen Wright",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 23
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "105",
+          "pass_yards_allowed": "302",
+          "total_yards_allowed": "407"
+        }
+      },
+      "Cincinnati Bengals": {
+        "score": 45,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 32,
+            "completions": 25,
+            "yards": 309,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 36,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 146.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 12,
+            "yards": 66,
+            "average": 5.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 7,
+            "yards": 25,
+            "average": 3.57,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Tahj Brooks",
+            "attempts": 4,
+            "yards": 7,
+            "average": 1.75,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ke'Shawn Williams",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 9,
+            "yards": 109,
+            "average": 12.11,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 11,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 23,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 35,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tanner Hudson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cam Grandy",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Mitchell Tinsley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 45,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "129",
+          "pass_yards_allowed": "260",
+          "total_yards_allowed": "389"
+        }
+      }
+    }
+  }
+}

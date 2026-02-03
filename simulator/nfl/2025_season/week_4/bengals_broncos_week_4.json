@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cincinnati Bengals": 3,
+      "Denver Broncos": 28
+    },
+    "team_scores_by_quarter": {
+      "Cincinnati Bengals": [
+        3,
+        0,
+        0,
+        0
+      ],
+      "Denver Broncos": [
+        7,
+        14,
+        0,
+        7
+      ]
+    },
+    "week": 4,
+    "date": "September 29, 2025",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 42,
+            "completions": 29,
+            "yards": 326,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 97.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 16,
+            "yards": 101,
+            "average": 6.31,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "RJ Harvey",
+            "attempts": 14,
+            "yards": 58,
+            "average": 4.14,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Marvin Mims",
+            "attempts": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Bo Nix",
+            "attempts": 6,
+            "yards": 7,
+            "average": 1.17,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Adam Prentice",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marvin Mims",
+            "receptions": 6,
+            "yards": 69,
+            "average": 11.5,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 5,
+            "yards": 81,
+            "average": 16.2,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Evan Engram",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "RJ Harvey",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Adam Trautman",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Nate Adkins",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tyler Badie",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Pat Bryant",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "53",
+          "pass_yards_allowed": "106",
+          "total_yards_allowed": "159"
+        }
+      },
+      "Cincinnati Bengals": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Jake Browning",
+            "attempts": 25,
+            "completions": 14,
+            "yards": 125,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 3,
+            "loss": 19,
+            "rate": 69.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 10,
+            "yards": 40,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Andrei Iosivas",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jake Browning",
+            "attempts": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 5,
+            "yards": 23,
+            "average": 4.6,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Mitchell Tinsley",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 26,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "186",
+          "pass_yards_allowed": "326",
+          "total_yards_allowed": "512"
+        }
+      }
+    }
+  }
+}

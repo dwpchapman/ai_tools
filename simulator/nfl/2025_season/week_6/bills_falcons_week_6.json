@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 14,
+      "Atlanta Falcons": 24
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        7,
+        0,
+        7,
+        0
+      ],
+      "Atlanta Falcons": [
+        14,
+        7,
+        0,
+        3
+      ]
+    },
+    "week": 6,
+    "date": "October 13, 2025",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Michael Penix",
+            "attempts": 32,
+            "completions": 20,
+            "yards": 250,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 97.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 19,
+            "yards": 170,
+            "average": 8.95,
+            "long": 81,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 10,
+            "yards": 32,
+            "average": 3.2,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Michael Penix",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Feleipe Franks",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 10,
+            "yards": 158,
+            "average": 15.8,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 16,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 6,
+            "yards": 68,
+            "average": 11.33,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Casey Washington",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "John Parker Romo",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 33,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "134",
+          "pass_yards_allowed": "157",
+          "total_yards_allowed": "291"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 26,
+            "completions": 15,
+            "yards": 180,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 45,
+            "sacks": 4,
+            "loss": 23,
+            "rate": 72.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 17,
+            "yards": 87,
+            "average": 5.12,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 6,
+            "yards": 42,
+            "average": 7.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keon Coleman",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": -2
+          },
+          {
+            "player": "Khalil Shakir",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Tyrell Shavers",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 60,
+            "average": 30.0,
+            "long": 45,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "210",
+          "pass_yards_allowed": "233",
+          "total_yards_allowed": "443"
+        }
+      }
+    }
+  }
+}

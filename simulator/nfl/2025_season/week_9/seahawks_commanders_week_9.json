@@ -1,0 +1,334 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 38,
+      "Washington Commanders": 14
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        7,
+        24,
+        7,
+        0
+      ],
+      "Washington Commanders": [
+        0,
+        7,
+        0,
+        7
+      ]
+    },
+    "week": 9,
+    "date": "November 2, 2025",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 22,
+            "completions": 16,
+            "yards": 153,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 4,
+            "loss": 20,
+            "rate": 72.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 12,
+            "yards": 65,
+            "average": 5.42,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 10,
+            "yards": 51,
+            "average": 5.1,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 12,
+            "yards": 38,
+            "average": 3.17,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Deebo Samuel",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 4,
+            "yards": 46,
+            "average": 11.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jaylin Lane",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "John Bates",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Treylon Burks",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "88",
+          "pass_yards_allowed": "330",
+          "total_yards_allowed": "418"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 24,
+            "completions": 21,
+            "yards": 330,
+            "touchdowns": 4,
+            "interceptions": 1,
+            "long": 60,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 141.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 11,
+            "yards": 42,
+            "average": 3.82,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 8,
+            "yards": 25,
+            "average": 3.12,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "George Holani",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "AJ Barner",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 8,
+            "yards": 129,
+            "average": 16.12,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Tory Horton",
+            "receptions": 4,
+            "yards": 48,
+            "average": 12.0,
+            "long": 25,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Elijah Arroyo",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Cody White",
+            "receptions": 1,
+            "yards": 60,
+            "average": 60.0,
+            "long": 60,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 42
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 41,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "157",
+          "pass_yards_allowed": "133",
+          "total_yards_allowed": "290"
+        }
+      }
+    }
+  }
+}

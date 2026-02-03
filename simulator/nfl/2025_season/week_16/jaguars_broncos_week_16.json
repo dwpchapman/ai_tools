@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Jacksonville Jaguars": 34,
+      "Denver Broncos": 20
+    },
+    "team_scores_by_quarter": {
+      "Jacksonville Jaguars": [
+        7,
+        10,
+        14,
+        3
+      ],
+      "Denver Broncos": [
+        0,
+        10,
+        7,
+        3
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 47,
+            "completions": 28,
+            "yards": 352,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 48,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 81.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "RJ Harvey",
+            "attempts": 7,
+            "yards": 50,
+            "average": 7.14,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 5,
+            "yards": 37,
+            "average": 7.4,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bo Nix",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Marvin Mims",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Courtland Sutton",
+            "receptions": 6,
+            "yards": 86,
+            "average": 14.33,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Pat Bryant",
+            "receptions": 5,
+            "yards": 42,
+            "average": 8.4,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 4,
+            "yards": 66,
+            "average": 16.5,
+            "long": 48,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "RJ Harvey",
+            "receptions": 4,
+            "yards": 71,
+            "average": 17.75,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Marvin Mims",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Evan Engram",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Adam Trautman",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Lil'Jordan Humphrey",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Badie",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Nate Adkins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 54,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "81",
+          "pass_yards_allowed": "265",
+          "total_yards_allowed": "346"
+        }
+      },
+      "Jacksonville Jaguars": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 36,
+            "completions": 23,
+            "yards": 279,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 63,
+            "sacks": 5,
+            "loss": 14,
+            "rate": 115.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 16,
+            "yards": 50,
+            "average": 3.12,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 6,
+            "yards": 20,
+            "average": 3.33,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "LeQuint Allen",
+            "attempts": 4,
+            "yards": 10,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jakobi Meyers",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Parker Washington",
+            "receptions": 6,
+            "yards": 145,
+            "average": 24.17,
+            "long": 63,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 91
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 4,
+            "yards": 45,
+            "average": 11.25,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Quintin Morris",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 47,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "101",
+          "pass_yards_allowed": "344",
+          "total_yards_allowed": "445"
+        }
+      }
+    }
+  }
+}

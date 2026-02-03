@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 20,
+      "New Orleans Saints": 13
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        3,
+        14,
+        3,
+        0
+      ],
+      "New Orleans Saints": [
+        0,
+        10,
+        0,
+        3
+      ]
+    },
+    "week": 1,
+    "date": "September 7, 2025",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 46,
+            "completions": 27,
+            "yards": 214,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 21,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 70.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 11,
+            "yards": 45,
+            "average": 4.09,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Spencer Rattler",
+            "attempts": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 5,
+            "yards": 24,
+            "average": 4.8,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Devin Neal",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Juwan Johnson",
+            "receptions": 8,
+            "yards": 76,
+            "average": 9.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 7,
+            "yards": 54,
+            "average": 7.71,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 13,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 6,
+            "yards": 33,
+            "average": 5.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 36,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "146",
+          "pass_yards_allowed": "130",
+          "total_yards_allowed": "276"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 29,
+            "completions": 21,
+            "yards": 163,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 45,
+            "sacks": 5,
+            "loss": 33,
+            "rate": 108.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Trey Benson",
+            "attempts": 8,
+            "yards": 69,
+            "average": 8.62,
+            "long": 52,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "James Conner",
+            "attempts": 12,
+            "yards": 39,
+            "average": 3.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 7,
+            "yards": 38,
+            "average": 5.43,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 6,
+            "yards": 61,
+            "average": 10.17,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 5,
+            "yards": 71,
+            "average": 14.2,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "James Conner",
+            "receptions": 4,
+            "yards": 5,
+            "average": 1.25,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Trey Benson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": -2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Zay Jones",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tip Reiman",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 50,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "107",
+          "pass_yards_allowed": "208",
+          "total_yards_allowed": "315"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 6,
+      "Washington Commanders": 21
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        0,
+        3,
+        3,
+        0
+      ],
+      "Washington Commanders": [
+        7,
+        7,
+        0,
+        7
+      ]
+    },
+    "week": 1,
+    "date": "September 7, 2025",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 30,
+            "completions": 19,
+            "yards": 233,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 3,
+            "loss": 21,
+            "rate": 98.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 10,
+            "yards": 82,
+            "average": 8.2,
+            "long": 42,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 11,
+            "yards": 68,
+            "average": 6.18,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 6,
+            "yards": 26,
+            "average": 4.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Deebo Samuel",
+            "receptions": 7,
+            "yards": 77,
+            "average": 11.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jaylin Lane",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Chris Moore",
+            "receptions": 1,
+            "yards": 34,
+            "average": 34.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "157",
+          "total_yards_allowed": "231"
+        }
+      },
+      "New York Giants": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 37,
+            "completions": 17,
+            "yards": 168,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 59.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 8,
+            "yards": 44,
+            "average": 5.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 10,
+            "yards": 24,
+            "average": 2.4,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cam Skattebo",
+            "attempts": 2,
+            "yards": -3,
+            "average": -1.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 6,
+            "yards": 55,
+            "average": 9.17,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Malik Nabers",
+            "receptions": 5,
+            "yards": 71,
+            "average": 14.2,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Cam Skattebo",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 55,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "220",
+          "pass_yards_allowed": "212",
+          "total_yards_allowed": "432"
+        }
+      }
+    }
+  }
+}

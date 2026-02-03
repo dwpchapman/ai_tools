@@ -1,0 +1,325 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 20,
+      "Philadelphia Eagles": 38
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        7,
+        3,
+        3,
+        7
+      ],
+      "Philadelphia Eagles": [
+        7,
+        14,
+        3,
+        14
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 20,
+            "completions": 15,
+            "yards": 179,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 4,
+            "loss": 28,
+            "rate": 141.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 14,
+            "yards": 150,
+            "average": 10.71,
+            "long": 65,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 9,
+            "yards": 104,
+            "average": 11.56,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Will Shipley",
+            "attempts": 3,
+            "yards": 2,
+            "average": 0.67,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tanner McKee",
+            "attempts": 3,
+            "yards": -2,
+            "average": -0.67,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "DeVonta Smith",
+            "receptions": 6,
+            "yards": 84,
+            "average": 14.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 4,
+            "yards": 24,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 40,
+            "average": 40.0,
+            "long": 40,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Xavier Gipson",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 40,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "178",
+          "total_yards_allowed": "246"
+        }
+      },
+      "New York Giants": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jaxson Dart",
+            "attempts": 24,
+            "completions": 14,
+            "yards": 193,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 5,
+            "loss": 15,
+            "rate": 98.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 10,
+            "yards": 39,
+            "average": 3.9,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 6,
+            "yards": 17,
+            "average": 2.83,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Cam Skattebo",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Theo Johnson",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Beaux Collins",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Cam Skattebo",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 47,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "276",
+          "pass_yards_allowed": "151",
+          "total_yards_allowed": "427"
+        }
+      }
+    }
+  }
+}

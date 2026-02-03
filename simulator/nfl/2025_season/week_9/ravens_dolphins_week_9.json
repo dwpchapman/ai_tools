@@ -1,0 +1,391 @@
+{
+  "game_info": {
+    "final_score": {
+      "Baltimore Ravens": 28,
+      "Miami Dolphins": 6
+    },
+    "team_scores_by_quarter": {
+      "Baltimore Ravens": [
+        7,
+        7,
+        14,
+        0
+      ],
+      "Miami Dolphins": [
+        3,
+        3,
+        0,
+        0
+      ]
+    },
+    "week": 9,
+    "date": "October 30, 2025",
+    "location": "Hard Rock Stadium",
+    "teams": {
+      "Miami Dolphins": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 40,
+            "completions": 25,
+            "yards": 261,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 70.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 14,
+            "yards": 67,
+            "average": 4.79,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Malik Washington",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "De'Von Achane",
+            "receptions": 6,
+            "yards": 39,
+            "average": 6.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 10,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 6,
+            "yards": 82,
+            "average": 13.67,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Greg Dulcich",
+            "receptions": 5,
+            "yards": 49,
+            "average": 9.8,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Ollie Gordon",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tahj Washington",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "D'Wayne Eskridge",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tanner Conner",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 49,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "150",
+          "pass_yards_allowed": "188",
+          "total_yards_allowed": "338"
+        }
+      },
+      "Baltimore Ravens": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 23,
+            "completions": 18,
+            "yards": 204,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 143.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 19,
+            "yards": 119,
+            "average": 6.26,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 5,
+            "yards": 14,
+            "average": 2.8,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Keaton Mitchell",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mark Andrews",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zay Flowers",
+            "receptions": 5,
+            "yards": 64,
+            "average": 12.8,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 3,
+            "yards": 60,
+            "average": 20.0,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Keaton Mitchell",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Loop",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "87",
+          "pass_yards_allowed": "245",
+          "total_yards_allowed": "332"
+        }
+      }
+    }
+  }
+}

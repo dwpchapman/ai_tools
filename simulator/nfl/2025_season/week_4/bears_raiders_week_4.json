@@ -1,0 +1,296 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 25,
+      "Las Vegas Raiders": 24
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        3,
+        6,
+        7,
+        9
+      ],
+      "Las Vegas Raiders": [
+        7,
+        7,
+        7,
+        3
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 21,
+            "completions": 14,
+            "yards": 117,
+            "touchdowns": 2,
+            "interceptions": 3,
+            "long": 19,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 73.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 21,
+            "yards": 138,
+            "average": 6.57,
+            "long": 64,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 4,
+            "yards": 62,
+            "average": 15.5,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 5,
+            "yards": 46,
+            "average": 9.2,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Dont'e Thornton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 29,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "69",
+          "pass_yards_allowed": "202",
+          "total_yards_allowed": "271"
+        }
+      },
+      "Chicago Bears": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 37,
+            "completions": 22,
+            "yards": 212,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 1,
+            "loss": 10,
+            "rate": 73.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 14,
+            "yards": 38,
+            "average": 2.71,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Kyle Monangai",
+            "attempts": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 8,
+            "yards": 13,
+            "average": 1.62,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 4,
+            "yards": 69,
+            "average": 17.25,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 3,
+            "yards": 46,
+            "average": 15.33,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Luther Burden",
+            "receptions": 2,
+            "yards": -4,
+            "average": -2.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 52,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "240",
+          "pass_yards_allowed": "117",
+          "total_yards_allowed": "357"
+        }
+      }
+    }
+  }
+}

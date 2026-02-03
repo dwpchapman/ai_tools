@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 39,
+      "Cincinnati Bengals": 38
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        0,
+        13,
+        3,
+        23
+      ],
+      "Cincinnati Bengals": [
+        10,
+        14,
+        7,
+        7
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 34,
+            "completions": 21,
+            "yards": 223,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 44,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 100.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Samaje Perine",
+            "attempts": 9,
+            "yards": 94,
+            "average": 10.44,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Chase Brown",
+            "attempts": 12,
+            "yards": 73,
+            "average": 6.08,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 12,
+            "yards": 91,
+            "average": 7.58,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 19,
+            "yards_after_catch": 77
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 1,
+            "yards": 44,
+            "average": 44.0,
+            "long": 44,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Tanner Hudson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 26,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "254",
+          "pass_yards_allowed": "248",
+          "total_yards_allowed": "502"
+        }
+      },
+      "New York Jets": {
+        "score": 39,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 32,
+            "completions": 21,
+            "yards": 244,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 99.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 18,
+            "yards": 133,
+            "average": 7.39,
+            "long": 35,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 7,
+            "yards": 65,
+            "average": 9.29,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 11,
+            "yards": 31,
+            "average": 2.82,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Isaiah Williams",
+            "attempts": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Isaiah Davis",
+            "receptions": 5,
+            "yards": 44,
+            "average": 8.8,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Mason Taylor",
+            "receptions": 5,
+            "yards": 34,
+            "average": 6.8,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 3,
+            "yards": 64,
+            "average": 21.33,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Isaiah Williams",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Andrew Beck",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Arian Smith",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 46,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "181",
+          "pass_yards_allowed": "217",
+          "total_yards_allowed": "398"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 6,
+      "New Orleans Saints": 29
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        3,
+        3,
+        0,
+        0
+      ],
+      "New Orleans Saints": [
+        3,
+        6,
+        7,
+        13
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 49,
+            "completions": 32,
+            "yards": 308,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 89.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Taysom Hill",
+            "attempts": 12,
+            "yards": 42,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Audric Estime",
+            "attempts": 5,
+            "yards": 19,
+            "average": 3.8,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Mason Tipton",
+            "attempts": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyler Shough",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Evan Hull",
+            "attempts": 5,
+            "yards": 3,
+            "average": 0.6,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 10,
+            "yards": 148,
+            "average": 14.8,
+            "long": 38,
+            "touchdowns": 2,
+            "first_downs": 7,
+            "targets": 16,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 8,
+            "yards": 89,
+            "average": 11.12,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Audric Estime",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jack Stoll",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Charlie Smyth",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 5,
+            "fg_att": 6,
+            "long": 50,
+            "points": 17
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "64",
+          "pass_yards_allowed": "131",
+          "total_yards_allowed": "195"
+        }
+      },
+      "New York Jets": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Brady Cook",
+            "attempts": 35,
+            "completions": 22,
+            "yards": 188,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 8,
+            "loss": 57,
+            "rate": 64.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 16,
+            "yards": 54,
+            "average": 3.38,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brady Cook",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Stone Smartt",
+            "receptions": 5,
+            "yards": 34,
+            "average": 6.8,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Isaiah Davis",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 63
+          },
+          {
+            "player": "Isaiah Williams",
+            "receptions": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 3,
+            "yards": 43,
+            "average": 14.33,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jelani Woods",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Arian Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 36,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "84",
+          "pass_yards_allowed": "328",
+          "total_yards_allowed": "412"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Dallas Cowboys": 33,
+      "Las Vegas Raiders": 16
+    },
+    "team_scores_by_quarter": {
+      "Dallas Cowboys": [
+        3,
+        21,
+        7,
+        2
+      ],
+      "Las Vegas Raiders": [
+        6,
+        3,
+        0,
+        7
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2025",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 42,
+            "completions": 27,
+            "yards": 238,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 4,
+            "loss": 29,
+            "rate": 77.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 4,
+            "yards": 14,
+            "average": 3.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 6,
+            "yards": 7,
+            "average": 1.17,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 7,
+            "yards": 72,
+            "average": 10.29,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 6,
+            "yards": 27,
+            "average": 4.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Ian Thomas",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jack Bech",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 17
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 45,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "114",
+          "pass_yards_allowed": "267",
+          "total_yards_allowed": "381"
+        }
+      },
+      "Dallas Cowboys": {
+        "score": 33,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 33,
+            "completions": 25,
+            "yards": 268,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 138.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Javonte Williams",
+            "attempts": 22,
+            "yards": 93,
+            "average": 4.23,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Malik Davis",
+            "attempts": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Hunter Luepke",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dak Prescott",
+            "attempts": 4,
+            "yards": -4,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Pickens",
+            "receptions": 9,
+            "yards": 144,
+            "average": 16.0,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 8,
+            "targets": 11,
+            "yards_after_catch": 75
+          },
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 5,
+            "yards": 66,
+            "average": 13.2,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Hunter Luepke",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Brevyn Spann-Ford",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 50,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "27",
+          "pass_yards_allowed": "209",
+          "total_yards_allowed": "236"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Rams": 24,
+      "Atlanta Falcons": 27
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Rams": [
+        0,
+        0,
+        17,
+        7
+      ],
+      "Atlanta Falcons": [
+        7,
+        14,
+        3,
+        3
+      ]
+    },
+    "week": 17,
+    "date": "December 29, 2025",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 20,
+            "completions": 13,
+            "yards": 126,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 99.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 22,
+            "yards": 195,
+            "average": 8.86,
+            "long": 93,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 10,
+            "yards": 23,
+            "average": 2.3,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Bijan Robinson",
+            "receptions": 5,
+            "yards": 34,
+            "average": 6.8,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "David Sills",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Drake London",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 56,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "115",
+          "pass_yards_allowed": "248",
+          "total_yards_allowed": "363"
+        }
+      },
+      "Los Angeles Rams": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 38,
+            "completions": 22,
+            "yards": 269,
+            "touchdowns": 2,
+            "interceptions": 3,
+            "long": 36,
+            "sacks": 3,
+            "loss": 21,
+            "rate": 64.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 13,
+            "yards": 92,
+            "average": 7.08,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 6,
+            "yards": 18,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ronnie Rivers",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Colby Parkinson",
+            "receptions": 6,
+            "yards": 53,
+            "average": 8.83,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Puka Nacua",
+            "receptions": 5,
+            "yards": 47,
+            "average": 9.4,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Xavier Smith",
+            "receptions": 4,
+            "yards": 67,
+            "average": 16.75,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Terrance Ferguson",
+            "receptions": 2,
+            "yards": 54,
+            "average": 27.0,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Konata Mumpfield",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Mevis",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 35,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "219",
+          "pass_yards_allowed": "126",
+          "total_yards_allowed": "345"
+        }
+      }
+    }
+  }
+}

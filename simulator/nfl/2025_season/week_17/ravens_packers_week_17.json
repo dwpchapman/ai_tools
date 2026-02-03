@@ -1,0 +1,362 @@
+{
+  "game_info": {
+    "final_score": {
+      "Baltimore Ravens": 41,
+      "Green Bay Packers": 24
+    },
+    "team_scores_by_quarter": {
+      "Baltimore Ravens": [
+        7,
+        20,
+        0,
+        14
+      ],
+      "Green Bay Packers": [
+        7,
+        7,
+        10,
+        0
+      ]
+    },
+    "week": 17,
+    "date": "December 27, 2025",
+    "location": "Lambeau Field",
+    "teams": {
+      "Green Bay Packers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Malik Willis",
+            "attempts": 21,
+            "completions": 18,
+            "yards": 288,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 134.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Malik Willis",
+            "attempts": 9,
+            "yards": 60,
+            "average": 6.67,
+            "long": 22,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Josh Jacobs",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Clayton Tune",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Christian Watson",
+            "receptions": 5,
+            "yards": 113,
+            "average": 22.6,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 3,
+            "yards": 62,
+            "average": 20.67,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 1,
+            "yards": 34,
+            "average": 34.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 24,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "307",
+          "pass_yards_allowed": "107",
+          "total_yards_allowed": "414"
+        }
+      },
+      "Baltimore Ravens": {
+        "score": 41,
+        "passing": [
+          {
+            "player": "Tyler Huntley",
+            "attempts": 20,
+            "completions": 16,
+            "yards": 107,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 13,
+            "sacks": 1,
+            "loss": 0,
+            "rate": 105.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 36,
+            "yards": 216,
+            "average": 6.0,
+            "long": 30,
+            "touchdowns": 4,
+            "first_downs": 14
+          },
+          {
+            "player": "Tyler Huntley",
+            "attempts": 8,
+            "yards": 60,
+            "average": 7.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Keaton Mitchell",
+            "attempts": 9,
+            "yards": 31,
+            "average": 3.44,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mark Andrews",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Keaton Mitchell",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Rasheen Ali",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Loop",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 34,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "284",
+          "total_yards_allowed": "363"
+        }
+      }
+    }
+  }
+}

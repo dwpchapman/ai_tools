@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 29,
+      "Detroit Lions": 24
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        3,
+        7,
+        2,
+        17
+      ],
+      "Detroit Lions": [
+        0,
+        10,
+        0,
+        14
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 54,
+            "completions": 34,
+            "yards": 364,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 27,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 101.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "David Montgomery",
+            "attempts": 4,
+            "yards": 14,
+            "average": 3.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 7,
+            "yards": 2,
+            "average": 0.29,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 10,
+            "yards": 66,
+            "average": 6.6,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 13,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Anthony Firkser",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Isaac TeSlaa",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Amon-Ra S",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 4,
+            "yards": 62,
+            "average": 15.5,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Shane Zylstra",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 36,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "230",
+          "pass_yards_allowed": "251",
+          "total_yards_allowed": "481"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 41,
+            "completions": 27,
+            "yards": 266,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 45,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 92.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 14,
+            "yards": 143,
+            "average": 10.21,
+            "long": 45,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 9,
+            "yards": 50,
+            "average": 5.56,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jonnu Smith",
+            "attempts": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 5,
+            "yards": 78,
+            "average": 15.6,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Scott Miller",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jonnu Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 59,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "15",
+          "pass_yards_allowed": "346",
+          "total_yards_allowed": "361"
+        }
+      }
+    }
+  }
+}

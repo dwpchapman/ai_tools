@@ -1,0 +1,356 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 10,
+      "Detroit Lions": 34
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        7,
+        0,
+        3,
+        0
+      ],
+      "Detroit Lions": [
+        7,
+        13,
+        0,
+        14
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 27,
+            "completions": 16,
+            "yards": 168,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 86.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 15,
+            "yards": 91,
+            "average": 6.07,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 9,
+            "yards": 12,
+            "average": 1.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jacob Saylors",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kyle Allen",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 7,
+            "yards": 70,
+            "average": 10.0,
+            "long": 25,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 58,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "170",
+          "total_yards_allowed": "249"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 34,
+            "completions": 16,
+            "yards": 184,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 35,
+            "sacks": 3,
+            "loss": 14,
+            "rate": 39.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Quinshon Judkins",
+            "attempts": 21,
+            "yards": 82,
+            "average": 3.9,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Harold Fannin",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 3,
+            "yards": -1,
+            "average": -0.33,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dylan Sampson",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Quinshon Judkins",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 3,
+            "yards": 58,
+            "average": 19.33,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Harold Fannin",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "David Njoku",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Dylan Sampson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Blake Whiteheart",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 33,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "109",
+          "pass_yards_allowed": "168",
+          "total_yards_allowed": "277"
+        }
+      }
+    }
+  }
+}

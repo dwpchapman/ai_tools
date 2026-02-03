@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 32,
+      "Buffalo Bills": 44
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        3,
+        17,
+        6,
+        6
+      ],
+      "Buffalo Bills": [
+        7,
+        14,
+        10,
+        13
+      ]
+    },
+    "week": 11,
+    "date": "November 16, 2025",
+    "location": "Highmark Stadium",
+    "teams": {
+      "Buffalo Bills": {
+        "score": 44,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 30,
+            "completions": 19,
+            "yards": 317,
+            "touchdowns": 3,
+            "interceptions": 2,
+            "long": 52,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 104.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 16,
+            "yards": 48,
+            "average": 3.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 6,
+            "yards": 40,
+            "average": 6.67,
+            "long": 12,
+            "touchdowns": 3,
+            "first_downs": 4
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyrell Shavers",
+            "receptions": 4,
+            "yards": 90,
+            "average": 22.5,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Gabriel Davis",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "James Cook",
+            "receptions": 3,
+            "yards": 66,
+            "average": 22.0,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 2,
+            "yards": 61,
+            "average": 30.5,
+            "long": 52,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 69
+          },
+          {
+            "player": "Keleki Latu",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Khalil Shakir",
+            "receptions": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mecole Hardman",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Reggie Gilliam",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 39,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "202",
+          "pass_yards_allowed": "165",
+          "total_yards_allowed": "367"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 28,
+            "completions": 16,
+            "yards": 173,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 72.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Sean Tucker",
+            "attempts": 19,
+            "yards": 106,
+            "average": 5.58,
+            "long": 43,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 10,
+            "yards": 51,
+            "average": 5.1,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Sterling Shepard",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tez Johnson",
+            "attempts": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Teddy Bridgewater",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 5,
+            "yards": 40,
+            "average": 8.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Sean Tucker",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tez Johnson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 24,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "97",
+          "pass_yards_allowed": "317",
+          "total_yards_allowed": "414"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Jacksonville Jaguars": 29,
+      "Houston Texans": 36
+    },
+    "team_scores_by_quarter": {
+      "Jacksonville Jaguars": [
+        10,
+        10,
+        9,
+        0
+      ],
+      "Houston Texans": [
+        0,
+        10,
+        0,
+        26
+      ]
+    },
+    "week": 10,
+    "date": "November 9, 2025",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 36,
+        "passing": [
+          {
+            "player": "Davis Mills",
+            "attempts": 45,
+            "completions": 27,
+            "yards": 292,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 54,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 84.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 14,
+            "yards": 63,
+            "average": 4.5,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Nick Chubb",
+            "attempts": 5,
+            "yards": 47,
+            "average": 9.4,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Davis Mills",
+            "attempts": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 7,
+            "yards": 136,
+            "average": 19.43,
+            "long": 54,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 15,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 7,
+            "yards": 53,
+            "average": 7.57,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 5,
+            "yards": 42,
+            "average": 8.4,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matthew Wright",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 23,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "94",
+          "pass_yards_allowed": "119",
+          "total_yards_allowed": "213"
+        }
+      },
+      "Jacksonville Jaguars": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 23,
+            "completions": 13,
+            "yards": 158,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 23,
+            "sacks": 5,
+            "loss": 39,
+            "rate": 74.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 16,
+            "yards": 58,
+            "average": 3.62,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 5,
+            "yards": 35,
+            "average": 7.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "attempts": 4,
+            "yards": 5,
+            "average": 1.25,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Parker Washington",
+            "attempts": 2,
+            "yards": -4,
+            "average": -2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Austin Trammell",
+            "receptions": 2,
+            "yards": 33,
+            "average": 16.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "LeQuint Allen",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 53,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "130",
+          "pass_yards_allowed": "282",
+          "total_yards_allowed": "412"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 22,
+      "New York Giants": 9
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        3,
+        6,
+        7,
+        6
+      ],
+      "New York Giants": [
+        0,
+        6,
+        0,
+        3
+      ]
+    },
+    "week": 3,
+    "date": "September 21, 2025",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 9,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 32,
+            "completions": 18,
+            "yards": 160,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 26,
+            "sacks": 2,
+            "loss": 9,
+            "rate": 43.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cam Skattebo",
+            "attempts": 10,
+            "yards": 60,
+            "average": 6.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 7,
+            "yards": 29,
+            "average": 4.14,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 5,
+            "yards": 27,
+            "average": 5.4,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Cam Skattebo",
+            "receptions": 6,
+            "yards": 61,
+            "average": 10.17,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 55
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Malik Nabers",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Chris Manhertz",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 1,
+            "yards": 26,
+            "average": 26.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 25,
+            "points": 3
+          },
+          {
+            "player": "Jamie Gillan",
+            "pat_made": 0,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 0
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "105",
+          "pass_yards_allowed": "201",
+          "total_yards_allowed": "306"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 37,
+            "completions": 22,
+            "yards": 224,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 33,
+            "sacks": 2,
+            "loss": 23,
+            "rate": 85.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 10,
+            "yards": 45,
+            "average": 4.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 10,
+            "yards": 34,
+            "average": 3.4,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Brashard Smith",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Nikko Remigio",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 5,
+            "yards": 2,
+            "average": 0.4,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyquan Thornton",
+            "receptions": 5,
+            "yards": 71,
+            "average": 14.2,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Marquise Brown",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Brashard Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 54,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "130",
+          "pass_yards_allowed": "151",
+          "total_yards_allowed": "281"
+        }
+      }
+    }
+  }
+}

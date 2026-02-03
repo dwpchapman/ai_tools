@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 16,
+      "Kansas City Chiefs": 13
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        3,
+        7,
+        6,
+        0
+      ],
+      "Kansas City Chiefs": [
+        7,
+        6,
+        0,
+        0
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 28,
+            "completions": 16,
+            "yards": 189,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 5,
+            "loss": 21,
+            "rate": 62.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 11,
+            "yards": 21,
+            "average": 1.91,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 6,
+            "yards": 12,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Brashard Smith",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 7,
+            "yards": 70,
+            "average": 10.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Rashee Rice",
+            "receptions": 7,
+            "yards": 51,
+            "average": 7.29,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 11,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Tyquan Thornton",
+            "receptions": 2,
+            "yards": 47,
+            "average": 23.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 47,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "94",
+          "pass_yards_allowed": "201",
+          "total_yards_allowed": "295"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 29,
+            "completions": 19,
+            "yards": 210,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 4,
+            "loss": 9,
+            "rate": 84.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Omarion Hampton",
+            "attempts": 15,
+            "yards": 61,
+            "average": 4.07,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 12,
+            "yards": 33,
+            "average": 2.75,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 5,
+            "yards": 36,
+            "average": 7.2,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 4,
+            "yards": 61,
+            "average": 15.25,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 3,
+            "yards": 49,
+            "average": 16.33,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Scott Matlock",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Omarion Hampton",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "KeAndre Lambert-Smith",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Trevor Penning",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 49,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "49",
+          "pass_yards_allowed": "190",
+          "total_yards_allowed": "239"
+        }
+      }
+    }
+  }
+}

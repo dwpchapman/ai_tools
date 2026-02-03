@@ -1,0 +1,334 @@
+{
+  "game_info": {
+    "final_score": {
+      "Indianapolis Colts": 19,
+      "Jacksonville Jaguars": 36
+    },
+    "team_scores_by_quarter": {
+      "Indianapolis Colts": [
+        7,
+        3,
+        3,
+        6
+      ],
+      "Jacksonville Jaguars": [
+        14,
+        14,
+        0,
+        8
+      ]
+    },
+    "week": 14,
+    "date": "December 7, 2025",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 36,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 30,
+            "completions": 17,
+            "yards": 244,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 105.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 20,
+            "yards": 74,
+            "average": 3.7,
+            "long": 28,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jakobi Meyers",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Nick Mullens",
+            "attempts": 3,
+            "yards": -1,
+            "average": -0.33,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tim Patrick",
+            "receptions": 5,
+            "yards": 78,
+            "average": 15.6,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 3,
+            "yards": 87,
+            "average": 29.0,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "LeQuint Allen",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 48,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "89",
+          "pass_yards_allowed": "196",
+          "total_yards_allowed": "285"
+        }
+      },
+      "Indianapolis Colts": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Riley Leonard",
+            "attempts": 29,
+            "completions": 18,
+            "yards": 145,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 60.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 21,
+            "yards": 74,
+            "average": 3.52,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Riley Leonard",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyler Warren",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Pittman",
+            "receptions": 9,
+            "yards": 79,
+            "average": 8.78,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 5,
+            "yards": 80,
+            "average": 16.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 4,
+            "yards": 23,
+            "average": 5.75,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tyler Warren",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Anthony Gould",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 36,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "103",
+          "pass_yards_allowed": "247",
+          "total_yards_allowed": "350"
+        }
+      }
+    }
+  }
+}

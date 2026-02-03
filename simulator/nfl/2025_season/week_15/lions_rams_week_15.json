@@ -1,0 +1,320 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 34,
+      "Los Angeles Rams": 41
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        7,
+        17,
+        0,
+        10
+      ],
+      "Los Angeles Rams": [
+        7,
+        10,
+        17,
+        7
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 41,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 38,
+            "completions": 24,
+            "yards": 368,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 39,
+            "sacks": 2,
+            "loss": 8,
+            "rate": 101.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 15,
+            "yards": 78,
+            "average": 5.2,
+            "long": 19,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 11,
+            "yards": 71,
+            "average": 6.45,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 9,
+            "yards": 181,
+            "average": 20.11,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 8,
+            "targets": 11,
+            "yards_after_catch": 55
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 5,
+            "yards": 75,
+            "average": 15.0,
+            "long": 26,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 4,
+            "yards": 71,
+            "average": 17.75,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Terrance Ferguson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Konata Mumpfield",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jordan Whittington",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Mevis",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 44,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "70",
+          "pass_yards_allowed": "326",
+          "total_yards_allowed": "396"
+        }
+      },
+      "Detroit Lions": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 41,
+            "completions": 25,
+            "yards": 338,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 52,
+            "sacks": 1,
+            "loss": 12,
+            "rate": 111.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 13,
+            "yards": 38,
+            "average": 2.92,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 7,
+            "yards": 32,
+            "average": 4.57,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 13,
+            "yards": 164,
+            "average": 12.62,
+            "long": 52,
+            "touchdowns": 2,
+            "first_downs": 9,
+            "targets": 18,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 7,
+            "yards": 134,
+            "average": 19.14,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Isaac TeSlaa",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 48,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "159",
+          "pass_yards_allowed": "360",
+          "total_yards_allowed": "519"
+        }
+      }
+    }
+  }
+}

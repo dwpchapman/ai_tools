@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Indianapolis Colts": 20,
+      "Los Angeles Rams": 27
+    },
+    "team_scores_by_quarter": {
+      "Indianapolis Colts": [
+        3,
+        7,
+        0,
+        10
+      ],
+      "Los Angeles Rams": [
+        3,
+        10,
+        0,
+        14
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 41,
+            "completions": 29,
+            "yards": 375,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 88,
+            "sacks": 3,
+            "loss": 15,
+            "rate": 123.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 13,
+            "yards": 77,
+            "average": 5.92,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 9,
+            "yards": 21,
+            "average": 2.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 4,
+            "yards": 4,
+            "average": 1.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 13,
+            "yards": 170,
+            "average": 13.08,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 8,
+            "targets": 15,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 4,
+            "yards": 56,
+            "average": 14.0,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Blake Corum",
+            "receptions": 2,
+            "yards": -5,
+            "average": -2.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tyler Higbee",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 1,
+            "yards": 88,
+            "average": 88.0,
+            "long": 88,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Jordan Whittington",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 42,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "85",
+          "pass_yards_allowed": "248",
+          "total_yards_allowed": "333"
+        }
+      },
+      "Indianapolis Colts": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 33,
+            "completions": 24,
+            "yards": 262,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 75,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 80.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 17,
+            "yards": 76,
+            "average": 4.47,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ashton Dulin",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyler Warren",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Pittman",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Tyler Warren",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 4,
+            "yards": 24,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 3,
+            "yards": 96,
+            "average": 32.0,
+            "long": 75,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Ashton Dulin",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Tyler Goodson",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Spencer Shrader",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 52,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "102",
+          "pass_yards_allowed": "360",
+          "total_yards_allowed": "462"
+        }
+      }
+    }
+  }
+}

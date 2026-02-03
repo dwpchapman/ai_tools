@@ -1,0 +1,327 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 3,
+      "Chicago Bears": 31
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        0,
+        0,
+        3,
+        0
+      ],
+      "Chicago Bears": [
+        14,
+        0,
+        14,
+        3
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 28,
+            "completions": 17,
+            "yards": 242,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 112.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 18,
+            "yards": 98,
+            "average": 5.44,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Kyle Monangai",
+            "attempts": 11,
+            "yards": 33,
+            "average": 3.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Colston Loveland",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Luther Burden",
+            "receptions": 6,
+            "yards": 84,
+            "average": 14.0,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Colston Loveland",
+            "receptions": 4,
+            "yards": 63,
+            "average": 15.75,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 69,
+            "average": 17.25,
+            "long": 25,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 41,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "50",
+          "pass_yards_allowed": "142",
+          "total_yards_allowed": "192"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 35,
+            "completions": 18,
+            "yards": 177,
+            "touchdowns": 0,
+            "interceptions": 3,
+            "long": 47,
+            "sacks": 5,
+            "loss": 35,
+            "rate": 30.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Quinshon Judkins",
+            "attempts": 12,
+            "yards": 21,
+            "average": 1.75,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trayveon Williams",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Harold Fannin",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Harold Fannin",
+            "receptions": 7,
+            "yards": 48,
+            "average": 6.86,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 14,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Quinshon Judkins",
+            "receptions": 3,
+            "yards": -4,
+            "average": -1.33,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 2,
+            "yards": 89,
+            "average": 44.5,
+            "long": 47,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Trayveon Williams",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Malachi Corley",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Gage Larvadain",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 50,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "142",
+          "pass_yards_allowed": "219",
+          "total_yards_allowed": "361"
+        }
+      }
+    }
+  }
+}

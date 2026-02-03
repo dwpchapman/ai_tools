@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "New England Patriots": 28,
+      "Baltimore Ravens": 24
+    },
+    "team_scores_by_quarter": {
+      "New England Patriots": [
+        0,
+        10,
+        3,
+        15
+      ],
+      "Baltimore Ravens": [
+        7,
+        3,
+        7,
+        7
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Tyler Huntley",
+            "attempts": 10,
+            "completions": 9,
+            "yards": 65,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 16,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 93.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 18,
+            "yards": 128,
+            "average": 7.11,
+            "long": 23,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Zay Flowers",
+            "attempts": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Keaton Mitchell",
+            "attempts": 9,
+            "yards": 13,
+            "average": 1.44,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mark Andrews",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyler Huntley",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zay Flowers",
+            "receptions": 7,
+            "yards": 84,
+            "average": 12.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Rasheen Ali",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Loop",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 36,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "374",
+          "total_yards_allowed": "453"
+        }
+      },
+      "New England Patriots": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 44,
+            "completions": 31,
+            "yards": 380,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 3,
+            "loss": 6,
+            "rate": 102.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 8,
+            "yards": 51,
+            "average": 6.38,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 10,
+            "yards": 25,
+            "average": 2.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "attempts": 5,
+            "yards": 3,
+            "average": 0.6,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Stefon Diggs",
+            "receptions": 9,
+            "yards": 138,
+            "average": 15.33,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 10,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 7,
+            "yards": 69,
+            "average": 9.86,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 6,
+            "yards": 35,
+            "average": 5.83,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Kyle Williams",
+            "receptions": 2,
+            "yards": 46,
+            "average": 23.0,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andres Borregales",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 45,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "171",
+          "pass_yards_allowed": "159",
+          "total_yards_allowed": "330"
+        }
+      }
+    }
+  }
+}

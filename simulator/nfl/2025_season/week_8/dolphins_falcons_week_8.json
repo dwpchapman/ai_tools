@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Miami Dolphins": 34,
+      "Atlanta Falcons": 10
+    },
+    "team_scores_by_quarter": {
+      "Miami Dolphins": [
+        7,
+        10,
+        7,
+        10
+      ],
+      "Atlanta Falcons": [
+        0,
+        3,
+        0,
+        7
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 31,
+            "completions": 21,
+            "yards": 173,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 81.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 9,
+            "yards": 25,
+            "average": 2.78,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Nathan Carter",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 4,
+            "yards": 4,
+            "average": 1.0,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kyle Pitts",
+            "receptions": 9,
+            "yards": 59,
+            "average": 6.56,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Khadarel Hodge",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "David Sills",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Casey Washington",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "John Parker Romo",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 45,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "141",
+          "pass_yards_allowed": "197",
+          "total_yards_allowed": "338"
+        }
+      },
+      "Miami Dolphins": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 26,
+            "completions": 20,
+            "yards": 205,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 43,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 138.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 18,
+            "yards": 67,
+            "average": 3.72,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 10,
+            "yards": 46,
+            "average": 4.6,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Jaylen Wright",
+            "attempts": 9,
+            "yards": 28,
+            "average": 3.11,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "De'Von Achane",
+            "receptions": 5,
+            "yards": 24,
+            "average": 4.8,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 5,
+            "yards": 99,
+            "average": 19.8,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Tanner Conner",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Ollie Gordon",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Alec Ingold",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jaylen Wright",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 36,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "45",
+          "pass_yards_allowed": "168",
+          "total_yards_allowed": "213"
+        }
+      }
+    }
+  }
+}

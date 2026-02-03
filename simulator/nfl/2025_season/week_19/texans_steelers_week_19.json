@@ -1,0 +1,331 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 30,
+      "Pittsburgh Steelers": 6
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        0,
+        7,
+        0,
+        23
+      ],
+      "Pittsburgh Steelers": [
+        3,
+        3,
+        0,
+        0
+      ]
+    },
+    "week": 19,
+    "date": "January 12, 2026",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 33,
+            "completions": 17,
+            "yards": 146,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 4,
+            "loss": 36,
+            "rate": 50.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 12,
+            "yards": 43,
+            "average": 3.58,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 6,
+            "yards": 20,
+            "average": 3.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 42,
+            "average": 21.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Jonnu Smith",
+            "receptions": 2,
+            "yards": -1,
+            "average": -0.5,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 35,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "164",
+          "pass_yards_allowed": "244",
+          "total_yards_allowed": "408"
+        }
+      },
+      "Houston Texans": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 32,
+            "completions": 21,
+            "yards": 250,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 46,
+            "sacks": 3,
+            "loss": 6,
+            "rate": 86.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 19,
+            "yards": 112,
+            "average": 5.89,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Nick Chubb",
+            "attempts": 10,
+            "yards": 48,
+            "average": 4.8,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Cade Stover",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Christian Kirk",
+            "receptions": 8,
+            "yards": 144,
+            "average": 18.0,
+            "long": 46,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 51,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "63",
+          "pass_yards_allowed": "112",
+          "total_yards_allowed": "175"
+        }
+      }
+    }
+  }
+}

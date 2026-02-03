@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 24,
+      "San Francisco 49ers": 37
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        3,
+        7,
+        0,
+        14
+      ],
+      "San Francisco 49ers": [
+        7,
+        10,
+        14,
+        6
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "Levi's Stadium",
+    "teams": {
+      "San Francisco 49ers": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 30,
+            "completions": 23,
+            "yards": 295,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 2,
+            "loss": 3,
+            "rate": 140.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 22,
+            "yards": 73,
+            "average": 3.32,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 7,
+            "yards": 44,
+            "average": 6.29,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 9,
+            "yards": 21,
+            "average": 2.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Kittle",
+            "receptions": 8,
+            "yards": 88,
+            "average": 11.0,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 78
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 6,
+            "yards": 96,
+            "average": 16.0,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 20,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 40,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "136",
+          "pass_yards_allowed": "170",
+          "total_yards_allowed": "306"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 29,
+            "completions": 18,
+            "yards": 170,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 43,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 101.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 14,
+            "yards": 104,
+            "average": 7.43,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kalel Mullings",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cameron Ward",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Chimere Dike",
+            "attempts": 1,
+            "yards": -7,
+            "average": -7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chimere Dike",
+            "receptions": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 1,
+            "yards": 43,
+            "average": 43.0,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jeffery Simmons",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "James Proche",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 25,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "138",
+          "pass_yards_allowed": "292",
+          "total_yards_allowed": "430"
+        }
+      }
+    }
+  }
+}

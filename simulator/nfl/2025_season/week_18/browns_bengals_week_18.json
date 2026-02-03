@@ -1,0 +1,407 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 20,
+      "Cincinnati Bengals": 18
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        7,
+        7,
+        3,
+        3
+      ],
+      "Cincinnati Bengals": [
+        6,
+        6,
+        0,
+        6
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 18,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 39,
+            "completions": 29,
+            "yards": 236,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 21,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 104.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 13,
+            "yards": 72,
+            "average": 5.54,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 8,
+            "yards": 42,
+            "average": 5.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ke'Shawn Williams",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 8,
+            "yards": 96,
+            "average": 12.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 10,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 6,
+            "yards": 67,
+            "average": 11.17,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 0,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 0
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "118",
+          "pass_yards_allowed": "82",
+          "total_yards_allowed": "200"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 22,
+            "completions": 11,
+            "yards": 111,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 23,
+            "sacks": 6,
+            "loss": 29,
+            "rate": 64.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Dylan Sampson",
+            "attempts": 10,
+            "yards": 32,
+            "average": 3.2,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Raheim Sanders",
+            "attempts": 5,
+            "yards": 26,
+            "average": 5.2,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malachi Corley",
+            "attempts": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trayveon Williams",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jerry Jeudy",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Isaiah Bond",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dylan Sampson",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Malachi Corley",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Trayveon Williams",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Raheim Sanders",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Brenden Bates",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Sal Cannella",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Blake Whiteheart",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 49,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "142",
+          "pass_yards_allowed": "222",
+          "total_yards_allowed": "364"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 10,
+      "Baltimore Ravens": 23
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        0,
+        7,
+        0,
+        3
+      ],
+      "Baltimore Ravens": [
+        0,
+        3,
+        14,
+        6
+      ]
+    },
+    "week": 12,
+    "date": "November 23, 2025",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 23,
+            "completions": 13,
+            "yards": 153,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 1,
+            "loss": 10,
+            "rate": 76.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 21,
+            "yards": 64,
+            "average": 3.05,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Zay Flowers",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 7,
+            "yards": 11,
+            "average": 1.57,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Keaton Mitchell",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mark Andrews",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zay Flowers",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Keaton Mitchell",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Devontez Walker",
+            "receptions": 1,
+            "yards": 30,
+            "average": 30.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tylan Wallace",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Loop",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 35,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "204",
+          "total_yards_allowed": "282"
+        }
+      },
+      "New York Jets": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Tyrod Taylor",
+            "attempts": 28,
+            "completions": 17,
+            "yards": 222,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 40,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 82.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 16,
+            "yards": 44,
+            "average": 2.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyrod Taylor",
+            "attempts": 5,
+            "yards": 19,
+            "average": 3.8,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Arian Smith",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 4,
+            "yards": 7,
+            "average": 1.75,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "John Metchie",
+            "receptions": 6,
+            "yards": 65,
+            "average": 10.83,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 4,
+            "yards": 75,
+            "average": 18.75,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 77
+          },
+          {
+            "player": "Mason Taylor",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 2,
+            "yards": 42,
+            "average": 21.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Andrew Beck",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 42,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "98",
+          "pass_yards_allowed": "143",
+          "total_yards_allowed": "241"
+        }
+      }
+    }
+  }
+}

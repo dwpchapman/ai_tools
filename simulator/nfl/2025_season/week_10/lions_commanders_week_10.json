@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 44,
+      "Washington Commanders": 22
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        14,
+        11,
+        10,
+        9
+      ],
+      "Washington Commanders": [
+        3,
+        7,
+        6,
+        6
+      ]
+    },
+    "week": 10,
+    "date": "November 9, 2025",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Marcus Mariota",
+            "attempts": 22,
+            "completions": 16,
+            "yards": 213,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 2,
+            "loss": 18,
+            "rate": 133.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 11,
+            "yards": 30,
+            "average": 2.73,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 5,
+            "yards": 25,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Marcus Mariota",
+            "attempts": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 6,
+            "yards": 16,
+            "average": 2.67,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zach Ertz",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Treylon Burks",
+            "receptions": 3,
+            "yards": 58,
+            "average": 19.33,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Robbie Chosen",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jaylin Lane",
+            "receptions": 1,
+            "yards": 41,
+            "average": 41.0,
+            "long": 41,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "John Bates",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 44,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "226",
+          "pass_yards_allowed": "320",
+          "total_yards_allowed": "546"
+        }
+      },
+      "Detroit Lions": {
+        "score": 44,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 33,
+            "completions": 25,
+            "yards": 320,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 135.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 15,
+            "yards": 142,
+            "average": 9.47,
+            "long": 43,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 15,
+            "yards": 71,
+            "average": 4.73,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kalif Raymond",
+            "attempts": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sione Vaki",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kyle Allen",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jameson Williams",
+            "receptions": 6,
+            "yards": 119,
+            "average": 19.83,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 7,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 5,
+            "yards": 53,
+            "average": 10.6,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Amon-Ra S",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Isaac TeSlaa",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Brock Wright",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ross Dwelley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 48,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "93",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "288"
+        }
+      }
+    }
+  }
+}

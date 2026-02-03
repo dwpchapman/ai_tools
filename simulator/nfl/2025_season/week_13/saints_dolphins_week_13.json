@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 17,
+      "Miami Dolphins": 21
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        0,
+        8,
+        9
+      ],
+      "Miami Dolphins": [
+        7,
+        9,
+        0,
+        5
+      ]
+    },
+    "week": 13,
+    "date": "November 30, 2025",
+    "location": "Hard Rock Stadium",
+    "teams": {
+      "Miami Dolphins": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 23,
+            "completions": 12,
+            "yards": 157,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 34,
+            "sacks": 4,
+            "loss": 23,
+            "rate": 55.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 22,
+            "yards": 134,
+            "average": 6.09,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Jaylen Wright",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 4,
+            "yards": 4,
+            "average": 1.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Washington",
+            "receptions": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Greg Dulcich",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Darren Waller",
+            "receptions": 2,
+            "yards": 47,
+            "average": 23.5,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "De'Von Achane",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Julian Hill",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 48,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "81",
+          "pass_yards_allowed": "213",
+          "total_yards_allowed": "294"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 38,
+            "completions": 26,
+            "yards": 239,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 17,
+            "sacks": 4,
+            "loss": 26,
+            "rate": 91.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Devin Neal",
+            "attempts": 14,
+            "yards": 47,
+            "average": 3.36,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyler Shough",
+            "attempts": 6,
+            "yards": 18,
+            "average": 3.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Evan Hull",
+            "attempts": 5,
+            "yards": 15,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mason Tipton",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Devaughn Vele",
+            "receptions": 8,
+            "yards": 93,
+            "average": 11.62,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Devin Neal",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Charlie Smyth",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 56,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "164",
+          "pass_yards_allowed": "134",
+          "total_yards_allowed": "298"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 25,
+      "Indianapolis Colts": 31
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        7,
+        7,
+        3,
+        8
+      ],
+      "Indianapolis Colts": [
+        13,
+        0,
+        0,
+        12
+      ]
+    },
+    "week": 10,
+    "date": "November 9, 2025",
+    "location": "Olympic Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 26,
+            "completions": 19,
+            "yards": 255,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 7,
+            "loss": 59,
+            "rate": 100.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 32,
+            "yards": 244,
+            "average": 7.62,
+            "long": 83,
+            "touchdowns": 3,
+            "first_downs": 11
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 7,
+            "yards": 53,
+            "average": 7.57,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ashton Dulin",
+            "attempts": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyler Goodson",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Warren",
+            "receptions": 8,
+            "yards": 99,
+            "average": 12.38,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 67
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 4,
+            "yards": 84,
+            "average": 21.0,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Michael Pittman",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Michael Badgley",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 44,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "140",
+          "pass_yards_allowed": "150",
+          "total_yards_allowed": "290"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Michael Penix",
+            "attempts": 28,
+            "completions": 12,
+            "yards": 177,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 3,
+            "loss": 27,
+            "rate": 76.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 17,
+            "yards": 84,
+            "average": 4.94,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 11,
+            "yards": 57,
+            "average": 5.18,
+            "long": 13,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Michael Penix",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 6,
+            "yards": 104,
+            "average": 17.33,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 2,
+            "yards": 38,
+            "average": 19.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "David Sills",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 43,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "323",
+          "pass_yards_allowed": "196",
+          "total_yards_allowed": "519"
+        }
+      }
+    }
+  }
+}

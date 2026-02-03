@@ -1,0 +1,398 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 27,
+      "Chicago Bears": 31
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        7,
+        14,
+        0,
+        6
+      ],
+      "Chicago Bears": [
+        3,
+        0,
+        3,
+        25
+      ]
+    },
+    "week": 19,
+    "date": "January 10, 2026",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 48,
+            "completions": 24,
+            "yards": 361,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 71.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 13,
+            "yards": 54,
+            "average": 4.15,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Kyle Monangai",
+            "attempts": 8,
+            "yards": 27,
+            "average": 3.38,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cole Kmet",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Luther Burden",
+            "attempts": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": -5,
+            "average": -5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Colston Loveland",
+            "receptions": 8,
+            "yards": 137,
+            "average": 17.12,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 15,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 64,
+            "average": 10.67,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Luther Burden",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 2,
+            "yards": 44,
+            "average": 22.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 2,
+            "yards": 38,
+            "average": 19.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Durham Smythe",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 51,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "99",
+          "pass_yards_allowed": "322",
+          "total_yards_allowed": "421"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 46,
+            "completions": 24,
+            "yards": 323,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 36,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 103.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 19,
+            "yards": 55,
+            "average": 2.89,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Christopher Brooks",
+            "attempts": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Romeo Doubs",
+            "receptions": 8,
+            "yards": 124,
+            "average": 15.5,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 11,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 4,
+            "yards": 84,
+            "average": 21.0,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Darian Kinnard",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "93",
+          "pass_yards_allowed": "352",
+          "total_yards_allowed": "445"
+        }
+      }
+    }
+  }
+}

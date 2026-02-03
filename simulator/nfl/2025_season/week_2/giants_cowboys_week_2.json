@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 37,
+      "Dallas Cowboys": 40
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        6,
+        7,
+        3,
+        21
+      ],
+      "Dallas Cowboys": [
+        0,
+        10,
+        7,
+        20
+      ]
+    },
+    "week": 2,
+    "date": "September 14, 2025",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 40,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 52,
+            "completions": 38,
+            "yards": 361,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 96.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Javonte Williams",
+            "attempts": 18,
+            "yards": 97,
+            "average": 5.39,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Dak Prescott",
+            "attempts": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Miles Sanders",
+            "attempts": 5,
+            "yards": 15,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jake Ferguson",
+            "receptions": 9,
+            "yards": 78,
+            "average": 8.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 9,
+            "yards": 112,
+            "average": 12.44,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 6,
+            "yards": 33,
+            "average": 5.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "George Pickens",
+            "receptions": 5,
+            "yards": 68,
+            "average": 13.6,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Miles Sanders",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brevyn Spann-Ford",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 64,
+            "points": 16
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "84",
+          "pass_yards_allowed": "422",
+          "total_yards_allowed": "506"
+        }
+      },
+      "New York Giants": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 41,
+            "completions": 30,
+            "yards": 450,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 52,
+            "sacks": 3,
+            "loss": 28,
+            "rate": 123.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cam Skattebo",
+            "attempts": 11,
+            "yards": 45,
+            "average": 4.09,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 5,
+            "yards": 15,
+            "average": 3.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Nabers",
+            "receptions": 9,
+            "yards": 167,
+            "average": 18.56,
+            "long": 48,
+            "touchdowns": 2,
+            "first_downs": 6,
+            "targets": 13,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 8,
+            "yards": 142,
+            "average": 17.75,
+            "long": 50,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Cam Skattebo",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 2,
+            "yards": 61,
+            "average": 30.5,
+            "long": 52,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 38,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "135",
+          "pass_yards_allowed": "343",
+          "total_yards_allowed": "478"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 25,
+      "Washington Commanders": 24
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        6,
+        7,
+        3,
+        9
+      ],
+      "Washington Commanders": [
+        0,
+        7,
+        10,
+        7
+      ]
+    },
+    "week": 6,
+    "date": "October 13, 2025",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 26,
+            "completions": 19,
+            "yards": 211,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 3,
+            "loss": 6,
+            "rate": 119.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 17,
+            "yards": 61,
+            "average": 3.59,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 10,
+            "yards": 52,
+            "average": 5.2,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jaylin Lane",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zach Ertz",
+            "receptions": 6,
+            "yards": 43,
+            "average": 7.17,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Chris Moore",
+            "receptions": 3,
+            "yards": 46,
+            "average": 15.33,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jaylin Lane",
+            "receptions": 1,
+            "yards": 37,
+            "average": 37.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 1,
+            "yards": 33,
+            "average": 33.0,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 53,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "145",
+          "pass_yards_allowed": "236",
+          "total_yards_allowed": "381"
+        }
+      },
+      "Chicago Bears": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 29,
+            "completions": 17,
+            "yards": 252,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 55,
+            "sacks": 3,
+            "loss": 16,
+            "rate": 98.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 14,
+            "yards": 108,
+            "average": 7.71,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Kyle Monangai",
+            "attempts": 5,
+            "yards": 19,
+            "average": 3.8,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 4,
+            "yards": -2,
+            "average": -0.5,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Luther Burden",
+            "receptions": 4,
+            "yards": 51,
+            "average": 12.75,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Colston Loveland",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 2,
+            "yards": 67,
+            "average": 33.5,
+            "long": 55,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 68
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 29
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 48,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "124",
+          "pass_yards_allowed": "205",
+          "total_yards_allowed": "329"
+        }
+      }
+    }
+  }
+}

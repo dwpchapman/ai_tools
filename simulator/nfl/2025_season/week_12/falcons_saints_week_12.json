@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 24,
+      "New Orleans Saints": 10
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        3,
+        13,
+        0,
+        8
+      ],
+      "New Orleans Saints": [
+        0,
+        7,
+        0,
+        3
+      ]
+    },
+    "week": 12,
+    "date": "November 23, 2025",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 43,
+            "completions": 30,
+            "yards": 243,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 18,
+            "sacks": 5,
+            "loss": 29,
+            "rate": 74.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 7,
+            "yards": 22,
+            "average": 3.14,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Devin Neal",
+            "attempts": 7,
+            "yards": 18,
+            "average": 2.57,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 10,
+            "yards": 17,
+            "average": 1.7,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Alvin Kamara",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mason Tipton",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 9,
+            "yards": 70,
+            "average": 7.78,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 6,
+            "yards": 46,
+            "average": 7.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Devin Neal",
+            "receptions": 5,
+            "yards": 43,
+            "average": 8.6,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jack Stoll",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 3,
+            "long": 33,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "121",
+          "pass_yards_allowed": "181",
+          "total_yards_allowed": "302"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 23,
+            "completions": 16,
+            "yards": 199,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 49,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 107.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 14,
+            "yards": 70,
+            "average": 5.0,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 12,
+            "yards": 44,
+            "average": 3.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Feleipe Franks",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dylan Drummond",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 3,
+            "yards": 74,
+            "average": 24.67,
+            "long": 49,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "David Sills",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 56,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "214",
+          "total_yards_allowed": "293"
+        }
+      }
+    }
+  }
+}

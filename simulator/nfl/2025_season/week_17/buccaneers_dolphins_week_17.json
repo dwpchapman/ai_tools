@@ -1,0 +1,389 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 17,
+      "Miami Dolphins": 20
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        7,
+        0,
+        3,
+        7
+      ],
+      "Miami Dolphins": [
+        7,
+        10,
+        0,
+        3
+      ]
+    },
+    "week": 17,
+    "date": "December 28, 2025",
+    "location": "Hard Rock Stadium",
+    "teams": {
+      "Miami Dolphins": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Quinn Ewers",
+            "attempts": 22,
+            "completions": 14,
+            "yards": 172,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 63,
+            "sacks": 2,
+            "loss": 19,
+            "rate": 118.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 18,
+            "yards": 83,
+            "average": 4.61,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Jaylen Wright",
+            "attempts": 5,
+            "yards": 56,
+            "average": 11.2,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaylen Waddle",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Quinn Ewers",
+            "attempts": 4,
+            "yards": 5,
+            "average": 1.25,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malik Washington",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Greg Dulcich",
+            "attempts": 1,
+            "yards": -7,
+            "average": -7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Greg Dulcich",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "De'Von Achane",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Julian Hill",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Quinn Ewers",
+            "receptions": 1,
+            "yards": -6,
+            "average": -6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Darren Waller",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Theo Wease",
+            "receptions": 1,
+            "yards": 63,
+            "average": 63.0,
+            "long": 63,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 31,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "53",
+          "pass_yards_allowed": "327",
+          "total_yards_allowed": "380"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 44,
+            "completions": 33,
+            "yards": 346,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 59,
+            "sacks": 3,
+            "loss": 19,
+            "rate": 93.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 9,
+            "yards": 19,
+            "average": 2.11,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Godwin",
+            "receptions": 7,
+            "yards": 108,
+            "average": 15.43,
+            "long": 59,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 79
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 7,
+            "yards": 114,
+            "average": 16.29,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 5,
+            "yards": 14,
+            "average": 2.8,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Mike Evans",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Tez Johnson",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Sean Tucker",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 33,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "145",
+          "pass_yards_allowed": "153",
+          "total_yards_allowed": "298"
+        }
+      }
+    }
+  }
+}

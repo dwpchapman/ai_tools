@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 3,
+      "Minnesota Vikings": 16
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        0,
+        0,
+        0,
+        3
+      ],
+      "Minnesota Vikings": [
+        3,
+        10,
+        0,
+        3
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 23,
+            "completions": 14,
+            "yards": 182,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 85.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 14,
+            "yards": 94,
+            "average": 6.71,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Ty Chandler",
+            "attempts": 10,
+            "yards": 23,
+            "average": 2.3,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zavier Scott",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Jefferson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 8,
+            "yards": 101,
+            "average": 12.62,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Ty Chandler",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 3,
+            "yards": 49,
+            "average": 16.33,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Zavier Scott",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Ben Sims",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Benjamin Yurosek",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 43,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "128",
+          "pass_yards_allowed": "-7",
+          "total_yards_allowed": "121"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Clayton Tune",
+            "attempts": 11,
+            "completions": 6,
+            "yards": 34,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 8,
+            "sacks": 4,
+            "loss": 41,
+            "rate": 60.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christopher Brooks",
+            "attempts": 13,
+            "yards": 61,
+            "average": 4.69,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 18,
+            "yards": 44,
+            "average": 2.44,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Clayton Tune",
+            "attempts": 4,
+            "yards": 23,
+            "average": 5.75,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jakobie Keeney-James",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Drake Dabney",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 24,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "137",
+          "pass_yards_allowed": "226",
+          "total_yards_allowed": "363"
+        }
+      }
+    }
+  }
+}

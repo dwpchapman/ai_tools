@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 48,
+      "Indianapolis Colts": 27
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        14,
+        10,
+        10,
+        14
+      ],
+      "Indianapolis Colts": [
+        7,
+        10,
+        3,
+        7
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2025",
+    "location": "Lucas Oil Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Philip Rivers",
+            "attempts": 35,
+            "completions": 23,
+            "yards": 277,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 2,
+            "loss": 23,
+            "rate": 97.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 16,
+            "yards": 46,
+            "average": 2.88,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyler Goodson",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Josh Downs",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Downs",
+            "receptions": 5,
+            "yards": 65,
+            "average": 13.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 4,
+            "yards": 86,
+            "average": 21.5,
+            "long": 33,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Michael Pittman",
+            "receptions": 4,
+            "yards": 32,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tyler Warren",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Coleman Owen",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 51,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "145",
+          "pass_yards_allowed": "295",
+          "total_yards_allowed": "440"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 48,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 34,
+            "completions": 25,
+            "yards": 295,
+            "touchdowns": 5,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 1,
+            "loss": 0,
+            "rate": 126.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 21,
+            "yards": 117,
+            "average": 5.57,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Kittle",
+            "receptions": 7,
+            "yards": 115,
+            "average": 16.43,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 8,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 6,
+            "yards": 29,
+            "average": 4.83,
+            "long": 10,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 5,
+            "yards": 71,
+            "average": 14.2,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Skyy Moore",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jake Tonges",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 38,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "58",
+          "pass_yards_allowed": "254",
+          "total_yards_allowed": "312"
+        }
+      }
+    }
+  }
+}

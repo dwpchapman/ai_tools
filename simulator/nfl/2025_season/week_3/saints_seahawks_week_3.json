@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 13,
+      "Seattle Seahawks": 44
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        6,
+        0,
+        7
+      ],
+      "Seattle Seahawks": [
+        21,
+        17,
+        6,
+        0
+      ]
+    },
+    "week": 3,
+    "date": "September 21, 2025",
+    "location": "Lumen Field",
+    "teams": {
+      "Seattle Seahawks": {
+        "score": 44,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 18,
+            "completions": 14,
+            "yards": 218,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 45,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 154.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 16,
+            "yards": 38,
+            "average": 2.38,
+            "long": 10,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "George Holani",
+            "attempts": 10,
+            "yards": 27,
+            "average": 2.7,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jacardia Wright",
+            "attempts": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen Milroe",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Drew Lock",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 5,
+            "yards": 96,
+            "average": 19.2,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Tory Horton",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "George Holani",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Dareke Young",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Elijah Arroyo",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 56,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "205",
+          "total_yards_allowed": "284"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 39,
+            "completions": 28,
+            "yards": 218,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 21,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 83.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 18,
+            "yards": 42,
+            "average": 2.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 7,
+            "yards": 27,
+            "average": 3.86,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Spencer Rattler",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 10,
+            "yards": 57,
+            "average": 5.7,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 14,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 6,
+            "yards": 51,
+            "average": 8.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jack Stoll",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Kendre Miller",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 27,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "87",
+          "pass_yards_allowed": "233",
+          "total_yards_allowed": "320"
+        }
+      }
+    }
+  }
+}

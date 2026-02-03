@@ -1,0 +1,356 @@
+{
+  "game_info": {
+    "final_score": {
+      "Miami Dolphins": 34,
+      "New York Jets": 10
+    },
+    "team_scores_by_quarter": {
+      "Miami Dolphins": [
+        21,
+        3,
+        0,
+        10
+      ],
+      "New York Jets": [
+        7,
+        0,
+        0,
+        3
+      ]
+    },
+    "week": 14,
+    "date": "December 7, 2025",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Jets": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Brady Cook",
+            "attempts": 30,
+            "completions": 14,
+            "yards": 163,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 24,
+            "sacks": 6,
+            "loss": 27,
+            "rate": 35.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 14,
+            "yards": 43,
+            "average": 3.07,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Brady Cook",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mason Taylor",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Isaiah Williams",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Andrew Beck",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Stone Smartt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 31,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "239",
+          "pass_yards_allowed": "119",
+          "total_yards_allowed": "358"
+        }
+      },
+      "Miami Dolphins": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 21,
+            "completions": 13,
+            "yards": 127,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 94.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Wright",
+            "attempts": 24,
+            "yards": 107,
+            "average": 4.46,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "De'Von Achane",
+            "attempts": 7,
+            "yards": 92,
+            "average": 13.14,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaylen Waddle",
+            "attempts": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 5,
+            "yards": 17,
+            "average": 3.4,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Darren Waller",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zach Wilson",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 5,
+            "yards": 50,
+            "average": 10.0,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Greg Dulcich",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "De'Von Achane",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Darren Waller",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jaylen Wright",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 53,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "65",
+          "pass_yards_allowed": "142",
+          "total_yards_allowed": "207"
+        }
+      }
+    }
+  }
+}

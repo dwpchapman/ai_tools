@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 20,
+      "Houston Texans": 40
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        0,
+        7,
+        7,
+        6
+      ],
+      "Houston Texans": [
+        17,
+        6,
+        7,
+        10
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 40,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 29,
+            "completions": 22,
+            "yards": 260,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 57,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 137.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jawhar Jordan",
+            "attempts": 15,
+            "yards": 101,
+            "average": 6.73,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 7,
+            "yards": 30,
+            "average": 4.29,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "",
+            "attempts": 6,
+            "yards": 10,
+            "average": 1.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 5,
+            "yards": 2,
+            "average": 0.4,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dalton Schultz",
+            "receptions": 8,
+            "yards": 76,
+            "average": 9.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 3,
+            "yards": 85,
+            "average": 28.33,
+            "long": 57,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jawhar Jordan",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 55,
+            "points": 16
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "72",
+          "pass_yards_allowed": "235",
+          "total_yards_allowed": "307"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 40,
+            "completions": 27,
+            "yards": 249,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 21,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 98.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Michael Carter",
+            "attempts": 14,
+            "yards": 56,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Corey Kiner",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zonovan Knight",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 12,
+            "yards": 134,
+            "average": 11.17,
+            "long": 21,
+            "touchdowns": 2,
+            "first_downs": 8,
+            "targets": 13,
+            "yards_after_catch": 95
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 5,
+            "yards": 54,
+            "average": 10.8,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Michael Carter",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Pharaoh Brown",
+            "receptions": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Emari Demercado",
+            "receptions": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jalen Brooks",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "143",
+          "pass_yards_allowed": "256",
+          "total_yards_allowed": "399"
+        }
+      }
+    }
+  }
+}

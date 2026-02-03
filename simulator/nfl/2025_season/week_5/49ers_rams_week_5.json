@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 26,
+      "Los Angeles Rams": 23
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        7,
+        10,
+        3,
+        3
+      ],
+      "Los Angeles Rams": [
+        0,
+        7,
+        7,
+        9
+      ]
+    },
+    "week": 5,
+    "date": "October 2, 2025",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 47,
+            "completions": 30,
+            "yards": 389,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 111.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 14,
+            "yards": 65,
+            "average": 4.64,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 10,
+            "yards": 85,
+            "average": 8.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 8,
+            "yards": 66,
+            "average": 8.25,
+            "long": 14,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 5,
+            "yards": 88,
+            "average": 17.6,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 2,
+            "yards": 72,
+            "average": 36.0,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jordan Whittington",
+            "receptions": 2,
+            "yards": 33,
+            "average": 16.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Terrance Ferguson",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Blake Corum",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 48,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "333",
+          "total_yards_allowed": "407"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Mac Jones",
+            "attempts": 49,
+            "completions": 33,
+            "yards": 342,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 35,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 100.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 22,
+            "yards": 57,
+            "average": 2.59,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 5,
+            "yards": 12,
+            "average": 2.4,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 4,
+            "yards": 5,
+            "average": 1.25,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Skyy Moore",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 10,
+            "yards": 142,
+            "average": 14.2,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 8,
+            "targets": 11,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 8,
+            "yards": 82,
+            "average": 10.25,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 80
+          },
+          {
+            "player": "Jake Tonges",
+            "receptions": 7,
+            "yards": 41,
+            "average": 5.86,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Malik Turner",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 59,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "378",
+          "total_yards_allowed": "456"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 13,
+      "New England Patriots": 32
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        7,
+        0,
+        0,
+        6
+      ],
+      "New England Patriots": [
+        3,
+        6,
+        21,
+        2
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 24,
+            "completions": 18,
+            "yards": 282,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 44,
+            "sacks": 6,
+            "loss": 37,
+            "rate": 135.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "TreVeyon Henderson",
+            "attempts": 10,
+            "yards": 75,
+            "average": 7.5,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 7,
+            "yards": 50,
+            "average": 7.14,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 14,
+            "yards": 34,
+            "average": 2.43,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Terrell Jennings",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Demario Douglas",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mack Hollins",
+            "receptions": 7,
+            "yards": 89,
+            "average": 12.71,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 3,
+            "yards": 75,
+            "average": 25.0,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Stefon Diggs",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 2,
+            "yards": 38,
+            "average": 19.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 1,
+            "yards": 44,
+            "average": 44.0,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andres Borregales",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 42,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "145",
+          "total_yards_allowed": "213"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Dillon Gabriel",
+            "attempts": 35,
+            "completions": 21,
+            "yards": 156,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 21,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 65.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Malachi Corley",
+            "attempts": 1,
+            "yards": 31,
+            "average": 31.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Quinshon Judkins",
+            "attempts": 9,
+            "yards": 19,
+            "average": 2.11,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dillon Gabriel",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Gage Larvadain",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Harold Fannin",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dylan Sampson",
+            "attempts": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Harold Fannin",
+            "receptions": 6,
+            "yards": 62,
+            "average": 10.33,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Dylan Sampson",
+            "receptions": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "David Njoku",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Quinshon Judkins",
+            "receptions": 3,
+            "yards": -2,
+            "average": -0.67,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jamari Thrash",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "177",
+          "pass_yards_allowed": "245",
+          "total_yards_allowed": "422"
+        }
+      }
+    }
+  }
+}
