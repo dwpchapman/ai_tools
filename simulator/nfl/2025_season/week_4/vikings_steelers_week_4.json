@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 21,
+      "Pittsburgh Steelers": 24
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        3,
+        3,
+        0,
+        15
+      ],
+      "Pittsburgh Steelers": [
+        7,
+        7,
+        7,
+        3
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "Croke Park",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 22,
+            "completions": 18,
+            "yards": 200,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 80,
+            "sacks": 2,
+            "loss": 18,
+            "rate": 119.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 19,
+            "yards": 99,
+            "average": 5.21,
+            "long": 15,
+            "touchdowns": 2,
+            "first_downs": 8
+          },
+          {
+            "player": "Kaleb Johnson",
+            "attempts": 6,
+            "yards": 22,
+            "average": 3.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Connor Heyward",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 6,
+            "yards": 35,
+            "average": 5.83,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 126,
+            "average": 25.2,
+            "long": 80,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 5,
+            "yards_after_catch": 92
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jonnu Smith",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Kaleb Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Scott Miller",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ben Skowronek",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 33,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "70",
+          "pass_yards_allowed": "302",
+          "total_yards_allowed": "372"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Carson Wentz",
+            "attempts": 46,
+            "completions": 30,
+            "yards": 350,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 81,
+            "sacks": 6,
+            "loss": 48,
+            "rate": 84.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 16,
+            "yards": 57,
+            "average": 3.56,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Carson Wentz",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Zavier Scott",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 10,
+            "yards": 126,
+            "average": 12.6,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Zavier Scott",
+            "receptions": 6,
+            "yards": 43,
+            "average": 7.17,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 4,
+            "yards": 114,
+            "average": 28.5,
+            "long": 81,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 41,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "131",
+          "pass_yards_allowed": "182",
+          "total_yards_allowed": "313"
+        }
+      }
+    }
+  }
+}

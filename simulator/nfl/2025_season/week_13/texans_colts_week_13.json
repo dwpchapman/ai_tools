@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 20,
+      "Indianapolis Colts": 16
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        3,
+        7,
+        3,
+        7
+      ],
+      "Indianapolis Colts": [
+        0,
+        6,
+        7,
+        3
+      ]
+    },
+    "week": 13,
+    "date": "November 30, 2025",
+    "location": "Lucas Oil Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 27,
+            "completions": 14,
+            "yards": 201,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 101.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 21,
+            "yards": 85,
+            "average": 4.05,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyler Warren",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Alec Pierce",
+            "receptions": 4,
+            "yards": 78,
+            "average": 19.5,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Tyler Warren",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 2,
+            "yards": 44,
+            "average": 22.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Michael Pittman",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Michael Badgley",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 42,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "108",
+          "pass_yards_allowed": "256",
+          "total_yards_allowed": "364"
+        }
+      },
+      "Houston Texans": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 35,
+            "completions": 22,
+            "yards": 276,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 2,
+            "loss": 20,
+            "rate": 75.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 19,
+            "yards": 64,
+            "average": 3.37,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Nick Chubb",
+            "attempts": 9,
+            "yards": 34,
+            "average": 3.78,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Nico Collins",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Cade Stover",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dalton Schultz",
+            "receptions": 7,
+            "yards": 55,
+            "average": 7.86,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 5,
+            "yards": 98,
+            "average": 19.6,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 5,
+            "yards": 65,
+            "average": 13.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 39,
+            "average": 19.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 43,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "86",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "281"
+        }
+      }
+    }
+  }
+}

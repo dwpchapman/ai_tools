@@ -1,0 +1,371 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 28,
+      "Jacksonville Jaguars": 31
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        7,
+        7,
+        0,
+        14
+      ],
+      "Jacksonville Jaguars": [
+        0,
+        7,
+        14,
+        10
+      ]
+    },
+    "week": 5,
+    "date": "October 6, 2025",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 25,
+            "completions": 18,
+            "yards": 221,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 44,
+            "sacks": 3,
+            "loss": 11,
+            "rate": 95.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 10,
+            "yards": 54,
+            "average": 5.4,
+            "long": 16,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Travis Etienne",
+            "attempts": 12,
+            "yards": 49,
+            "average": 4.08,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "attempts": 4,
+            "yards": 6,
+            "average": 1.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brian Thomas",
+            "receptions": 4,
+            "yards": 80,
+            "average": 20.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Travis Hunter",
+            "receptions": 3,
+            "yards": 64,
+            "average": 21.33,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Hunter Long",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 52,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "158",
+          "pass_yards_allowed": "318",
+          "total_yards_allowed": "476"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 41,
+            "completions": 29,
+            "yards": 318,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 34,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 91.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 6,
+            "yards": 60,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 7,
+            "yards": 49,
+            "average": 7.0,
+            "long": 33,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 7,
+            "yards": 36,
+            "average": 5.14,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brashard Smith",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 7,
+            "yards": 61,
+            "average": 8.71,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 6,
+            "yards": 42,
+            "average": 7.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Marquise Brown",
+            "receptions": 4,
+            "yards": 48,
+            "average": 12.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Brashard Smith",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Tyquan Thornton",
+            "receptions": 3,
+            "yards": 90,
+            "average": 30.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "109",
+          "pass_yards_allowed": "210",
+          "total_yards_allowed": "319"
+        }
+      }
+    }
+  }
+}

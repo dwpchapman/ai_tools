@@ -1,0 +1,309 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 28,
+      "Minnesota Vikings": 22
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "Minnesota Vikings": [
+        3,
+        3,
+        10,
+        6
+      ]
+    },
+    "week": 7,
+    "date": "October 19, 2025",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Carson Wentz",
+            "attempts": 42,
+            "completions": 26,
+            "yards": 313,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 40,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 64.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 15,
+            "yards": 57,
+            "average": 3.8,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Carson Wentz",
+            "attempts": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Zavier Scott",
+            "attempts": 4,
+            "yards": 4,
+            "average": 1.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jordan Addison",
+            "receptions": 9,
+            "yards": 128,
+            "average": 14.22,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 12,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 43,
+            "average": 7.17,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 5,
+            "yards": 79,
+            "average": 15.8,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Zavier Scott",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 5,
+            "fg_att": 5,
+            "long": 59,
+            "points": 16
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "45",
+          "pass_yards_allowed": "316",
+          "total_yards_allowed": "361"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 23,
+            "completions": 19,
+            "yards": 326,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 79,
+            "sacks": 3,
+            "loss": 10,
+            "rate": 158.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 18,
+            "yards": 44,
+            "average": 2.44,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 4,
+            "yards": -10,
+            "average": -2.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "DeVonta Smith",
+            "receptions": 9,
+            "yards": 183,
+            "average": 20.33,
+            "long": 79,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 121,
+            "average": 30.25,
+            "long": 45,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Will Shipley",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "89",
+          "pass_yards_allowed": "298",
+          "total_yards_allowed": "387"
+        }
+      }
+    }
+  }
+}

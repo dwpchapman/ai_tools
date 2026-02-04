@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 15,
+      "New England Patriots": 33
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        0,
+        7,
+        0,
+        8
+      ],
+      "New England Patriots": [
+        17,
+        13,
+        0,
+        3
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2025",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 33,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 31,
+            "completions": 24,
+            "yards": 282,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 36,
+            "sacks": 3,
+            "loss": 6,
+            "rate": 126.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "TreVeyon Henderson",
+            "attempts": 11,
+            "yards": 67,
+            "average": 6.09,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 12,
+            "yards": 40,
+            "average": 3.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 6,
+            "yards": 12,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 4,
+            "yards": 73,
+            "average": 18.25,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Stefon Diggs",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Kyle Williams",
+            "receptions": 1,
+            "yards": 33,
+            "average": 33.0,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andres Borregales",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 30,
+            "points": 15
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "111",
+          "pass_yards_allowed": "128",
+          "total_yards_allowed": "239"
+        }
+      },
+      "New York Giants": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Jaxson Dart",
+            "attempts": 24,
+            "completions": 17,
+            "yards": 139,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 99.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Devin Singletary",
+            "attempts": 12,
+            "yards": 68,
+            "average": 5.67,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 10,
+            "yards": 36,
+            "average": 3.6,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jamie Gillan",
+            "attempts": 1,
+            "yards": -13,
+            "average": -13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 7,
+            "yards": 34,
+            "average": 4.86,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 2,
+            "yards": 41,
+            "average": 20.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Isaiah Hodgins",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "119",
+          "pass_yards_allowed": "276",
+          "total_yards_allowed": "395"
+        }
+      }
+    }
+  }
+}

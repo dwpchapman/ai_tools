@@ -1,0 +1,370 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 8,
+      "Buffalo Bills": 35
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        0,
+        0,
+        0,
+        8
+      ],
+      "Buffalo Bills": [
+        7,
+        14,
+        8,
+        6
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "Highmark Stadium",
+    "teams": {
+      "Buffalo Bills": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Mitchell Trubisky",
+            "attempts": 29,
+            "completions": 22,
+            "yards": 259,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 142.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 21,
+            "yards": 151,
+            "average": 7.19,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 7
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 13,
+            "yards": 36,
+            "average": 2.77,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "James Cook",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mitchell Trubisky",
+            "attempts": 5,
+            "yards": 5,
+            "average": 1.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Reggie Gilliam",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Gabriel Davis",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Keleki Latu",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 2,
+            "yards": 49,
+            "average": 24.5,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jackson Hawes",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Reggie Gilliam",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "69",
+          "pass_yards_allowed": "53",
+          "total_yards_allowed": "122"
+        }
+      },
+      "New York Jets": {
+        "score": 8,
+        "passing": [
+          {
+            "player": "Brady Cook",
+            "attempts": 22,
+            "completions": 11,
+            "yards": 60,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 13,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 71.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Khalil Herbert",
+            "attempts": 12,
+            "yards": 42,
+            "average": 3.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kene Nwangwu",
+            "attempts": 7,
+            "yards": 18,
+            "average": 2.57,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brady Cook",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Arian Smith",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Isaiah Williams",
+            "receptions": 5,
+            "yards": 24,
+            "average": 4.8,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Quentin Skinner",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Khalil Herbert",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Andrew Beck",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Arian Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kene Nwangwu",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [],
+        "defense": {
+          "rush_yards_allowed": "211",
+          "pass_yards_allowed": "259",
+          "total_yards_allowed": "470"
+        }
+      }
+    }
+  }
+}

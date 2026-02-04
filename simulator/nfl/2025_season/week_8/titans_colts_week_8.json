@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 14,
+      "Indianapolis Colts": 38
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        0,
+        7,
+        0,
+        7
+      ],
+      "Indianapolis Colts": [
+        10,
+        7,
+        14,
+        7
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "Lucas Oil Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 29,
+            "completions": 21,
+            "yards": 272,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 50,
+            "sacks": 3,
+            "loss": 16,
+            "rate": 136.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 12,
+            "yards": 153,
+            "average": 12.75,
+            "long": 80,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyler Goodson",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Riley Leonard",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Pittman",
+            "receptions": 8,
+            "yards": 95,
+            "average": 11.88,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Tyler Warren",
+            "receptions": 4,
+            "yards": 53,
+            "average": 13.25,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 2,
+            "yards": 69,
+            "average": 34.5,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Ashton Dulin",
+            "receptions": 1,
+            "yards": -8,
+            "average": -8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Michael Badgley",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 43,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "113",
+          "pass_yards_allowed": "228",
+          "total_yards_allowed": "341"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 38,
+            "completions": 22,
+            "yards": 259,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 4,
+            "loss": 31,
+            "rate": 76.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyjae Spears",
+            "attempts": 9,
+            "yards": 59,
+            "average": 6.56,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Tony Pollard",
+            "attempts": 11,
+            "yards": 44,
+            "average": 4.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cameron Ward",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chimere Dike",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chimere Dike",
+            "receptions": 7,
+            "yards": 93,
+            "average": 13.29,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 4,
+            "yards": 53,
+            "average": 13.25,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "164",
+          "pass_yards_allowed": "256",
+          "total_yards_allowed": "420"
+        }
+      }
+    }
+  }
+}

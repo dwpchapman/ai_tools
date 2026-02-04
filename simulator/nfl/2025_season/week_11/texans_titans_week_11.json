@@ -1,0 +1,353 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 16,
+      "Tennessee Titans": 13
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        0,
+        0,
+        10,
+        6
+      ],
+      "Tennessee Titans": [
+        3,
+        0,
+        3,
+        7
+      ]
+    },
+    "week": 11,
+    "date": "November 16, 2025",
+    "location": "Nissan Stadium",
+    "teams": {
+      "Tennessee Titans": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 37,
+            "completions": 24,
+            "yards": 194,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 87.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tony Pollard",
+            "attempts": 10,
+            "yards": 22,
+            "average": 2.2,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyjae Spears",
+            "receptions": 5,
+            "yards": 31,
+            "average": 6.2,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 3,
+            "yards": 56,
+            "average": 18.67,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Chimere Dike",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Mason Kinsey",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 56,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "75",
+          "pass_yards_allowed": "240",
+          "total_yards_allowed": "315"
+        }
+      },
+      "Houston Texans": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Davis Mills",
+            "attempts": 41,
+            "completions": 26,
+            "yards": 274,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 23,
+            "sacks": 4,
+            "loss": 34,
+            "rate": 90.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 18,
+            "yards": 44,
+            "average": 2.44,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Nick Chubb",
+            "attempts": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Davis Mills",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 9,
+            "yards": 92,
+            "average": 10.22,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 10,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 6,
+            "yards": 51,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matthew Wright",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 43,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "58",
+          "pass_yards_allowed": "171",
+          "total_yards_allowed": "229"
+        }
+      }
+    }
+  }
+}

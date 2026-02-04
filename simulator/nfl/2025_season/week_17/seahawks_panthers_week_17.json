@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 27,
+      "Carolina Panthers": 10
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        3,
+        0,
+        14,
+        10
+      ],
+      "Carolina Panthers": [
+        0,
+        3,
+        0,
+        7
+      ]
+    },
+    "week": 17,
+    "date": "December 28, 2025",
+    "location": "Bank of America Stadium",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 24,
+            "completions": 14,
+            "yards": 54,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 8,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 45.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 12,
+            "yards": 59,
+            "average": 4.92,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 9,
+            "yards": 27,
+            "average": 3.0,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 4,
+            "yards": 12,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mitchell Evans",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jimmy Horn",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tetairoa McMillan",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Mitchell Evans",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Tommy Tremble",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Brycen Tremayne",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ryan Fitzgerald",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 35,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "163",
+          "pass_yards_allowed": "125",
+          "total_yards_allowed": "288"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 27,
+            "completions": 18,
+            "yards": 147,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 18,
+            "sacks": 3,
+            "loss": 22,
+            "rate": 77.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 18,
+            "yards": 110,
+            "average": 6.11,
+            "long": 29,
+            "touchdowns": 2,
+            "first_downs": 8
+          },
+          {
+            "player": "Kenneth Walker",
+            "attempts": 15,
+            "yards": 51,
+            "average": 3.4,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 3,
+            "yards": 2,
+            "average": 0.67,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 9,
+            "yards": 72,
+            "average": 8.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 3,
+            "yards": 43,
+            "average": 14.33,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dareke Young",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 48,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "99",
+          "pass_yards_allowed": "40",
+          "total_yards_allowed": "139"
+        }
+      }
+    }
+  }
+}

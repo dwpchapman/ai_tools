@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 34,
+      "Dallas Cowboys": 17
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        7,
+        14,
+        3,
+        10
+      ],
+      "Dallas Cowboys": [
+        7,
+        10,
+        0,
+        0
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 30,
+            "completions": 21,
+            "yards": 244,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 116.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Javonte Williams",
+            "attempts": 9,
+            "yards": 34,
+            "average": 3.78,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malik Davis",
+            "attempts": 8,
+            "yards": 23,
+            "average": 2.88,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Dak Prescott",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Milton",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Hunter Luepke",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Pickens",
+            "receptions": 7,
+            "yards": 130,
+            "average": 18.57,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 6,
+            "yards": 51,
+            "average": 8.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Hunter Luepke",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 33,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "152",
+          "pass_yards_allowed": "300",
+          "total_yards_allowed": "452"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 29,
+            "completions": 23,
+            "yards": 300,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 50,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 132.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Omarion Hampton",
+            "attempts": 16,
+            "yards": 85,
+            "average": 5.31,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 8,
+            "yards": 42,
+            "average": 5.25,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 4,
+            "yards": 14,
+            "average": 3.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 5,
+            "yards": 11,
+            "average": 2.2,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 5,
+            "yards": 44,
+            "average": 8.8,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 4,
+            "yards": 104,
+            "average": 26.0,
+            "long": 50,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Omarion Hampton",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "KeAndre Lambert-Smith",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 37,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "91",
+          "pass_yards_allowed": "249",
+          "total_yards_allowed": "340"
+        }
+      }
+    }
+  }
+}

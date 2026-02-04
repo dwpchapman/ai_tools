@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Miami Dolphins": 24,
+      "Carolina Panthers": 27
+    },
+    "team_scores_by_quarter": {
+      "Miami Dolphins": [
+        3,
+        14,
+        0,
+        7
+      ],
+      "Carolina Panthers": [
+        0,
+        10,
+        3,
+        14
+      ]
+    },
+    "week": 5,
+    "date": "October 5, 2025",
+    "location": "Bank of America Stadium",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 30,
+            "completions": 19,
+            "yards": 198,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 3,
+            "loss": 19,
+            "rate": 90.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 23,
+            "yards": 206,
+            "average": 8.96,
+            "long": 53,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Trevor Etienne",
+            "attempts": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jimmy Horn",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 3,
+            "yards": 1,
+            "average": 0.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tetairoa McMillan",
+            "receptions": 6,
+            "yards": 73,
+            "average": 12.17,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Jimmy Horn",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "James Mitchell",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Hunter Renfrow",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Brycen Tremayne",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tommy Tremble",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Mitchell Evans",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Trevor Etienne",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ryan Fitzgerald",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 49,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "19",
+          "pass_yards_allowed": "229",
+          "total_yards_allowed": "248"
+        }
+      },
+      "Miami Dolphins": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 36,
+            "completions": 27,
+            "yards": 256,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 46,
+            "sacks": 3,
+            "loss": 27,
+            "rate": 122.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 10,
+            "yards": 16,
+            "average": 1.6,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 3,
+            "yards": -2,
+            "average": -0.67,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "De'Von Achane",
+            "receptions": 6,
+            "yards": 30,
+            "average": 5.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 6,
+            "yards": 110,
+            "average": 18.33,
+            "long": 46,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Darren Waller",
+            "receptions": 5,
+            "yards": 78,
+            "average": 15.6,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 5,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 4,
+            "yards": 0,
+            "average": 0.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Julian Hill",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tanner Conner",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Alec Ingold",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 43,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "239",
+          "pass_yards_allowed": "179",
+          "total_yards_allowed": "418"
+        }
+      }
+    }
+  }
+}

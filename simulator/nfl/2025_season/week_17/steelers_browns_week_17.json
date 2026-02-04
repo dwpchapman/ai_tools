@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 6,
+      "Cleveland Browns": 13
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        0,
+        6,
+        0,
+        0
+      ],
+      "Cleveland Browns": [
+        10,
+        0,
+        0,
+        3
+      ]
+    },
+    "week": 17,
+    "date": "December 28, 2025",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 23,
+            "completions": 17,
+            "yards": 186,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 42,
+            "sacks": 2,
+            "loss": 2,
+            "rate": 75.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Dylan Sampson",
+            "attempts": 11,
+            "yards": 27,
+            "average": 2.45,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Raheim Sanders",
+            "attempts": 8,
+            "yards": 21,
+            "average": 2.62,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trayveon Williams",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 5,
+            "yards": 54,
+            "average": 10.8,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Dylan Sampson",
+            "receptions": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Sal Cannella",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Harold Fannin",
+            "receptions": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 1,
+            "yards": 42,
+            "average": 42.0,
+            "long": 42,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Raheim Sanders",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Malachi Corley",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brenden Bates",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Blake Whiteheart",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 50,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "131",
+          "pass_yards_allowed": "160",
+          "total_yards_allowed": "291"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 39,
+            "completions": 21,
+            "yards": 168,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 29,
+            "sacks": 2,
+            "loss": 8,
+            "rate": 64.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 12,
+            "yards": 64,
+            "average": 5.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 7,
+            "yards": 26,
+            "average": 3.71,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Connor Heyward",
+            "attempts": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jonnu Smith",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jonnu Smith",
+            "receptions": 5,
+            "yards": 18,
+            "average": 3.6,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 3,
+            "yards": 63,
+            "average": 21.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Scott Miller",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 44,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "184",
+          "total_yards_allowed": "262"
+        }
+      }
+    }
+  }
+}

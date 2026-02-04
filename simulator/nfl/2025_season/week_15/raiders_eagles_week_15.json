@@ -1,0 +1,297 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 0,
+      "Philadelphia Eagles": 31
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Philadelphia Eagles": [
+        7,
+        10,
+        7,
+        7
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 15,
+            "completions": 12,
+            "yards": 175,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 44,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 154.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 22,
+            "yards": 78,
+            "average": 3.55,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 17,
+            "yards": 57,
+            "average": 3.35,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 7,
+            "yards": 39,
+            "average": 5.57,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Tanner McKee",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dallas Goedert",
+            "receptions": 6,
+            "yards": 70,
+            "average": 11.67,
+            "long": 32,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 41,
+            "average": 20.5,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Darius Cooper",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 2,
+            "yards": 50,
+            "average": 25.0,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 27,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "46",
+          "pass_yards_allowed": "29",
+          "total_yards_allowed": "75"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 0,
+        "passing": [
+          {
+            "player": "Kenny Pickett",
+            "attempts": 25,
+            "completions": 15,
+            "yards": 64,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 10,
+            "sacks": 4,
+            "loss": 35,
+            "rate": 47.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 9,
+            "yards": 35,
+            "average": 3.89,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenny Pickett",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dylan Laube",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 6,
+            "yards": 28,
+            "average": 4.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 4,
+            "yards": 7,
+            "average": 1.75,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jack Bech",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [],
+        "defense": {
+          "rush_yards_allowed": "183",
+          "pass_yards_allowed": "204",
+          "total_yards_allowed": "387"
+        }
+      }
+    }
+  }
+}

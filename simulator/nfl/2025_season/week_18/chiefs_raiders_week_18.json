@@ -1,0 +1,374 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 12,
+      "Las Vegas Raiders": 14
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        3,
+        0,
+        3,
+        6
+      ],
+      "Las Vegas Raiders": [
+        0,
+        6,
+        0,
+        8
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 22,
+            "completions": 10,
+            "yards": 102,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 23,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 59.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 26,
+            "yards": 87,
+            "average": 3.35,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kenny Pickett",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zamir White",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Shedrick Jackson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Isaiah Pola-Mao",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 3,
+            "yards": 47,
+            "average": 15.67,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Shedrick Jackson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Zamir White",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jack Bech",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dont'e Thornton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 60,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "84",
+          "pass_yards_allowed": "84",
+          "total_yards_allowed": "168"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 12,
+        "passing": [
+          {
+            "player": "Chris Oladokun",
+            "attempts": 17,
+            "completions": 11,
+            "yards": 58,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 13,
+            "sacks": 3,
+            "loss": 40,
+            "rate": 70.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Brashard Smith",
+            "attempts": 12,
+            "yards": 56,
+            "average": 4.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 5,
+            "yards": 14,
+            "average": 2.8,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dameon Pierce",
+            "attempts": 4,
+            "yards": 10,
+            "average": 2.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Shane Buechele",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chris Oladokun",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marquise Brown",
+            "receptions": 3,
+            "yards": 64,
+            "average": 21.33,
+            "long": 51,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": -2
+          },
+          {
+            "player": "Jalen Royals",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Brashard Smith",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 47,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "118",
+          "pass_yards_allowed": "86",
+          "total_yards_allowed": "204"
+        }
+      }
+    }
+  }
+}

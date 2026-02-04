@@ -1,0 +1,353 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 3,
+      "New England Patriots": 16
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        0,
+        3,
+        0,
+        0
+      ],
+      "New England Patriots": [
+        0,
+        6,
+        3,
+        7
+      ]
+    },
+    "week": 19,
+    "date": "January 11, 2026",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 29,
+            "completions": 17,
+            "yards": 268,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 48,
+            "sacks": 5,
+            "loss": 33,
+            "rate": 86.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 10,
+            "yards": 66,
+            "average": 6.6,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 10,
+            "yards": 53,
+            "average": 5.3,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "attempts": 9,
+            "yards": 27,
+            "average": 3.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 4,
+            "yards": 66,
+            "average": 16.5,
+            "long": 42,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 3,
+            "yards": 64,
+            "average": 21.33,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 3,
+            "yards": 75,
+            "average": 25.0,
+            "long": 48,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 75
+          },
+          {
+            "player": "Stefon Diggs",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Efton Chism",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jack Westover",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Kyle Williams",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Drake Maye",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andres Borregales",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 39,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "87",
+          "pass_yards_allowed": "120",
+          "total_yards_allowed": "207"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 31,
+            "completions": 19,
+            "yards": 159,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 20,
+            "sacks": 6,
+            "loss": 39,
+            "rate": 74.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 10,
+            "yards": 57,
+            "average": 5.7,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 11,
+            "yards": 31,
+            "average": 2.82,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Omarion Hampton",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ladd McConkey",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tucker Fisk",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 21,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "146",
+          "pass_yards_allowed": "235",
+          "total_yards_allowed": "381"
+        }
+      }
+    }
+  }
+}

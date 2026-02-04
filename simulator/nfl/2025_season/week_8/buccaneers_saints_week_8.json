@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 23,
+      "New Orleans Saints": 3
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        0,
+        7,
+        10,
+        6
+      ],
+      "New Orleans Saints": [
+        0,
+        3,
+        0,
+        0
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 30,
+            "completions": 17,
+            "yards": 128,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 16,
+            "sacks": 2,
+            "loss": 18,
+            "rate": 53.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 6,
+            "yards": 21,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Spencer Rattler",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyler Shough",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Chris Olave",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 9,
+            "yards": 75,
+            "average": 8.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 8,
+            "yards": 63,
+            "average": 7.88,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 12,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 5,
+            "yards": 53,
+            "average": 10.6,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Devin Neal",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jack Stoll",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 48,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "88",
+          "pass_yards_allowed": "124",
+          "total_yards_allowed": "212"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 24,
+            "completions": 15,
+            "yards": 152,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 3,
+            "loss": 28,
+            "rate": 80.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Sean Tucker",
+            "attempts": 12,
+            "yards": 42,
+            "average": 3.5,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 13,
+            "yards": 35,
+            "average": 2.69,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Josh Williams",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tez Johnson",
+            "receptions": 5,
+            "yards": 43,
+            "average": 8.6,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 55,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "48",
+          "pass_yards_allowed": "227",
+          "total_yards_allowed": "275"
+        }
+      }
+    }
+  }
+}

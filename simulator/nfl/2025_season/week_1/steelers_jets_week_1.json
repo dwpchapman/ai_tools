@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 34,
+      "New York Jets": 32
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        7,
+        10,
+        0,
+        17
+      ],
+      "New York Jets": [
+        9,
+        10,
+        7,
+        6
+      ]
+    },
+    "week": 1,
+    "date": "September 7, 2025",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Jets": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 22,
+            "completions": 16,
+            "yards": 218,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 33,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 119.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 19,
+            "yards": 107,
+            "average": 5.63,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 7
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 12,
+            "yards": 48,
+            "average": 4.0,
+            "long": 15,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 6,
+            "yards": 9,
+            "average": 1.5,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Garrett Wilson",
+            "receptions": 7,
+            "yards": 95,
+            "average": 13.57,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 2,
+            "yards": 38,
+            "average": 19.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Josh Reynolds",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Mason Taylor",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 51,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "53",
+          "pass_yards_allowed": "218",
+          "total_yards_allowed": "271"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 30,
+            "completions": 22,
+            "yards": 244,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 4,
+            "loss": 26,
+            "rate": 136.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 11,
+            "yards": 37,
+            "average": 3.36,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 7,
+            "yards": 19,
+            "average": 2.71,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kaleb Johnson",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jonnu Smith",
+            "receptions": 5,
+            "yards": 15,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 4,
+            "yards": 70,
+            "average": 17.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 83,
+            "average": 20.75,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 68
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Ben Skowronek",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 60,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "182",
+          "pass_yards_allowed": "212",
+          "total_yards_allowed": "394"
+        }
+      }
+    }
+  }
+}

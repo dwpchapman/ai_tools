@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 17,
+      "Kansas City Chiefs": 30
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        3,
+        7,
+        0,
+        7
+      ],
+      "Kansas City Chiefs": [
+        6,
+        7,
+        7,
+        10
+      ]
+    },
+    "week": 6,
+    "date": "October 12, 2025",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 30,
+            "completions": 22,
+            "yards": 257,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 3,
+            "loss": 14,
+            "rate": 132.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 12,
+            "yards": 51,
+            "average": 4.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 10,
+            "yards": 32,
+            "average": 3.2,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 6,
+            "yards": 23,
+            "average": 3.83,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 6,
+            "yards": 78,
+            "average": 13.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 7,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Marquise Brown",
+            "receptions": 4,
+            "yards": 45,
+            "average": 11.25,
+            "long": 20,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Brashard Smith",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 3,
+            "yards": 57,
+            "average": 19.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 33,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "98",
+          "pass_yards_allowed": "199",
+          "total_yards_allowed": "297"
+        }
+      },
+      "Detroit Lions": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 29,
+            "completions": 23,
+            "yards": 203,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 118.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 17,
+            "yards": 65,
+            "average": 3.82,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 4,
+            "yards": 24,
+            "average": 6.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Amon-Ra S",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 9,
+            "yards": 45,
+            "average": 5.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 6,
+            "yards": 66,
+            "average": 11.0,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 5,
+            "yards": 55,
+            "average": 11.0,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 28,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "112",
+          "pass_yards_allowed": "243",
+          "total_yards_allowed": "355"
+        }
+      }
+    }
+  }
+}

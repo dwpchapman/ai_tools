@@ -1,0 +1,309 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 27,
+      "Tampa Bay Buccaneers": 29
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        3,
+        3,
+        0,
+        21
+      ],
+      "Tampa Bay Buccaneers": [
+        3,
+        17,
+        3,
+        6
+      ]
+    },
+    "week": 3,
+    "date": "September 21, 2025",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 29,
+            "completions": 19,
+            "yards": 233,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 101.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 25,
+            "yards": 66,
+            "average": 2.64,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 4,
+            "yards": 44,
+            "average": 11.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 5,
+            "yards": 12,
+            "average": 2.4,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 6,
+            "yards": 85,
+            "average": 14.17,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Mike Evans",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 52
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 4,
+            "yards": 80,
+            "average": 20.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tez Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 5,
+            "fg_att": 6,
+            "long": 55,
+            "points": 17
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "99",
+          "pass_yards_allowed": "168",
+          "total_yards_allowed": "267"
+        }
+      },
+      "New York Jets": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Tyrod Taylor",
+            "attempts": 36,
+            "completions": 26,
+            "yards": 197,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 20,
+            "sacks": 4,
+            "loss": 29,
+            "rate": 92.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrod Taylor",
+            "attempts": 8,
+            "yards": 48,
+            "average": 6.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 6,
+            "yards": 30,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Breece Hall",
+            "attempts": 9,
+            "yards": 21,
+            "average": 2.33,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Garrett Wilson",
+            "receptions": 10,
+            "yards": 84,
+            "average": 8.4,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Mason Taylor",
+            "receptions": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Arian Smith",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 42,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "225",
+          "total_yards_allowed": "347"
+        }
+      }
+    }
+  }
+}

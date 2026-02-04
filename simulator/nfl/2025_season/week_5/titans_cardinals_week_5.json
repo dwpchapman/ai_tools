@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 22,
+      "Arizona Cardinals": 21
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        3,
+        3,
+        0,
+        16
+      ],
+      "Arizona Cardinals": [
+        14,
+        7,
+        0,
+        0
+      ]
+    },
+    "week": 5,
+    "date": "October 5, 2025",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 31,
+            "completions": 23,
+            "yards": 220,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 43,
+            "sacks": 3,
+            "loss": 28,
+            "rate": 93.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Emari Demercado",
+            "attempts": 3,
+            "yards": 81,
+            "average": 27.0,
+            "long": 71,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Michael Carter",
+            "attempts": 18,
+            "yards": 51,
+            "average": 2.83,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Zonovan Knight",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Carter",
+            "receptions": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Trey McBride",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 4,
+            "yards": 98,
+            "average": 24.5,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Zay Jones",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Zonovan Knight",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Tip Reiman",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "249",
+          "total_yards_allowed": "327"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 39,
+            "completions": 21,
+            "yards": 265,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 47,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 64.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 14,
+            "yards": 67,
+            "average": 4.79,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 4,
+            "yards": 14,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cameron Ward",
+            "attempts": 5,
+            "yards": -6,
+            "average": -1.2,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Calvin Ridley",
+            "receptions": 5,
+            "yards": 131,
+            "average": 26.2,
+            "long": 47,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 4,
+            "yards": 48,
+            "average": 12.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Chimere Dike",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Julius Chestnut",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 51,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "168",
+          "pass_yards_allowed": "192",
+          "total_yards_allowed": "360"
+        }
+      }
+    }
+  }
+}

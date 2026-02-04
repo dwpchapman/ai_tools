@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 19,
+      "Buffalo Bills": 31
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        7,
+        3,
+        6,
+        3
+      ],
+      "Buffalo Bills": [
+        14,
+        0,
+        7,
+        10
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "Highmark Stadium",
+    "teams": {
+      "Buffalo Bills": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 22,
+            "completions": 16,
+            "yards": 209,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 43,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 113.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 22,
+            "yards": 117,
+            "average": 5.32,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 7,
+            "yards": 45,
+            "average": 6.43,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Elijah Moore",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 5,
+            "yards": 69,
+            "average": 13.8,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 3,
+            "yards": 45,
+            "average": 15.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "James Cook",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jackson Hawes",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 35,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "189",
+          "pass_yards_allowed": "109",
+          "total_yards_allowed": "298"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 27,
+            "completions": 18,
+            "yards": 126,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 17,
+            "sacks": 3,
+            "loss": 17,
+            "rate": 89.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 15,
+            "yards": 70,
+            "average": 4.67,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 11,
+            "yards": 65,
+            "average": 5.91,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Spencer Rattler",
+            "attempts": 6,
+            "yards": 49,
+            "average": 8.17,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Rashid Shaheed",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Alvin Kamara",
+            "receptions": 4,
+            "yards": 2,
+            "average": 0.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jack Stoll",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Spencer Rattler",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 54,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "165",
+          "pass_yards_allowed": "191",
+          "total_yards_allowed": "356"
+        }
+      }
+    }
+  }
+}

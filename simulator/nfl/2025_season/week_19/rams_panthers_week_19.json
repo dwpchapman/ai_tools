@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Rams": 34,
+      "Carolina Panthers": 31
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Rams": [
+        7,
+        10,
+        3,
+        14
+      ],
+      "Carolina Panthers": [
+        0,
+        14,
+        3,
+        14
+      ]
+    },
+    "week": 19,
+    "date": "January 10, 2026",
+    "location": "Bank of America Stadium",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 40,
+            "completions": 21,
+            "yards": 264,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 52,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 71.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 13,
+            "yards": 46,
+            "average": 3.54,
+            "long": 8,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Rico Dowdle",
+            "attempts": 5,
+            "yards": 9,
+            "average": 1.8,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trevor Etienne",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jalen Coker",
+            "receptions": 9,
+            "yards": 134,
+            "average": 14.89,
+            "long": 52,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Tetairoa McMillan",
+            "receptions": 5,
+            "yards": 81,
+            "average": 16.2,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Tommy Tremble",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "James Mitchell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jimmy Horn",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mitchell Evans",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brycen Tremayne",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ryan Fitzgerald",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 46,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "116",
+          "pass_yards_allowed": "295",
+          "total_yards_allowed": "411"
+        }
+      },
+      "Los Angeles Rams": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 42,
+            "completions": 24,
+            "yards": 304,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 36,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 93.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 13,
+            "yards": 57,
+            "average": 4.38,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 11,
+            "yards": 45,
+            "average": 4.09,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 10,
+            "yards": 111,
+            "average": 11.1,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 18,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 5,
+            "yards": 72,
+            "average": 14.4,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Blake Corum",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Tyler Higbee",
+            "receptions": 2,
+            "yards": 45,
+            "average": 22.5,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Konata Mumpfield",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Mevis",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 46,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "83",
+          "pass_yards_allowed": "250",
+          "total_yards_allowed": "333"
+        }
+      }
+    }
+  }
+}

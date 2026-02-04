@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 0,
+      "Houston Texans": 26
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Houston Texans": [
+        3,
+        3,
+        0,
+        20
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 28,
+            "completions": 22,
+            "yards": 233,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 2,
+            "loss": 9,
+            "rate": 125.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 17,
+            "yards": 69,
+            "average": 4.06,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Nick Chubb",
+            "attempts": 13,
+            "yards": 47,
+            "average": 3.62,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaylin Noel",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dalton Schultz",
+            "receptions": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 4,
+            "yards": 79,
+            "average": 19.75,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 4,
+            "yards": 50,
+            "average": 12.5,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 47,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "82",
+          "pass_yards_allowed": "93",
+          "total_yards_allowed": "175"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 0,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 26,
+            "completions": 10,
+            "yards": 108,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 35.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 14,
+            "yards": 64,
+            "average": 4.57,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Cameron Ward",
+            "attempts": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chimere Dike",
+            "attempts": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tony Pollard",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 2,
+            "yards": 44,
+            "average": 22.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Julius Chestnut",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 0
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "129",
+          "pass_yards_allowed": "224",
+          "total_yards_allowed": "353"
+        }
+      }
+    }
+  }
+}

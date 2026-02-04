@@ -1,0 +1,309 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 23,
+      "New England Patriots": 24
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        7,
+        7,
+        0,
+        9
+      ],
+      "New England Patriots": [
+        7,
+        14,
+        3,
+        0
+      ]
+    },
+    "week": 9,
+    "date": "November 2, 2025",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 29,
+            "completions": 19,
+            "yards": 259,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 58,
+            "sacks": 6,
+            "loss": 38,
+            "rate": 102.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "TreVeyon Henderson",
+            "attempts": 14,
+            "yards": 55,
+            "average": 3.93,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Terrell Jennings",
+            "attempts": 11,
+            "yards": 35,
+            "average": 3.18,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 8,
+            "yards": 20,
+            "average": 2.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Demario Douglas",
+            "receptions": 4,
+            "yards": 100,
+            "average": 25.0,
+            "long": 58,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "receptions": 4,
+            "yards": 32,
+            "average": 8.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 4,
+            "yards": 51,
+            "average": 12.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Stefon Diggs",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Terrell Jennings",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kyle Williams",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andres Borregales",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 32,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "71",
+          "pass_yards_allowed": "217",
+          "total_yards_allowed": "288"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Michael Penix",
+            "attempts": 37,
+            "completions": 22,
+            "yards": 221,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 103.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 12,
+            "yards": 46,
+            "average": 3.83,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Michael Penix",
+            "attempts": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 9,
+            "yards": 118,
+            "average": 13.11,
+            "long": 40,
+            "touchdowns": 3,
+            "first_downs": 8,
+            "targets": 14,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 8,
+            "yards": 50,
+            "average": 6.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "David Sills",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "John Parker Romo",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 38,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "110",
+          "pass_yards_allowed": "221",
+          "total_yards_allowed": "331"
+        }
+      }
+    }
+  }
+}

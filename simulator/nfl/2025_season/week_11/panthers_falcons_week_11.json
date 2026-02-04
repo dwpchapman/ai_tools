@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Carolina Panthers": 30,
+      "Atlanta Falcons": 27
+    },
+    "team_scores_by_quarter": {
+      "Carolina Panthers": [
+        7,
+        3,
+        9,
+        8
+      ],
+      "Atlanta Falcons": [
+        7,
+        14,
+        0,
+        6
+      ]
+    },
+    "week": 11,
+    "date": "November 16, 2025",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Michael Penix",
+            "attempts": 16,
+            "completions": 13,
+            "yards": 175,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 112.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 23,
+            "yards": 104,
+            "average": 4.52,
+            "long": 19,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Michael Penix",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 7,
+            "yards": 119,
+            "average": 17.0,
+            "long": 41,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": -3
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "David Sills",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Khadarel Hodge",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 52,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "67",
+          "pass_yards_allowed": "419",
+          "total_yards_allowed": "486"
+        }
+      },
+      "Carolina Panthers": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 45,
+            "completions": 31,
+            "yards": 448,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 54,
+            "sacks": 5,
+            "loss": 29,
+            "rate": 123.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 19,
+            "yards": 45,
+            "average": 2.37,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 4,
+            "yards": 21,
+            "average": 5.25,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trevor Etienne",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tetairoa McMillan",
+            "receptions": 8,
+            "yards": 130,
+            "average": 16.25,
+            "long": 39,
+            "touchdowns": 2,
+            "first_downs": 7,
+            "targets": 12,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 5,
+            "yards": 55,
+            "average": 11.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 77
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 4,
+            "yards": 83,
+            "average": 20.75,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Mitchell Evans",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Brycen Tremayne",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Tommy Tremble",
+            "receptions": 1,
+            "yards": 54,
+            "average": 54.0,
+            "long": 54,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 50
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ryan Fitzgerald",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 34,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "125",
+          "pass_yards_allowed": "223",
+          "total_yards_allowed": "348"
+        }
+      }
+    }
+  }
+}

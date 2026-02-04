@@ -1,0 +1,385 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 14,
+      "Chicago Bears": 26
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        7,
+        7,
+        0
+      ],
+      "Chicago Bears": [
+        3,
+        17,
+        3,
+        3
+      ]
+    },
+    "week": 7,
+    "date": "October 19, 2025",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 26,
+            "completions": 15,
+            "yards": 172,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 61.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 19,
+            "yards": 124,
+            "average": 6.53,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Kyle Monangai",
+            "attempts": 13,
+            "yards": 81,
+            "average": 6.23,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Luther Burden",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 4,
+            "yards": -2,
+            "average": -0.5,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Colston Loveland",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 43,
+            "average": 14.33,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Luther Burden",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 23
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 39,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "44",
+          "pass_yards_allowed": "209",
+          "total_yards_allowed": "253"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 32,
+            "completions": 20,
+            "yards": 233,
+            "touchdowns": 2,
+            "interceptions": 3,
+            "long": 57,
+            "sacks": 4,
+            "loss": 24,
+            "rate": 66.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 11,
+            "yards": 28,
+            "average": 2.55,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Spencer Rattler",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Devin Neal",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 2,
+            "yards": -4,
+            "average": -2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Juwan Johnson",
+            "receptions": 5,
+            "yards": 79,
+            "average": 15.8,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 5,
+            "yards": 98,
+            "average": 19.6,
+            "long": 57,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 3,
+            "yards": 1,
+            "average": 0.33,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jack Stoll",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "222",
+          "pass_yards_allowed": "164",
+          "total_yards_allowed": "386"
+        }
+      }
+    }
+  }
+}

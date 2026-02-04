@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 24,
+      "Las Vegas Raiders": 10
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        14,
+        0,
+        0,
+        10
+      ],
+      "Las Vegas Raiders": [
+        0,
+        3,
+        0,
+        7
+      ]
+    },
+    "week": 12,
+    "date": "November 23, 2025",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 44,
+            "completions": 30,
+            "yards": 285,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 33,
+            "sacks": 10,
+            "loss": 77,
+            "rate": 93.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 17,
+            "yards": 50,
+            "average": 2.94,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 8,
+            "yards": 58,
+            "average": 7.25,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 78
+          },
+          {
+            "player": "Brock Bowers",
+            "receptions": 6,
+            "yards": 55,
+            "average": 9.17,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 4,
+            "yards": 62,
+            "average": 15.5,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Ian Thomas",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 10,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Dont'e Thornton",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 41,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "64",
+          "pass_yards_allowed": "206",
+          "total_yards_allowed": "270"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 20,
+            "completions": 11,
+            "yards": 209,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 66,
+            "sacks": 1,
+            "loss": 3,
+            "rate": 87.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Quinshon Judkins",
+            "attempts": 16,
+            "yards": 47,
+            "average": 2.94,
+            "long": 11,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Dylan Sampson",
+            "attempts": 7,
+            "yards": 23,
+            "average": 3.29,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Harold Fannin",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Malachi Corley",
+            "attempts": 1,
+            "yards": -6,
+            "average": -6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Harold Fannin",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 2,
+            "yards": 58,
+            "average": 29.0,
+            "long": 52,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Dylan Sampson",
+            "receptions": 2,
+            "yards": 59,
+            "average": 29.5,
+            "long": 66,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 71
+          },
+          {
+            "player": "Malachi Corley",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 1,
+            "yards": 39,
+            "average": 39.0,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 53,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "60",
+          "pass_yards_allowed": "208",
+          "total_yards_allowed": "268"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 20,
+      "Kansas City Chiefs": 17
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        7,
+        3,
+        3,
+        7
+      ],
+      "Kansas City Chiefs": [
+        0,
+        10,
+        0,
+        7
+      ]
+    },
+    "week": 2,
+    "date": "September 14, 2025",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 29,
+            "completions": 16,
+            "yards": 187,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 49,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 72.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 7,
+            "yards": 66,
+            "average": 9.43,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 8,
+            "yards": 31,
+            "average": 3.88,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 10,
+            "yards": 22,
+            "average": 2.2,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brashard Smith",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marquise Brown",
+            "receptions": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 4,
+            "yards": 61,
+            "average": 15.25,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Tyquan Thornton",
+            "receptions": 2,
+            "yards": 59,
+            "average": 29.5,
+            "long": 49,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Nikko Remigio",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brashard Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 56,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "94",
+          "total_yards_allowed": "216"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 22,
+            "completions": 15,
+            "yards": 101,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 2,
+            "loss": 7,
+            "rate": 78.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 22,
+            "yards": 88,
+            "average": 4.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "AJ Dillon",
+            "attempts": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 9,
+            "yards": 15,
+            "average": 1.67,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 5
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 27,
+            "average": 5.4,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 4,
+            "yards": 53,
+            "average": 13.25,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Kylen Granson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 58,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "121",
+          "pass_yards_allowed": "173",
+          "total_yards_allowed": "294"
+        }
+      }
+    }
+  }
+}

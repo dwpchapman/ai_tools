@@ -1,0 +1,364 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 35,
+      "Pittsburgh Steelers": 25
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        7,
+        0,
+        7,
+        21
+      ],
+      "Pittsburgh Steelers": [
+        3,
+        13,
+        3,
+        6
+      ]
+    },
+    "week": 8,
+    "date": "October 26, 2025",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 36,
+            "completions": 24,
+            "yards": 219,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 45,
+            "sacks": 3,
+            "loss": 17,
+            "rate": 101.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 13,
+            "yards": 62,
+            "average": 4.77,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 5,
+            "yards": 31,
+            "average": 6.2,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 55,
+            "average": 11.0,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Roman Wilson",
+            "receptions": 4,
+            "yards": 74,
+            "average": 18.5,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jonnu Smith",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Ben Skowronek",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Spencer Anderson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 56,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "94",
+          "pass_yards_allowed": "360",
+          "total_yards_allowed": "454"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 37,
+            "completions": 29,
+            "yards": 360,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 59,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 134.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 11,
+            "yards": 61,
+            "average": 5.55,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Josh Jacobs",
+            "attempts": 13,
+            "yards": 33,
+            "average": 2.54,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Savion Williams",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tucker Kraft",
+            "receptions": 7,
+            "yards": 143,
+            "average": 20.43,
+            "long": 59,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 128
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 4,
+            "yards": 85,
+            "average": 21.25,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 3,
+            "yards": 44,
+            "average": 14.67,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Malik Heath",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "John FitzPatrick",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Savion Williams",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 4,
+            "long": 28,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "93",
+          "pass_yards_allowed": "202",
+          "total_yards_allowed": "295"
+        }
+      }
+    }
+  }
+}

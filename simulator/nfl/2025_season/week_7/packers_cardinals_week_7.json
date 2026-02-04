@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 27,
+      "Arizona Cardinals": 23
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        0,
+        6,
+        7,
+        14
+      ],
+      "Arizona Cardinals": [
+        3,
+        10,
+        7,
+        3
+      ]
+    },
+    "week": 7,
+    "date": "October 19, 2025",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 36,
+            "completions": 25,
+            "yards": 279,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 43,
+            "sacks": 6,
+            "loss": 43,
+            "rate": 110.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zonovan Knight",
+            "attempts": 14,
+            "yards": 57,
+            "average": 4.07,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 6,
+            "yards": 26,
+            "average": 4.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Michael Carter",
+            "attempts": 7,
+            "yards": 11,
+            "average": 1.57,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 10,
+            "yards": 74,
+            "average": 7.4,
+            "long": 15,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Zonovan Knight",
+            "receptions": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Michael Carter",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 2,
+            "yards": 58,
+            "average": 29.0,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Zay Jones",
+            "receptions": 2,
+            "yards": 67,
+            "average": 33.5,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 40,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "94",
+          "pass_yards_allowed": "168",
+          "total_yards_allowed": "262"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 29,
+            "completions": 19,
+            "yards": 179,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 93.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 13,
+            "yards": 55,
+            "average": 4.23,
+            "long": 10,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 6,
+            "yards": 17,
+            "average": 2.83,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Romeo Doubs",
+            "receptions": 6,
+            "yards": 72,
+            "average": 12.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "John FitzPatrick",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Lucas Havrisik",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 61,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "94",
+          "pass_yards_allowed": "236",
+          "total_yards_allowed": "330"
+        }
+      }
+    }
+  }
+}

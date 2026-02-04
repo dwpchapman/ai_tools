@@ -1,0 +1,122 @@
+{
+  "game_info": {
+        "final_score": {
+        "home_team": int,
+        "away_team": int
+    },
+    "week": int,
+    "date": string,
+    "location": string,
+    "team_scores_by_quarter": {
+        "home_team": [int, int, int, int],
+        "away_team": [int, int, int, int]
+    },
+    "teams": {
+      "home_team": {
+        "score": int,
+        "passing": [
+          {
+            "player": string,
+            "attempts": int,
+            "completions": int,
+            "yards": int,
+            "touchdowns": int,
+            "interceptions": int,
+            "long": int,
+            "sacks": int,
+            "loss": int,
+            "rate": float
+          }
+        ],
+        "rushing": [
+          {
+            "player": string,
+            "attempts": int,
+            "yards": int,
+            "long": int,
+            "touchdowns": int,
+            "first_downs": int
+          }
+        ],
+        "receiving": [
+          {
+            "player": string,
+            "receptions": int,
+            "yards": int,
+            "long": int,
+            "touchdowns": int,
+            "first_downs": int,
+            "targets": int,
+            "yards_after_catch": int
+          }        ],
+        "kicking": [
+          {
+            "player": string,
+            "pat_made": int,
+            "pat_att": int,
+            "fg_made": int,
+            "fg_att": int,
+            "long": int,
+            "points": int
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": int,
+          "pass_yards_allowed": int,
+          "total_yards_allowed": int
+        }
+      },
+              "passing": [
+          {
+            "player": string,
+            "attempts": int,
+            "completions": int,
+            "yards": int,
+            "touchdowns": int,
+            "interceptions": int,
+            "long": int,
+            "sacks": int,
+            "loss": int,
+            "rate": float
+          }
+        ],
+        "rushing": [
+          {
+            "player": string,
+            "attempts": int,
+            "yards": int,
+            "long": int,
+            "touchdowns": int,
+            "first_downs": int
+          }
+        ],
+        "receiving": [
+          {
+            "player": string,
+            "receptions": int,
+            "yards": int,
+            "long": int,
+            "touchdowns": int,
+            "first_downs": int,
+            "targets": int,
+            "yards_after_catch": int
+          }        ],
+        "kicking": [
+          {
+            "player": string,
+            "pat_made": int,
+            "pat_att": int,
+            "fg_made": int,
+            "fg_att": int,
+            "long": int,
+            "points": int
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": int,
+          "pass_yards_allowed": int,
+          "total_yards_allowed": int
+        }
+      }
+  }
+}

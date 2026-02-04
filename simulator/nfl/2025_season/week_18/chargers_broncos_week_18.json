@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 3,
+      "Denver Broncos": 19
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        0,
+        3,
+        0,
+        0
+      ],
+      "Denver Broncos": [
+        10,
+        0,
+        3,
+        6
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 23,
+            "completions": 14,
+            "yards": 141,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 4,
+            "loss": 17,
+            "rate": 78.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 8,
+            "yards": 49,
+            "average": 6.12,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 6,
+            "yards": 41,
+            "average": 6.83,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "RJ Harvey",
+            "attempts": 15,
+            "yards": 28,
+            "average": 1.87,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tyler Badie",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Pat Bryant",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Evan Engram",
+            "receptions": 3,
+            "yards": 45,
+            "average": 15.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Marvin Mims",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Tyler Badie",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "RJ Harvey",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 41,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "113",
+          "pass_yards_allowed": "104",
+          "total_yards_allowed": "217"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Trey Lance",
+            "attempts": 44,
+            "completions": 20,
+            "yards": 136,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 18,
+            "sacks": 4,
+            "loss": 32,
+            "rate": 43.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Trey Lance",
+            "attempts": 9,
+            "yards": 69,
+            "average": 7.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jaret Patterson",
+            "attempts": 8,
+            "yards": 29,
+            "average": 3.62,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 7,
+            "yards": 36,
+            "average": 5.14,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 13,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Jaret Patterson",
+            "receptions": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "KeAndre Lambert-Smith",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Derius Davis",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tyler Conklin",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 30,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "116",
+          "pass_yards_allowed": "124",
+          "total_yards_allowed": "240"
+        }
+      }
+    }
+  }
+}

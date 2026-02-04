@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 41,
+      "Arizona Cardinals": 22
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        13,
+        12,
+        10,
+        6
+      ],
+      "Arizona Cardinals": [
+        7,
+        3,
+        0,
+        12
+      ]
+    },
+    "week": 11,
+    "date": "November 16, 2025",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 57,
+            "completions": 47,
+            "yards": 452,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 34,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 96.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zonovan Knight",
+            "attempts": 5,
+            "yards": 24,
+            "average": 4.8,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 5,
+            "yards": 8,
+            "average": 1.6,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Michael Carter",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Wilson",
+            "receptions": 15,
+            "yards": 185,
+            "average": 12.33,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 9,
+            "targets": 18,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Trey McBride",
+            "receptions": 10,
+            "yards": 115,
+            "average": 11.5,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 6,
+            "yards": 66,
+            "average": 11.0,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Michael Carter",
+            "receptions": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Zonovan Knight",
+            "receptions": 4,
+            "yards": 21,
+            "average": 5.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Emari Demercado",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Xavier Weaver",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Andre Baccellia",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 26,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "95",
+          "pass_yards_allowed": "186",
+          "total_yards_allowed": "281"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 41,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 26,
+            "completions": 19,
+            "yards": 200,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 1,
+            "loss": 14,
+            "rate": 133.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 13,
+            "yards": 81,
+            "average": 6.23,
+            "long": 20,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 8,
+            "yards": 24,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 1,
+            "yards": -7,
+            "average": -7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Kittle",
+            "receptions": 6,
+            "yards": 67,
+            "average": 11.17,
+            "long": 30,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 5,
+            "yards": 40,
+            "average": 8.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 2,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 48,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "36",
+          "pass_yards_allowed": "452",
+          "total_yards_allowed": "488"
+        }
+      }
+    }
+  }
+}

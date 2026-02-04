@@ -1,0 +1,298 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 17,
+      "Atlanta Falcons": 19
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        7,
+        3,
+        7
+      ],
+      "Atlanta Falcons": [
+        7,
+        3,
+        3,
+        6
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 32,
+            "completions": 18,
+            "yards": 180,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 4,
+            "loss": 21,
+            "rate": 69.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 15,
+            "yards": 33,
+            "average": 2.2,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 7,
+            "yards": 16,
+            "average": 2.29,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kyle Pitts",
+            "receptions": 6,
+            "yards": 58,
+            "average": 9.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Drake London",
+            "receptions": 4,
+            "yards": 78,
+            "average": 19.5,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": -3
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "David Sills",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 51,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "108",
+          "pass_yards_allowed": "232",
+          "total_yards_allowed": "340"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 35,
+            "completions": 23,
+            "yards": 259,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 4,
+            "loss": 27,
+            "rate": 85.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Audric Estime",
+            "attempts": 21,
+            "yards": 63,
+            "average": 3.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyler Shough",
+            "attempts": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Evan Hull",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Audric Estime",
+            "receptions": 5,
+            "yards": 43,
+            "average": 8.6,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 5,
+            "yards": 60,
+            "average": 12.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 3,
+            "yards": 61,
+            "average": 20.33,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Ronnie Bell",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Samori Toure",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Charlie Smyth",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 29,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "49",
+          "pass_yards_allowed": "159",
+          "total_yards_allowed": "208"
+        }
+      }
+    }
+  }
+}

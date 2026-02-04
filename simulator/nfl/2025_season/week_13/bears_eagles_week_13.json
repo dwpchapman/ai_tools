@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 24,
+      "Philadelphia Eagles": 15
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        7,
+        3,
+        0,
+        14
+      ],
+      "Philadelphia Eagles": [
+        0,
+        3,
+        6,
+        6
+      ]
+    },
+    "week": 13,
+    "date": "November 28, 2025",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 34,
+            "completions": 19,
+            "yards": 230,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 84.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 13,
+            "yards": 56,
+            "average": 4.31,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 10,
+            "yards": 132,
+            "average": 13.2,
+            "long": 33,
+            "touchdowns": 2,
+            "first_downs": 7,
+            "targets": 12,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 5,
+            "yards": 48,
+            "average": 9.6,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Will Shipley",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 0,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 44,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "281",
+          "pass_yards_allowed": "144",
+          "total_yards_allowed": "425"
+        }
+      },
+      "Chicago Bears": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 36,
+            "completions": 17,
+            "yards": 154,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 56.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyle Monangai",
+            "attempts": 22,
+            "yards": 130,
+            "average": 5.91,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "D'Andre Swift",
+            "attempts": 18,
+            "yards": 125,
+            "average": 6.94,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 5,
+            "yards": 13,
+            "average": 2.6,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Luther Burden",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Luther Burden",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Colston Loveland",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 30,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "87",
+          "pass_yards_allowed": "230",
+          "total_yards_allowed": "317"
+        }
+      }
+    }
+  }
+}

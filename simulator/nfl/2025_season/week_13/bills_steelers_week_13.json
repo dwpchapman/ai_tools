@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 26,
+      "Pittsburgh Steelers": 7
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        0,
+        3,
+        13,
+        10
+      ],
+      "Pittsburgh Steelers": [
+        0,
+        7,
+        0,
+        0
+      ]
+    },
+    "week": 13,
+    "date": "November 30, 2025",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 21,
+            "completions": 10,
+            "yards": 117,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 65.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 10,
+            "yards": 35,
+            "average": 3.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kaleb Johnson",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 2,
+            "yards": 45,
+            "average": 22.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Jonnu Smith",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ben Skowronek",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Roman Wilson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "249",
+          "pass_yards_allowed": "123",
+          "total_yards_allowed": "372"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 23,
+            "completions": 15,
+            "yards": 123,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 16,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 75.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 32,
+            "yards": 144,
+            "average": 4.5,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 9,
+            "yards": 62,
+            "average": 6.89,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 8,
+            "yards": 38,
+            "average": 4.75,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "James Cook",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Gabriel Davis",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jackson Hawes",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Khalil Shakir",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 37,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "58",
+          "pass_yards_allowed": "108",
+          "total_yards_allowed": "166"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 20,
+      "Chicago Bears": 24
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        0,
+        10,
+        7,
+        3
+      ],
+      "Chicago Bears": [
+        7,
+        0,
+        3,
+        14
+      ]
+    },
+    "week": 10,
+    "date": "November 9, 2025",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 36,
+            "completions": 20,
+            "yards": 220,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 27,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 83.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 13,
+            "yards": 80,
+            "average": 6.15,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 8,
+            "yards": 63,
+            "average": 7.88,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Kyle Monangai",
+            "attempts": 7,
+            "yards": 28,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rome Odunze",
+            "receptions": 6,
+            "yards": 86,
+            "average": 14.33,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 5,
+            "yards": 18,
+            "average": 3.6,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Colston Loveland",
+            "receptions": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Luther Burden",
+            "receptions": 3,
+            "yards": 51,
+            "average": 17.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 22,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "169",
+          "pass_yards_allowed": "262",
+          "total_yards_allowed": "431"
+        }
+      },
+      "New York Giants": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jaxson Dart",
+            "attempts": 29,
+            "completions": 19,
+            "yards": 242,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 91.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 14,
+            "yards": 71,
+            "average": 5.07,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 6,
+            "yards": 66,
+            "average": 11.0,
+            "long": 24,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 8,
+            "yards": 20,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Theo Johnson",
+            "receptions": 7,
+            "yards": 75,
+            "average": 10.71,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 6,
+            "yards": 62,
+            "average": 10.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 4,
+            "yards": 89,
+            "average": 22.25,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 41,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Gunner Olszewski",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 32,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "171",
+          "pass_yards_allowed": "220",
+          "total_yards_allowed": "391"
+        }
+      }
+    }
+  }
+}

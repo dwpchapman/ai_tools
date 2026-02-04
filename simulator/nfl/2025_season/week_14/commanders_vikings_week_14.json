@@ -1,0 +1,350 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 0,
+      "Minnesota Vikings": 31
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Minnesota Vikings": [
+        7,
+        7,
+        10,
+        7
+      ]
+    },
+    "week": 14,
+    "date": "December 7, 2025",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 23,
+            "completions": 16,
+            "yards": 163,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 21,
+            "sacks": 4,
+            "loss": 12,
+            "rate": 129.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 14,
+            "yards": 76,
+            "average": 5.43,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jordan Mason",
+            "attempts": 11,
+            "yards": 52,
+            "average": 4.73,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "",
+            "attempts": 6,
+            "yards": 19,
+            "average": 3.17,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Zavier Scott",
+            "attempts": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jordan Addison",
+            "receptions": 4,
+            "yards": 62,
+            "average": 15.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 18,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Tai Felton",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Zavier Scott",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Ben Sims",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 45,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "107",
+          "pass_yards_allowed": "99",
+          "total_yards_allowed": "206"
+        }
+      },
+      "Washington Commanders": {
+        "score": 0,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 20,
+            "completions": 9,
+            "yards": 78,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 35.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 10,
+            "yards": 52,
+            "average": 5.2,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 7,
+            "yards": 32,
+            "average": 4.57,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Marcus Mariota",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Deebo Samuel",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Treylon Burks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Colson Yankoff",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [],
+        "defense": {
+          "rush_yards_allowed": "162",
+          "pass_yards_allowed": "151",
+          "total_yards_allowed": "313"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 17,
+      "Tampa Bay Buccaneers": 20
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        0,
+        3,
+        7,
+        7
+      ],
+      "Tampa Bay Buccaneers": [
+        0,
+        10,
+        7,
+        3
+      ]
+    },
+    "week": 13,
+    "date": "November 30, 2025",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 28,
+            "completions": 18,
+            "yards": 194,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 96.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 17,
+            "yards": 61,
+            "average": 3.59,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 6,
+            "yards": 27,
+            "average": 4.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Chris Godwin",
+            "receptions": 3,
+            "yards": 78,
+            "average": 26.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tristan Wirfs",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tez Johnson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Payne Durham",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 57,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "95",
+          "pass_yards_allowed": "291",
+          "total_yards_allowed": "386"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 40,
+            "completions": 29,
+            "yards": 301,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 21,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 100.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zonovan Knight",
+            "attempts": 11,
+            "yards": 62,
+            "average": 5.64,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Michael Carter",
+            "attempts": 5,
+            "yards": 17,
+            "average": 3.4,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 8,
+            "yards": 82,
+            "average": 10.25,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 6,
+            "yards": 69,
+            "average": 11.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Michael Carter",
+            "receptions": 5,
+            "yards": 47,
+            "average": 9.4,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Zonovan Knight",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Xavier Weaver",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 52,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "95",
+          "pass_yards_allowed": "184",
+          "total_yards_allowed": "279"
+        }
+      }
+    }
+  }
+}

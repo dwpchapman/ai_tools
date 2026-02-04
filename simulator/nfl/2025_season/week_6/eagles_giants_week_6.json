@@ -1,0 +1,285 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 17,
+      "New York Giants": 34
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        10,
+        7,
+        0,
+        0
+      ],
+      "New York Giants": [
+        13,
+        7,
+        7,
+        7
+      ]
+    },
+    "week": 6,
+    "date": "October 9, 2025",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Jaxson Dart",
+            "attempts": 25,
+            "completions": 17,
+            "yards": 195,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 35,
+            "sacks": 2,
+            "loss": 1,
+            "rate": 104.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cam Skattebo",
+            "attempts": 19,
+            "yards": 98,
+            "average": 5.16,
+            "long": 18,
+            "touchdowns": 3,
+            "first_downs": 9
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 13,
+            "yards": 58,
+            "average": 4.46,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 4,
+            "yards": 6,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 6,
+            "yards": 84,
+            "average": 14.0,
+            "long": 35,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Lil'Jordan Humphrey",
+            "receptions": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Cam Skattebo",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jude McAtamney",
+            "pat_made": 4,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "73",
+          "pass_yards_allowed": "266",
+          "total_yards_allowed": "339"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 33,
+            "completions": 24,
+            "yards": 283,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 36,
+            "sacks": 3,
+            "loss": 17,
+            "rate": 95.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 12,
+            "yards": 58,
+            "average": 4.83,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 7,
+            "yards": 13,
+            "average": 1.86,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "AJ Dillon",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dallas Goedert",
+            "receptions": 9,
+            "yards": 110,
+            "average": 12.22,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 11,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 80,
+            "average": 13.33,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "AJ Dillon",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 42,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "172",
+          "pass_yards_allowed": "194",
+          "total_yards_allowed": "366"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 29,
+      "Miami Dolphins": 27
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        6,
+        3,
+        14,
+        6
+      ],
+      "Miami Dolphins": [
+        7,
+        6,
+        0,
+        14
+      ]
+    },
+    "week": 6,
+    "date": "October 12, 2025",
+    "location": "Hard Rock Stadium",
+    "teams": {
+      "Miami Dolphins": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 32,
+            "completions": 21,
+            "yards": 205,
+            "touchdowns": 1,
+            "interceptions": 3,
+            "long": 45,
+            "sacks": 2,
+            "loss": 9,
+            "rate": 54.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 16,
+            "yards": 128,
+            "average": 8.0,
+            "long": 49,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Alec Ingold",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malik Washington",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 6,
+            "yards": 95,
+            "average": 15.83,
+            "long": 45,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "De'Von Achane",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Julian Hill",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Darren Waller",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Alec Ingold",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Ollie Gordon",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tanner Conner",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "D'Wayne Eskridge",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 47,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "140",
+          "pass_yards_allowed": "263",
+          "total_yards_allowed": "403"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 38,
+            "completions": 29,
+            "yards": 264,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 42,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 112.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kimani Vidal",
+            "attempts": 18,
+            "yards": 124,
+            "average": 6.89,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 6,
+            "yards": 14,
+            "average": 2.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 7,
+            "yards": 68,
+            "average": 9.71,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 7,
+            "yards": 100,
+            "average": 14.29,
+            "long": 42,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Hassan Haskins",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "KeAndre Lambert-Smith",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 5,
+            "fg_att": 5,
+            "long": 35,
+            "points": 17
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "137",
+          "pass_yards_allowed": "204",
+          "total_yards_allowed": "341"
+        }
+      }
+    }
+  }
+}

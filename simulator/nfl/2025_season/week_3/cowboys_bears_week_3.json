@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Dallas Cowboys": 14,
+      "Chicago Bears": 31
+    },
+    "team_scores_by_quarter": {
+      "Dallas Cowboys": [
+        3,
+        11,
+        0,
+        0
+      ],
+      "Chicago Bears": [
+        14,
+        10,
+        7,
+        0
+      ]
+    },
+    "week": 3,
+    "date": "September 21, 2025",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 28,
+            "completions": 19,
+            "yards": 298,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 65,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 142.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 13,
+            "yards": 33,
+            "average": 2.54,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Kyle Monangai",
+            "attempts": 6,
+            "yards": 16,
+            "average": 2.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 5,
+            "yards": 12,
+            "average": 2.4,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "attempts": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Luther Burden",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 21,
+            "average": 5.25,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Luther Burden",
+            "receptions": 3,
+            "yards": 101,
+            "average": 33.67,
+            "long": 65,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 3,
+            "yards": 62,
+            "average": 20.67,
+            "long": 35,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 3,
+            "yards": 45,
+            "average": 15.0,
+            "long": 41,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 62
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Colston Loveland",
+            "receptions": 1,
+            "yards": 31,
+            "average": 31.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 30,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "121",
+          "pass_yards_allowed": "275",
+          "total_yards_allowed": "396"
+        }
+      },
+      "Dallas Cowboys": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 40,
+            "completions": 31,
+            "yards": 251,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 37,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 80.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Javonte Williams",
+            "attempts": 10,
+            "yards": 76,
+            "average": 7.6,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Miles Sanders",
+            "attempts": 9,
+            "yards": 41,
+            "average": 4.56,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jake Ferguson",
+            "receptions": 13,
+            "yards": 82,
+            "average": 6.31,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 14,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "George Pickens",
+            "receptions": 5,
+            "yards": 68,
+            "average": 13.6,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 5,
+            "yards": 16,
+            "average": 3.2,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Miles Sanders",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 2,
+            "yards": 64,
+            "average": 32.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 53,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "87",
+          "pass_yards_allowed": "298",
+          "total_yards_allowed": "385"
+        }
+      }
+    }
+  }
+}

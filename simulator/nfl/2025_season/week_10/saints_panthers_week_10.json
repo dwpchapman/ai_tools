@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 17,
+      "Carolina Panthers": 7
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        3,
+        7,
+        0,
+        7
+      ],
+      "Carolina Panthers": [
+        7,
+        0,
+        0,
+        0
+      ]
+    },
+    "week": 10,
+    "date": "November 9, 2025",
+    "location": "Bank of America Stadium",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 25,
+            "completions": 17,
+            "yards": 124,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 2,
+            "loss": 22,
+            "rate": 62.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 18,
+            "yards": 53,
+            "average": 2.94,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tetairoa McMillan",
+            "receptions": 5,
+            "yards": 60,
+            "average": 12.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 5,
+            "yards": 32,
+            "average": 6.4,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mitchell Evans",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ryan Fitzgerald",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "266",
+          "total_yards_allowed": "388"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 27,
+            "completions": 19,
+            "yards": 282,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 62,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 128.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 22,
+            "yards": 83,
+            "average": 3.77,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Devin Neal",
+            "attempts": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 7,
+            "yards": 20,
+            "average": 2.86,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyler Shough",
+            "attempts": 4,
+            "yards": -3,
+            "average": -0.75,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 5,
+            "yards": 104,
+            "average": 20.8,
+            "long": 62,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 4,
+            "yards": 92,
+            "average": 23.0,
+            "long": 52,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Devin Neal",
+            "receptions": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Zaire Mitchell-Paden",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 20,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "73",
+          "pass_yards_allowed": "102",
+          "total_yards_allowed": "175"
+        }
+      }
+    }
+  }
+}

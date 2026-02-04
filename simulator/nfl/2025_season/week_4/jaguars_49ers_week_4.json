@@ -1,0 +1,382 @@
+{
+  "game_info": {
+    "final_score": {
+      "Jacksonville Jaguars": 26,
+      "San Francisco 49ers": 21
+    },
+    "team_scores_by_quarter": {
+      "Jacksonville Jaguars": [
+        0,
+        17,
+        9,
+        0
+      ],
+      "San Francisco 49ers": [
+        3,
+        3,
+        8,
+        7
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "Levi's Stadium",
+    "teams": {
+      "San Francisco 49ers": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 38,
+            "completions": 22,
+            "yards": 309,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 31,
+            "sacks": 1,
+            "loss": 3,
+            "rate": 79.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 17,
+            "yards": 49,
+            "average": 2.88,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 5,
+            "yards": 21,
+            "average": 4.2,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 6,
+            "yards": 92,
+            "average": 15.33,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 69
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 4,
+            "yards": 46,
+            "average": 11.5,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Jake Tonges",
+            "receptions": 3,
+            "yards": 58,
+            "average": 19.33,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Skyy Moore",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 26,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "151",
+          "pass_yards_allowed": "174",
+          "total_yards_allowed": "325"
+        }
+      },
+      "Jacksonville Jaguars": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 31,
+            "completions": 21,
+            "yards": 174,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 92.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 19,
+            "yards": 124,
+            "average": 6.53,
+            "long": 48,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "attempts": 4,
+            "yards": 14,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 7,
+            "yards": 7,
+            "average": 1.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Brian Thomas",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Parker Washington",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brenton Strange",
+            "receptions": 6,
+            "yards": 45,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 5,
+            "yards": 49,
+            "average": 9.8,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Travis Hunter",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Hunter Long",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "LeQuint Allen",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 44,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "83",
+          "pass_yards_allowed": "306",
+          "total_yards_allowed": "389"
+        }
+      }
+    }
+  }
+}
