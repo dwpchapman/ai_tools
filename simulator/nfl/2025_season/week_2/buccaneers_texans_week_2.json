@@ -1,0 +1,331 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 20,
+      "Houston Texans": 19
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        7,
+        7,
+        0,
+        6
+      ],
+      "Houston Texans": [
+        10,
+        0,
+        0,
+        9
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2025",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 24,
+            "completions": 13,
+            "yards": 207,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 3,
+            "loss": 25,
+            "rate": 97.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Nick Chubb",
+            "attempts": 12,
+            "yards": 43,
+            "average": 3.58,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "",
+            "attempts": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 3,
+            "yards": 52,
+            "average": 17.33,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 1,
+            "yards": 37,
+            "average": 37.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Harrison Bryant",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 53,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "169",
+          "pass_yards_allowed": "191",
+          "total_yards_allowed": "360"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 38,
+            "completions": 25,
+            "yards": 215,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 4,
+            "loss": 24,
+            "rate": 98.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 17,
+            "yards": 71,
+            "average": 4.18,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 10,
+            "yards": 65,
+            "average": 6.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 6,
+            "yards": 50,
+            "average": 8.33,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 63
+          },
+          {
+            "player": "Mike Evans",
+            "receptions": 5,
+            "yards": 56,
+            "average": 11.2,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Payne Durham",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "84",
+          "pass_yards_allowed": "182",
+          "total_yards_allowed": "266"
+        }
+      }
+    }
+  }
+}

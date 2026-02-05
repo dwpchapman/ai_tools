@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 37,
+      "Cincinnati Bengals": 24
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        7,
+        7,
+        14,
+        9
+      ],
+      "Cincinnati Bengals": [
+        0,
+        3,
+        0,
+        21
+      ]
+    },
+    "week": 5,
+    "date": "October 5, 2025",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jake Browning",
+            "attempts": 40,
+            "completions": 26,
+            "yards": 251,
+            "touchdowns": 3,
+            "interceptions": 3,
+            "long": 64,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 76.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jake Browning",
+            "attempts": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Chase Brown",
+            "attempts": 8,
+            "yards": 27,
+            "average": 3.38,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chase Brown",
+            "receptions": 7,
+            "yards": 21,
+            "average": 3.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 6,
+            "yards": 110,
+            "average": 18.33,
+            "long": 64,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 5,
+            "yards": 82,
+            "average": 16.4,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 50,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "118",
+          "pass_yards_allowed": "247",
+          "total_yards_allowed": "365"
+        }
+      },
+      "Detroit Lions": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 23,
+            "completions": 19,
+            "yards": 258,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 4,
+            "loss": 14,
+            "rate": 153.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "David Montgomery",
+            "attempts": 18,
+            "yards": 65,
+            "average": 3.61,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 12,
+            "yards": 54,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 8,
+            "yards": 100,
+            "average": 12.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 5,
+            "yards": 92,
+            "average": 18.4,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 69
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 2,
+            "yards": 33,
+            "average": 16.5,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Brock Wright",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Isaac TeSlaa",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "85",
+          "pass_yards_allowed": "237",
+          "total_yards_allowed": "322"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 20,
+      "Los Angeles Chargers": 16
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        14,
+        0,
+        3,
+        3
+      ],
+      "Los Angeles Chargers": [
+        0,
+        3,
+        7,
+        6
+      ]
+    },
+    "week": 17,
+    "date": "December 27, 2025",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Chargers": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 32,
+            "completions": 21,
+            "yards": 236,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 60,
+            "sacks": 5,
+            "loss": 35,
+            "rate": 84.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 6,
+            "yards": 37,
+            "average": 6.17,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Omarion Hampton",
+            "attempts": 14,
+            "yards": 29,
+            "average": 2.07,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Tre Harris",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaret Patterson",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Omarion Hampton",
+            "receptions": 8,
+            "yards": 31,
+            "average": 3.88,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 5,
+            "yards": 98,
+            "average": 19.6,
+            "long": 60,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 1,
+            "yards": 31,
+            "average": 31.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "KeAndre Lambert-Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 27,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "118",
+          "pass_yards_allowed": "244",
+          "total_yards_allowed": "362"
+        }
+      },
+      "Houston Texans": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 28,
+            "completions": 16,
+            "yards": 244,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 75,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 80.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 19,
+            "yards": 71,
+            "average": 3.74,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jawhar Jordan",
+            "attempts": 8,
+            "yards": 36,
+            "average": 4.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaylin Noel",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Nick Chubb",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 4,
+            "yards": 0,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 3,
+            "yards": 57,
+            "average": 19.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 2,
+            "yards": 88,
+            "average": 44.0,
+            "long": 75,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 44,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "201",
+          "total_yards_allowed": "275"
+        }
+      }
+    }
+  }
+}

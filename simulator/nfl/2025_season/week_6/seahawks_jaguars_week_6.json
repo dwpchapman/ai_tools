@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 20,
+      "Jacksonville Jaguars": 12
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        0,
+        13,
+        7,
+        0
+      ],
+      "Jacksonville Jaguars": [
+        6,
+        0,
+        0,
+        6
+      ]
+    },
+    "week": 6,
+    "date": "October 12, 2025",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 12,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 42,
+            "completions": 27,
+            "yards": 258,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 7,
+            "loss": 44,
+            "rate": 97.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 12,
+            "yards": 27,
+            "average": 2.25,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dyami Brown",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "LeQuint Allen",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brian Thomas",
+            "receptions": 8,
+            "yards": 90,
+            "average": 11.25,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Travis Hunter",
+            "receptions": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Hunter Long",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 1,
+            "yards": 26,
+            "average": 26.0,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "LeQuint Allen",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 0,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 0
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "60",
+          "pass_yards_allowed": "286",
+          "total_yards_allowed": "346"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 27,
+            "completions": 16,
+            "yards": 295,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 61,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 121.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 10,
+            "yards": 34,
+            "average": 3.4,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 12,
+            "yards": 24,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 4,
+            "yards": 2,
+            "average": 0.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 8,
+            "yards": 162,
+            "average": 20.25,
+            "long": 61,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 13,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 3,
+            "yards": 71,
+            "average": 23.67,
+            "long": 61,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Elijah Arroyo",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tory Horton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 53,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "59",
+          "pass_yards_allowed": "214",
+          "total_yards_allowed": "273"
+        }
+      }
+    }
+  }
+}

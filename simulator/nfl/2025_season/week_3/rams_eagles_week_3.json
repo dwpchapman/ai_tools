@@ -1,0 +1,298 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Rams": 26,
+      "Philadelphia Eagles": 33
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Rams": [
+        10,
+        9,
+        7,
+        0
+      ],
+      "Philadelphia Eagles": [
+        7,
+        0,
+        14,
+        12
+      ]
+    },
+    "week": 3,
+    "date": "September 21, 2025",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 33,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 32,
+            "completions": 21,
+            "yards": 226,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 4,
+            "loss": 24,
+            "rate": 117.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 18,
+            "yards": 46,
+            "average": 2.56,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 9,
+            "yards": 40,
+            "average": 4.44,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 5
+          }
+        ],
+        "receiving": [
+          {
+            "player": "DeVonta Smith",
+            "receptions": 8,
+            "yards": 60,
+            "average": 7.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 109,
+            "average": 18.17,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 4,
+            "yards": 9,
+            "average": 2.25,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 1,
+            "yards": 33,
+            "average": 33.0,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "160",
+          "pass_yards_allowed": "196",
+          "total_yards_allowed": "356"
+        }
+      },
+      "Los Angeles Rams": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 33,
+            "completions": 19,
+            "yards": 196,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 44,
+            "sacks": 1,
+            "loss": 0,
+            "rate": 82.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 20,
+            "yards": 94,
+            "average": 4.7,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 7
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 8,
+            "yards": 53,
+            "average": 6.62,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jordan Whittington",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 11,
+            "yards": 112,
+            "average": 10.18,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 15,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 3,
+            "yards": 56,
+            "average": 18.67,
+            "long": 44,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jordan Whittington",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Higbee",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 6,
+            "long": 51,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "86",
+          "pass_yards_allowed": "202",
+          "total_yards_allowed": "288"
+        }
+      }
+    }
+  }
+}

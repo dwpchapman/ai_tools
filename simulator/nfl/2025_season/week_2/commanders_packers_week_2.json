@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 18,
+      "Green Bay Packers": 27
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        0,
+        3,
+        0,
+        15
+      ],
+      "Green Bay Packers": [
+        7,
+        7,
+        3,
+        10
+      ]
+    },
+    "week": 2,
+    "date": "September 11, 2025",
+    "location": "Lambeau Field",
+    "teams": {
+      "Green Bay Packers": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 31,
+            "completions": 19,
+            "yards": 292,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 57,
+            "sacks": 2,
+            "loss": 23,
+            "rate": 113.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 23,
+            "yards": 84,
+            "average": 3.65,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Savion Williams",
+            "attempts": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Golden",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tucker Kraft",
+            "receptions": 6,
+            "yards": 124,
+            "average": 20.67,
+            "long": 57,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 72
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 4,
+            "yards": 44,
+            "average": 11.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Malik Heath",
+            "receptions": 1,
+            "yards": 37,
+            "average": 37.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 56,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "51",
+          "pass_yards_allowed": "179",
+          "total_yards_allowed": "230"
+        }
+      },
+      "Washington Commanders": {
+        "score": 18,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 42,
+            "completions": 24,
+            "yards": 200,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 20,
+            "sacks": 4,
+            "loss": 21,
+            "rate": 85.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 7,
+            "yards": 17,
+            "average": 2.43,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 8,
+            "yards": 17,
+            "average": 2.12,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Deebo Samuel",
+            "receptions": 7,
+            "yards": 44,
+            "average": 6.29,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 6,
+            "yards": 64,
+            "average": 10.67,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 5,
+            "yards": 48,
+            "average": 9.6,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jaylin Lane",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 3,
+            "long": 51,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "135",
+          "pass_yards_allowed": "269",
+          "total_yards_allowed": "404"
+        }
+      }
+    }
+  }
+}

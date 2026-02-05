@@ -1,0 +1,387 @@
+{
+  "game_info": {
+    "final_score": {
+      "Denver Broncos": 18,
+      "Houston Texans": 15
+    },
+    "team_scores_by_quarter": {
+      "Denver Broncos": [
+        0,
+        7,
+        0,
+        11
+      ],
+      "Houston Texans": [
+        3,
+        9,
+        3,
+        0
+      ]
+    },
+    "week": 9,
+    "date": "November 2, 2025",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Davis Mills",
+            "attempts": 30,
+            "completions": 17,
+            "yards": 137,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 68.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Nick Chubb",
+            "attempts": 11,
+            "yards": 34,
+            "average": 3.09,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 10,
+            "yards": 27,
+            "average": 2.7,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Davis Mills",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "British Brooks",
+            "attempts": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaylin Noel",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 7,
+            "yards": 75,
+            "average": 10.71,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 6,
+            "yards": 77,
+            "average": 12.83,
+            "long": 47,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Harrison Bryant",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 5,
+            "fg_att": 6,
+            "long": 41,
+            "points": 15
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "100",
+          "pass_yards_allowed": "171",
+          "total_yards_allowed": "271"
+        }
+      },
+      "Denver Broncos": {
+        "score": 18,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 37,
+            "completions": 18,
+            "yards": 173,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 1,
+            "loss": 2,
+            "rate": 68.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 15,
+            "yards": 61,
+            "average": 4.07,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Bo Nix",
+            "attempts": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "RJ Harvey",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Adam Prentice",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Troy Franklin",
+            "attempts": 2,
+            "yards": -4,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "RJ Harvey",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 10,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Adam Trautman",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Tyler Badie",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Pat Bryant",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 1,
+            "yards": 30,
+            "average": 30.0,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Michael Bandy",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Evan Engram",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 34,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "77",
+          "pass_yards_allowed": "191",
+          "total_yards_allowed": "268"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 26,
+      "Denver Broncos": 34
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        3,
+        13,
+        7,
+        3
+      ],
+      "Denver Broncos": [
+        0,
+        14,
+        13,
+        7
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 34,
+            "completions": 23,
+            "yards": 302,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 42,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 134.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "RJ Harvey",
+            "attempts": 19,
+            "yards": 65,
+            "average": 3.42,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Bo Nix",
+            "attempts": 7,
+            "yards": 10,
+            "average": 1.43,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Marvin Mims",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Troy Franklin",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Adam Prentice",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Courtland Sutton",
+            "receptions": 7,
+            "yards": 113,
+            "average": 16.14,
+            "long": 42,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 6,
+            "yards": 85,
+            "average": 14.17,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Marvin Mims",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Lil'Jordan Humphrey",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tyler Badie",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Evan Engram",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Michael Bandy",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "RJ Harvey",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "115",
+          "pass_yards_allowed": "247",
+          "total_yards_allowed": "362"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 40,
+            "completions": 24,
+            "yards": 276,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 3,
+            "loss": 29,
+            "rate": 68.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 12,
+            "yards": 73,
+            "average": 6.08,
+            "long": 40,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Christopher Brooks",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bo Melton",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jayden Reed",
+            "receptions": 5,
+            "yards": 55,
+            "average": 11.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "John FitzPatrick",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 3,
+            "yards": 55,
+            "average": 18.33,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 53,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "89",
+          "pass_yards_allowed": "302",
+          "total_yards_allowed": "391"
+        }
+      }
+    }
+  }
+}

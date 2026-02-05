@@ -1,0 +1,398 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 23,
+      "Cleveland Browns": 20
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        7,
+        13,
+        3,
+        0
+      ],
+      "Cleveland Browns": [
+        7,
+        3,
+        7,
+        3
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 29,
+            "completions": 20,
+            "yards": 157,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 26,
+            "sacks": 2,
+            "loss": 21,
+            "rate": 64.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Shedeur Sanders",
+            "attempts": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Raheim Sanders",
+            "attempts": 11,
+            "yards": 42,
+            "average": 3.82,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Malachi Corley",
+            "attempts": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Quinshon Judkins",
+            "attempts": 8,
+            "yards": 22,
+            "average": 2.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Trayveon Williams",
+            "attempts": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Harold Fannin",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Isaiah Bond",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Quinshon Judkins",
+            "receptions": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Trayveon Williams",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Harold Fannin",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Malachi Corley",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Raheim Sanders",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 0,
+            "yards": 21,
+            "average": 0.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Brenden Bates",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 41,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "164",
+          "pass_yards_allowed": "95",
+          "total_yards_allowed": "259"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 19,
+            "completions": 12,
+            "yards": 130,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 21,
+            "sacks": 2,
+            "loss": 35,
+            "rate": 83.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 16,
+            "yards": 117,
+            "average": 7.31,
+            "long": 44,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 7,
+            "yards": 17,
+            "average": 2.43,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Jackson Hawes",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Tyrell Shavers",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "James Cook",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Michael Badgley",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 41,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "160",
+          "pass_yards_allowed": "134",
+          "total_yards_allowed": "294"
+        }
+      }
+    }
+  }
+}

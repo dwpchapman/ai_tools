@@ -1,0 +1,327 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 23,
+      "Atlanta Falcons": 20
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        0,
+        10,
+        7,
+        6
+      ],
+      "Atlanta Falcons": [
+        7,
+        3,
+        3,
+        7
+      ]
+    },
+    "week": 1,
+    "date": "September 7, 2025",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Michael Penix",
+            "attempts": 42,
+            "completions": 27,
+            "yards": 298,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 50,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 93.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 10,
+            "yards": 24,
+            "average": 2.4,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bijan Robinson",
+            "attempts": 12,
+            "yards": 24,
+            "average": 2.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Michael Penix",
+            "attempts": 6,
+            "yards": 21,
+            "average": 3.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 8,
+            "yards": 55,
+            "average": 6.88,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 15,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 7,
+            "yards": 59,
+            "average": 8.43,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 6,
+            "yards": 100,
+            "average": 16.67,
+            "long": 50,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 106
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 3,
+            "yards": 51,
+            "average": 17.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Casey Washington",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Khadarel Hodge",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 41,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "101",
+          "pass_yards_allowed": "159",
+          "total_yards_allowed": "260"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 32,
+            "completions": 17,
+            "yards": 167,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 99.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 14,
+            "yards": 37,
+            "average": 2.64,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emeka Egbuka",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mike Evans",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 4,
+            "yards": 67,
+            "average": 16.75,
+            "long": 30,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 4,
+            "yards": 8,
+            "average": 2.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tez Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 48,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "69",
+          "pass_yards_allowed": "289",
+          "total_yards_allowed": "358"
+        }
+      }
+    }
+  }
+}

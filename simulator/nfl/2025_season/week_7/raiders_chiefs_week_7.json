@@ -1,0 +1,368 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 0,
+      "Kansas City Chiefs": 31
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Kansas City Chiefs": [
+        7,
+        14,
+        10,
+        0
+      ]
+    },
+    "week": 7,
+    "date": "October 19, 2025",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 35,
+            "completions": 26,
+            "yards": 286,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 44,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 126.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 15,
+            "yards": 57,
+            "average": 3.8,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Brashard Smith",
+            "attempts": 14,
+            "yards": 39,
+            "average": 2.79,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Gardner Minshew",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rashee Rice",
+            "receptions": 7,
+            "yards": 42,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Brashard Smith",
+            "receptions": 5,
+            "yards": 42,
+            "average": 8.4,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Marquise Brown",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tyquan Thornton",
+            "receptions": 1,
+            "yards": 39,
+            "average": 39.0,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 15
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 38,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "25",
+          "pass_yards_allowed": "70",
+          "total_yards_allowed": "95"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 0,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 16,
+            "completions": 10,
+            "yards": 67,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 14,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 71.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 6,
+            "yards": 21,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dylan Laube",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kenny Pickett",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tre Tucker",
+            "receptions": 5,
+            "yards": 33,
+            "average": 6.6,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Jack Bech",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Dylan Laube",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Carter Runyon",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dont'e Thornton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [],
+        "defense": {
+          "rush_yards_allowed": "152",
+          "pass_yards_allowed": "282",
+          "total_yards_allowed": "434"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 14,
+      "New Orleans Saints": 26
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        7,
+        7,
+        0,
+        0
+      ],
+      "New Orleans Saints": [
+        3,
+        13,
+        3,
+        7
+      ]
+    },
+    "week": 5,
+    "date": "October 5, 2025",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 31,
+            "completions": 21,
+            "yards": 225,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 87,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 99.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kendre Miller",
+            "attempts": 10,
+            "yards": 41,
+            "average": 4.1,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Alvin Kamara",
+            "attempts": 8,
+            "yards": 27,
+            "average": 3.38,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Spencer Rattler",
+            "attempts": 6,
+            "yards": 21,
+            "average": 3.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 6,
+            "yards": -1,
+            "average": -0.17,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 7,
+            "yards": 59,
+            "average": 8.43,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 4,
+            "yards": 114,
+            "average": 28.5,
+            "long": 87,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kendre Miller",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Spencer Rattler",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 6,
+            "long": 53,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "136",
+          "pass_yards_allowed": "199",
+          "total_yards_allowed": "335"
+        }
+      },
+      "New York Giants": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Jaxson Dart",
+            "attempts": 40,
+            "completions": 26,
+            "yards": 202,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 18,
+            "sacks": 1,
+            "loss": 3,
+            "rate": 73.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cam Skattebo",
+            "attempts": 15,
+            "yards": 59,
+            "average": 3.93,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 7,
+            "yards": 55,
+            "average": 7.86,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 6,
+            "yards": 20,
+            "average": 3.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Theo Johnson",
+            "receptions": 6,
+            "yards": 33,
+            "average": 5.5,
+            "long": 15,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Cam Skattebo",
+            "receptions": 6,
+            "yards": 45,
+            "average": 7.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Beaux Collins",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jude McAtamney",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "88",
+          "pass_yards_allowed": "244",
+          "total_yards_allowed": "332"
+        }
+      }
+    }
+  }
+}

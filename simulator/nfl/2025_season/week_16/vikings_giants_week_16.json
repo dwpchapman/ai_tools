@@ -1,0 +1,345 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 16,
+      "New York Giants": 13
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        3,
+        10,
+        0,
+        3
+      ],
+      "New York Giants": [
+        0,
+        10,
+        0,
+        3
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Jaxson Dart",
+            "attempts": 13,
+            "completions": 7,
+            "yards": 33,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 14,
+            "sacks": 5,
+            "loss": 20,
+            "rate": 27.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 16,
+            "yards": 71,
+            "average": 4.44,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 11,
+            "yards": 47,
+            "average": 4.27,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaxson Dart",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ben Sauls",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 39,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "114",
+          "pass_yards_allowed": "126",
+          "total_yards_allowed": "240"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 14,
+            "completions": 9,
+            "yards": 108,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 20,
+            "sacks": 3,
+            "loss": 25,
+            "rate": 58.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 21,
+            "yards": 85,
+            "average": 4.05,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Mason",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zavier Scott",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Max Brosmer",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 6,
+            "yards": 85,
+            "average": 14.17,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Tai Felton",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Zavier Scott",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 43,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "128",
+          "pass_yards_allowed": "13",
+          "total_yards_allowed": "141"
+        }
+      }
+    }
+  }
+}

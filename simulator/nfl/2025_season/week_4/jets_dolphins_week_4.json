@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 21,
+      "Miami Dolphins": 27
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        0,
+        3,
+        7,
+        11
+      ],
+      "Miami Dolphins": [
+        3,
+        7,
+        14,
+        3
+      ]
+    },
+    "week": 4,
+    "date": "September 29, 2025",
+    "location": "Hard Rock Stadium",
+    "teams": {
+      "Miami Dolphins": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 25,
+            "completions": 17,
+            "yards": 177,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 114.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 20,
+            "yards": 99,
+            "average": 4.95,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Ollie Gordon",
+            "attempts": 6,
+            "yards": 10,
+            "average": 1.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malik Washington",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyreek Hill",
+            "receptions": 6,
+            "yards": 67,
+            "average": 11.17,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Darren Waller",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "De'Von Achane",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Julian Hill",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Ollie Gordon",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 47,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "197",
+          "pass_yards_allowed": "207",
+          "total_yards_allowed": "404"
+        }
+      },
+      "New York Jets": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 27,
+            "completions": 20,
+            "yards": 226,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 2,
+            "loss": 19,
+            "rate": 111.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 7,
+            "yards": 81,
+            "average": 11.57,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Breece Hall",
+            "attempts": 14,
+            "yards": 81,
+            "average": 5.79,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Garrett Wilson",
+            "receptions": 6,
+            "yards": 82,
+            "average": 13.67,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Mason Taylor",
+            "receptions": 5,
+            "yards": 65,
+            "average": 13.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Isaiah Davis",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Josh Reynolds",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 58,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "123",
+          "pass_yards_allowed": "177",
+          "total_yards_allowed": "300"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 10,
+      "Green Bay Packers": 7
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        0,
+        0,
+        3,
+        7
+      ],
+      "Green Bay Packers": [
+        0,
+        0,
+        0,
+        7
+      ]
+    },
+    "week": 10,
+    "date": "November 10, 2025",
+    "location": "Lambeau Field",
+    "teams": {
+      "Green Bay Packers": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 36,
+            "completions": 20,
+            "yards": 176,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 3,
+            "loss": 19,
+            "rate": 68.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 21,
+            "yards": 74,
+            "average": 3.52,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Jacobs",
+            "receptions": 5,
+            "yards": 33,
+            "average": 6.6,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 2,
+            "yards": 45,
+            "average": 22.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Savion Williams",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "111",
+          "pass_yards_allowed": "183",
+          "total_yards_allowed": "294"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 26,
+            "completions": 15,
+            "yards": 183,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 92.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 22,
+            "yards": 60,
+            "average": 2.73,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 5,
+            "yards": 27,
+            "average": 5.4,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Will Shipley",
+            "attempts": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dallas Goedert",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 4,
+            "yards": 69,
+            "average": 17.25,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 41,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Will Shipley",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 39,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "104",
+          "pass_yards_allowed": "157",
+          "total_yards_allowed": "261"
+        }
+      }
+    }
+  }
+}

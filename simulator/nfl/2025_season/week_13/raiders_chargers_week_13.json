@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 14,
+      "Los Angeles Chargers": 31
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        0,
+        7,
+        0,
+        7
+      ],
+      "Los Angeles Chargers": [
+        7,
+        0,
+        14,
+        10
+      ]
+    },
+    "week": 13,
+    "date": "November 30, 2025",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Chargers": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 20,
+            "completions": 15,
+            "yards": 151,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 3,
+            "loss": 11,
+            "rate": 108.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kimani Vidal",
+            "attempts": 25,
+            "yards": 126,
+            "average": 5.04,
+            "long": 59,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jaret Patterson",
+            "attempts": 11,
+            "yards": 54,
+            "average": 4.91,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trey Lance",
+            "attempts": 4,
+            "yards": 4,
+            "average": 1.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tre Harris",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Oronde Gadsden",
+            "receptions": 1,
+            "yards": 27,
+            "average": 27.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 56,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "31",
+          "pass_yards_allowed": "125",
+          "total_yards_allowed": "156"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 23,
+            "completions": 18,
+            "yards": 165,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 5,
+            "loss": 40,
+            "rate": 107.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 15,
+            "yards": 31,
+            "average": 2.07,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 2,
+            "yards": -6,
+            "average": -3.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 6,
+            "yards": 30,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Brock Bowers",
+            "receptions": 4,
+            "yards": 63,
+            "average": 15.75,
+            "long": 27,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jack Bech",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Ian Thomas",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Dont'e Thornton",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "192",
+          "pass_yards_allowed": "149",
+          "total_yards_allowed": "341"
+        }
+      }
+    }
+  }
+}

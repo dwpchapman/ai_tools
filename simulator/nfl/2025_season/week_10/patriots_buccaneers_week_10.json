@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "New England Patriots": 28,
+      "Tampa Bay Buccaneers": 23
+    },
+    "team_scores_by_quarter": {
+      "New England Patriots": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "Tampa Bay Buccaneers": [
+        7,
+        3,
+        6,
+        7
+      ]
+    },
+    "week": 10,
+    "date": "November 9, 2025",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 43,
+            "completions": 28,
+            "yards": 273,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 106.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Sean Tucker",
+            "attempts": 9,
+            "yards": 53,
+            "average": 5.89,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 10,
+            "yards": 38,
+            "average": 3.8,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kameron Johnson",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sterling Shepard",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emeka Egbuka",
+            "attempts": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Cade Otton",
+            "receptions": 9,
+            "yards": 82,
+            "average": 9.11,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 6,
+            "yards": 115,
+            "average": 19.17,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 13,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 5,
+            "yards": 16,
+            "average": 3.2,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Tez Johnson",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 12,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Sean Tucker",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Payne Durham",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kameron Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 36,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "166",
+          "pass_yards_allowed": "269",
+          "total_yards_allowed": "435"
+        }
+      },
+      "New England Patriots": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 31,
+            "completions": 16,
+            "yards": 270,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 72,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 89.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "TreVeyon Henderson",
+            "attempts": 14,
+            "yards": 147,
+            "average": 10.5,
+            "long": 69,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 7,
+            "yards": 13,
+            "average": 1.86,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Terrell Jennings",
+            "attempts": 4,
+            "yards": 5,
+            "average": 1.25,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Demario Douglas",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mack Hollins",
+            "receptions": 6,
+            "yards": 106,
+            "average": 17.67,
+            "long": 54,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Stefon Diggs",
+            "receptions": 5,
+            "yards": 46,
+            "average": 9.2,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Kyle Williams",
+            "receptions": 1,
+            "yards": 72,
+            "average": 72.0,
+            "long": 72,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jack Westover",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andres Borregales",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "113",
+          "pass_yards_allowed": "258",
+          "total_yards_allowed": "371"
+        }
+      }
+    }
+  }
+}

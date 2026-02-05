@@ -1,0 +1,389 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 31,
+      "Detroit Lions": 24
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        3,
+        14,
+        14,
+        0
+      ],
+      "Detroit Lions": [
+        0,
+        14,
+        7,
+        3
+      ]
+    },
+    "week": 13,
+    "date": "November 27, 2025",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 26,
+            "completions": 20,
+            "yards": 256,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 44,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 132.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 20,
+            "yards": 68,
+            "average": 3.4,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 8,
+            "yards": 32,
+            "average": 4.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": -5,
+            "average": -5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jameson Williams",
+            "receptions": 7,
+            "yards": 144,
+            "average": 20.57,
+            "long": 44,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 87
+          },
+          {
+            "player": "Tom Kennedy",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Isaac TeSlaa",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Anthony Firkser",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ross Dwelley",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Amon-Ra S",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 31,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "125",
+          "pass_yards_allowed": "234",
+          "total_yards_allowed": "359"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 30,
+            "completions": 18,
+            "yards": 234,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 51,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 124.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 17,
+            "yards": 83,
+            "average": 4.88,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Bo Melton",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 4,
+            "yards": 14,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 5,
+            "yards": 4,
+            "average": 0.8,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Christian Watson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 6,
+            "yards": 94,
+            "average": 15.67,
+            "long": 30,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 4,
+            "yards": 80,
+            "average": 20.0,
+            "long": 51,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Malik Heath",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "John FitzPatrick",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 45,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "119",
+          "pass_yards_allowed": "233",
+          "total_yards_allowed": "352"
+        }
+      }
+    }
+  }
+}

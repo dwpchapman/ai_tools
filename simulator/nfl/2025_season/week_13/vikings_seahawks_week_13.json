@@ -1,0 +1,326 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 0,
+      "Seattle Seahawks": 26
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Seattle Seahawks": [
+        0,
+        13,
+        6,
+        7
+      ]
+    },
+    "week": 13,
+    "date": "November 30, 2025",
+    "location": "Lumen Field",
+    "teams": {
+      "Seattle Seahawks": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 26,
+            "completions": 14,
+            "yards": 128,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 21,
+            "sacks": 4,
+            "loss": 34,
+            "rate": 67.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 13,
+            "yards": 56,
+            "average": 4.31,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 14,
+            "yards": 52,
+            "average": 3.71,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Rashid Shaheed",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Myles Gaskin",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "AJ Barner",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "AJ Barner",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cody White",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Elijah Arroyo",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 56,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "66",
+          "pass_yards_allowed": "96",
+          "total_yards_allowed": "162"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 0,
+        "passing": [
+          {
+            "player": "Max Brosmer",
+            "attempts": 30,
+            "completions": 19,
+            "yards": 126,
+            "touchdowns": 0,
+            "interceptions": 4,
+            "long": 29,
+            "sacks": 4,
+            "loss": 30,
+            "rate": 32.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 6,
+            "yards": 47,
+            "average": 7.83,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Zavier Scott",
+            "attempts": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Jones",
+            "attempts": 6,
+            "yards": 3,
+            "average": 0.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Max Brosmer",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 59,
+            "average": 9.83,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 5,
+            "yards": 36,
+            "average": 7.2,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Zavier Scott",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [],
+        "defense": {
+          "rush_yards_allowed": "125",
+          "pass_yards_allowed": "94",
+          "total_yards_allowed": "219"
+        }
+      }
+    }
+  }
+}

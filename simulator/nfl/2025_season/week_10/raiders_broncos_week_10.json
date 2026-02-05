@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 7,
+      "Denver Broncos": 10
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Denver Broncos": [
+        0,
+        7,
+        3,
+        0
+      ]
+    },
+    "week": 10,
+    "date": "November 6, 2025",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 28,
+            "completions": 16,
+            "yards": 150,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 43,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 54.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 18,
+            "yards": 77,
+            "average": 4.28,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "RJ Harvey",
+            "attempts": 4,
+            "yards": 9,
+            "average": 2.25,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bo Nix",
+            "attempts": 5,
+            "yards": -2,
+            "average": -0.4,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Troy Franklin",
+            "receptions": 5,
+            "yards": 40,
+            "average": 8.0,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Evan Engram",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "RJ Harvey",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Pat Bryant",
+            "receptions": 1,
+            "yards": 43,
+            "average": 43.0,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Adam Prentice",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Adam Trautman",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tyler Badie",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 32,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "114",
+          "total_yards_allowed": "188"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 26,
+            "completions": 16,
+            "yards": 143,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 6,
+            "loss": 29,
+            "rate": 60.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ashton Jeanty",
+            "attempts": 19,
+            "yards": 60,
+            "average": 3.16,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brock Bowers",
+            "attempts": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Lockett",
+            "receptions": 5,
+            "yards": 44,
+            "average": 8.8,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Ashton Jeanty",
+            "receptions": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Brock Bowers",
+            "receptions": 1,
+            "yards": 31,
+            "average": 31.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Dont'e Thornton",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jack Bech",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "84",
+          "pass_yards_allowed": "136",
+          "total_yards_allowed": "220"
+        }
+      }
+    }
+  }
+}

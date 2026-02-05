@@ -1,0 +1,298 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 27,
+      "Detroit Lions": 24
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        14,
+        3,
+        7,
+        3
+      ],
+      "Detroit Lions": [
+        7,
+        7,
+        3,
+        7
+      ]
+    },
+    "week": 9,
+    "date": "November 2, 2025",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 37,
+            "completions": 25,
+            "yards": 284,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 5,
+            "loss": 44,
+            "rate": 108.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "David Montgomery",
+            "attempts": 11,
+            "yards": 40,
+            "average": 3.64,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 9,
+            "yards": 25,
+            "average": 2.78,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 9,
+            "yards": 97,
+            "average": 10.78,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 13,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 6,
+            "yards": 97,
+            "average": 16.17,
+            "long": 40,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 4,
+            "yards": 66,
+            "average": 16.5,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Brock Wright",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 41,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "142",
+          "pass_yards_allowed": "116",
+          "total_yards_allowed": "258"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 25,
+            "completions": 14,
+            "yards": 143,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 5,
+            "loss": 27,
+            "rate": 82.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 9,
+            "yards": 78,
+            "average": 8.67,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jordan Mason",
+            "attempts": 10,
+            "yards": 36,
+            "average": 3.6,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Addison",
+            "attempts": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 9,
+            "yards": 12,
+            "average": 1.33,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 6,
+            "yards": 47,
+            "average": 7.83,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 2,
+            "yards": 48,
+            "average": 24.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 50,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "65",
+          "pass_yards_allowed": "240",
+          "total_yards_allowed": "305"
+        }
+      }
+    }
+  }
+}

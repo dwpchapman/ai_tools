@@ -1,0 +1,371 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cincinnati Bengals": 32,
+      "Baltimore Ravens": 14
+    },
+    "team_scores_by_quarter": {
+      "Cincinnati Bengals": [
+        3,
+        9,
+        14,
+        6
+      ],
+      "Baltimore Ravens": [
+        7,
+        0,
+        7,
+        0
+      ]
+    },
+    "week": 13,
+    "date": "November 27, 2025",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 32,
+            "completions": 17,
+            "yards": 246,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 44,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 65.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 10,
+            "yards": 60,
+            "average": 6.0,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 6,
+            "yards": 27,
+            "average": 4.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Keaton Mitchell",
+            "attempts": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Rasheen Ali",
+            "attempts": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Isaiah Likely",
+            "receptions": 5,
+            "yards": 95,
+            "average": 19.0,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Keaton Mitchell",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 1,
+            "yards": 44,
+            "average": 44.0,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Devontez Walker",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Loop",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "128",
+          "pass_yards_allowed": "254",
+          "total_yards_allowed": "382"
+        }
+      },
+      "Cincinnati Bengals": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 46,
+            "completions": 24,
+            "yards": 261,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 43,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 83.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 15,
+            "yards": 78,
+            "average": 5.2,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 14,
+            "yards": 39,
+            "average": 2.79,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Drew Sample",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chase Brown",
+            "receptions": 7,
+            "yards": 35,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 7,
+            "yards": 110,
+            "average": 15.71,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 14,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Mitchell Tinsley",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Tanner Hudson",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 1,
+            "yards": 29,
+            "average": 29.0,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 6,
+            "fg_att": 6,
+            "long": 52,
+            "points": 20
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "123",
+          "pass_yards_allowed": "223",
+          "total_yards_allowed": "346"
+        }
+      }
+    }
+  }
+}

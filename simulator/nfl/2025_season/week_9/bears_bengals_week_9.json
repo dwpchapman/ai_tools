@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 47,
+      "Cincinnati Bengals": 42
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        7,
+        10,
+        14,
+        16
+      ],
+      "Cincinnati Bengals": [
+        10,
+        10,
+        7,
+        15
+      ]
+    },
+    "week": 9,
+    "date": "November 2, 2025",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 42,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 47,
+            "completions": 31,
+            "yards": 470,
+            "touchdowns": 4,
+            "interceptions": 2,
+            "long": 44,
+            "sacks": 3,
+            "loss": 21,
+            "rate": 109.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 11,
+            "yards": 37,
+            "average": 3.36,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Andrei Iosivas",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tahj Brooks",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chase Brown",
+            "receptions": 8,
+            "yards": 75,
+            "average": 9.38,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 14,
+            "yards_after_catch": 70
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 7,
+            "yards": 121,
+            "average": 17.29,
+            "long": 44,
+            "touchdowns": 2,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 6,
+            "yards": 111,
+            "average": 18.5,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 5,
+            "yards": 66,
+            "average": 13.2,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tanner Hudson",
+            "receptions": 2,
+            "yards": 42,
+            "average": 21.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Mitchell Tinsley",
+            "receptions": 1,
+            "yards": 27,
+            "average": 27.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 41,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "283",
+          "pass_yards_allowed": "293",
+          "total_yards_allowed": "576"
+        }
+      },
+      "Chicago Bears": {
+        "score": 47,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 34,
+            "completions": 20,
+            "yards": 280,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 58,
+            "sacks": 2,
+            "loss": 9,
+            "rate": 114.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyle Monangai",
+            "attempts": 26,
+            "yards": 176,
+            "average": 6.77,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 5,
+            "yards": 53,
+            "average": 10.6,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Brittain Brown",
+            "attempts": 5,
+            "yards": 37,
+            "average": 7.4,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Colston Loveland",
+            "receptions": 6,
+            "yards": 118,
+            "average": 19.67,
+            "long": 58,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 6,
+            "yards": 58,
+            "average": 9.67,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 72,
+            "average": 18.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Kyle Monangai",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Caleb Williams",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Brittain Brown",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 36,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "46",
+          "pass_yards_allowed": "449",
+          "total_yards_allowed": "495"
+        }
+      }
+    }
+  }
+}

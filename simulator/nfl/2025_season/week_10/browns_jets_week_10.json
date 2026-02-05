@@ -1,0 +1,378 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 20,
+      "New York Jets": 27
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        7,
+        10,
+        0,
+        3
+      ],
+      "New York Jets": [
+        14,
+        3,
+        0,
+        10
+      ]
+    },
+    "week": 10,
+    "date": "November 9, 2025",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Jets": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 11,
+            "completions": 6,
+            "yards": 54,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 42,
+            "sacks": 3,
+            "loss": 12,
+            "rate": 60.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 21,
+            "yards": 83,
+            "average": 3.95,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 7,
+            "yards": 28,
+            "average": 4.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Arian Smith",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "John Metchie",
+            "attempts": 1,
+            "yards": -7,
+            "average": -7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Isaiah Davis",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Isaiah Williams",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Mason Taylor",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 1,
+            "yards": 42,
+            "average": 42.0,
+            "long": 42,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 37,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "158",
+          "pass_yards_allowed": "120",
+          "total_yards_allowed": "278"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Dillon Gabriel",
+            "attempts": 32,
+            "completions": 17,
+            "yards": 167,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 6,
+            "loss": 47,
+            "rate": 88.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Quinshon Judkins",
+            "attempts": 22,
+            "yards": 75,
+            "average": 3.41,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Dillon Gabriel",
+            "attempts": 5,
+            "yards": 54,
+            "average": 10.8,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Malachi Corley",
+            "attempts": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dylan Sampson",
+            "attempts": 2,
+            "yards": -4,
+            "average": -2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 6,
+            "yards": 78,
+            "average": 13.0,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Harold Fannin",
+            "receptions": 4,
+            "yards": 44,
+            "average": 11.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Quinshon Judkins",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "David Njoku",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Dylan Sampson",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Malachi Corley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jamari Thrash",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 45,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "127",
+          "pass_yards_allowed": "42",
+          "total_yards_allowed": "169"
+        }
+      }
+    }
+  }
+}

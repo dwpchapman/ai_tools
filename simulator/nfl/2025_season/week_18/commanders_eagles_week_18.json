@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 24,
+      "Philadelphia Eagles": 17
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        0,
+        10,
+        0,
+        14
+      ],
+      "Philadelphia Eagles": [
+        0,
+        7,
+        10,
+        0
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Tanner McKee",
+            "attempts": 40,
+            "completions": 21,
+            "yards": 241,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 3,
+            "loss": 14,
+            "rate": 68.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 16,
+            "yards": 75,
+            "average": 4.69,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Tanner McKee",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Will Shipley",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kylen Granson",
+            "receptions": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Darius Cooper",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 3,
+            "yards": 52,
+            "average": 17.33,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Britain Covey",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Will Shipley",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 1,
+            "yards": 31,
+            "average": 31.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "AJ Dillon",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 39,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "143",
+          "pass_yards_allowed": "131",
+          "total_yards_allowed": "274"
+        }
+      },
+      "Washington Commanders": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Josh Johnson",
+            "attempts": 22,
+            "completions": 14,
+            "yards": 131,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 76.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 16,
+            "yards": 65,
+            "average": 4.06,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Josh Johnson",
+            "attempts": 9,
+            "yards": 45,
+            "average": 5.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 13,
+            "yards": 29,
+            "average": 2.23,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Terry McLaurin",
+            "receptions": 4,
+            "yards": 57,
+            "average": 14.25,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "John Bates",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Treylon Burks",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 17
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 56,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "80",
+          "pass_yards_allowed": "227",
+          "total_yards_allowed": "307"
+        }
+      }
+    }
+  }
+}

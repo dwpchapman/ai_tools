@@ -1,0 +1,376 @@
+{
+  "game_info": {
+    "final_score": {
+      "Denver Broncos": 13,
+      "New York Jets": 11
+    },
+    "team_scores_by_quarter": {
+      "Denver Broncos": [
+        10,
+        0,
+        0,
+        3
+      ],
+      "New York Jets": [
+        6,
+        0,
+        5,
+        0
+      ]
+    },
+    "week": 6,
+    "date": "October 12, 2025",
+    "location": "Tottenham Hotspur Stadium",
+    "teams": {
+      "New York Jets": {
+        "score": 11,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 17,
+            "completions": 9,
+            "yards": 45,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 11,
+            "sacks": 9,
+            "loss": 55,
+            "rate": 58.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 22,
+            "yards": 59,
+            "average": 2.68,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 7,
+            "yards": 31,
+            "average": 4.43,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Reynolds",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Andrew Beck",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Isaiah Davis",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mason Taylor",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Arian Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 52,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "168",
+          "total_yards_allowed": "246"
+        }
+      },
+      "Denver Broncos": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 30,
+            "completions": 19,
+            "yards": 174,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 90.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 14,
+            "yards": 40,
+            "average": 2.86,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Bo Nix",
+            "attempts": 5,
+            "yards": 24,
+            "average": 4.8,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Evan Engram",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "RJ Harvey",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Adam Prentice",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Troy Franklin",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Marvin Mims",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Evan Engram",
+            "receptions": 5,
+            "yards": 42,
+            "average": 8.4,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "RJ Harvey",
+            "receptions": 4,
+            "yards": 21,
+            "average": 5.25,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Nate Adkins",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Pat Bryant",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Marvin Mims",
+            "receptions": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 57,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "92",
+          "pass_yards_allowed": "-10",
+          "total_yards_allowed": "82"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 7,
+      "Kansas City Chiefs": 28
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        0,
+        7,
+        0,
+        0
+      ],
+      "Kansas City Chiefs": [
+        0,
+        7,
+        14,
+        7
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2025",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 34,
+            "completions": 25,
+            "yards": 299,
+            "touchdowns": 3,
+            "interceptions": 2,
+            "long": 38,
+            "sacks": 3,
+            "loss": 15,
+            "rate": 104.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 12,
+            "yards": 58,
+            "average": 4.83,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 9,
+            "yards": 40,
+            "average": 4.44,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Rashee Rice",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brashard Smith",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rashee Rice",
+            "receptions": 9,
+            "yards": 93,
+            "average": 10.33,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 6,
+            "yards": 99,
+            "average": 16.5,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 5,
+            "yards": 53,
+            "average": 10.6,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Marquise Brown",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "60",
+          "pass_yards_allowed": "200",
+          "total_yards_allowed": "260"
+        }
+      },
+      "Washington Commanders": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Marcus Mariota",
+            "attempts": 30,
+            "completions": 21,
+            "yards": 213,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 25,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 73.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Marcus Mariota",
+            "attempts": 8,
+            "yards": 28,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "attempts": 9,
+            "yards": 25,
+            "average": 2.78,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 5,
+            "yards": 64,
+            "average": 12.8,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 62
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "John Bates",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jaylin Lane",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matthew Wright",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "148",
+          "pass_yards_allowed": "284",
+          "total_yards_allowed": "432"
+        }
+      }
+    }
+  }
+}

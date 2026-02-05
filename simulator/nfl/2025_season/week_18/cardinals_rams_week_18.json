@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 20,
+      "Los Angeles Rams": 37
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        3,
+        3,
+        14,
+        0
+      ],
+      "Los Angeles Rams": [
+        3,
+        13,
+        7,
+        14
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 40,
+            "completions": 25,
+            "yards": 259,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 114.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 12,
+            "yards": 60,
+            "average": 5.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 13,
+            "yards": 59,
+            "average": 4.54,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jimmy Garoppolo",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 10,
+            "yards": 76,
+            "average": 7.6,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Tyler Higbee",
+            "receptions": 5,
+            "yards": 91,
+            "average": 18.2,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 21,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Blake Corum",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Xavier Smith",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Konata Mumpfield",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Mevis",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 42,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "238",
+          "total_yards_allowed": "317"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 31,
+            "completions": 22,
+            "yards": 243,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 43,
+            "sacks": 6,
+            "loss": 33,
+            "rate": 101.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Emari Demercado",
+            "attempts": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Michael Carter",
+            "attempts": 7,
+            "yards": 18,
+            "average": 2.57,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Corey Kiner",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 7,
+            "yards": 65,
+            "average": 9.29,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 5,
+            "yards": 99,
+            "average": 19.8,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Michael Carter",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Josiah Deguara",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Corey Kiner",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Emari Demercado",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 56,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "143",
+          "pass_yards_allowed": "252",
+          "total_yards_allowed": "395"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 34,
+      "Dallas Cowboys": 26
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        7,
+        10,
+        7,
+        10
+      ],
+      "Dallas Cowboys": [
+        7,
+        10,
+        6,
+        3
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 38,
+            "completions": 23,
+            "yards": 294,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 2,
+            "loss": 9,
+            "rate": 84.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Javonte Williams",
+            "attempts": 15,
+            "yards": 91,
+            "average": 6.07,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Malik Davis",
+            "attempts": 8,
+            "yards": 21,
+            "average": 2.62,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Hunter Luepke",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brandon Aubrey",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dak Prescott",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 6,
+            "yards": 111,
+            "average": 18.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "George Pickens",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Malik Davis",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Hunter Luepke",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 1,
+            "yards": 29,
+            "average": 29.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Brevyn Spann-Ford",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 6,
+            "long": 41,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "77",
+          "pass_yards_allowed": "250",
+          "total_yards_allowed": "327"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 24,
+            "completions": 15,
+            "yards": 250,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 58,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 108.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 12,
+            "yards": 34,
+            "average": 2.83,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jordan Mason",
+            "attempts": 10,
+            "yards": 29,
+            "average": 2.9,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen Nailor",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 66,
+            "average": 16.5,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 3,
+            "yards": 47,
+            "average": 15.67,
+            "long": 23,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 2,
+            "yards": 66,
+            "average": 33.0,
+            "long": 58,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 53,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "138",
+          "pass_yards_allowed": "285",
+          "total_yards_allowed": "423"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 9,
+      "Tennessee Titans": 26
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        0,
+        6,
+        3,
+        0
+      ],
+      "Tennessee Titans": [
+        0,
+        9,
+        7,
+        10
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "Nissan Stadium",
+    "teams": {
+      "Tennessee Titans": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 28,
+            "completions": 21,
+            "yards": 228,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 122.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 21,
+            "yards": 102,
+            "average": 4.86,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 13,
+            "yards": 52,
+            "average": 4.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Cameron Ward",
+            "attempts": 4,
+            "yards": 9,
+            "average": 2.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kalel Mullings",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 6,
+            "yards": 44,
+            "average": 7.33,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 5,
+            "yards": 53,
+            "average": 10.6,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 72
+          },
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 3,
+            "yards": 58,
+            "average": 19.33,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Chimere Dike",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 27,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "51",
+          "pass_yards_allowed": "82",
+          "total_yards_allowed": "133"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 9,
+        "passing": [
+          {
+            "player": "Chris Oladokun",
+            "attempts": 16,
+            "completions": 11,
+            "yards": 111,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 4,
+            "loss": 44,
+            "rate": 88.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 8,
+            "yards": 34,
+            "average": 4.25,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Gardner Minshew",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chris Oladokun",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 3,
+            "yards": 2,
+            "average": 0.67,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 6,
+            "yards": 41,
+            "average": 6.83,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Marquise Brown",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 2,
+            "yards": 41,
+            "average": 20.5,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brashard Smith",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 54,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "164",
+          "pass_yards_allowed": "212",
+          "total_yards_allowed": "376"
+        }
+      }
+    }
+  }
+}

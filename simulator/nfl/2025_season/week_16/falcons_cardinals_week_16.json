@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 26,
+      "Arizona Cardinals": 19
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        3,
+        13,
+        3,
+        7
+      ],
+      "Arizona Cardinals": [
+        10,
+        6,
+        0,
+        3
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2025",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 31,
+            "completions": 16,
+            "yards": 203,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 32,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 69.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Michael Carter",
+            "attempts": 11,
+            "yards": 65,
+            "average": 5.91,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Corey Kiner",
+            "attempts": 6,
+            "yards": 32,
+            "average": 5.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Elijah Higgins",
+            "receptions": 7,
+            "yards": 91,
+            "average": 13.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Trey McBride",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Xavier Weaver",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 2,
+            "yards": 52,
+            "average": 26.0,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Emari Demercado",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josiah Deguara",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Steven Sims",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Michael Carter",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 6,
+            "long": 51,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "152",
+          "pass_yards_allowed": "190",
+          "total_yards_allowed": "342"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 35,
+            "completions": 21,
+            "yards": 197,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 41,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 82.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 16,
+            "yards": 79,
+            "average": 4.94,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Bijan Robinson",
+            "attempts": 16,
+            "yards": 76,
+            "average": 4.75,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 5,
+            "yards": -3,
+            "average": -0.6,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Bijan Robinson",
+            "receptions": 7,
+            "yards": 92,
+            "average": 13.14,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 108
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 7,
+            "yards": 57,
+            "average": 8.14,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Drake London",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": -3
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": -6,
+            "average": -6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "David Sills",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jake Matthews",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 49,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "132",
+          "pass_yards_allowed": "188",
+          "total_yards_allowed": "320"
+        }
+      }
+    }
+  }
+}

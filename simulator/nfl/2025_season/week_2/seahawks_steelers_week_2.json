@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 31,
+      "Pittsburgh Steelers": 17
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        7,
+        0,
+        7,
+        17
+      ],
+      "Pittsburgh Steelers": [
+        6,
+        8,
+        0,
+        3
+      ]
+    },
+    "week": 2,
+    "date": "September 14, 2025",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 33,
+            "completions": 18,
+            "yards": 203,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 65,
+            "sacks": 3,
+            "loss": 20,
+            "rate": 58.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 14,
+            "yards": 48,
+            "average": 3.43,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kaleb Johnson",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jonnu Smith",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 4,
+            "yards": 86,
+            "average": 21.5,
+            "long": 65,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 86
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Connor Heyward",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Roman Wilson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 48,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "117",
+          "pass_yards_allowed": "278",
+          "total_yards_allowed": "395"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 33,
+            "completions": 22,
+            "yards": 295,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 43,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 89.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 13,
+            "yards": 105,
+            "average": 8.08,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 15,
+            "yards": 10,
+            "average": 0.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "AJ Barner",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 8,
+            "yards": 103,
+            "average": 12.88,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 7,
+            "yards": 90,
+            "average": 12.86,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Elijah Arroyo",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Tory Horton",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 54,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "72",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "267"
+        }
+      }
+    }
+  }
+}

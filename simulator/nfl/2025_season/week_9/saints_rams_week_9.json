@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 10,
+      "Los Angeles Rams": 34
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        10,
+        0,
+        0
+      ],
+      "Los Angeles Rams": [
+        7,
+        13,
+        7,
+        7
+      ]
+    },
+    "week": 9,
+    "date": "November 2, 2025",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 32,
+            "completions": 24,
+            "yards": 281,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 140.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 25,
+            "yards": 114,
+            "average": 4.56,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 9
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 13,
+            "yards": 58,
+            "average": 4.46,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 4,
+            "yards": -4,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 7,
+            "yards": 95,
+            "average": 13.57,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 5,
+            "yards": 60,
+            "average": 12.0,
+            "long": 29,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Tyler Higbee",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Terrance Ferguson",
+            "receptions": 2,
+            "yards": 54,
+            "average": 27.0,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Xavier Smith",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 4,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "57",
+          "pass_yards_allowed": "167",
+          "total_yards_allowed": "224"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 24,
+            "completions": 15,
+            "yards": 176,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 81.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Taysom Hill",
+            "attempts": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Alvin Kamara",
+            "attempts": 6,
+            "yards": 14,
+            "average": 2.33,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Devin Neal",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyler Shough",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 5,
+            "yards": 68,
+            "average": 13.6,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 3,
+            "yards": 57,
+            "average": 19.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Devin Neal",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 39,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "171",
+          "pass_yards_allowed": "267",
+          "total_yards_allowed": "438"
+        }
+      }
+    }
+  }
+}

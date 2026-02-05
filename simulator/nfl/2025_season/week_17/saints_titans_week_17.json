@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 34,
+      "Tennessee Titans": 26
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        10,
+        10,
+        14
+      ],
+      "Tennessee Titans": [
+        6,
+        14,
+        3,
+        3
+      ]
+    },
+    "week": 17,
+    "date": "December 28, 2025",
+    "location": "Nissan Stadium",
+    "teams": {
+      "Tennessee Titans": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 40,
+            "completions": 21,
+            "yards": 251,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 43,
+            "sacks": 4,
+            "loss": 23,
+            "rate": 88.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 18,
+            "yards": 85,
+            "average": 4.72,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Cameron Ward",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chimere Dike",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kalel Mullings",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 6,
+            "yards": 2,
+            "average": 0.33,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Chimere Dike",
+            "receptions": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 3,
+            "yards": 46,
+            "average": 15.33,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 3,
+            "yards": 55,
+            "average": 18.33,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Mason Kinsey",
+            "receptions": 1,
+            "yards": 34,
+            "average": 34.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "David Martin-Robinson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "James Proche",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 58,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "103",
+          "pass_yards_allowed": "320",
+          "total_yards_allowed": "423"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Tyler Shough",
+            "attempts": 27,
+            "completions": 22,
+            "yards": 333,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 60,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 142.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Audric Estime",
+            "attempts": 14,
+            "yards": 94,
+            "average": 6.71,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Shough",
+            "attempts": 4,
+            "yards": 6,
+            "average": 1.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Evan Hull",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 8,
+            "yards": 119,
+            "average": 14.88,
+            "long": 60,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 4,
+            "yards": 95,
+            "average": 23.75,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Moliki Matavao",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Audric Estime",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Charlie Smyth",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 57,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "108",
+          "pass_yards_allowed": "228",
+          "total_yards_allowed": "336"
+        }
+      }
+    }
+  }
+}

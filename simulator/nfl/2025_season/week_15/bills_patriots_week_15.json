@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 35,
+      "New England Patriots": 31
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        0,
+        7,
+        14,
+        14
+      ],
+      "New England Patriots": [
+        14,
+        10,
+        0,
+        7
+      ]
+    },
+    "week": 15,
+    "date": "December 14, 2025",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 23,
+            "completions": 14,
+            "yards": 155,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 3,
+            "loss": 16,
+            "rate": 62.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "TreVeyon Henderson",
+            "attempts": 14,
+            "yards": 148,
+            "average": 10.57,
+            "long": 65,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 6,
+            "yards": 50,
+            "average": 8.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Demario Douglas",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mack Hollins",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Stefon Diggs",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 1,
+            "yards": 30,
+            "average": 30.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andres Borregales",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 36,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "168",
+          "pass_yards_allowed": "181",
+          "total_yards_allowed": "349"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 28,
+            "completions": 19,
+            "yards": 193,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 123.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 22,
+            "yards": 107,
+            "average": 4.86,
+            "long": 12,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 11,
+            "yards": 48,
+            "average": 4.36,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 4,
+            "yards": 13,
+            "average": 3.25,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 5,
+            "yards": 65,
+            "average": 13.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 19,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "James Cook",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jackson Hawes",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "246",
+          "pass_yards_allowed": "139",
+          "total_yards_allowed": "385"
+        }
+      }
+    }
+  }
+}

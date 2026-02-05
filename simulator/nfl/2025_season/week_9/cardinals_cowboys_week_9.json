@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 27,
+      "Dallas Cowboys": 17
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        3,
+        14,
+        10,
+        0
+      ],
+      "Dallas Cowboys": [
+        0,
+        7,
+        3,
+        7
+      ]
+    },
+    "week": 9,
+    "date": "November 3, 2025",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 39,
+            "completions": 24,
+            "yards": 250,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 5,
+            "loss": 40,
+            "rate": 77.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Javonte Williams",
+            "attempts": 15,
+            "yards": 83,
+            "average": 5.53,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Dak Prescott",
+            "attempts": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malik Davis",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 7,
+            "yards": 85,
+            "average": 12.14,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "George Pickens",
+            "receptions": 6,
+            "yards": 79,
+            "average": 13.17,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 5,
+            "yards": 50,
+            "average": 10.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": -2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 26,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "119",
+          "pass_yards_allowed": "221",
+          "total_yards_allowed": "340"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 31,
+            "completions": 21,
+            "yards": 261,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 50,
+            "sacks": 5,
+            "loss": 40,
+            "rate": 115.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Emari Demercado",
+            "attempts": 14,
+            "yards": 79,
+            "average": 5.64,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Zonovan Knight",
+            "attempts": 9,
+            "yards": 27,
+            "average": 3.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Greg Dortch",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 5,
+            "yards": 4,
+            "average": 0.8,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marvin Harrison",
+            "receptions": 7,
+            "yards": 96,
+            "average": 13.71,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Trey McBride",
+            "receptions": 5,
+            "yards": 55,
+            "average": 11.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 3,
+            "yards": 61,
+            "average": 20.33,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Zonovan Knight",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Emari Demercado",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 48,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "123",
+          "pass_yards_allowed": "210",
+          "total_yards_allowed": "333"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Carolina Panthers": 9,
+      "San Francisco 49ers": 20
+    },
+    "team_scores_by_quarter": {
+      "Carolina Panthers": [
+        0,
+        3,
+        6,
+        0
+      ],
+      "San Francisco 49ers": [
+        7,
+        3,
+        7,
+        3
+      ]
+    },
+    "week": 12,
+    "date": "November 24, 2025",
+    "location": "Levi's Stadium",
+    "teams": {
+      "San Francisco 49ers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 32,
+            "completions": 23,
+            "yards": 193,
+            "touchdowns": 1,
+            "interceptions": 3,
+            "long": 25,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 58.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 24,
+            "yards": 89,
+            "average": 3.71,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 7,
+            "yards": 40,
+            "average": 5.71,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 6,
+            "yards": 16,
+            "average": 2.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Ricky Pearsall",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 7,
+            "yards": 53,
+            "average": 7.57,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 52
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 6,
+            "yards": 78,
+            "average": 13.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 47,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "69",
+          "pass_yards_allowed": "161",
+          "total_yards_allowed": "230"
+        }
+      },
+      "Carolina Panthers": {
+        "score": 9,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 29,
+            "completions": 18,
+            "yards": 169,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 60.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 6,
+            "yards": 38,
+            "average": 6.33,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rico Dowdle",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tetairoa McMillan",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jimmy Horn",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Mitchell Evans",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ryan Fitzgerald",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 25,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "147",
+          "pass_yards_allowed": "193",
+          "total_yards_allowed": "340"
+        }
+      }
+    }
+  }
+}

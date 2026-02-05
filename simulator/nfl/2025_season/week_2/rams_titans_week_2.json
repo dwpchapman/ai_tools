@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Rams": 33,
+      "Tennessee Titans": 19
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Rams": [
+        7,
+        3,
+        10,
+        13
+      ],
+      "Tennessee Titans": [
+        0,
+        13,
+        3,
+        3
+      ]
+    },
+    "week": 2,
+    "date": "September 14, 2025",
+    "location": "Nissan Stadium",
+    "teams": {
+      "Tennessee Titans": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Cameron Ward",
+            "attempts": 33,
+            "completions": 19,
+            "yards": 175,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 5,
+            "loss": 32,
+            "rate": 82.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 20,
+            "yards": 92,
+            "average": 4.6,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Chimere Dike",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cameron Ward",
+            "attempts": 4,
+            "yards": 8,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Elic Ayomanor",
+            "receptions": 4,
+            "yards": 56,
+            "average": 14.0,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 3,
+            "yards": 57,
+            "average": 19.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Chimere Dike",
+            "receptions": 2,
+            "yards": -1,
+            "average": -0.5,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Gunnar Helm",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 57,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "149",
+          "pass_yards_allowed": "290",
+          "total_yards_allowed": "439"
+        }
+      },
+      "Los Angeles Rams": {
+        "score": 33,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 33,
+            "completions": 23,
+            "yards": 298,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 40,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 105.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 17,
+            "yards": 66,
+            "average": 3.88,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 1,
+            "yards": 45,
+            "average": 45.0,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 5,
+            "yards": 44,
+            "average": 8.8,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 2,
+            "yards": -6,
+            "average": -3.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 8,
+            "yards": 91,
+            "average": 11.38,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 6,
+            "yards": 106,
+            "average": 17.67,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Tyler Higbee",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Jordan Whittington",
+            "receptions": 2,
+            "yards": 42,
+            "average": 21.0,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 21,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "109",
+          "pass_yards_allowed": "143",
+          "total_yards_allowed": "252"
+        }
+      }
+    }
+  }
+}

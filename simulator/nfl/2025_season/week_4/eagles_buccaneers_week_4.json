@@ -1,0 +1,345 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 31,
+      "Tampa Bay Buccaneers": 25
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        14,
+        10,
+        7,
+        0
+      ],
+      "Tampa Bay Buccaneers": [
+        3,
+        3,
+        14,
+        5
+      ]
+    },
+    "week": 4,
+    "date": "September 28, 2025",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 40,
+            "completions": 22,
+            "yards": 289,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 77,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 84.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 15,
+            "yards": 63,
+            "average": 4.2,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 6,
+            "yards": 17,
+            "average": 2.83,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sterling Shepard",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tez Johnson",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Emeka Egbuka",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 5,
+            "yards": 102,
+            "average": 20.4,
+            "long": 72,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 106
+          },
+          {
+            "player": "Emeka Egbuka",
+            "receptions": 4,
+            "yards": 101,
+            "average": 25.25,
+            "long": 77,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Chris Godwin",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 10,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tez Johnson",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 65,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "88",
+          "pass_yards_allowed": "112",
+          "total_yards_allowed": "200"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 24,
+            "completions": 15,
+            "yards": 130,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 2,
+            "loss": 18,
+            "rate": 104.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 9,
+            "yards": 62,
+            "average": 6.89,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Saquon Barkley",
+            "attempts": 19,
+            "yards": 43,
+            "average": 2.26,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "AJ Dillon",
+            "attempts": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Braden Mann",
+            "attempts": 1,
+            "yards": -34,
+            "average": -34.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Saquon Barkley",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 22,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Will Shipley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 39,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "104",
+          "pass_yards_allowed": "272",
+          "total_yards_allowed": "376"
+        }
+      }
+    }
+  }
+}

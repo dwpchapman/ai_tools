@@ -1,0 +1,345 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cincinnati Bengals": 12,
+      "Pittsburgh Steelers": 34
+    },
+    "team_scores_by_quarter": {
+      "Cincinnati Bengals": [
+        6,
+        0,
+        3,
+        3
+      ],
+      "Pittsburgh Steelers": [
+        7,
+        3,
+        10,
+        14
+      ]
+    },
+    "week": 11,
+    "date": "November 16, 2025",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Mason Rudolph",
+            "attempts": 16,
+            "completions": 12,
+            "yards": 127,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 118.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 10,
+            "yards": 62,
+            "average": 6.2,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 9,
+            "yards": 24,
+            "average": 2.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kaleb Johnson",
+            "attempts": 5,
+            "yards": 15,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Connor Heyward",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Mason Rudolph",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 7,
+            "yards": 81,
+            "average": 11.57,
+            "long": 28,
+            "touchdowns": 2,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 104
+          },
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 49,
+            "average": 9.8,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 4,
+            "yards": 67,
+            "average": 16.75,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Roman Wilson",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jonnu Smith",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 30,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "105",
+          "pass_yards_allowed": "192",
+          "total_yards_allowed": "297"
+        }
+      },
+      "Cincinnati Bengals": {
+        "score": 12,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 40,
+            "completions": 23,
+            "yards": 199,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 68.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 18,
+            "yards": 99,
+            "average": 5.5,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Tahj Brooks",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kendall Milton",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chase Brown",
+            "receptions": 6,
+            "yards": 28,
+            "average": 4.67,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 5,
+            "yards": 36,
+            "average": 7.2,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 3,
+            "yards": 63,
+            "average": 21.0,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tanner Hudson",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 48,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "111",
+          "pass_yards_allowed": "232",
+          "total_yards_allowed": "343"
+        }
+      }
+    }
+  }
+}

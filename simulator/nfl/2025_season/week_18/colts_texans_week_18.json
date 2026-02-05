@@ -1,0 +1,396 @@
+{
+  "game_info": {
+    "final_score": {
+      "Indianapolis Colts": 30,
+      "Houston Texans": 38
+    },
+    "team_scores_by_quarter": {
+      "Indianapolis Colts": [
+        10,
+        7,
+        10,
+        3
+      ],
+      "Houston Texans": [
+        6,
+        17,
+        3,
+        12
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2026",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 23,
+            "completions": 14,
+            "yards": 169,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 33,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 97.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "British Brooks",
+            "attempts": 13,
+            "yards": 63,
+            "average": 4.85,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "attempts": 10,
+            "yards": 48,
+            "average": 4.8,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Davis Mills",
+            "attempts": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jawhar Jordan",
+            "attempts": 5,
+            "yards": 3,
+            "average": 0.6,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 5,
+            "yards": 84,
+            "average": 16.8,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 4,
+            "yards": 73,
+            "average": 18.25,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Jayden Higgins",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jo'quavious Marks",
+            "receptions": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jaylin Noel",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 6,
+            "fg_att": 6,
+            "long": 51,
+            "points": 20
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "76",
+          "pass_yards_allowed": "278",
+          "total_yards_allowed": "354"
+        }
+      },
+      "Indianapolis Colts": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Riley Leonard",
+            "attempts": 34,
+            "completions": 21,
+            "yards": 270,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 66,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 94.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "DJ Giddens",
+            "attempts": 8,
+            "yards": 30,
+            "average": 3.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 14,
+            "yards": 26,
+            "average": 1.86,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Riley Leonard",
+            "attempts": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyler Goodson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Josh Downs",
+            "attempts": 1,
+            "yards": -5,
+            "average": -5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Warren",
+            "receptions": 5,
+            "yards": 26,
+            "average": 5.2,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 4,
+            "yards": 61,
+            "average": 15.25,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 4,
+            "yards": 132,
+            "average": 33.0,
+            "long": 66,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Michael Pittman",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Riley Leonard",
+            "receptions": 0,
+            "yards": -3,
+            "average": 0.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": -3
+          },
+          {
+            "player": "Ashton Dulin",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 50,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "134",
+          "pass_yards_allowed": "205",
+          "total_yards_allowed": "339"
+        }
+      }
+    }
+  }
+}

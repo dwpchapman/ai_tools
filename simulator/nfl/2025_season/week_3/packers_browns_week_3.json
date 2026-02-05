@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 10,
+      "Cleveland Browns": 13
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        0,
+        3,
+        7,
+        0
+      ],
+      "Cleveland Browns": [
+        0,
+        0,
+        0,
+        13
+      ]
+    },
+    "week": 3,
+    "date": "September 21, 2025",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 36,
+            "completions": 21,
+            "yards": 142,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 17,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 55.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Quinshon Judkins",
+            "attempts": 18,
+            "yards": 94,
+            "average": 5.22,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Dylan Sampson",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "David Njoku",
+            "receptions": 5,
+            "yards": 40,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 4,
+            "yards": 10,
+            "average": 2.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Harold Fannin",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Isaiah Bond",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jamari Thrash",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Quinshon Judkins",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Luke Wypler",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Andre Szmyt",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 55,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "81",
+          "pass_yards_allowed": "149",
+          "total_yards_allowed": "230"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 25,
+            "completions": 18,
+            "yards": 183,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 34,
+            "sacks": 5,
+            "loss": 34,
+            "rate": 89.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 16,
+            "yards": 30,
+            "average": 1.88,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 6,
+            "yards": 25,
+            "average": 4.17,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Golden",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Savion Williams",
+            "attempts": 2,
+            "yards": -1,
+            "average": -0.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Jacobs",
+            "receptions": 5,
+            "yards": 44,
+            "average": 8.8,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "Matthew Golden",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "John FitzPatrick",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 39,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "96",
+          "pass_yards_allowed": "125",
+          "total_yards_allowed": "221"
+        }
+      }
+    }
+  }
+}

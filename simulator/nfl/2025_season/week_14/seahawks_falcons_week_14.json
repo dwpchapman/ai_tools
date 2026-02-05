@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 37,
+      "Atlanta Falcons": 9
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        3,
+        3,
+        17,
+        14
+      ],
+      "Atlanta Falcons": [
+        3,
+        3,
+        0,
+        3
+      ]
+    },
+    "week": 14,
+    "date": "December 7, 2025",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 9,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 30,
+            "completions": 15,
+            "yards": 162,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 30,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 38.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 20,
+            "yards": 86,
+            "average": 4.3,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 11,
+            "yards": 34,
+            "average": 3.09,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kyle Pitts",
+            "receptions": 6,
+            "yards": 90,
+            "average": 15.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Dylan Drummond",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 2,
+            "yards": 33,
+            "average": 16.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Deven Thompkins",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "David Sills",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 43,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "129",
+          "pass_yards_allowed": "236",
+          "total_yards_allowed": "365"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 30,
+            "completions": 20,
+            "yards": 249,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 111.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 7,
+            "yards": 46,
+            "average": 6.57,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Velus Jones",
+            "attempts": 4,
+            "yards": 32,
+            "average": 8.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenneth Walker",
+            "attempts": 10,
+            "yards": 29,
+            "average": 2.9,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Drew Lock",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 7,
+            "yards": 92,
+            "average": 13.14,
+            "long": 30,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 4,
+            "yards": 67,
+            "average": 16.75,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Cody White",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Elijah Arroyo",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 48,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "120",
+          "pass_yards_allowed": "154",
+          "total_yards_allowed": "274"
+        }
+      }
+    }
+  }
+}
