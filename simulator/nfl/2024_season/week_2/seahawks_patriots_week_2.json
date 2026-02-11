@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 23,
+      "New England Patriots": 20
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        7,
+        10,
+        0,
+        3
+      ],
+      "New England Patriots": [
+        7,
+        6,
+        0,
+        7
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 27,
+            "completions": 15,
+            "yards": 149,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 35,
+            "sacks": 3,
+            "loss": 24,
+            "rate": 83.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Antonio Gibson",
+            "attempts": 11,
+            "yards": 96,
+            "average": 8.73,
+            "long": 45,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 21,
+            "yards": 81,
+            "average": 3.86,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "JaMycal Hasty",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ja'Lynn Polk",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Hunter Henry",
+            "receptions": 8,
+            "yards": 109,
+            "average": 13.62,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 12,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Ja'Lynn Polk",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Antonio Gibson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 29,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "46",
+          "pass_yards_allowed": "312",
+          "total_yards_allowed": "358"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 44,
+            "completions": 33,
+            "yards": 327,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 56,
+            "sacks": 3,
+            "loss": 15,
+            "rate": 103.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 14,
+            "yards": 38,
+            "average": 2.71,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 5,
+            "yards": 8,
+            "average": 1.6,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 12,
+            "yards": 117,
+            "average": 9.75,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 16,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "",
+            "receptions": 10,
+            "yards": 129,
+            "average": 12.9,
+            "long": 56,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 14,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 5,
+            "yards": 31,
+            "average": 6.2,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Jake Bobo",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Laviska Shenault",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 44,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "185",
+          "pass_yards_allowed": "125",
+          "total_yards_allowed": "310"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 14,
+      "New Orleans Saints": 35
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        6,
+        0,
+        8,
+        0
+      ],
+      "New Orleans Saints": [
+        7,
+        7,
+        0,
+        21
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2024",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Derek Carr",
+            "attempts": 27,
+            "completions": 21,
+            "yards": 248,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 71,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 129.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Taysom Hill",
+            "attempts": 7,
+            "yards": 138,
+            "average": 19.71,
+            "long": 75,
+            "touchdowns": 3,
+            "first_downs": 4
+          },
+          {
+            "player": "Alvin Kamara",
+            "attempts": 16,
+            "yards": 67,
+            "average": 4.19,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Derek Carr",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Mims",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jake Haener",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Taysom Hill",
+            "receptions": 8,
+            "yards": 50,
+            "average": 6.25,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 3,
+            "yards": 50,
+            "average": 16.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 2,
+            "yards": 87,
+            "average": 43.5,
+            "long": 71,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 70
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "66",
+          "pass_yards_allowed": "377",
+          "total_yards_allowed": "443"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Jameis Winston",
+            "attempts": 46,
+            "completions": 30,
+            "yards": 395,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 89,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 106.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Nick Chubb",
+            "attempts": 11,
+            "yards": 50,
+            "average": 4.55,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 5,
+            "yards": 10,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jameis Winston",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Pierre Strong",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kadarius Toney",
+            "attempts": 1,
+            "yards": -7,
+            "average": -7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "David Njoku",
+            "receptions": 9,
+            "yards": 81,
+            "average": 9.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 6,
+            "yards": 142,
+            "average": 23.67,
+            "long": 89,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 73
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 6,
+            "yards": 66,
+            "average": 11.0,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 3,
+            "yards": 47,
+            "average": 15.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jamari Thrash",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 0
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "214",
+          "pass_yards_allowed": "259",
+          "total_yards_allowed": "473"
+        }
+      }
+    }
+  }
+}

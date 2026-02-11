@@ -1,0 +1,378 @@
+{
+  "game_info": {
+    "final_score": {
+      "Carolina Panthers": 10,
+      "New Orleans Saints": 47
+    },
+    "team_scores_by_quarter": {
+      "Carolina Panthers": [
+        0,
+        3,
+        7,
+        0
+      ],
+      "New Orleans Saints": [
+        17,
+        13,
+        7,
+        10
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 47,
+        "passing": [
+          {
+            "player": "Derek Carr",
+            "attempts": 23,
+            "completions": 19,
+            "yards": 200,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 59,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 142.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 15,
+            "yards": 83,
+            "average": 5.53,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 11,
+            "yards": 38,
+            "average": 3.45,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 5,
+            "yards": 35,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Derek Carr",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Mims",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Alvin Kamara",
+            "receptions": 5,
+            "yards": 27,
+            "average": 5.4,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 3,
+            "yards": 73,
+            "average": 24.33,
+            "long": 59,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jamaal Williams",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jerrod Means",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 57,
+            "points": 17
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "58",
+          "pass_yards_allowed": "135",
+          "total_yards_allowed": "193"
+        }
+      },
+      "Carolina Panthers": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 30,
+            "completions": 13,
+            "yards": 161,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 35,
+            "sacks": 4,
+            "loss": 26,
+            "rate": 32.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Miles Sanders",
+            "attempts": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 6,
+            "yards": 14,
+            "average": 2.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 4,
+            "yards": 12,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Mike Boone",
+            "attempts": 4,
+            "yards": 7,
+            "average": 1.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jonathan Mingo",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Xavier Legette",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 3,
+            "yards": 49,
+            "average": 16.33,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Diontae Johnson",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "David Moore",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jordan Matthews",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Miles Sanders",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 43,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "180",
+          "pass_yards_allowed": "199",
+          "total_yards_allowed": "379"
+        }
+      }
+    }
+  }
+}

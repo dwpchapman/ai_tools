@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "Baltimore Ravens": 35,
+      "New York Giants": 14
+    },
+    "team_scores_by_quarter": {
+      "Baltimore Ravens": [
+        7,
+        14,
+        7,
+        7
+      ],
+      "New York Giants": [
+        0,
+        7,
+        0,
+        7
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Tim Boyle",
+            "attempts": 24,
+            "completions": 12,
+            "yards": 123,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 1,
+            "loss": 2,
+            "rate": 61.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 10,
+            "yards": 31,
+            "average": 3.1,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 8,
+            "yards": 25,
+            "average": 3.12,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Tommy DeVito",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tim Boyle",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Nabers",
+            "receptions": 10,
+            "yards": 82,
+            "average": 8.2,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 14,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "170",
+          "pass_yards_allowed": "275",
+          "total_yards_allowed": "445"
+        }
+      },
+      "Baltimore Ravens": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 25,
+            "completions": 21,
+            "yards": 290,
+            "touchdowns": 5,
+            "interceptions": 0,
+            "long": 49,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 154.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 14,
+            "yards": 67,
+            "average": 4.79,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 6,
+            "yards": 65,
+            "average": 10.83,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Rasheen Ali",
+            "attempts": 8,
+            "yards": 32,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Josh Johnson",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zay Flowers",
+            "receptions": 6,
+            "yards": 53,
+            "average": 8.83,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 5,
+            "yards": 61,
+            "average": 12.2,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 72
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 3,
+            "yards": 80,
+            "average": 26.67,
+            "long": 49,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 1,
+            "yards": 26,
+            "average": 26.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Devontez Walker",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tylan Wallace",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "55",
+          "pass_yards_allowed": "181",
+          "total_yards_allowed": "236"
+        }
+      }
+    }
+  }
+}

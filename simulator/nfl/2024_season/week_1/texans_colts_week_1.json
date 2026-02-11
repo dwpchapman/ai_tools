@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 29,
+      "Indianapolis Colts": 27
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        6,
+        6,
+        3,
+        14
+      ],
+      "Indianapolis Colts": [
+        7,
+        0,
+        6,
+        14
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Lucas Oil Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Anthony Richardson",
+            "attempts": 19,
+            "completions": 9,
+            "yards": 212,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 60,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 101.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Anthony Richardson",
+            "attempts": 6,
+            "yards": 56,
+            "average": 9.33,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 16,
+            "yards": 48,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 4
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Pittman",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 3,
+            "yards": 125,
+            "average": 41.67,
+            "long": 60,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Ashton Dulin",
+            "receptions": 1,
+            "yards": 54,
+            "average": 54.0,
+            "long": 54,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kylen Granson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Spencer Shrader",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "213",
+          "pass_yards_allowed": "204",
+          "total_yards_allowed": "417"
+        }
+      },
+      "Houston Texans": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 32,
+            "completions": 24,
+            "yards": 234,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 55,
+            "sacks": 4,
+            "loss": 30,
+            "rate": 115.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 30,
+            "yards": 159,
+            "average": 5.3,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 9
+          },
+          {
+            "player": "Nathaniel Dell",
+            "attempts": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dameon Pierce",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 4,
+            "yards": 13,
+            "average": 3.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Stefon Diggs",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 6,
+            "yards": 117,
+            "average": 19.5,
+            "long": 55,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Stefon Diggs",
+            "receptions": 6,
+            "yards": 33,
+            "average": 5.5,
+            "long": 10,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brevin Jordan",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 51,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "104",
+          "pass_yards_allowed": "199",
+          "total_yards_allowed": "303"
+        }
+      }
+    }
+  }
+}

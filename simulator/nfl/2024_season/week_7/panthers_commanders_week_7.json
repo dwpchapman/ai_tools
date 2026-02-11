@@ -1,0 +1,325 @@
+{
+  "game_info": {
+    "final_score": {
+      "Carolina Panthers": 7,
+      "Washington Commanders": 40
+    },
+    "team_scores_by_quarter": {
+      "Carolina Panthers": [
+        0,
+        0,
+        0,
+        7
+      ],
+      "Washington Commanders": [
+        10,
+        17,
+        10,
+        3
+      ]
+    },
+    "week": 7,
+    "date": "October 20, 2024",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 40,
+        "passing": [
+          {
+            "player": "Marcus Mariota",
+            "attempts": 23,
+            "completions": 18,
+            "yards": 205,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 132.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Brian Robinson",
+            "attempts": 12,
+            "yards": 71,
+            "average": 5.92,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 3,
+            "yards": 50,
+            "average": 16.67,
+            "long": 46,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 7,
+            "yards": 42,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Marcus Mariota",
+            "attempts": 11,
+            "yards": 34,
+            "average": 3.09,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Terry McLaurin",
+            "receptions": 6,
+            "yards": 98,
+            "average": 16.33,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Austin Seibert",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 49,
+            "points": 16
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "95",
+          "pass_yards_allowed": "85",
+          "total_yards_allowed": "180"
+        }
+      },
+      "Carolina Panthers": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Andy Dalton",
+            "attempts": 16,
+            "completions": 11,
+            "yards": 93,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 2,
+            "loss": 4,
+            "rate": 44.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 17,
+            "yards": 52,
+            "average": 3.06,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Miles Sanders",
+            "attempts": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Xavier Legette",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Andy Dalton",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 6,
+            "yards": 61,
+            "average": 10.17,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ian Thomas",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Diontae Johnson",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Miles Sanders",
+            "receptions": 1,
+            "yards": -6,
+            "average": -6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "214",
+          "pass_yards_allowed": "207",
+          "total_yards_allowed": "421"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 24,
+      "Atlanta Falcons": 26
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        7,
+        7,
+        3,
+        7
+      ],
+      "Atlanta Falcons": [
+        7,
+        10,
+        3,
+        6
+      ]
+    },
+    "week": 4,
+    "date": "September 29, 2024",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 35,
+            "completions": 21,
+            "yards": 238,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 36,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 68.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 8,
+            "yards": 60,
+            "average": 7.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Bijan Robinson",
+            "attempts": 7,
+            "yards": 28,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 6,
+            "yards": 64,
+            "average": 10.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 12,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 6,
+            "yards": 52,
+            "average": 8.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 4,
+            "yards": 46,
+            "average": 11.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 3,
+            "yards": 56,
+            "average": 18.67,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 58,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "131",
+          "pass_yards_allowed": "235",
+          "total_yards_allowed": "366"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Derek Carr",
+            "attempts": 36,
+            "completions": 28,
+            "yards": 239,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 82.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 19,
+            "yards": 77,
+            "average": 4.05,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 6,
+            "yards": 24,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Rashid Shaheed",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Derek Carr",
+            "attempts": 3,
+            "yards": 5,
+            "average": 1.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 8,
+            "yards": 87,
+            "average": 10.88,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 8,
+            "yards": 83,
+            "average": 10.38,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 7,
+            "yards": 42,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jamaal Williams",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 43,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "88",
+          "pass_yards_allowed": "227",
+          "total_yards_allowed": "315"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 29,
+      "Detroit Lions": 42
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        0,
+        7,
+        13,
+        9
+      ],
+      "Detroit Lions": [
+        7,
+        14,
+        14,
+        7
+      ]
+    },
+    "week": 4,
+    "date": "September 30, 2024",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 42,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 18,
+            "completions": 18,
+            "yards": 292,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 70,
+            "sacks": 3,
+            "loss": 26,
+            "rate": 155.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 14,
+            "yards": 78,
+            "average": 5.57,
+            "long": 20,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 12,
+            "yards": 40,
+            "average": 3.33,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 6,
+            "yards": 45,
+            "average": 7.5,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 4,
+            "yards": 53,
+            "average": 13.25,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "Brock Wright",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 2,
+            "yards": 80,
+            "average": 40.0,
+            "long": 70,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 2,
+            "yards": 52,
+            "average": 26.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 1,
+            "yards": 40,
+            "average": 40.0,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Jared Goff",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "133",
+          "pass_yards_allowed": "383",
+          "total_yards_allowed": "516"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 56,
+            "completions": 38,
+            "yards": 395,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 3,
+            "loss": 12,
+            "rate": 86.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 12,
+            "yards": 80,
+            "average": 6.67,
+            "long": 28,
+            "touchdowns": 3,
+            "first_downs": 5
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 5,
+            "yards": 38,
+            "average": 7.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 8,
+            "yards": 51,
+            "average": 6.38,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "",
+            "receptions": 7,
+            "yards": 104,
+            "average": 14.86,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 5,
+            "yards": 61,
+            "average": 12.2,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Jake Bobo",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Pharaoh Brown",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Laviska Shenault",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 19
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "116",
+          "pass_yards_allowed": "273",
+          "total_yards_allowed": "389"
+        }
+      }
+    }
+  }
+}

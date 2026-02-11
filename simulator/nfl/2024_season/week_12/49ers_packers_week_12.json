@@ -1,0 +1,380 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 10,
+      "Green Bay Packers": 38
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        0,
+        7,
+        3,
+        0
+      ],
+      "Green Bay Packers": [
+        10,
+        7,
+        7,
+        14
+      ]
+    },
+    "week": 12,
+    "date": "November 24, 2024",
+    "location": "Lambeau Field",
+    "teams": {
+      "Green Bay Packers": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 23,
+            "completions": 13,
+            "yards": 163,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 29,
+            "sacks": 2,
+            "loss": 7,
+            "rate": 107.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 26,
+            "yards": 106,
+            "average": 4.08,
+            "long": 18,
+            "touchdowns": 3,
+            "first_downs": 8
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 9,
+            "yards": 41,
+            "average": 4.56,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Christopher Brooks",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bo Melton",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Christian Watson",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Romeo Doubs",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Malik Heath",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "John FitzPatrick",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 51,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "44",
+          "pass_yards_allowed": "197",
+          "total_yards_allowed": "241"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Brandon Allen",
+            "attempts": 29,
+            "completions": 17,
+            "yards": 199,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 2,
+            "loss": 2,
+            "rate": 76.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 11,
+            "yards": 31,
+            "average": 2.82,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jordan Mason",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brandon Allen",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Kittle",
+            "receptions": 6,
+            "yards": 82,
+            "average": 13.67,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 5,
+            "yards": 40,
+            "average": 8.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Chris Conley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 48,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "169",
+          "pass_yards_allowed": "156",
+          "total_yards_allowed": "325"
+        }
+      }
+    }
+  }
+}

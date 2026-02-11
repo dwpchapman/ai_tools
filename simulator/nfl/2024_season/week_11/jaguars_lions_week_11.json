@@ -1,0 +1,396 @@
+{
+  "game_info": {
+    "final_score": {
+      "Jacksonville Jaguars": 6,
+      "Detroit Lions": 52
+    },
+    "team_scores_by_quarter": {
+      "Jacksonville Jaguars": [
+        3,
+        3,
+        0,
+        0
+      ],
+      "Detroit Lions": [
+        7,
+        21,
+        14,
+        10
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2024",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 52,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 29,
+            "completions": 24,
+            "yards": 412,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 64,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 158.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "David Montgomery",
+            "attempts": 15,
+            "yards": 75,
+            "average": 5.0,
+            "long": 11,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 11,
+            "yards": 69,
+            "average": 6.27,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 4,
+            "yards": 21,
+            "average": 5.25,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Craig Reynolds",
+            "attempts": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sione Vaki",
+            "attempts": 5,
+            "yards": 9,
+            "average": 1.8,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Hendon Hooker",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Amon-Ra S",
+            "attempts": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 11,
+            "yards": 161,
+            "average": 14.64,
+            "long": 27,
+            "touchdowns": 2,
+            "first_downs": 10,
+            "targets": 11,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 4,
+            "yards": 124,
+            "average": 31.0,
+            "long": 64,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 74
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Allen Robinson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 1,
+            "yards": 54,
+            "average": 54.0,
+            "long": 54,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Brock Wright",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Shane Zylstra",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 7,
+            "pat_att": 7,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 54,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "41",
+          "pass_yards_allowed": "129",
+          "total_yards_allowed": "170"
+        }
+      },
+      "Jacksonville Jaguars": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Mac Jones",
+            "attempts": 29,
+            "completions": 17,
+            "yards": 138,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 24,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 56.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 12,
+            "yards": 27,
+            "average": 2.25,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brian Thomas",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Evan Engram",
+            "receptions": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 5,
+            "yards": 82,
+            "average": 16.4,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Gabriel Davis",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Devin Duvernay",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 59,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "196",
+          "pass_yards_allowed": "449",
+          "total_yards_allowed": "645"
+        }
+      }
+    }
+  }
+}

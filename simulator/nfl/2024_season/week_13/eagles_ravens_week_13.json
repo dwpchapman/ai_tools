@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 24,
+      "Baltimore Ravens": 19
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        0,
+        14,
+        0,
+        10
+      ],
+      "Baltimore Ravens": [
+        9,
+        3,
+        0,
+        7
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2024",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 36,
+            "completions": 23,
+            "yards": 237,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 3,
+            "loss": 31,
+            "rate": 101.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 19,
+            "yards": 82,
+            "average": 4.32,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 8,
+            "yards": 79,
+            "average": 9.88,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mark Andrews",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Zay Flowers",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mark Andrews",
+            "receptions": 6,
+            "yards": 67,
+            "average": 11.17,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 5,
+            "yards": 38,
+            "average": 7.6,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 3,
+            "yards": 74,
+            "average": 24.67,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Tylan Wallace",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 4,
+            "long": 50,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "140",
+          "pass_yards_allowed": "112",
+          "total_yards_allowed": "252"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 19,
+            "completions": 11,
+            "yards": 118,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 17,
+            "sacks": 2,
+            "loss": 6,
+            "rate": 93.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 23,
+            "yards": 107,
+            "average": 4.65,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 9,
+            "yards": 29,
+            "average": 3.22,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Will Shipley",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 66,
+            "average": 13.2,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Parris Campbell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Britain Covey",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 35,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "166",
+          "pass_yards_allowed": "206",
+          "total_yards_allowed": "372"
+        }
+      }
+    }
+  }
+}

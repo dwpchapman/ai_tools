@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 20,
+      "Tampa Bay Buccaneers": 37
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        0,
+        7,
+        7,
+        6
+      ],
+      "Tampa Bay Buccaneers": [
+        6,
+        10,
+        7,
+        14
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 30,
+            "completions": 24,
+            "yards": 289,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 32,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 146.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 9,
+            "yards": 62,
+            "average": 6.89,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 15,
+            "yards": 31,
+            "average": 2.07,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kameron Johnson",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kyle Trask",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Godwin",
+            "receptions": 8,
+            "yards": 83,
+            "average": 10.38,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 8,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 6,
+            "yards": 75,
+            "average": 12.5,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 106
+          },
+          {
+            "player": "Mike Evans",
+            "receptions": 5,
+            "yards": 61,
+            "average": 12.2,
+            "long": 24,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 1,
+            "yards": 32,
+            "average": 32.0,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Trey Palmer",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 56,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "138",
+          "pass_yards_allowed": "161",
+          "total_yards_allowed": "299"
+        }
+      },
+      "Washington Commanders": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 24,
+            "completions": 17,
+            "yards": 184,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 32,
+            "sacks": 2,
+            "loss": 23,
+            "rate": 93.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 16,
+            "yards": 88,
+            "average": 5.5,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 8
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 12,
+            "yards": 40,
+            "average": 3.33,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Austin Ekeler",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 55
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 3,
+            "yards": 49,
+            "average": 16.33,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jamison Crowder",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "John Bates",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cade York",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "112",
+          "pass_yards_allowed": "280",
+          "total_yards_allowed": "392"
+        }
+      }
+    }
+  }
+}

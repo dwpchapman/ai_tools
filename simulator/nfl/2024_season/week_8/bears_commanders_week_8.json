@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 15,
+      "Washington Commanders": 18
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        0,
+        0,
+        7,
+        8
+      ],
+      "Washington Commanders": [
+        6,
+        3,
+        3,
+        6
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2024",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 18,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 38,
+            "completions": 21,
+            "yards": 326,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 61,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 92.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Brian Robinson",
+            "attempts": 16,
+            "yards": 65,
+            "average": 4.06,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 8,
+            "yards": 52,
+            "average": 6.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 7,
+            "yards": 52,
+            "average": 7.43,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zach Ertz",
+            "receptions": 7,
+            "yards": 77,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 11,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 5,
+            "yards": 125,
+            "average": 25.0,
+            "long": 61,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 3,
+            "yards": 73,
+            "average": 24.33,
+            "long": 52,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "John Bates",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 17
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Austin Seibert",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 47,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "202",
+          "pass_yards_allowed": "105",
+          "total_yards_allowed": "307"
+        }
+      },
+      "Chicago Bears": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 24,
+            "completions": 10,
+            "yards": 131,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 27,
+            "sacks": 3,
+            "loss": 26,
+            "rate": 59.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 18,
+            "yards": 129,
+            "average": 7.17,
+            "long": 56,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 9,
+            "yards": 47,
+            "average": 5.22,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rome Odunze",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rome Odunze",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 2,
+            "yards": 39,
+            "average": 19.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "DeAndre Carter",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Gerald Everett",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "168",
+          "pass_yards_allowed": "313",
+          "total_yards_allowed": "481"
+        }
+      }
+    }
+  }
+}

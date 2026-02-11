@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 23,
+      "Philadelphia Eagles": 55
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        3,
+        12,
+        8,
+        0
+      ],
+      "Philadelphia Eagles": [
+        14,
+        13,
+        7,
+        21
+      ]
+    },
+    "week": 21,
+    "date": "January 26, 2025",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 55,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 28,
+            "completions": 20,
+            "yards": 246,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 110.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 15,
+            "yards": 118,
+            "average": 7.87,
+            "long": 60,
+            "touchdowns": 3,
+            "first_downs": 5
+          },
+          {
+            "player": "Will Shipley",
+            "attempts": 4,
+            "yards": 77,
+            "average": 19.25,
+            "long": 57,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 10,
+            "yards": 16,
+            "average": 1.6,
+            "long": 9,
+            "touchdowns": 3,
+            "first_downs": 5
+          },
+          {
+            "player": "Dallas Goedert",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kenny Pickett",
+            "attempts": 2,
+            "yards": -3,
+            "average": -1.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dallas Goedert",
+            "receptions": 7,
+            "yards": 85,
+            "average": 12.14,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 54
+          },
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 96,
+            "average": 16.0,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 4,
+            "yards": 45,
+            "average": 11.25,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 7,
+            "pat_att": 7,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "99",
+          "pass_yards_allowed": "251",
+          "total_yards_allowed": "350"
+        }
+      },
+      "Washington Commanders": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 48,
+            "completions": 29,
+            "yards": 255,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 36,
+            "sacks": 3,
+            "loss": 27,
+            "rate": 72.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 6,
+            "yards": 48,
+            "average": 8.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 11,
+            "yards": 36,
+            "average": 3.27,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 8,
+            "yards": 15,
+            "average": 1.88,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zach Ertz",
+            "receptions": 11,
+            "yards": 104,
+            "average": 9.45,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 9,
+            "targets": 16,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 5,
+            "yards": 17,
+            "average": 3.4,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 3,
+            "yards": 51,
+            "average": 17.0,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "John Bates",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jamison Crowder",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 46,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "229",
+          "pass_yards_allowed": "230",
+          "total_yards_allowed": "459"
+        }
+      }
+    }
+  }
+}

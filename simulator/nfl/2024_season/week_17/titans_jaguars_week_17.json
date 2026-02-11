@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 13,
+      "Jacksonville Jaguars": 20
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        0,
+        3,
+        7,
+        3
+      ],
+      "Jacksonville Jaguars": [
+        3,
+        10,
+        0,
+        7
+      ]
+    },
+    "week": 17,
+    "date": "December 29, 2024",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Mac Jones",
+            "attempts": 22,
+            "completions": 15,
+            "yards": 174,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 2,
+            "loss": 1,
+            "rate": 122.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 15,
+            "yards": 49,
+            "average": 3.27,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 11,
+            "yards": 33,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 6,
+            "yards": 22,
+            "average": 3.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Brian Thomas",
+            "attempts": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brian Thomas",
+            "receptions": 7,
+            "yards": 91,
+            "average": 13.0,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Devin Duvernay",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 1,
+            "yards": 26,
+            "average": 26.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Tim Jones",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 48,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "159",
+          "pass_yards_allowed": "178",
+          "total_yards_allowed": "337"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Mason Rudolph",
+            "attempts": 31,
+            "completions": 19,
+            "yards": 193,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 24,
+            "sacks": 3,
+            "loss": 15,
+            "rate": 76.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyjae Spears",
+            "attempts": 20,
+            "yards": 95,
+            "average": 4.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Mason Rudolph",
+            "attempts": 5,
+            "yards": 23,
+            "average": 4.6,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "attempts": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Calvin Ridley",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 5,
+            "yards": 42,
+            "average": 8.4,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 5,
+            "yards": 84,
+            "average": 16.8,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tyler Boyd",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Julius Chestnut",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matthew Wright",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 39,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "173",
+          "total_yards_allowed": "295"
+        }
+      }
+    }
+  }
+}

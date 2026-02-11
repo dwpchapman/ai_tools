@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 6,
+      "Arizona Cardinals": 31
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        3,
+        3,
+        0,
+        0
+      ],
+      "Arizona Cardinals": [
+        14,
+        10,
+        7,
+        0
+      ]
+    },
+    "week": 10,
+    "date": "November 10, 2024",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 24,
+            "completions": 22,
+            "yards": 266,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 44,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 126.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Trey Benson",
+            "attempts": 10,
+            "yards": 62,
+            "average": 6.2,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "James Conner",
+            "attempts": 12,
+            "yards": 33,
+            "average": 2.75,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "DeeJay Dallas",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Clayton Tune",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marvin Harrison",
+            "receptions": 5,
+            "yards": 54,
+            "average": 10.8,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "James Conner",
+            "receptions": 5,
+            "yards": 80,
+            "average": 16.0,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 91
+          },
+          {
+            "player": "Trey McBride",
+            "receptions": 4,
+            "yards": 71,
+            "average": 17.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Trey Benson",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 37,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "128",
+          "total_yards_allowed": "207"
+        }
+      },
+      "New York Jets": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 35,
+            "completions": 22,
+            "yards": 151,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 15,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 72.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 10,
+            "yards": 52,
+            "average": 5.2,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 7,
+            "yards": 27,
+            "average": 3.86,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Davante Adams",
+            "receptions": 6,
+            "yards": 31,
+            "average": 5.17,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 13,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Kenny Yeboah",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Isaiah Davis",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Malachi Corley",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Conklin",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Xavier Gipson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Spencer Shrader",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 45,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "147",
+          "pass_yards_allowed": "259",
+          "total_yards_allowed": "406"
+        }
+      }
+    }
+  }
+}

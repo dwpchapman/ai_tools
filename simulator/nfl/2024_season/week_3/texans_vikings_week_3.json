@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 7,
+      "Minnesota Vikings": 34
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        0,
+        0,
+        7,
+        0
+      ],
+      "Minnesota Vikings": [
+        14,
+        0,
+        7,
+        13
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2024",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 28,
+            "completions": 17,
+            "yards": 181,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 4,
+            "loss": 25,
+            "rate": 119.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 19,
+            "yards": 102,
+            "average": 5.37,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Ty Chandler",
+            "attempts": 7,
+            "yards": 13,
+            "average": 1.86,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jalen Nailor",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Nick Mullens",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 6,
+            "yards": 81,
+            "average": 13.5,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 5,
+            "yards": 46,
+            "average": 9.2,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brandon Powell",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Trent Sherfield",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 58,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "38",
+          "pass_yards_allowed": "258",
+          "total_yards_allowed": "296"
+        }
+      },
+      "Houston Texans": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 31,
+            "completions": 20,
+            "yards": 215,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 34,
+            "sacks": 4,
+            "loss": 42,
+            "rate": 68.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cam Akers",
+            "attempts": 9,
+            "yards": 21,
+            "average": 2.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "British Brooks",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Stefon Diggs",
+            "receptions": 10,
+            "yards": 94,
+            "average": 9.4,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 12,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 5,
+            "yards": 62,
+            "average": 12.4,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 4,
+            "yards": 86,
+            "average": 21.5,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Cam Akers",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "118",
+          "pass_yards_allowed": "156",
+          "total_yards_allowed": "274"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 16,
+      "Indianapolis Colts": 21
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        0,
+        0,
+        3,
+        13
+      ],
+      "Indianapolis Colts": [
+        0,
+        7,
+        7,
+        7
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2024",
+    "location": "Lucas Oil Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Anthony Richardson",
+            "attempts": 20,
+            "completions": 10,
+            "yards": 167,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 44,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 39.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 23,
+            "yards": 110,
+            "average": 4.78,
+            "long": 29,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Anthony Richardson",
+            "attempts": 8,
+            "yards": 24,
+            "average": 3.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Trey Sermon",
+            "attempts": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Pittman",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Kylen Granson",
+            "receptions": 1,
+            "yards": 40,
+            "average": 40.0,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 1,
+            "yards": 44,
+            "average": 44.0,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ashton Dulin",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "63",
+          "pass_yards_allowed": "332",
+          "total_yards_allowed": "395"
+        }
+      },
+      "Chicago Bears": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 52,
+            "completions": 33,
+            "yards": 363,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 47,
+            "sacks": 4,
+            "loss": 31,
+            "rate": 80.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Roschon Johnson",
+            "attempts": 8,
+            "yards": 30,
+            "average": 3.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "D'Andre Swift",
+            "attempts": 13,
+            "yards": 20,
+            "average": 1.54,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Khalil Herbert",
+            "attempts": 4,
+            "yards": 9,
+            "average": 2.25,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Rome Odunze",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": -6,
+            "average": -6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Cole Kmet",
+            "receptions": 10,
+            "yards": 97,
+            "average": 9.7,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 11,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "",
+            "receptions": 8,
+            "yards": 78,
+            "average": 9.75,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 6,
+            "yards": 112,
+            "average": 18.67,
+            "long": 47,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Roschon Johnson",
+            "receptions": 4,
+            "yards": 32,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "DeAndre Carter",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Gerald Everett",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Khalil Herbert",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 53,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "150",
+          "pass_yards_allowed": "156",
+          "total_yards_allowed": "306"
+        }
+      }
+    }
+  }
+}

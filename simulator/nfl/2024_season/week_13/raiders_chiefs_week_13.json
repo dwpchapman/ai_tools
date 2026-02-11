@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 17,
+      "Kansas City Chiefs": 19
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        0,
+        3,
+        7,
+        7
+      ],
+      "Kansas City Chiefs": [
+        3,
+        7,
+        6,
+        3
+      ]
+    },
+    "week": 13,
+    "date": "November 29, 2024",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 46,
+            "completions": 26,
+            "yards": 306,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 5,
+            "loss": 40,
+            "rate": 84.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 7,
+            "yards": 44,
+            "average": 6.29,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kareem Hunt",
+            "attempts": 7,
+            "yards": 15,
+            "average": 2.14,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 7,
+            "yards": 68,
+            "average": 9.71,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 13,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 5,
+            "yards": 54,
+            "average": 10.8,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 4,
+            "yards": 90,
+            "average": 22.5,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 4,
+            "yards": 58,
+            "average": 14.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matthew Wright",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 42,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "116",
+          "pass_yards_allowed": "318",
+          "total_yards_allowed": "434"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 35,
+            "completions": 23,
+            "yards": 340,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 58,
+            "sacks": 3,
+            "loss": 22,
+            "rate": 116.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Sincere McCormick",
+            "attempts": 12,
+            "yards": 64,
+            "average": 5.33,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 10,
+            "yards": 39,
+            "average": 3.9,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Bowers",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 10,
+            "yards": 140,
+            "average": 14.0,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 14,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 6,
+            "yards": 97,
+            "average": 16.17,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Sincere McCormick",
+            "receptions": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 1,
+            "yards": 58,
+            "average": 58.0,
+            "long": 58,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Terrace Marshall",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 4,
+            "long": 27,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "63",
+          "pass_yards_allowed": "266",
+          "total_yards_allowed": "329"
+        }
+      }
+    }
+  }
+}

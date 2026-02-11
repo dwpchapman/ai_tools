@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 19,
+      "San Francisco 49ers": 32
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        7,
+        0,
+        6,
+        6
+      ],
+      "San Francisco 49ers": [
+        3,
+        13,
+        10,
+        6
+      ]
+    },
+    "week": 1,
+    "date": "September 9, 2024",
+    "location": "Levi's Stadium",
+    "teams": {
+      "San Francisco 49ers": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 29,
+            "completions": 19,
+            "yards": 231,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 2,
+            "loss": 6,
+            "rate": 89.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 28,
+            "yards": 147,
+            "average": 5.25,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 8
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 8,
+            "yards": 23,
+            "average": 2.88,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brandon Allen",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jauan Jennings",
+            "receptions": 5,
+            "yards": 64,
+            "average": 12.8,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 5,
+            "yards": 54,
+            "average": 10.8,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Brandon Aiyuk",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 6,
+            "fg_att": 6,
+            "long": 53,
+            "points": 20
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "198",
+          "total_yards_allowed": "266"
+        }
+      },
+      "New York Jets": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 21,
+            "completions": 13,
+            "yards": 167,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 36,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 82.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 16,
+            "yards": 54,
+            "average": 3.38,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyrod Taylor",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Allen Lazard",
+            "receptions": 6,
+            "yards": 89,
+            "average": 14.83,
+            "long": 36,
+            "touchdowns": 2,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 6,
+            "yards": 60,
+            "average": 10.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Tyler Conklin",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Xavier Gipson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Zuerlein",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "180",
+          "pass_yards_allowed": "221",
+          "total_yards_allowed": "401"
+        }
+      }
+    }
+  }
+}

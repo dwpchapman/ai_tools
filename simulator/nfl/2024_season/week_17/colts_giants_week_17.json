@@ -1,0 +1,300 @@
+{
+  "game_info": {
+    "final_score": {
+      "Indianapolis Colts": 33,
+      "New York Giants": 45
+    },
+    "team_scores_by_quarter": {
+      "Indianapolis Colts": [
+        3,
+        10,
+        7,
+        13
+      ],
+      "New York Giants": [
+        7,
+        14,
+        7,
+        17
+      ]
+    },
+    "week": 17,
+    "date": "December 29, 2024",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 45,
+        "passing": [
+          {
+            "player": "Drew Lock",
+            "attempts": 23,
+            "completions": 17,
+            "yards": 309,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 59,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 155.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 20,
+            "yards": 59,
+            "average": 2.95,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 5,
+            "yards": 21,
+            "average": 4.2,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Drew Lock",
+            "attempts": 5,
+            "yards": 0,
+            "average": 0.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Nabers",
+            "receptions": 7,
+            "yards": 171,
+            "average": 24.43,
+            "long": 59,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 102
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 5,
+            "yards": 71,
+            "average": 14.2,
+            "long": 35,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Chris Manhertz",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 1,
+            "yards": 32,
+            "average": 32.0,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 19
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 30,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "126",
+          "pass_yards_allowed": "320",
+          "total_yards_allowed": "446"
+        }
+      },
+      "Indianapolis Colts": {
+        "score": 33,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 38,
+            "completions": 26,
+            "yards": 330,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 49,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 90.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 32,
+            "yards": 125,
+            "average": 3.91,
+            "long": 26,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Pittman",
+            "receptions": 9,
+            "yards": 109,
+            "average": 12.11,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 6,
+            "yards": 122,
+            "average": 20.33,
+            "long": 49,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Josh Downs",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Kylen Granson",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Trey Sermon",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 32,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "80",
+          "pass_yards_allowed": "309",
+          "total_yards_allowed": "389"
+        }
+      }
+    }
+  }
+}

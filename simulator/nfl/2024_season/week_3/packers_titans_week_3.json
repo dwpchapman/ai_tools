@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 30,
+      "Tennessee Titans": 14
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        17,
+        3,
+        7,
+        3
+      ],
+      "Tennessee Titans": [
+        7,
+        0,
+        7,
+        0
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2024",
+    "location": "Nissan Stadium",
+    "teams": {
+      "Tennessee Titans": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Will Levis",
+            "attempts": 34,
+            "completions": 26,
+            "yards": 260,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 8,
+            "loss": 56,
+            "rate": 92.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 6,
+            "yards": 14,
+            "average": 2.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Will Levis",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 6,
+            "yards": 73,
+            "average": 12.17,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Tyler Boyd",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Treylon Burks",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "188",
+          "pass_yards_allowed": "190",
+          "total_yards_allowed": "378"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Malik Willis",
+            "attempts": 19,
+            "completions": 13,
+            "yards": 202,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 3,
+            "loss": 12,
+            "rate": 120.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Malik Willis",
+            "attempts": 6,
+            "yards": 73,
+            "average": 12.17,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 12,
+            "yards": 50,
+            "average": 4.17,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Josh Jacobs",
+            "attempts": 14,
+            "yards": 43,
+            "average": 3.07,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Christopher Brooks",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jayden Reed",
+            "receptions": 4,
+            "yards": 50,
+            "average": 12.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 2,
+            "yards": 67,
+            "average": 33.5,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brayden Narveson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 47,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "33",
+          "pass_yards_allowed": "204",
+          "total_yards_allowed": "237"
+        }
+      }
+    }
+  }
+}

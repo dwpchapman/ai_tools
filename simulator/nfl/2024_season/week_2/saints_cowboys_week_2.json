@@ -1,0 +1,383 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 44,
+      "Dallas Cowboys": 19
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        14,
+        21,
+        6,
+        3
+      ],
+      "Dallas Cowboys": [
+        3,
+        13,
+        3,
+        0
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 39,
+            "completions": 27,
+            "yards": 293,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 65,
+            "sacks": 3,
+            "loss": 14,
+            "rate": 78.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 7,
+            "yards": 30,
+            "average": 4.29,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "attempts": 6,
+            "yards": 16,
+            "average": 2.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dak Prescott",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Deuce Vaughn",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brandin Cooks",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 6,
+            "yards": 43,
+            "average": 7.17,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 6,
+            "yards": 82,
+            "average": 13.67,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 4,
+            "yards": 90,
+            "average": 22.5,
+            "long": 65,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Jalen Brooks",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Deuce Vaughn",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Brevyn Spann-Ford",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 52,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "190",
+          "pass_yards_allowed": "242",
+          "total_yards_allowed": "432"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 44,
+        "passing": [
+          {
+            "player": "Derek Carr",
+            "attempts": 16,
+            "completions": 11,
+            "yards": 243,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 70,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 125.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 20,
+            "yards": 115,
+            "average": 5.75,
+            "long": 15,
+            "touchdowns": 3,
+            "first_downs": 8
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 8,
+            "yards": 39,
+            "average": 4.88,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Rashid Shaheed",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Chris Olave",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Derek Carr",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jake Haener",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 4,
+            "yards": 81,
+            "average": 20.25,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 4,
+            "yards": 96,
+            "average": 24.0,
+            "long": 70,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 2,
+            "yards": 65,
+            "average": 32.5,
+            "long": 57,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 68
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Adam Prentice",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 5,
+            "pat_att": 6,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 26,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "285",
+          "total_yards_allowed": "353"
+        }
+      }
+    }
+  }
+}

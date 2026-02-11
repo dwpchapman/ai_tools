@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cincinnati Bengals": 25,
+      "Kansas City Chiefs": 26
+    },
+    "team_scores_by_quarter": {
+      "Cincinnati Bengals": [
+        3,
+        13,
+        6,
+        3
+      ],
+      "Kansas City Chiefs": [
+        3,
+        7,
+        7,
+        9
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 25,
+            "completions": 18,
+            "yards": 151,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 44,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 80.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 19,
+            "yards": 90,
+            "average": 4.74,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Carson Steele",
+            "attempts": 7,
+            "yards": 24,
+            "average": 3.43,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Travis Kelce",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 5,
+            "yards": 21,
+            "average": 4.2,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Rashee Rice",
+            "receptions": 5,
+            "yards": 75,
+            "average": 15.0,
+            "long": 44,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Wanya Morris",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jared Wiley",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 51,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "246",
+          "total_yards_allowed": "320"
+        }
+      },
+      "Cincinnati Bengals": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 36,
+            "completions": 23,
+            "yards": 258,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 47,
+            "sacks": 3,
+            "loss": 12,
+            "rate": 103.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zack Moss",
+            "attempts": 12,
+            "yards": 34,
+            "average": 2.83,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Chase Brown",
+            "attempts": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 6,
+            "yards": 9,
+            "average": 1.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mike Gesicki",
+            "receptions": 7,
+            "yards": 91,
+            "average": 13.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 52
+          },
+          {
+            "player": "Erick All",
+            "receptions": 4,
+            "yards": 32,
+            "average": 8.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jermaine Burton",
+            "receptions": 1,
+            "yards": 47,
+            "average": 47.0,
+            "long": 47,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Trenton Irwin",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Zack Moss",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 15
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 53,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "149",
+          "pass_yards_allowed": "137",
+          "total_yards_allowed": "286"
+        }
+      }
+    }
+  }
+}

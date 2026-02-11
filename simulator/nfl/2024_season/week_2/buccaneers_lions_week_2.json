@@ -1,0 +1,327 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 20,
+      "Detroit Lions": 16
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        6,
+        7,
+        7,
+        0
+      ],
+      "Detroit Lions": [
+        3,
+        3,
+        10,
+        0
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 55,
+            "completions": 34,
+            "yards": 307,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 50,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 61.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 13,
+            "yards": 84,
+            "average": 6.46,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 11,
+            "yards": 35,
+            "average": 3.18,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 11,
+            "yards": 119,
+            "average": 10.82,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 18,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 7,
+            "yards": 22,
+            "average": 3.14,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 5,
+            "yards": 79,
+            "average": 15.8,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 11,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Sione Vaki",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tom Kennedy",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 35,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "70",
+          "pass_yards_allowed": "146",
+          "total_yards_allowed": "216"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 19,
+            "completions": 12,
+            "yards": 185,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 41,
+            "sacks": 5,
+            "loss": 39,
+            "rate": 90.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 5,
+            "yards": 34,
+            "average": 6.8,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 7,
+            "yards": 22,
+            "average": 3.14,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 10,
+            "yards": 18,
+            "average": 1.8,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cade Otton",
+            "attempts": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Godwin",
+            "receptions": 7,
+            "yards": 117,
+            "average": 16.71,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Mike Evans",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 55,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "139",
+          "pass_yards_allowed": "324",
+          "total_yards_allowed": "463"
+        }
+      }
+    }
+  }
+}

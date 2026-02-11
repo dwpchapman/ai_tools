@@ -1,0 +1,345 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 30,
+      "Carolina Panthers": 36
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        0,
+        17,
+        3,
+        10
+      ],
+      "Carolina Panthers": [
+        7,
+        13,
+        3,
+        7
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "Bank of America Stadium",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 36,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 26,
+            "completions": 17,
+            "yards": 158,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 23,
+            "sacks": 3,
+            "loss": 9,
+            "rate": 107.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 25,
+            "yards": 152,
+            "average": 6.08,
+            "long": 28,
+            "touchdowns": 2,
+            "first_downs": 8
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 5,
+            "yards": 68,
+            "average": 13.6,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Raheem Blackshear",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Deven Thompkins",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mike Boone",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "David Moore",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Adam Thielen",
+            "receptions": 5,
+            "yards": 43,
+            "average": 8.6,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 4,
+            "yards": 13,
+            "average": 3.25,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Tommy Tremble",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "David Moore",
+            "receptions": 2,
+            "yards": 39,
+            "average": 19.5,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dan Chisena",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 29,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "206",
+          "pass_yards_allowed": "176",
+          "total_yards_allowed": "382"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 32,
+            "completions": 20,
+            "yards": 202,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 38,
+            "sacks": 3,
+            "loss": 26,
+            "rate": 77.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Conner",
+            "attempts": 15,
+            "yards": 117,
+            "average": 7.8,
+            "long": 40,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 8,
+            "yards": 63,
+            "average": 7.88,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Michael Carter",
+            "attempts": 5,
+            "yards": 18,
+            "average": 3.6,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Greg Dortch",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Carter",
+            "receptions": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "James Conner",
+            "receptions": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 54
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Trey McBride",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 2,
+            "yards": 44,
+            "average": 22.0,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "DeeJay Dallas",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 58,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "243",
+          "pass_yards_allowed": "149",
+          "total_yards_allowed": "392"
+        }
+      }
+    }
+  }
+}

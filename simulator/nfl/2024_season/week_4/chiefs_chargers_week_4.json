@@ -1,0 +1,327 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 17,
+      "Los Angeles Chargers": 10
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        0,
+        7,
+        3,
+        7
+      ],
+      "Los Angeles Chargers": [
+        10,
+        0,
+        0,
+        0
+      ]
+    },
+    "week": 4,
+    "date": "September 29, 2024",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Chargers": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 27,
+            "completions": 16,
+            "yards": 179,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 91.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 14,
+            "yards": 32,
+            "average": 2.29,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Gus Edwards",
+            "attempts": 6,
+            "yards": 19,
+            "average": 3.17,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Quentin Johnston",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ladd McConkey",
+            "receptions": 5,
+            "yards": 67,
+            "average": 13.4,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Hayden Hurst",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Scott Matlock",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 50,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "101",
+          "pass_yards_allowed": "228",
+          "total_yards_allowed": "329"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 29,
+            "completions": 19,
+            "yards": 245,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 54,
+            "sacks": 3,
+            "loss": 17,
+            "rate": 89.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kareem Hunt",
+            "attempts": 14,
+            "yards": 69,
+            "average": 4.93,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 5,
+            "yards": 14,
+            "average": 2.8,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 5,
+            "yards": 12,
+            "average": 2.4,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Carson Steele",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 7,
+            "yards": 89,
+            "average": 12.71,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 3,
+            "yards": 73,
+            "average": 24.33,
+            "long": 54,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Carson Steele",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Skyy Moore",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 37,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "55",
+          "pass_yards_allowed": "169",
+          "total_yards_allowed": "224"
+        }
+      }
+    }
+  }
+}

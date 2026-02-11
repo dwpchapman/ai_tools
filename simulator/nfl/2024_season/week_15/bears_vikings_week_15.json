@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 12,
+      "Minnesota Vikings": 30
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        0,
+        0,
+        3,
+        9
+      ],
+      "Minnesota Vikings": [
+        10,
+        3,
+        7,
+        10
+      ]
+    },
+    "week": 15,
+    "date": "December 16, 2024",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 40,
+            "completions": 24,
+            "yards": 231,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 21,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 74.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 18,
+            "yards": 86,
+            "average": 4.78,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Cam Akers",
+            "attempts": 10,
+            "yards": 24,
+            "average": 2.4,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Ty Chandler",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jordan Addison",
+            "receptions": 7,
+            "yards": 63,
+            "average": 9.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 7,
+            "yards": 73,
+            "average": 10.43,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 14,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 52,
+            "average": 10.4,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Brandon Powell",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Trent Sherfield",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 52,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "113",
+          "pass_yards_allowed": "171",
+          "total_yards_allowed": "284"
+        }
+      },
+      "Chicago Bears": {
+        "score": 12,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 31,
+            "completions": 18,
+            "yards": 191,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 29,
+            "sacks": 2,
+            "loss": 25,
+            "rate": 86.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 19,
+            "yards": 79,
+            "average": 4.16,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "",
+            "attempts": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Travis Homer",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 8,
+            "yards": 46,
+            "average": 5.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 6,
+            "yards": 82,
+            "average": 13.67,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 2,
+            "yards": 39,
+            "average": 19.5,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Tyler Scott",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 39,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "114",
+          "pass_yards_allowed": "215",
+          "total_yards_allowed": "329"
+        }
+      }
+    }
+  }
+}

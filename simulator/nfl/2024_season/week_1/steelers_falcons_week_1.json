@@ -1,0 +1,327 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 18,
+      "Atlanta Falcons": 10
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        3,
+        6,
+        6,
+        3
+      ],
+      "Atlanta Falcons": [
+        3,
+        7,
+        0,
+        0
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 26,
+            "completions": 16,
+            "yards": 155,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 20,
+            "sacks": 2,
+            "loss": 18,
+            "rate": 59.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 18,
+            "yards": 68,
+            "average": 3.78,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Bijan Robinson",
+            "receptions": 5,
+            "yards": 43,
+            "average": 8.6,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Drake London",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 24,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "137",
+          "pass_yards_allowed": "133",
+          "total_yards_allowed": "270"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 18,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 23,
+            "completions": 17,
+            "yards": 156,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 2,
+            "loss": 23,
+            "rate": 91.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 20,
+            "yards": 70,
+            "average": 3.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 14,
+            "yards": 57,
+            "average": 4.07,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "attempts": 4,
+            "yards": 13,
+            "average": 3.25,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "George Pickens",
+            "attempts": 1,
+            "yards": -10,
+            "average": -10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Pickens",
+            "receptions": 6,
+            "yards": 85,
+            "average": 14.17,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "MyCole Pruitt",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 6,
+            "fg_att": 6,
+            "long": 57,
+            "points": 18
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "89",
+          "pass_yards_allowed": "137",
+          "total_yards_allowed": "226"
+        }
+      }
+    }
+  }
+}

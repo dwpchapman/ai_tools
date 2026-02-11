@@ -1,0 +1,373 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 14,
+      "Pittsburgh Steelers": 27
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        7,
+        0,
+        0,
+        7
+      ],
+      "Pittsburgh Steelers": [
+        3,
+        10,
+        14,
+        0
+      ]
+    },
+    "week": 14,
+    "date": "December 8, 2024",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 26,
+            "completions": 15,
+            "yards": 158,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 101.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 16,
+            "yards": 53,
+            "average": 3.31,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 9,
+            "yards": 47,
+            "average": 5.22,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 6,
+            "yards": 17,
+            "average": 2.83,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Scott Miller",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Mike Williams",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "MyCole Pruitt",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 54,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "104",
+          "pass_yards_allowed": "196",
+          "total_yards_allowed": "300"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Jameis Winston",
+            "attempts": 41,
+            "completions": 24,
+            "yards": 212,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 35,
+            "sacks": 3,
+            "loss": 16,
+            "rate": 68.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Nick Chubb",
+            "attempts": 11,
+            "yards": 48,
+            "average": 4.36,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 10,
+            "yards": 28,
+            "average": 2.8,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jameis Winston",
+            "attempts": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 4
+          }
+        ],
+        "receiving": [
+          {
+            "player": "David Njoku",
+            "receptions": 7,
+            "yards": 42,
+            "average": 6.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 13,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 5,
+            "yards": 64,
+            "average": 12.8,
+            "long": 35,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Pierre Strong",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "James Proche",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Michael Woods",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Blake Whiteheart",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "120",
+          "pass_yards_allowed": "147",
+          "total_yards_allowed": "267"
+        }
+      }
+    }
+  }
+}

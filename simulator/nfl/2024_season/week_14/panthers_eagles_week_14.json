@@ -1,0 +1,309 @@
+{
+  "game_info": {
+    "final_score": {
+      "Carolina Panthers": 16,
+      "Philadelphia Eagles": 22
+    },
+    "team_scores_by_quarter": {
+      "Carolina Panthers": [
+        3,
+        7,
+        6,
+        0
+      ],
+      "Philadelphia Eagles": [
+        0,
+        14,
+        0,
+        8
+      ]
+    },
+    "week": 14,
+    "date": "December 8, 2024",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 21,
+            "completions": 14,
+            "yards": 108,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 27,
+            "sacks": 4,
+            "loss": 25,
+            "rate": 110.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 20,
+            "yards": 124,
+            "average": 6.2,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 8,
+            "yards": 59,
+            "average": 7.38,
+            "long": 35,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Johnny Wilson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "118",
+          "pass_yards_allowed": "184",
+          "total_yards_allowed": "302"
+        }
+      },
+      "Carolina Panthers": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 34,
+            "completions": 19,
+            "yards": 191,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 69.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 26,
+            "yards": 92,
+            "average": 3.54,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 7,
+            "yards": 29,
+            "average": 4.14,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jonathon Brooks",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Adam Thielen",
+            "receptions": 9,
+            "yards": 102,
+            "average": 11.33,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 11,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 2,
+            "yards": 39,
+            "average": 19.5,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "David Moore",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Deven Thompkins",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tommy Tremble",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 38,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "209",
+          "pass_yards_allowed": "83",
+          "total_yards_allowed": "292"
+        }
+      }
+    }
+  }
+}

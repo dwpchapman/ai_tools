@@ -1,0 +1,325 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Rams": 20,
+      "Detroit Lions": 26
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Rams": [
+        3,
+        0,
+        7,
+        10
+      ],
+      "Detroit Lions": [
+        0,
+        10,
+        7,
+        3
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 28,
+            "completions": 18,
+            "yards": 217,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 52,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 85.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "David Montgomery",
+            "attempts": 17,
+            "yards": 91,
+            "average": 5.35,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 11,
+            "yards": 40,
+            "average": 3.64,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kalif Raymond",
+            "attempts": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jameson Williams",
+            "receptions": 5,
+            "yards": 121,
+            "average": 24.2,
+            "long": 52,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 63
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 54
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 4,
+            "yards": 45,
+            "average": 11.25,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Amon-Ra S",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brock Wright",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 32,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "83",
+          "pass_yards_allowed": "304",
+          "total_yards_allowed": "387"
+        }
+      },
+      "Los Angeles Rams": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 49,
+            "completions": 34,
+            "yards": 317,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 63,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 85.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 18,
+            "yards": 50,
+            "average": 2.78,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Ronnie Rivers",
+            "attempts": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Cooper Kupp",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Cooper Kupp",
+            "receptions": 14,
+            "yards": 110,
+            "average": 7.86,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 21,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 5,
+            "yards": 79,
+            "average": 15.8,
+            "long": 63,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 65
+          },
+          {
+            "player": "Puka Nacua",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 41,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "163",
+          "pass_yards_allowed": "200",
+          "total_yards_allowed": "363"
+        }
+      }
+    }
+  }
+}

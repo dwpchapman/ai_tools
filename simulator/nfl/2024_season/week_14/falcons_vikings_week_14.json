@@ -1,0 +1,285 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 21,
+      "Minnesota Vikings": 42
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        7,
+        3,
+        11,
+        0
+      ],
+      "Minnesota Vikings": [
+        7,
+        7,
+        7,
+        21
+      ]
+    },
+    "week": 14,
+    "date": "December 8, 2024",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 42,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 28,
+            "completions": 22,
+            "yards": 347,
+            "touchdowns": 5,
+            "interceptions": 0,
+            "long": 52,
+            "sacks": 4,
+            "loss": 29,
+            "rate": 157.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 13,
+            "yards": 73,
+            "average": 5.62,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Cam Akers",
+            "attempts": 5,
+            "yards": 37,
+            "average": 7.4,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 4,
+            "yards": 7,
+            "average": 1.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Nick Mullens",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jordan Addison",
+            "receptions": 8,
+            "yards": 133,
+            "average": 16.62,
+            "long": 49,
+            "touchdowns": 3,
+            "first_downs": 6,
+            "targets": 12,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 7,
+            "yards": 132,
+            "average": 18.86,
+            "long": 52,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 45,
+            "average": 11.25,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 1,
+            "yards": 26,
+            "average": 26.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 22
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "158",
+          "pass_yards_allowed": "338",
+          "total_yards_allowed": "496"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 37,
+            "completions": 23,
+            "yards": 344,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 49,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 70.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 22,
+            "yards": 92,
+            "average": 4.18,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 9,
+            "yards": 63,
+            "average": 7.0,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 8,
+            "yards": 98,
+            "average": 12.25,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 70
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 6,
+            "yards": 142,
+            "average": 23.67,
+            "long": 49,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 7,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Drake London",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 29,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "115",
+          "pass_yards_allowed": "318",
+          "total_yards_allowed": "433"
+        }
+      }
+    }
+  }
+}

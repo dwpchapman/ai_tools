@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 23,
+      "Jacksonville Jaguars": 20
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        0,
+        6,
+        10,
+        7
+      ],
+      "Jacksonville Jaguars": [
+        0,
+        3,
+        3,
+        14
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2024",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Mac Jones",
+            "attempts": 32,
+            "completions": 20,
+            "yards": 235,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 56,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 105.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 13,
+            "yards": 46,
+            "average": 3.54,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 7,
+            "yards": 28,
+            "average": 4.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Brian Thomas",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Evan Engram",
+            "receptions": 7,
+            "yards": 41,
+            "average": 5.86,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 6,
+            "yards": 103,
+            "average": 17.17,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 4,
+            "yards": 76,
+            "average": 19.0,
+            "long": 56,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Devin Duvernay",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 33,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "108",
+          "pass_yards_allowed": "218",
+          "total_yards_allowed": "326"
+        }
+      },
+      "Houston Texans": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 34,
+            "completions": 22,
+            "yards": 242,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 2,
+            "loss": 24,
+            "rate": 95.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 20,
+            "yards": 101,
+            "average": 5.05,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 9
+          },
+          {
+            "player": "",
+            "attempts": 5,
+            "yards": 7,
+            "average": 1.4,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 8,
+            "yards": 119,
+            "average": 14.88,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 5,
+            "yards": 61,
+            "average": 12.2,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dameon Pierce",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 53,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "97",
+          "pass_yards_allowed": "276",
+          "total_yards_allowed": "373"
+        }
+      }
+    }
+  }
+}

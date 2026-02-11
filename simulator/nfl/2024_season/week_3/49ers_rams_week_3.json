@@ -1,0 +1,300 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 24,
+      "Los Angeles Rams": 27
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        14,
+        0,
+        7,
+        3
+      ],
+      "Los Angeles Rams": [
+        0,
+        7,
+        7,
+        13
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2024",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 25,
+            "completions": 16,
+            "yards": 221,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 50,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 105.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 24,
+            "yards": 89,
+            "average": 3.71,
+            "long": 13,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "Ronnie Rivers",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 4,
+            "yards": 93,
+            "average": 23.25,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jordan Whittington",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 1,
+            "yards": 32,
+            "average": 32.0,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 37,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "137",
+          "pass_yards_allowed": "288",
+          "total_yards_allowed": "425"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 30,
+            "completions": 22,
+            "yards": 292,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 34,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 137.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 19,
+            "yards": 77,
+            "average": 4.05,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 10,
+            "yards": 41,
+            "average": 4.1,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Isaac Guerendo",
+            "attempts": 5,
+            "yards": 19,
+            "average": 3.8,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jauan Jennings",
+            "receptions": 11,
+            "yards": 175,
+            "average": 15.91,
+            "long": 34,
+            "touchdowns": 3,
+            "first_downs": 7,
+            "targets": 12,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Brandon Aiyuk",
+            "receptions": 5,
+            "yards": 48,
+            "average": 9.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 2,
+            "yards": 41,
+            "average": 20.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Ronnie Bell",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": -3
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jake Brendel",
+            "receptions": 0,
+            "yards": 2,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Dominick Puni",
+            "receptions": 0,
+            "yards": -3,
+            "average": 0.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": -3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 26,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "98",
+          "pass_yards_allowed": "198",
+          "total_yards_allowed": "296"
+        }
+      }
+    }
+  }
+}

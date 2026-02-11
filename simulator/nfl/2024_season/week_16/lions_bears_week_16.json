@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 34,
+      "Chicago Bears": 17
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        13,
+        14,
+        7,
+        0
+      ],
+      "Chicago Bears": [
+        0,
+        14,
+        3,
+        0
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 40,
+            "completions": 26,
+            "yards": 334,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 45,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 107.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 6,
+            "yards": 34,
+            "average": 5.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "D'Andre Swift",
+            "attempts": 9,
+            "yards": 20,
+            "average": 2.22,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 9,
+            "yards": 141,
+            "average": 15.67,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 13,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "",
+            "receptions": 7,
+            "yards": 68,
+            "average": 9.71,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 4,
+            "yards": 77,
+            "average": 19.25,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Gerald Everett",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Collin Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 30,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "146",
+          "pass_yards_allowed": "329",
+          "total_yards_allowed": "475"
+        }
+      },
+      "Detroit Lions": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 32,
+            "completions": 23,
+            "yards": 336,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 82,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 137.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 23,
+            "yards": 109,
+            "average": 4.74,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 8
+          },
+          {
+            "player": "Craig Reynolds",
+            "attempts": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jermar Jefferson",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 6,
+            "yards": 70,
+            "average": 11.67,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 5,
+            "yards": 143,
+            "average": 28.6,
+            "long": 82,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 66
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 4,
+            "yards": 45,
+            "average": 11.25,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Sione Vaki",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jermar Jefferson",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Craig Reynolds",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 34,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "59",
+          "pass_yards_allowed": "323",
+          "total_yards_allowed": "382"
+        }
+      }
+    }
+  }
+}

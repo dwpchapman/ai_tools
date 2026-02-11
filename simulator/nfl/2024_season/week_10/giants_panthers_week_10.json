@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 17,
+      "Carolina Panthers": 20
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        0,
+        0,
+        7,
+        10
+      ],
+      "Carolina Panthers": [
+        7,
+        3,
+        7,
+        0
+      ]
+    },
+    "week": 10,
+    "date": "November 10, 2024",
+    "location": "Allianz Arena",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 25,
+            "completions": 15,
+            "yards": 126,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 86.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 28,
+            "yards": 153,
+            "average": 5.46,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Miles Sanders",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "David Moore",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ian Thomas",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 53,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "167",
+          "pass_yards_allowed": "175",
+          "total_yards_allowed": "342"
+        }
+      },
+      "New York Giants": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 37,
+            "completions": 22,
+            "yards": 190,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 23,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 50.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 18,
+            "yards": 103,
+            "average": 5.72,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 8,
+            "yards": 40,
+            "average": 5.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 7,
+            "yards": 26,
+            "average": 3.71,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Malik Nabers",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Nabers",
+            "receptions": 6,
+            "yards": 50,
+            "average": 8.33,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Isaiah Hodgins",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 42,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "188",
+          "pass_yards_allowed": "118",
+          "total_yards_allowed": "306"
+        }
+      }
+    }
+  }
+}

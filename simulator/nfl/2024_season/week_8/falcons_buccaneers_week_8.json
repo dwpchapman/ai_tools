@@ -1,0 +1,356 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 31,
+      "Tampa Bay Buccaneers": 26
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        7,
+        17,
+        7,
+        0
+      ],
+      "Tampa Bay Buccaneers": [
+        7,
+        10,
+        0,
+        9
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2024",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 50,
+            "completions": 37,
+            "yards": 330,
+            "touchdowns": 3,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 94.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 9,
+            "yards": 44,
+            "average": 4.89,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 6,
+            "yards": 29,
+            "average": 4.83,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen McMillan",
+            "attempts": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tavierre Thomas",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Cade Otton",
+            "receptions": 9,
+            "yards": 81,
+            "average": 9.0,
+            "long": 29,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 7,
+            "yards": 40,
+            "average": 5.71,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 5,
+            "yards": 38,
+            "average": 7.6,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Rakim Jarrett",
+            "receptions": 3,
+            "yards": 58,
+            "average": 19.33,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Trey Palmer",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Sean Tucker",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 52,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "129",
+          "pass_yards_allowed": "265",
+          "total_yards_allowed": "394"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 29,
+            "completions": 23,
+            "yards": 276,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 49,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 145.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 13,
+            "yards": 63,
+            "average": 4.85,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 12,
+            "yards": 33,
+            "average": 2.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "attempts": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Bijan Robinson",
+            "receptions": 7,
+            "yards": 43,
+            "average": 6.14,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Drake London",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 4,
+            "yards": 86,
+            "average": 21.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 4,
+            "yards": 91,
+            "average": 22.75,
+            "long": 49,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 55
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 39,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "102",
+          "pass_yards_allowed": "330",
+          "total_yards_allowed": "432"
+        }
+      }
+    }
+  }
+}

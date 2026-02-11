@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 37,
+      "Los Angeles Rams": 20
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        3,
+        10,
+        14,
+        10
+      ],
+      "Los Angeles Rams": [
+        7,
+        0,
+        7,
+        6
+      ]
+    },
+    "week": 12,
+    "date": "November 24, 2024",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 36,
+            "completions": 24,
+            "yards": 243,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 29,
+            "sacks": 5,
+            "loss": 45,
+            "rate": 104.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 16,
+            "yards": 72,
+            "average": 4.5,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 9,
+            "yards": 117,
+            "average": 13.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 13,
+            "yards_after_catch": 65
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 8,
+            "yards": 60,
+            "average": 7.5,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 11,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "314",
+          "pass_yards_allowed": "167",
+          "total_yards_allowed": "481"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 22,
+            "completions": 15,
+            "yards": 179,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 1,
+            "loss": 12,
+            "rate": 108.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 26,
+            "yards": 255,
+            "average": 9.81,
+            "long": 72,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 12,
+            "yards": 39,
+            "average": 3.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenny Pickett",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 109,
+            "average": 18.17,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 7,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 4,
+            "yards": 19,
+            "average": 4.75,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Johnny Wilson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 31,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "92",
+          "pass_yards_allowed": "198",
+          "total_yards_allowed": "290"
+        }
+      }
+    }
+  }
+}

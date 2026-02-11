@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 28,
+      "New York Giants": 6
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        7,
+        7,
+        14,
+        0
+      ],
+      "New York Giants": [
+        3,
+        0,
+        3,
+        0
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 42,
+            "completions": 22,
+            "yards": 186,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 25,
+            "sacks": 5,
+            "loss": 20,
+            "rate": 44.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Devin Singletary",
+            "attempts": 10,
+            "yards": 37,
+            "average": 3.7,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 6,
+            "yards": 15,
+            "average": 2.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Eric Gray",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 6,
+            "yards": 44,
+            "average": 7.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 12,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Malik Nabers",
+            "receptions": 5,
+            "yards": 66,
+            "average": 13.2,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Eric Gray",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 50,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "111",
+          "pass_yards_allowed": "201",
+          "total_yards_allowed": "312"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 24,
+            "completions": 19,
+            "yards": 208,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 44,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 113.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 14,
+            "yards": 94,
+            "average": 6.71,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Ty Chandler",
+            "attempts": 8,
+            "yards": 17,
+            "average": 2.12,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Myles Gaskin",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 4,
+            "yards": 59,
+            "average": 14.75,
+            "long": 44,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ty Chandler",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "166",
+          "total_yards_allowed": "240"
+        }
+      }
+    }
+  }
+}

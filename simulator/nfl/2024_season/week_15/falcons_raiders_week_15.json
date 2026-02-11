@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 15,
+      "Las Vegas Raiders": 9
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        7,
+        2,
+        3,
+        3
+      ],
+      "Las Vegas Raiders": [
+        0,
+        3,
+        0,
+        6
+      ]
+    },
+    "week": 15,
+    "date": "December 16, 2024",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 9,
+        "passing": [
+          {
+            "player": "Desmond Ridder",
+            "attempts": 39,
+            "completions": 23,
+            "yards": 208,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 24,
+            "sacks": 3,
+            "loss": 14,
+            "rate": 60.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Desmond Ridder",
+            "attempts": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Alexander Mattison",
+            "attempts": 7,
+            "yards": 21,
+            "average": 3.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sincere McCormick",
+            "attempts": 7,
+            "yards": 8,
+            "average": 1.14,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 7,
+            "yards": 58,
+            "average": 8.29,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 5,
+            "yards": 59,
+            "average": 11.8,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Brock Bowers",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Alexander Mattison",
+            "receptions": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Sincere McCormick",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Terrace Marshall",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 0,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 52,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "168",
+          "pass_yards_allowed": "93",
+          "total_yards_allowed": "261"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 17,
+            "completions": 11,
+            "yards": 112,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 3,
+            "loss": 19,
+            "rate": 78.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 22,
+            "yards": 125,
+            "average": 5.68,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 12,
+            "yards": 43,
+            "average": 3.58,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kyle Pitts",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Drake London",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 48,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "65",
+          "pass_yards_allowed": "184",
+          "total_yards_allowed": "249"
+        }
+      }
+    }
+  }
+}

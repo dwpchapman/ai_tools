@@ -1,0 +1,356 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 0,
+      "Denver Broncos": 38
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Denver Broncos": [
+        14,
+        10,
+        7,
+        7
+      ]
+    },
+    "week": 18,
+    "date": "January 5, 2025",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 29,
+            "completions": 26,
+            "yards": 321,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 47,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 152.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 7,
+            "yards": 47,
+            "average": 6.71,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 16,
+            "yards": 39,
+            "average": 2.44,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Audric Estime",
+            "attempts": 12,
+            "yards": 34,
+            "average": 2.83,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Javonte Williams",
+            "attempts": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jarrett Stidham",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Michael Burton",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marvin Mims",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 32,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 69
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 5,
+            "yards": 98,
+            "average": 19.6,
+            "long": 47,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 4,
+            "yards": 50,
+            "average": 12.5,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Nate Adkins",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 3,
+            "yards": 50,
+            "average": 16.67,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Lil'Jordan Humphrey",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 20
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 33,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "27",
+          "pass_yards_allowed": "71",
+          "total_yards_allowed": "98"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 0,
+        "passing": [
+          {
+            "player": "Carson Wentz",
+            "attempts": 17,
+            "completions": 10,
+            "yards": 98,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 4,
+            "loss": 22,
+            "rate": 75.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Carson Steele",
+            "attempts": 8,
+            "yards": 25,
+            "average": 3.12,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Chris Oladokun",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Noah Gray",
+            "attempts": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Peyton Hendershot",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Nikko Remigio",
+            "receptions": 2,
+            "yards": 48,
+            "average": 24.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Carson Steele",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 0
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "158",
+          "pass_yards_allowed": "321",
+          "total_yards_allowed": "479"
+        }
+      }
+    }
+  }
+}

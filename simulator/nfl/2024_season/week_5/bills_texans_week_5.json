@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 20,
+      "Houston Texans": 23
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        3,
+        0,
+        14,
+        3
+      ],
+      "Houston Texans": [
+        14,
+        3,
+        3,
+        3
+      ]
+    },
+    "week": 5,
+    "date": "October 6, 2024",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 38,
+            "completions": 28,
+            "yards": 331,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 67,
+            "sacks": 1,
+            "loss": 0,
+            "rate": 97.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cam Akers",
+            "attempts": 9,
+            "yards": 42,
+            "average": 4.67,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 15,
+            "yards": 30,
+            "average": 2.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Nathaniel Dell",
+            "attempts": 1,
+            "yards": -5,
+            "average": -5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Stefon Diggs",
+            "receptions": 6,
+            "yards": 82,
+            "average": 13.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 6,
+            "yards": 57,
+            "average": 9.5,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Cam Akers",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 2,
+            "yards": 78,
+            "average": 39.0,
+            "long": 67,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 59,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "150",
+          "pass_yards_allowed": "126",
+          "total_yards_allowed": "276"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 30,
+            "completions": 9,
+            "yards": 131,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 49,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 56.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 20,
+            "yards": 82,
+            "average": 4.1,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Curtis Samuel",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "James Cook",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 1,
+            "yards": 49,
+            "average": 49.0,
+            "long": 49,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 38,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "94",
+          "pass_yards_allowed": "331",
+          "total_yards_allowed": "425"
+        }
+      }
+    }
+  }
+}

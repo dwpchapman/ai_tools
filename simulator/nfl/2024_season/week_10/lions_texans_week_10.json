@@ -1,0 +1,296 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 26,
+      "Houston Texans": 23
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        0,
+        7,
+        6,
+        13
+      ],
+      "Houston Texans": [
+        10,
+        13,
+        0,
+        0
+      ]
+    },
+    "week": 10,
+    "date": "November 10, 2024",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 33,
+            "completions": 19,
+            "yards": 232,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 36,
+            "sacks": 4,
+            "loss": 40,
+            "rate": 64.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 25,
+            "yards": 46,
+            "average": 1.84,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Nathaniel Dell",
+            "attempts": 1,
+            "yards": -6,
+            "average": -6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 5,
+            "yards": 74,
+            "average": 14.8,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 3,
+            "yards": 66,
+            "average": 22.0,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 2,
+            "yards": 44,
+            "average": 22.0,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 56,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "105",
+          "pass_yards_allowed": "240",
+          "total_yards_allowed": "345"
+        }
+      },
+      "Detroit Lions": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 30,
+            "completions": 15,
+            "yards": 240,
+            "touchdowns": 2,
+            "interceptions": 5,
+            "long": 37,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 59.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 19,
+            "yards": 71,
+            "average": 3.74,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 12,
+            "yards": 32,
+            "average": 2.67,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 6,
+            "yards": 60,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 3,
+            "yards": 66,
+            "average": 22.0,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 28
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 58,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "56",
+          "pass_yards_allowed": "192",
+          "total_yards_allowed": "248"
+        }
+      }
+    }
+  }
+}

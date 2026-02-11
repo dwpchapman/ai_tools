@@ -1,0 +1,325 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 24,
+      "Indianapolis Colts": 27
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        0,
+        3,
+        7,
+        14
+      ],
+      "Indianapolis Colts": [
+        14,
+        3,
+        0,
+        10
+      ]
+    },
+    "week": 4,
+    "date": "September 29, 2024",
+    "location": "Lucas Oil Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 26,
+            "completions": 16,
+            "yards": 168,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 105.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 21,
+            "yards": 88,
+            "average": 4.19,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Anthony Richardson",
+            "attempts": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Adonai Mitchell",
+            "attempts": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Trey Sermon",
+            "attempts": 5,
+            "yards": 8,
+            "average": 1.6,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Downs",
+            "receptions": 8,
+            "yards": 82,
+            "average": 10.25,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Michael Pittman",
+            "receptions": 6,
+            "yards": 113,
+            "average": 18.83,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 35,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "282",
+          "total_yards_allowed": "404"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 34,
+            "completions": 22,
+            "yards": 312,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 4,
+            "loss": 30,
+            "rate": 104.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 10,
+            "yards": 55,
+            "average": 5.5,
+            "long": 12,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "attempts": 6,
+            "yards": 43,
+            "average": 7.17,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Najee Harris",
+            "attempts": 13,
+            "yards": 19,
+            "average": 1.46,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Aaron Shampklin",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Pickens",
+            "receptions": 7,
+            "yards": 113,
+            "average": 16.14,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 5,
+            "yards": 57,
+            "average": 11.4,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 50,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "133",
+          "pass_yards_allowed": "225",
+          "total_yards_allowed": "358"
+        }
+      }
+    }
+  }
+}

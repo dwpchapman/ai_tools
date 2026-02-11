@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 38,
+      "Carolina Panthers": 20
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        7,
+        15,
+        6,
+        10
+      ],
+      "Carolina Panthers": [
+        7,
+        10,
+        3,
+        0
+      ]
+    },
+    "week": 6,
+    "date": "October 13, 2024",
+    "location": "Bank of America Stadium",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Andy Dalton",
+            "attempts": 38,
+            "completions": 26,
+            "yards": 221,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 21,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 78.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 18,
+            "yards": 92,
+            "average": 5.11,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Andy Dalton",
+            "attempts": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Miles Sanders",
+            "attempts": 3,
+            "yards": 1,
+            "average": 0.33,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Diontae Johnson",
+            "receptions": 6,
+            "yards": 78,
+            "average": 13.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 5,
+            "yards": 11,
+            "average": 2.2,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 5,
+            "yards": 49,
+            "average": 9.8,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Xavier Legette",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "David Moore",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Miles Sanders",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Ian Thomas",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 40,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "198",
+          "pass_yards_allowed": "225",
+          "total_yards_allowed": "423"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 30,
+            "completions": 19,
+            "yards": 225,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 52,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 97.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 18,
+            "yards": 105,
+            "average": 5.83,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 8
+          },
+          {
+            "player": "Bijan Robinson",
+            "attempts": 15,
+            "yards": 95,
+            "average": 6.33,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 4,
+            "yards": -5,
+            "average": -1.25,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 6,
+            "yards": 74,
+            "average": 12.33,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 3,
+            "yards": 70,
+            "average": 23.33,
+            "long": 52,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 35,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "114",
+          "pass_yards_allowed": "221",
+          "total_yards_allowed": "335"
+        }
+      }
+    }
+  }
+}

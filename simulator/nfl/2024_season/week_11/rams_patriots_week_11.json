@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Rams": 28,
+      "New England Patriots": 22
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Rams": [
+        0,
+        14,
+        14,
+        0
+      ],
+      "New England Patriots": [
+        7,
+        3,
+        3,
+        9
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2024",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 39,
+            "completions": 29,
+            "yards": 282,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 3,
+            "loss": 25,
+            "rate": 100.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 20,
+            "yards": 73,
+            "average": 3.65,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Antonio Gibson",
+            "attempts": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Marcus Jones",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "JaMycal Hasty",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Hunter Henry",
+            "receptions": 6,
+            "yards": 63,
+            "average": 10.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 4,
+            "yards": 59,
+            "average": 14.75,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Antonio Gibson",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Vederian Lowe",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jaheim Bell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 42,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "107",
+          "pass_yards_allowed": "295",
+          "total_yards_allowed": "402"
+        }
+      },
+      "Los Angeles Rams": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 27,
+            "completions": 18,
+            "yards": 295,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 69,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 142.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 15,
+            "yards": 86,
+            "average": 5.73,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 5,
+            "yards": 21,
+            "average": 4.2,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 4,
+            "yards": 0,
+            "average": 0.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 7,
+            "yards": 123,
+            "average": 17.57,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 9,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 6,
+            "yards": 106,
+            "average": 17.67,
+            "long": 69,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Blake Corum",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "125",
+          "pass_yards_allowed": "257",
+          "total_yards_allowed": "382"
+        }
+      }
+    }
+  }
+}

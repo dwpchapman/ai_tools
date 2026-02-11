@@ -1,0 +1,345 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 40,
+      "San Francisco 49ers": 34
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        6,
+        7,
+        18,
+        9
+      ],
+      "San Francisco 49ers": [
+        7,
+        14,
+        7,
+        6
+      ]
+    },
+    "week": 17,
+    "date": "December 30, 2024",
+    "location": "Levi's Stadium",
+    "teams": {
+      "San Francisco 49ers": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 35,
+            "completions": 27,
+            "yards": 377,
+            "touchdowns": 3,
+            "interceptions": 2,
+            "long": 40,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 116.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isaac Guerendo",
+            "attempts": 9,
+            "yards": 34,
+            "average": 3.78,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Joshua Dobbs",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Ricky Pearsall",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Kittle",
+            "receptions": 8,
+            "yards": 112,
+            "average": 14.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 54
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 8,
+            "yards": 141,
+            "average": 17.62,
+            "long": 40,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 10,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 7,
+            "yards": 67,
+            "average": 9.57,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Isaac Guerendo",
+            "receptions": 4,
+            "yards": 65,
+            "average": 16.25,
+            "long": 40,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Chris Conley",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 4,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "152",
+          "pass_yards_allowed": "287",
+          "total_yards_allowed": "439"
+        }
+      },
+      "Detroit Lions": {
+        "score": 40,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 34,
+            "completions": 26,
+            "yards": 303,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 42,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 132.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 18,
+            "yards": 117,
+            "average": 6.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Craig Reynolds",
+            "attempts": 7,
+            "yards": 31,
+            "average": 4.43,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jermar Jefferson",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 8,
+            "yards": 60,
+            "average": 7.5,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 6,
+            "yards": 64,
+            "average": 10.67,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 5,
+            "yards": 77,
+            "average": 15.4,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 4,
+            "yards": 46,
+            "average": 11.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Craig Reynolds",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Allen Robinson",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 2,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 57,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "75",
+          "pass_yards_allowed": "400",
+          "total_yards_allowed": "475"
+        }
+      }
+    }
+  }
+}

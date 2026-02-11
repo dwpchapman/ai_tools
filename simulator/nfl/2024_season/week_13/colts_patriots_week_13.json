@@ -1,0 +1,320 @@
+{
+  "game_info": {
+    "final_score": {
+      "Indianapolis Colts": 25,
+      "New England Patriots": 24
+    },
+    "team_scores_by_quarter": {
+      "Indianapolis Colts": [
+        7,
+        7,
+        3,
+        8
+      ],
+      "New England Patriots": [
+        6,
+        10,
+        0,
+        8
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2024",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 30,
+            "completions": 24,
+            "yards": 238,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 4,
+            "loss": 16,
+            "rate": 96.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 18,
+            "yards": 73,
+            "average": 4.06,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Antonio Gibson",
+            "attempts": 7,
+            "yards": 62,
+            "average": 8.86,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 5,
+            "yards": 59,
+            "average": 11.8,
+            "long": 41,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kendrick Bourne",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Hunter Henry",
+            "receptions": 7,
+            "yards": 75,
+            "average": 10.71,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Ja'Lynn Polk",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 5,
+            "long": 54,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "144",
+          "pass_yards_allowed": "109",
+          "total_yards_allowed": "253"
+        }
+      },
+      "Indianapolis Colts": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Anthony Richardson",
+            "attempts": 24,
+            "completions": 12,
+            "yards": 109,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 22,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 55.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 25,
+            "yards": 96,
+            "average": 3.84,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 8
+          },
+          {
+            "player": "Anthony Richardson",
+            "attempts": 9,
+            "yards": 48,
+            "average": 5.33,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 5
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Pittman",
+            "receptions": 5,
+            "yards": 42,
+            "average": 8.4,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Will Mallory",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Kylen Granson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 25,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "200",
+          "pass_yards_allowed": "222",
+          "total_yards_allowed": "422"
+        }
+      }
+    }
+  }
+}

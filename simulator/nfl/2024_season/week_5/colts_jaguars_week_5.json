@@ -1,0 +1,389 @@
+{
+  "game_info": {
+    "final_score": {
+      "Indianapolis Colts": 34,
+      "Jacksonville Jaguars": 37
+    },
+    "team_scores_by_quarter": {
+      "Indianapolis Colts": [
+        7,
+        3,
+        0,
+        24
+      ],
+      "Jacksonville Jaguars": [
+        0,
+        13,
+        7,
+        17
+      ]
+    },
+    "week": 5,
+    "date": "October 6, 2024",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 34,
+            "completions": 28,
+            "yards": 371,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 85,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 119.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 13,
+            "yards": 101,
+            "average": 7.77,
+            "long": 65,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Travis Etienne",
+            "attempts": 6,
+            "yards": 17,
+            "average": 2.83,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Devin Duvernay",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Etienne",
+            "receptions": 6,
+            "yards": 43,
+            "average": 7.17,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 55
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 5,
+            "yards": 122,
+            "average": 24.4,
+            "long": 85,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 68
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 4,
+            "yards": 88,
+            "average": 22.0,
+            "long": 61,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 4,
+            "yards": 24,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Gabriel Davis",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Josiah Deguara",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 31
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 49,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "99",
+          "pass_yards_allowed": "348",
+          "total_yards_allowed": "447"
+        }
+      },
+      "Indianapolis Colts": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 44,
+            "completions": 33,
+            "yards": 359,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 65,
+            "sacks": 4,
+            "loss": 35,
+            "rate": 121.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Trey Sermon",
+            "attempts": 10,
+            "yards": 38,
+            "average": 3.8,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyler Goodson",
+            "attempts": 5,
+            "yards": 26,
+            "average": 5.2,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Joe Flacco",
+            "attempts": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Ashton Dulin",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Adonai Mitchell",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Downs",
+            "receptions": 9,
+            "yards": 69,
+            "average": 7.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Trey Sermon",
+            "receptions": 6,
+            "yards": 25,
+            "average": 4.17,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Michael Pittman",
+            "receptions": 5,
+            "yards": 37,
+            "average": 7.4,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tyler Goodson",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 3,
+            "yards": 134,
+            "average": 44.67,
+            "long": 65,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Will Mallory",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 37,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "126",
+          "pass_yards_allowed": "371",
+          "total_yards_allowed": "497"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 17,
+      "Chicago Bears": 24
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        7,
+        10,
+        0,
+        0
+      ],
+      "Chicago Bears": [
+        0,
+        3,
+        7,
+        14
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 29,
+            "completions": 14,
+            "yards": 93,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 13,
+            "sacks": 2,
+            "loss": 29,
+            "rate": 55.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 10,
+            "yards": 30,
+            "average": 3.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 5,
+            "yards": 15,
+            "average": 3.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Velus Jones",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Travis Homer",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Khalil Herbert",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 36,
+            "average": 7.2,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 11,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "DeAndre Carter",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Gerald Everett",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Velus Jones",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 50,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "140",
+          "pass_yards_allowed": "104",
+          "total_yards_allowed": "244"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Will Levis",
+            "attempts": 32,
+            "completions": 19,
+            "yards": 127,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 22,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 52.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 16,
+            "yards": 82,
+            "average": 5.12,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Will Levis",
+            "attempts": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 4,
+            "yards": 21,
+            "average": 5.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Treylon Burks",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyjae Spears",
+            "receptions": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Tyler Boyd",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 3,
+            "yards": 50,
+            "average": 16.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Treylon Burks",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 40,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "84",
+          "pass_yards_allowed": "64",
+          "total_yards_allowed": "148"
+        }
+      }
+    }
+  }
+}

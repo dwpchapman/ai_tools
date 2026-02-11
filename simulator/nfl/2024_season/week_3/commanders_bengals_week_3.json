@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 38,
+      "Cincinnati Bengals": 33
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        7,
+        14,
+        7,
+        10
+      ],
+      "Cincinnati Bengals": [
+        7,
+        6,
+        7,
+        13
+      ]
+    },
+    "week": 3,
+    "date": "September 23, 2024",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 33,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 38,
+            "completions": 29,
+            "yards": 324,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 127.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 7,
+            "yards": 62,
+            "average": 8.86,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Zack Moss",
+            "attempts": 12,
+            "yards": 58,
+            "average": 4.83,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 6,
+            "yards": 118,
+            "average": 19.67,
+            "long": 41,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 5,
+            "yards": 52,
+            "average": 10.4,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Zack Moss",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Erick All",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 31,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "108",
+          "pass_yards_allowed": "248",
+          "total_yards_allowed": "356"
+        }
+      },
+      "Washington Commanders": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 23,
+            "completions": 21,
+            "yards": 254,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 55,
+            "sacks": 2,
+            "loss": 6,
+            "rate": 141.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 12,
+            "yards": 39,
+            "average": 3.25,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 16,
+            "yards": 33,
+            "average": 2.06,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zach Ertz",
+            "receptions": 5,
+            "yards": 38,
+            "average": 7.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 4,
+            "yards": 100,
+            "average": 25.0,
+            "long": 55,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 3,
+            "yards": 44,
+            "average": 14.67,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Trenton Scott",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Austin Seibert",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 42,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "124",
+          "pass_yards_allowed": "312",
+          "total_yards_allowed": "436"
+        }
+      }
+    }
+  }
+}

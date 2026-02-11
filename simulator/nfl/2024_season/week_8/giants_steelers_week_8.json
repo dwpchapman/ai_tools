@@ -1,0 +1,342 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 18,
+      "Pittsburgh Steelers": 26
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        3,
+        6,
+        0,
+        9
+      ],
+      "Pittsburgh Steelers": [
+        6,
+        3,
+        7,
+        10
+      ]
+    },
+    "week": 8,
+    "date": "October 28, 2024",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 28,
+            "completions": 20,
+            "yards": 278,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 43,
+            "sacks": 4,
+            "loss": 19,
+            "rate": 114.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 19,
+            "yards": 114,
+            "average": 6.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 9,
+            "yards": 46,
+            "average": 5.11,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Van Jefferson",
+            "receptions": 4,
+            "yards": 62,
+            "average": 15.5,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "George Pickens",
+            "receptions": 4,
+            "yards": 74,
+            "average": 18.5,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "MyCole Pruitt",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 1,
+            "yards": 29,
+            "average": 29.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Scott Miller",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 31,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "157",
+          "pass_yards_allowed": "237",
+          "total_yards_allowed": "394"
+        }
+      },
+      "New York Giants": {
+        "score": 18,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 38,
+            "completions": 24,
+            "yards": 264,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 43,
+            "sacks": 4,
+            "loss": 27,
+            "rate": 72.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 20,
+            "yards": 145,
+            "average": 7.25,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 3,
+            "yards": 1,
+            "average": 0.33,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Nabers",
+            "receptions": 7,
+            "yards": 71,
+            "average": 10.14,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 4,
+            "yards": 108,
+            "average": 27.0,
+            "long": 43,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Eric Gray",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Chris Manhertz",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Joseph",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 48,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "167",
+          "pass_yards_allowed": "259",
+          "total_yards_allowed": "426"
+        }
+      }
+    }
+  }
+}

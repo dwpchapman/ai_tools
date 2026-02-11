@@ -1,0 +1,331 @@
+{
+  "game_info": {
+    "final_score": {
+      "Baltimore Ravens": 24,
+      "Cleveland Browns": 29
+    },
+    "team_scores_by_quarter": {
+      "Baltimore Ravens": [
+        0,
+        10,
+        7,
+        7
+      ],
+      "Cleveland Browns": [
+        3,
+        3,
+        14,
+        9
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2024",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Jameis Winston",
+            "attempts": 41,
+            "completions": 27,
+            "yards": 334,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 115.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Nick Chubb",
+            "attempts": 16,
+            "yards": 52,
+            "average": 3.25,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "D'Onta Foreman",
+            "attempts": 5,
+            "yards": 26,
+            "average": 5.2,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jameis Winston",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Elijah Moore",
+            "receptions": 8,
+            "yards": 85,
+            "average": 10.62,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 7,
+            "yards": 99,
+            "average": 14.14,
+            "long": 38,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 5,
+            "yards": 79,
+            "average": 15.8,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "David Njoku",
+            "receptions": 5,
+            "yards": 61,
+            "average": 12.2,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Pierre Strong",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Geoff Swaim",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 48,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "124",
+          "pass_yards_allowed": "263",
+          "total_yards_allowed": "387"
+        }
+      },
+      "Baltimore Ravens": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 38,
+            "completions": 23,
+            "yards": 289,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 29,
+            "sacks": 3,
+            "loss": 26,
+            "rate": 101.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 11,
+            "yards": 73,
+            "average": 6.64,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 8,
+            "yards": 46,
+            "average": 5.75,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zay Flowers",
+            "receptions": 7,
+            "yards": 115,
+            "average": 16.43,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 5,
+            "yards": 36,
+            "average": 7.2,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 49,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "80",
+          "pass_yards_allowed": "321",
+          "total_yards_allowed": "401"
+        }
+      }
+    }
+  }
+}

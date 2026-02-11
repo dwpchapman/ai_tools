@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 30,
+      "Chicago Bears": 27
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        0,
+        14,
+        10,
+        3
+      ],
+      "Chicago Bears": [
+        7,
+        3,
+        0,
+        17
+      ]
+    },
+    "week": 12,
+    "date": "November 24, 2024",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 47,
+            "completions": 32,
+            "yards": 340,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 3,
+            "loss": 20,
+            "rate": 103.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 6,
+            "yards": 33,
+            "average": 5.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "D'Andre Swift",
+            "attempts": 13,
+            "yards": 30,
+            "average": 2.31,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 9,
+            "yards": 86,
+            "average": 9.56,
+            "long": 40,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 15,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 7,
+            "yards": 64,
+            "average": 9.14,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "",
+            "receptions": 7,
+            "yards": 106,
+            "average": 15.14,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 81
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Roschon Johnson",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 49,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "124",
+          "pass_yards_allowed": "328",
+          "total_yards_allowed": "452"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 34,
+            "completions": 22,
+            "yards": 330,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 69,
+            "sacks": 3,
+            "loss": 16,
+            "rate": 116.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 22,
+            "yards": 106,
+            "average": 4.82,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Cam Akers",
+            "attempts": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 2,
+            "yards": -1,
+            "average": -0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jordan Addison",
+            "receptions": 8,
+            "yards": 162,
+            "average": 20.25,
+            "long": 69,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "",
+            "receptions": 7,
+            "yards": 114,
+            "average": 16.29,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Cam Akers",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "John Parker Romo",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 40,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "320",
+          "total_yards_allowed": "398"
+        }
+      }
+    }
+  }
+}

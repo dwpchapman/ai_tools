@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 32,
+      "Jacksonville Jaguars": 25
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        7,
+        0,
+        10,
+        15
+      ],
+      "Jacksonville Jaguars": [
+        7,
+        6,
+        3,
+        9
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Mac Jones",
+            "attempts": 46,
+            "completions": 31,
+            "yards": 294,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 41,
+            "sacks": 2,
+            "loss": 9,
+            "rate": 81.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 14,
+            "yards": 65,
+            "average": 4.64,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 11,
+            "yards": 42,
+            "average": 3.82,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Mac Jones",
+            "attempts": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brenton Strange",
+            "receptions": 11,
+            "yards": 73,
+            "average": 6.64,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 10,
+            "yards": 105,
+            "average": 10.5,
+            "long": 41,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 14,
+            "yards_after_catch": 84
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Devin Duvernay",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josh Reynolds",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 43,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "125",
+          "pass_yards_allowed": "275",
+          "total_yards_allowed": "400"
+        }
+      },
+      "New York Jets": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 30,
+            "completions": 16,
+            "yards": 289,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 71,
+            "sacks": 1,
+            "loss": 14,
+            "rate": 120.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 6,
+            "yards": 45,
+            "average": 7.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Breece Hall",
+            "attempts": 9,
+            "yards": 30,
+            "average": 3.33,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 5,
+            "yards": 24,
+            "average": 4.8,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ashtyn Davis",
+            "attempts": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Davante Adams",
+            "receptions": 9,
+            "yards": 198,
+            "average": 22.0,
+            "long": 71,
+            "touchdowns": 2,
+            "first_downs": 6,
+            "targets": 12,
+            "yards_after_catch": 114
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 3,
+            "yards": 56,
+            "average": 18.67,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Isaiah Davis",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Anders Carlson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 43,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "136",
+          "pass_yards_allowed": "285",
+          "total_yards_allowed": "421"
+        }
+      }
+    }
+  }
+}

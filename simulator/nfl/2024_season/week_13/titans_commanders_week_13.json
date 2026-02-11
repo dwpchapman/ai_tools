@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 19,
+      "Washington Commanders": 42
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        0,
+        7,
+        6,
+        6
+      ],
+      "Washington Commanders": [
+        21,
+        7,
+        0,
+        14
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2024",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 42,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 30,
+            "completions": 25,
+            "yards": 206,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 114.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Brian Robinson",
+            "attempts": 16,
+            "yards": 103,
+            "average": 6.44,
+            "long": 40,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 13,
+            "yards": 94,
+            "average": 7.23,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 9,
+            "yards": 34,
+            "average": 3.78,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 6,
+            "yards": 32,
+            "average": 5.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Dyami Brown",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Terry McLaurin",
+            "receptions": 8,
+            "yards": 73,
+            "average": 9.12,
+            "long": 16,
+            "touchdowns": 2,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "35",
+          "pass_yards_allowed": "210",
+          "total_yards_allowed": "245"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Will Levis",
+            "attempts": 37,
+            "completions": 18,
+            "yards": 212,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 2,
+            "loss": 2,
+            "rate": 84.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 8,
+            "yards": 35,
+            "average": 4.38,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Will Levis",
+            "attempts": 2,
+            "yards": -3,
+            "average": -1.5,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tony Pollard",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Tyler Boyd",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 3,
+            "yards": 61,
+            "average": 20.33,
+            "long": 27,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 2,
+            "yards": 45,
+            "average": 22.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "JC Latham",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 44,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "267",
+          "pass_yards_allowed": "196",
+          "total_yards_allowed": "463"
+        }
+      }
+    }
+  }
+}

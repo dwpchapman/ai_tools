@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 6,
+      "Seattle Seahawks": 16
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        0,
+        3,
+        0,
+        3
+      ],
+      "Seattle Seahawks": [
+        0,
+        7,
+        6,
+        3
+      ]
+    },
+    "week": 12,
+    "date": "November 24, 2024",
+    "location": "Lumen Field",
+    "teams": {
+      "Seattle Seahawks": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 31,
+            "completions": 22,
+            "yards": 254,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 46,
+            "sacks": 5,
+            "loss": 34,
+            "rate": 92.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 16,
+            "yards": 41,
+            "average": 2.56,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 6,
+            "yards": 22,
+            "average": 3.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 3,
+            "yards": 2,
+            "average": 0.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 6,
+            "yards": 77,
+            "average": 12.83,
+            "long": 46,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 66
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 59,
+            "average": 14.75,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Pharaoh Brown",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jake Bobo",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 50,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "49",
+          "pass_yards_allowed": "249",
+          "total_yards_allowed": "298"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 37,
+            "completions": 24,
+            "yards": 285,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 5,
+            "loss": 36,
+            "rate": 77.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Trey Benson",
+            "attempts": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "James Conner",
+            "attempts": 7,
+            "yards": 8,
+            "average": 1.14,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 12,
+            "yards": 133,
+            "average": 11.08,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 8,
+            "targets": 15,
+            "yards_after_catch": 72
+          },
+          {
+            "player": "James Conner",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 3,
+            "yards": 47,
+            "average": 15.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 2,
+            "yards": 54,
+            "average": 27.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 35,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "65",
+          "pass_yards_allowed": "220",
+          "total_yards_allowed": "285"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cincinnati Bengals": 27,
+      "Dallas Cowboys": 20
+    },
+    "team_scores_by_quarter": {
+      "Cincinnati Bengals": [
+        7,
+        10,
+        0,
+        10
+      ],
+      "Dallas Cowboys": [
+        7,
+        3,
+        7,
+        3
+      ]
+    },
+    "week": 14,
+    "date": "December 9, 2024",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Cooper Rush",
+            "attempts": 31,
+            "completions": 16,
+            "yards": 183,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 43,
+            "sacks": 3,
+            "loss": 17,
+            "rate": 77.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 18,
+            "yards": 131,
+            "average": 7.28,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cooper Rush",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "CeeDee Lamb",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 6,
+            "yards": 93,
+            "average": 15.5,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Hunter Luepke",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 47,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "359",
+          "total_yards_allowed": "433"
+        }
+      },
+      "Cincinnati Bengals": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 44,
+            "completions": 33,
+            "yards": 369,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 40,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 112.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 14,
+            "yards": 58,
+            "average": 4.14,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Khalil Herbert",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 14,
+            "yards": 177,
+            "average": 12.64,
+            "long": 40,
+            "touchdowns": 2,
+            "first_downs": 9,
+            "targets": 18,
+            "yards_after_catch": 82
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 6,
+            "yards": 65,
+            "average": 10.83,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 67
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Tee Higgins",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Khalil Herbert",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tanner Hudson",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 14
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cade York",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 37,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "156",
+          "pass_yards_allowed": "166",
+          "total_yards_allowed": "322"
+        }
+      }
+    }
+  }
+}

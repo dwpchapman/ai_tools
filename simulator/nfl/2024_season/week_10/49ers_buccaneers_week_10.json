@@ -1,0 +1,314 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 23,
+      "Tampa Bay Buccaneers": 20
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        7,
+        3,
+        3,
+        10
+      ],
+      "Tampa Bay Buccaneers": [
+        0,
+        3,
+        7,
+        10
+      ]
+    },
+    "week": 10,
+    "date": "November 10, 2024",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 29,
+            "completions": 18,
+            "yards": 116,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 15,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 82.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 13,
+            "yards": 73,
+            "average": 5.62,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 10,
+            "yards": 31,
+            "average": 3.1,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sterling Shepard",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rachaad White",
+            "receptions": 6,
+            "yards": 39,
+            "average": 6.5,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 5,
+            "yards": 35,
+            "average": 7.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Rakim Jarrett",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Trey Palmer",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 30,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "75",
+          "pass_yards_allowed": "338",
+          "total_yards_allowed": "413"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 36,
+            "completions": 25,
+            "yards": 353,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 46,
+            "sacks": 3,
+            "loss": 15,
+            "rate": 119.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 13,
+            "yards": 39,
+            "average": 3.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Mason",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Isaac Guerendo",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jauan Jennings",
+            "receptions": 7,
+            "yards": 93,
+            "average": 13.29,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 6,
+            "yards": 68,
+            "average": 11.33,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 5,
+            "yards": 62,
+            "average": 12.4,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 4,
+            "yards": 73,
+            "average": 18.25,
+            "long": 46,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 3,
+            "yards": 57,
+            "average": 19.0,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 33
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 6,
+            "long": 44,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "110",
+          "pass_yards_allowed": "105",
+          "total_yards_allowed": "215"
+        }
+      }
+    }
+  }
+}

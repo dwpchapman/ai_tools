@@ -1,0 +1,406 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 0,
+      "Green Bay Packers": 34
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Green Bay Packers": [
+        7,
+        14,
+        3,
+        10
+      ]
+    },
+    "week": 16,
+    "date": "December 23, 2024",
+    "location": "Lambeau Field",
+    "teams": {
+      "Green Bay Packers": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 28,
+            "completions": 16,
+            "yards": 182,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 88.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 13,
+            "yards": 69,
+            "average": 5.31,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 11,
+            "yards": 52,
+            "average": 4.73,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Christopher Brooks",
+            "attempts": 6,
+            "yards": 23,
+            "average": 3.83,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Christian Watson",
+            "attempts": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bo Melton",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tucker Kraft",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malik Willis",
+            "attempts": 3,
+            "yards": -2,
+            "average": -0.67,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Jacobs",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 3,
+            "yards": 63,
+            "average": 21.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 3,
+            "yards": 76,
+            "average": 25.33,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 55,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "67",
+          "pass_yards_allowed": "129",
+          "total_yards_allowed": "196"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 0,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 30,
+            "completions": 15,
+            "yards": 153,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 21,
+            "sacks": 3,
+            "loss": 24,
+            "rate": 51.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Mims",
+            "attempts": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 8,
+            "yards": 15,
+            "average": 1.88,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jordan Mims",
+            "receptions": 5,
+            "yards": 16,
+            "average": 3.2,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Kendre Miller",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 2,
+            "yards": 33,
+            "average": 16.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [],
+        "defense": {
+          "rush_yards_allowed": "188",
+          "pass_yards_allowed": "216",
+          "total_yards_allowed": "404"
+        }
+      }
+    }
+  }
+}

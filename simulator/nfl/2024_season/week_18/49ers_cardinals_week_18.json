@@ -1,0 +1,378 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 24,
+      "Arizona Cardinals": 47
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        3,
+        14,
+        7,
+        0
+      ],
+      "Arizona Cardinals": [
+        3,
+        17,
+        6,
+        21
+      ]
+    },
+    "week": 18,
+    "date": "January 5, 2025",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 47,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 35,
+            "completions": 25,
+            "yards": 242,
+            "touchdowns": 4,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 128.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Jones",
+            "attempts": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 46,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Michael Carter",
+            "attempts": 17,
+            "yards": 43,
+            "average": 2.53,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "DeeJay Dallas",
+            "attempts": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Greg Dortch",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Clayton Tune",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 7,
+            "yards": 65,
+            "average": 9.29,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 11,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 5,
+            "yards": 63,
+            "average": 12.6,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Zay Jones",
+            "receptions": 4,
+            "yards": 46,
+            "average": 11.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Michael Carter",
+            "receptions": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 23,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "DeeJay Dallas",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Xavier Weaver",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 51,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "138",
+          "pass_yards_allowed": "298",
+          "total_yards_allowed": "436"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Joshua Dobbs",
+            "attempts": 43,
+            "completions": 29,
+            "yards": 326,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 36,
+            "sacks": 2,
+            "loss": 28,
+            "rate": 86.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Patrick Taylor",
+            "attempts": 17,
+            "yards": 109,
+            "average": 6.41,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 8
+          },
+          {
+            "player": "Joshua Dobbs",
+            "attempts": 8,
+            "yards": 17,
+            "average": 2.12,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jacob Cowing",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Isaac Guerendo",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jauan Jennings",
+            "receptions": 7,
+            "yards": 52,
+            "average": 7.43,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 6,
+            "yards": 69,
+            "average": 11.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Chris Conley",
+            "receptions": 4,
+            "yards": 59,
+            "average": 14.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 2,
+            "yards": 49,
+            "average": 24.5,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jacob Cowing",
+            "receptions": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Patrick Taylor",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Trent Taylor",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Brayden Willis",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 51,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "151",
+          "pass_yards_allowed": "242",
+          "total_yards_allowed": "393"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 16,
+      "Las Vegas Raiders": 20
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        10,
+        0,
+        0,
+        6
+      ],
+      "Las Vegas Raiders": [
+        0,
+        10,
+        10,
+        0
+      ]
+    },
+    "week": 4,
+    "date": "September 29, 2024",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Gardner Minshew",
+            "attempts": 24,
+            "completions": 14,
+            "yards": 130,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 19,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 73.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alexander Mattison",
+            "attempts": 5,
+            "yards": 60,
+            "average": 12.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Zamir White",
+            "attempts": 17,
+            "yards": 50,
+            "average": 2.94,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Bowers",
+            "attempts": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyreik McAllister",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Gardner Minshew",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 5,
+            "yards": 49,
+            "average": 9.8,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Brock Bowers",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Harrison Bryant",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Alexander Mattison",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Zamir White",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 52,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "92",
+          "pass_yards_allowed": "149",
+          "total_yards_allowed": "241"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Deshaun Watson",
+            "attempts": 32,
+            "completions": 24,
+            "yards": 176,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 19,
+            "sacks": 3,
+            "loss": 27,
+            "rate": 84.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jerome Ford",
+            "attempts": 10,
+            "yards": 58,
+            "average": 5.8,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Deshaun Watson",
+            "attempts": 8,
+            "yards": 32,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "D'Onta Foreman",
+            "attempts": 4,
+            "yards": 2,
+            "average": 0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jerome Ford",
+            "receptions": 7,
+            "yards": 27,
+            "average": 3.86,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 55
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 6,
+            "yards": 72,
+            "average": 12.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Amari Cooper",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Blake Whiteheart",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "D'Onta Foreman",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "James Proche",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 56,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "152",
+          "pass_yards_allowed": "116",
+          "total_yards_allowed": "268"
+        }
+      }
+    }
+  }
+}

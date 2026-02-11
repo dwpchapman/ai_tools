@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 7,
+      "Atlanta Falcons": 34
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        0,
+        7,
+        0,
+        0
+      ],
+      "Atlanta Falcons": [
+        0,
+        17,
+        14,
+        3
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Michael Penix",
+            "attempts": 27,
+            "completions": 18,
+            "yards": 202,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 22,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 73.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 22,
+            "yards": 94,
+            "average": 4.27,
+            "long": 14,
+            "touchdowns": 2,
+            "first_downs": 8
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 11,
+            "yards": 22,
+            "average": 2.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Michael Penix",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 5,
+            "yards": 59,
+            "average": 11.8,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 5,
+            "yards": 82,
+            "average": 16.4,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Chris Blair",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 52,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "45",
+          "pass_yards_allowed": "189",
+          "total_yards_allowed": "234"
+        }
+      },
+      "New York Giants": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Drew Lock",
+            "attempts": 39,
+            "completions": 22,
+            "yards": 210,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 21,
+            "sacks": 3,
+            "loss": 21,
+            "rate": 58.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 7,
+            "yards": 26,
+            "average": 3.71,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 4,
+            "yards": 12,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Darius Slayton",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Drew Lock",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Nabers",
+            "receptions": 7,
+            "yards": 68,
+            "average": 9.71,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 14,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 7,
+            "yards": 62,
+            "average": 8.86,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 55
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Eric Gray",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "127",
+          "pass_yards_allowed": "202",
+          "total_yards_allowed": "329"
+        }
+      }
+    }
+  }
+}

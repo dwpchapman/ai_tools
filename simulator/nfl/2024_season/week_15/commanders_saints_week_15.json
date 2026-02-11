@@ -1,0 +1,371 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 20,
+      "New Orleans Saints": 19
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        7,
+        7,
+        3,
+        3
+      ],
+      "New Orleans Saints": [
+        0,
+        0,
+        7,
+        12
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 21,
+            "completions": 10,
+            "yards": 135,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 84.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kendre Miller",
+            "attempts": 9,
+            "yards": 46,
+            "average": 5.11,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Alvin Kamara",
+            "attempts": 5,
+            "yards": 12,
+            "average": 2.4,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jake Haener",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Foster Moreau",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 4,
+            "yards": 58,
+            "average": 14.5,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 2,
+            "yards": 64,
+            "average": 32.0,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Kendre Miller",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 51,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "137",
+          "pass_yards_allowed": "189",
+          "total_yards_allowed": "326"
+        }
+      },
+      "Washington Commanders": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 31,
+            "completions": 25,
+            "yards": 226,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 8,
+            "loss": 37,
+            "rate": 118.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 11,
+            "yards": 66,
+            "average": 6.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 21,
+            "yards": 65,
+            "average": 3.1,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Terry McLaurin",
+            "receptions": 7,
+            "yards": 73,
+            "average": 10.43,
+            "long": 25,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 10,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Jamison Crowder",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Ben Sinnott",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "John Bates",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Joseph",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 41,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "69",
+          "pass_yards_allowed": "176",
+          "total_yards_allowed": "245"
+        }
+      }
+    }
+  }
+}

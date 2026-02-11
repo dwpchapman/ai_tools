@@ -1,0 +1,376 @@
+{
+  "game_info": {
+    "final_score": {
+      "Carolina Panthers": 14,
+      "Tampa Bay Buccaneers": 48
+    },
+    "team_scores_by_quarter": {
+      "Carolina Panthers": [
+        7,
+        7,
+        0,
+        0
+      ],
+      "Tampa Bay Buccaneers": [
+        10,
+        17,
+        14,
+        7
+      ]
+    },
+    "week": 17,
+    "date": "December 29, 2024",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 48,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 32,
+            "completions": 27,
+            "yards": 359,
+            "touchdowns": 5,
+            "interceptions": 0,
+            "long": 42,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 153.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 20,
+            "yards": 113,
+            "average": 5.65,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 7
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 8,
+            "yards": 39,
+            "average": 4.88,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 6,
+            "yards": 30,
+            "average": 5.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kameron Johnson",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen McMillan",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kyle Trask",
+            "attempts": 3,
+            "yards": -2,
+            "average": -0.67,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mike Evans",
+            "receptions": 8,
+            "yards": 97,
+            "average": 12.12,
+            "long": 34,
+            "touchdowns": 2,
+            "first_downs": 6,
+            "targets": 9,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 16,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 4,
+            "yards": 77,
+            "average": 19.25,
+            "long": 42,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 90
+          },
+          {
+            "player": "Devin Culp",
+            "receptions": 3,
+            "yards": 52,
+            "average": 17.33,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Payne Durham",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Rakim Jarrett",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Sean Tucker",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 34,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "39",
+          "pass_yards_allowed": "165",
+          "total_yards_allowed": "204"
+        }
+      },
+      "Carolina Panthers": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 28,
+            "completions": 15,
+            "yards": 203,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 40,
+            "sacks": 5,
+            "loss": 38,
+            "rate": 100.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Raheem Blackshear",
+            "attempts": 8,
+            "yards": 20,
+            "average": 2.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mike Boone",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Velus Jones",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Xavier Legette",
+            "receptions": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 5,
+            "yards": 110,
+            "average": 22.0,
+            "long": 40,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jalen Coker",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Dan Chisena",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "David Moore",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Mike Boone",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "202",
+          "pass_yards_allowed": "349",
+          "total_yards_allowed": "551"
+        }
+      }
+    }
+  }
+}

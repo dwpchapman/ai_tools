@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 13,
+      "Denver Broncos": 6
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        7,
+        3,
+        3,
+        0
+      ],
+      "Denver Broncos": [
+        0,
+        0,
+        0,
+        6
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 35,
+            "completions": 20,
+            "yards": 246,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 49,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 55.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Javonte Williams",
+            "attempts": 11,
+            "yards": 17,
+            "average": 1.55,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyler Badie",
+            "attempts": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Javonte Williams",
+            "receptions": 5,
+            "yards": 48,
+            "average": 9.6,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Lil'Jordan Humphrey",
+            "receptions": 4,
+            "yards": 50,
+            "average": 12.5,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Josh Reynolds",
+            "receptions": 4,
+            "yards": 93,
+            "average": 23.25,
+            "long": 49,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Greg Dulcich",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Marvin Mims",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 1,
+            "yards": 26,
+            "average": 26.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Michael Burton",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Badie",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Nate Adkins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 35,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "141",
+          "pass_yards_allowed": "110",
+          "total_yards_allowed": "251"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 20,
+            "completions": 13,
+            "yards": 117,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 16,
+            "sacks": 2,
+            "loss": 7,
+            "rate": 97.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 17,
+            "yards": 69,
+            "average": 4.06,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 9,
+            "yards": 42,
+            "average": 4.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 8,
+            "yards": 27,
+            "average": 3.38,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "George Pickens",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 53,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "64",
+          "pass_yards_allowed": "231",
+          "total_yards_allowed": "295"
+        }
+      }
+    }
+  }
+}

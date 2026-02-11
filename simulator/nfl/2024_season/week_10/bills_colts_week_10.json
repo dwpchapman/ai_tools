@@ -1,0 +1,331 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 30,
+      "Indianapolis Colts": 20
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        10,
+        10,
+        0,
+        10
+      ],
+      "Indianapolis Colts": [
+        3,
+        10,
+        0,
+        7
+      ]
+    },
+    "week": 10,
+    "date": "November 10, 2024",
+    "location": "Lucas Oil Stadium",
+    "teams": {
+      "Indianapolis Colts": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Joe Flacco",
+            "attempts": 35,
+            "completions": 26,
+            "yards": 272,
+            "touchdowns": 2,
+            "interceptions": 3,
+            "long": 32,
+            "sacks": 4,
+            "loss": 32,
+            "rate": 79.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 21,
+            "yards": 114,
+            "average": 5.43,
+            "long": 58,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Ashton Dulin",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Downs",
+            "receptions": 7,
+            "yards": 72,
+            "average": 10.29,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 6,
+            "yards": 71,
+            "average": 11.83,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Alec Pierce",
+            "receptions": 4,
+            "yards": 81,
+            "average": 20.25,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tyler Goodson",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Kylen Granson",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Will Mallory",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Trey Sermon",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 27,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "135",
+          "pass_yards_allowed": "280",
+          "total_yards_allowed": "415"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 37,
+            "completions": 22,
+            "yards": 280,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 44,
+            "sacks": 2,
+            "loss": 0,
+            "rate": 60.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 19,
+            "yards": 80,
+            "average": 4.21,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 8,
+            "yards": 50,
+            "average": 6.25,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mitchell Trubisky",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 6,
+            "yards": 58,
+            "average": 9.67,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 4,
+            "yards": 86,
+            "average": 21.5,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 4,
+            "yards": 35,
+            "average": 8.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "James Cook",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 47,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "121",
+          "pass_yards_allowed": "240",
+          "total_yards_allowed": "361"
+        }
+      }
+    }
+  }
+}

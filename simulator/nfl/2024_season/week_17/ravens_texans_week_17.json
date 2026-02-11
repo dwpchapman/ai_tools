@@ -1,0 +1,350 @@
+{
+  "game_info": {
+    "final_score": {
+      "Baltimore Ravens": 31,
+      "Houston Texans": 2
+    },
+    "team_scores_by_quarter": {
+      "Baltimore Ravens": [
+        10,
+        7,
+        14,
+        0
+      ],
+      "Houston Texans": [
+        0,
+        2,
+        0,
+        0
+      ]
+    },
+    "week": 17,
+    "date": "December 25, 2024",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 2,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 31,
+            "completions": 17,
+            "yards": 185,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 5,
+            "loss": 37,
+            "rate": 59.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 9,
+            "yards": 26,
+            "average": 2.89,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dameon Pierce",
+            "attempts": 5,
+            "yards": 13,
+            "average": 2.6,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "John Metchie",
+            "receptions": 5,
+            "yards": 48,
+            "average": 9.6,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 3,
+            "yards": 59,
+            "average": 19.67,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [],
+        "defense": {
+          "rush_yards_allowed": "251",
+          "pass_yards_allowed": "181",
+          "total_yards_allowed": "432"
+        }
+      },
+      "Baltimore Ravens": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 15,
+            "completions": 10,
+            "yards": 168,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 67,
+            "sacks": 1,
+            "loss": 3,
+            "rate": 143.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 27,
+            "yards": 147,
+            "average": 5.44,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 11
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 4,
+            "yards": 87,
+            "average": 21.75,
+            "long": 48,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Keaton Mitchell",
+            "attempts": 11,
+            "yards": 20,
+            "average": 1.82,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rasheen Ali",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mark Andrews",
+            "receptions": 2,
+            "yards": 68,
+            "average": 34.0,
+            "long": 67,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Tylan Wallace",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Keaton Mitchell",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Anthony Miller",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Devontez Walker",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 52,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "58",
+          "pass_yards_allowed": "153",
+          "total_yards_allowed": "211"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 19,
+      "Tampa Bay Buccaneers": 27
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        3,
+        13,
+        3,
+        0
+      ],
+      "Tampa Bay Buccaneers": [
+        3,
+        3,
+        7,
+        14
+      ]
+    },
+    "week": 18,
+    "date": "January 5, 2025",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 32,
+            "completions": 21,
+            "yards": 221,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 93.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 19,
+            "yards": 89,
+            "average": 4.68,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 9,
+            "yards": 68,
+            "average": 7.56,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen McMillan",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mike Evans",
+            "receptions": 9,
+            "yards": 89,
+            "average": 9.89,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 14,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 5,
+            "yards": 74,
+            "average": 14.8,
+            "long": 33,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Devin Culp",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Payne Durham",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 2,
+            "yards": -5,
+            "average": -2.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 52,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "64",
+          "pass_yards_allowed": "228",
+          "total_yards_allowed": "292"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 42,
+            "completions": 26,
+            "yards": 240,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 85.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Clyde Edwards-Helaire",
+            "attempts": 8,
+            "yards": 26,
+            "average": 3.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 8,
+            "yards": 15,
+            "average": 1.88,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jordan Mims",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Spencer Rattler",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Juwan Johnson",
+            "receptions": 6,
+            "yards": 80,
+            "average": 13.33,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jordan Mims",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Dallin Holker",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Clyde Edwards-Helaire",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jamaal Williams",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 49,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "179",
+          "pass_yards_allowed": "216",
+          "total_yards_allowed": "395"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 15,
+      "Pittsburgh Steelers": 37
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        7,
+        8,
+        0,
+        0
+      ],
+      "Pittsburgh Steelers": [
+        3,
+        10,
+        10,
+        14
+      ]
+    },
+    "week": 7,
+    "date": "October 20, 2024",
+    "location": "Acrisure Stadium",
+    "teams": {
+      "Pittsburgh Steelers": {
+        "score": 37,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 29,
+            "completions": 16,
+            "yards": 264,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 44,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 109.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 21,
+            "yards": 102,
+            "average": 4.86,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 12,
+            "yards": 44,
+            "average": 3.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Pickens",
+            "receptions": 5,
+            "yards": 111,
+            "average": 22.2,
+            "long": 44,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 2,
+            "yards": 51,
+            "average": 25.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 36,
+            "average": 36.0,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 46,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "54",
+          "pass_yards_allowed": "269",
+          "total_yards_allowed": "323"
+        }
+      },
+      "New York Jets": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 39,
+            "completions": 24,
+            "yards": 276,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 57,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 70.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 12,
+            "yards": 38,
+            "average": 3.17,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Breece Hall",
+            "receptions": 6,
+            "yards": 103,
+            "average": 17.17,
+            "long": 57,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 108
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 5,
+            "yards": 61,
+            "average": 12.2,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Tyler Conklin",
+            "receptions": 4,
+            "yards": 7,
+            "average": 1.75,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 4,
+            "yards": 58,
+            "average": 14.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Davante Adams",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Mike Williams",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Irvin Charles",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Zuerlein",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "149",
+          "pass_yards_allowed": "260",
+          "total_yards_allowed": "409"
+        }
+      }
+    }
+  }
+}

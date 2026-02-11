@@ -1,0 +1,398 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 23,
+      "Denver Broncos": 16
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        10,
+        10,
+        3,
+        0
+      ],
+      "Denver Broncos": [
+        0,
+        0,
+        0,
+        16
+      ]
+    },
+    "week": 6,
+    "date": "October 13, 2024",
+    "location": "Empower Field at Mile High",
+    "teams": {
+      "Denver Broncos": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 33,
+            "completions": 19,
+            "yards": 216,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 84.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 6,
+            "yards": 61,
+            "average": 10.17,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Javonte Williams",
+            "attempts": 6,
+            "yards": 23,
+            "average": 3.83,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Audric Estime",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Troy Franklin",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Courtland Sutton",
+            "receptions": 4,
+            "yards": 53,
+            "average": 13.25,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 4,
+            "yards": 78,
+            "average": 19.5,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Lucas Krull",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Lil'Jordan Humphrey",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Nate Adkins",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Marvin Mims",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 40,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "128",
+          "pass_yards_allowed": "222",
+          "total_yards_allowed": "350"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 34,
+            "completions": 21,
+            "yards": 237,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 3,
+            "loss": 15,
+            "rate": 92.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 25,
+            "yards": 96,
+            "average": 3.84,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Derius Davis",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 4,
+            "yards": 2,
+            "average": 0.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Quentin Johnston",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Will Dissly",
+            "receptions": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Simi Fehoko",
+            "receptions": 2,
+            "yards": 44,
+            "average": 22.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 38,
+            "average": 19.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Derius Davis",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Stone Smartt",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 46,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "110",
+          "pass_yards_allowed": "206",
+          "total_yards_allowed": "316"
+        }
+      }
+    }
+  }
+}

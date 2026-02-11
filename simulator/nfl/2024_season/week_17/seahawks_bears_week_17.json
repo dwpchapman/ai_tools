@@ -1,0 +1,285 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 6,
+      "Chicago Bears": 3
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        3,
+        3,
+        0,
+        0
+      ],
+      "Chicago Bears": [
+        0,
+        3,
+        0,
+        0
+      ]
+    },
+    "week": 17,
+    "date": "December 26, 2024",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 28,
+            "completions": 16,
+            "yards": 122,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 24,
+            "sacks": 7,
+            "loss": 46,
+            "rate": 53.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 12,
+            "yards": 53,
+            "average": 4.42,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 5,
+            "yards": 37,
+            "average": 7.4,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 4,
+            "yards": 5,
+            "average": 1.25,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 54,
+            "average": 9.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 5,
+            "yards": 25,
+            "average": 5.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Gerald Everett",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 42,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "143",
+          "total_yards_allowed": "265"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 23,
+            "completions": 17,
+            "yards": 160,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 23,
+            "sacks": 3,
+            "loss": 17,
+            "rate": 92.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 15,
+            "yards": 57,
+            "average": 3.8,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kenny McIntosh",
+            "attempts": 7,
+            "yards": 46,
+            "average": 6.57,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Noah Fant",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Pharaoh Brown",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 50,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "103",
+          "pass_yards_allowed": "76",
+          "total_yards_allowed": "179"
+        }
+      }
+    }
+  }
+}

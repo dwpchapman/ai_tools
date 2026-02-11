@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 31,
+      "Seattle Seahawks": 10
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        7,
+        7,
+        10,
+        7
+      ],
+      "Seattle Seahawks": [
+        0,
+        3,
+        0,
+        7
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2024",
+    "location": "Lumen Field",
+    "teams": {
+      "Seattle Seahawks": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 29,
+            "completions": 21,
+            "yards": 212,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 20,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 78.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 5,
+            "yards": 16,
+            "average": 3.2,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenneth Walker",
+            "attempts": 9,
+            "yards": 12,
+            "average": 1.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 6,
+            "yards": 69,
+            "average": 11.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Jake Bobo",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Laviska Shenault",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 38,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "164",
+          "pass_yards_allowed": "281",
+          "total_yards_allowed": "445"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 34,
+            "completions": 24,
+            "yards": 283,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 35,
+            "sacks": 1,
+            "loss": 2,
+            "rate": 102.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 17,
+            "yards": 111,
+            "average": 6.53,
+            "long": 18,
+            "touchdowns": 2,
+            "first_downs": 8
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 6,
+            "yards": 29,
+            "average": 4.83,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 7,
+            "yards": 25,
+            "average": 3.57,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Khalil Shakir",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mitchell Trubisky",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 9,
+            "yards": 107,
+            "average": 11.89,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 89
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "James Cook",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 2,
+            "yards": 50,
+            "average": 25.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Amari Cooper",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 27,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "32",
+          "pass_yards_allowed": "201",
+          "total_yards_allowed": "233"
+        }
+      }
+    }
+  }
+}

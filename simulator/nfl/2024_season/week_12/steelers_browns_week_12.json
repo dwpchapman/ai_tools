@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 19,
+      "Cleveland Browns": 24
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        0,
+        3,
+        3,
+        13
+      ],
+      "Cleveland Browns": [
+        0,
+        10,
+        0,
+        14
+      ]
+    },
+    "week": 12,
+    "date": "November 21, 2024",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jameis Winston",
+            "attempts": 27,
+            "completions": 18,
+            "yards": 219,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 1,
+            "loss": 0,
+            "rate": 76.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Nick Chubb",
+            "attempts": 20,
+            "yards": 59,
+            "average": 2.95,
+            "long": 7,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 4,
+            "yards": 19,
+            "average": 4.75,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jameis Winston",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 6,
+            "yards": 85,
+            "average": 14.17,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "David Njoku",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Blake Whiteheart",
+            "receptions": 1,
+            "yards": 29,
+            "average": 29.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 34,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "120",
+          "pass_yards_allowed": "248",
+          "total_yards_allowed": "368"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 28,
+            "completions": 21,
+            "yards": 270,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 46,
+            "sacks": 4,
+            "loss": 22,
+            "rate": 116.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaylen Warren",
+            "attempts": 11,
+            "yards": 45,
+            "average": 4.09,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Najee Harris",
+            "attempts": 16,
+            "yards": 41,
+            "average": 2.56,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 4,
+            "yards": 59,
+            "average": 14.75,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "George Pickens",
+            "receptions": 4,
+            "yards": 48,
+            "average": 12.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 3,
+            "yards": 78,
+            "average": 26.0,
+            "long": 46,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 2,
+            "yards": 39,
+            "average": 19.5,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 48,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "85",
+          "pass_yards_allowed": "219",
+          "total_yards_allowed": "304"
+        }
+      }
+    }
+  }
+}

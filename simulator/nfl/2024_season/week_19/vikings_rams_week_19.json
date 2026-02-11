@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 9,
+      "Los Angeles Rams": 27
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        0,
+        3,
+        6,
+        0
+      ],
+      "Los Angeles Rams": [
+        10,
+        14,
+        3,
+        0
+      ]
+    },
+    "week": 19,
+    "date": "January 13, 2025",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 27,
+            "completions": 19,
+            "yards": 209,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 29,
+            "sacks": 2,
+            "loss": 7,
+            "rate": 117.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 16,
+            "yards": 76,
+            "average": 4.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Ronnie Rivers",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 2,
+            "yards": -1,
+            "average": -0.5,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Higbee",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Puka Nacua",
+            "receptions": 5,
+            "yards": 44,
+            "average": 8.8,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Hunter Long",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 1,
+            "yards": 29,
+            "average": 29.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Davis Allen",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 44,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "106",
+          "pass_yards_allowed": "163",
+          "total_yards_allowed": "269"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 9,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 40,
+            "completions": 25,
+            "yards": 245,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 9,
+            "loss": 82,
+            "rate": 77.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 13,
+            "yards": 48,
+            "average": 3.69,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cam Akers",
+            "attempts": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 4,
+            "yards": 19,
+            "average": 4.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 64,
+            "average": 12.8,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Trent Sherfield",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 2,
+            "yards": 28,
+            "average": 14.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 34,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "90",
+          "pass_yards_allowed": "202",
+          "total_yards_allowed": "292"
+        }
+      }
+    }
+  }
+}

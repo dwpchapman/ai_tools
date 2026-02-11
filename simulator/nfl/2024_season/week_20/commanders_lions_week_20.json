@@ -1,0 +1,325 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 45,
+      "Detroit Lions": 31
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        3,
+        28,
+        0,
+        14
+      ],
+      "Detroit Lions": [
+        7,
+        14,
+        7,
+        3
+      ]
+    },
+    "week": 20,
+    "date": "January 18, 2025",
+    "location": "Ford Field",
+    "teams": {
+      "Detroit Lions": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 40,
+            "completions": 23,
+            "yards": 313,
+            "touchdowns": 1,
+            "interceptions": 3,
+            "long": 34,
+            "sacks": 2,
+            "loss": 16,
+            "rate": 59.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 14,
+            "yards": 105,
+            "average": 7.5,
+            "long": 33,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": 61,
+            "average": 61.0,
+            "long": 61,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "David Montgomery",
+            "attempts": 7,
+            "yards": 28,
+            "average": 4.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 8,
+            "yards": 137,
+            "average": 17.12,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 10,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 6,
+            "yards": 70,
+            "average": 11.67,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 51
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 6,
+            "yards": 51,
+            "average": 8.5,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Kalif Raymond",
+            "receptions": 3,
+            "yards": 37,
+            "average": 12.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 28,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "182",
+          "pass_yards_allowed": "299",
+          "total_yards_allowed": "481"
+        }
+      },
+      "Washington Commanders": {
+        "score": 45,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 31,
+            "completions": 22,
+            "yards": 299,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 58,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 122.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Brian Robinson",
+            "attempts": 15,
+            "yards": 77,
+            "average": 5.13,
+            "long": 15,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 16,
+            "yards": 51,
+            "average": 3.19,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 6,
+            "yards": 47,
+            "average": 7.83,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 4,
+            "yards": 8,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Marcus Mariota",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dyami Brown",
+            "receptions": 6,
+            "yards": 98,
+            "average": 16.33,
+            "long": 42,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 54
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 4,
+            "yards": 87,
+            "average": 21.75,
+            "long": 58,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 81
+          },
+          {
+            "player": "Jamison Crowder",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "John Bates",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 47,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "201",
+          "pass_yards_allowed": "320",
+          "total_yards_allowed": "521"
+        }
+      }
+    }
+  }
+}

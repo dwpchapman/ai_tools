@@ -1,0 +1,345 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 30,
+      "Seattle Seahawks": 13
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        14,
+        6,
+        3,
+        7
+      ],
+      "Seattle Seahawks": [
+        0,
+        3,
+        3,
+        7
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "Lumen Field",
+    "teams": {
+      "Seattle Seahawks": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 19,
+            "completions": 15,
+            "yards": 149,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 3,
+            "loss": 24,
+            "rate": 77.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 8,
+            "yards": 54,
+            "average": 6.75,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "George Holani",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenny McIntosh",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sam Howell",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 10,
+            "yards": 83,
+            "average": 8.3,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jake Bobo",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 48,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "140",
+          "pass_yards_allowed": "229",
+          "total_yards_allowed": "369"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 27,
+            "completions": 20,
+            "yards": 229,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 36,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 123.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 26,
+            "yards": 94,
+            "average": 3.62,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Christopher Brooks",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jayden Reed",
+            "receptions": 5,
+            "yards": 34,
+            "average": 6.8,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 22,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 3,
+            "yards": 56,
+            "average": 18.67,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 39,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "80",
+          "pass_yards_allowed": "128",
+          "total_yards_allowed": "208"
+        }
+      }
+    }
+  }
+}

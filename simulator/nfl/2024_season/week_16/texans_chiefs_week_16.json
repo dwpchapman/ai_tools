@@ -1,0 +1,362 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 19,
+      "Kansas City Chiefs": 27
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        3,
+        7,
+        6,
+        3
+      ],
+      "Kansas City Chiefs": [
+        7,
+        10,
+        7,
+        3
+      ]
+    },
+    "week": 16,
+    "date": "December 21, 2024",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 41,
+            "completions": 28,
+            "yards": 260,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 36,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 93.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kareem Hunt",
+            "attempts": 11,
+            "yards": 55,
+            "average": 5.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 5,
+            "yards": 33,
+            "average": 6.6,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Isiah Pacheco",
+            "attempts": 9,
+            "yards": 26,
+            "average": 2.89,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Xavier Worthy",
+            "receptions": 7,
+            "yards": 65,
+            "average": 9.29,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 5,
+            "yards": 30,
+            "average": 6.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Marquise Brown",
+            "receptions": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 3,
+            "yards": 50,
+            "average": 16.67,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Isiah Pacheco",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 44,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "84",
+          "pass_yards_allowed": "227",
+          "total_yards_allowed": "311"
+        }
+      },
+      "Houston Texans": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 39,
+            "completions": 23,
+            "yards": 244,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 30,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 73.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 14,
+            "yards": 57,
+            "average": 4.07,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Dameon Pierce",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 7,
+            "yards": 60,
+            "average": 8.57,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 6,
+            "yards": 98,
+            "average": 16.33,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 7,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Andrew Beck",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 38,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "124",
+          "pass_yards_allowed": "251",
+          "total_yards_allowed": "375"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 23,
+      "Tennessee Titans": 14
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        7,
+        9,
+        0,
+        7
+      ],
+      "Tennessee Titans": [
+        0,
+        3,
+        3,
+        8
+      ]
+    },
+    "week": 18,
+    "date": "January 5, 2025",
+    "location": "Nissan Stadium",
+    "teams": {
+      "Tennessee Titans": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Will Levis",
+            "attempts": 17,
+            "completions": 9,
+            "yards": 175,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 49,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 108.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 22,
+            "yards": 62,
+            "average": 2.82,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Will Levis",
+            "attempts": 4,
+            "yards": 8,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mason Rudolph",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Joshua Kelley",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Calvin Ridley",
+            "attempts": 2,
+            "yards": -3,
+            "average": -1.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Whyle",
+            "receptions": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 4,
+            "yards": 50,
+            "average": 12.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 3,
+            "yards": 76,
+            "average": 25.33,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Tay Martin",
+            "receptions": 1,
+            "yards": 49,
+            "average": 49.0,
+            "long": 49,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Bryce Oliver",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matthew Wright",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 38,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "207",
+          "pass_yards_allowed": "167",
+          "total_yards_allowed": "374"
+        }
+      },
+      "Houston Texans": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Davis Mills",
+            "attempts": 22,
+            "completions": 12,
+            "yards": 128,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 71.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Dameon Pierce",
+            "attempts": 19,
+            "yards": 176,
+            "average": 9.26,
+            "long": 92,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Joe Mixon",
+            "attempts": 5,
+            "yards": 23,
+            "average": 4.6,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Davis Mills",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 2,
+            "yards": -3,
+            "average": -1.5,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 5,
+            "yards": 38,
+            "average": 7.6,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Diontae Johnson",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 2,
+            "yards": 39,
+            "average": 19.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dameon Pierce",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 27,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "85",
+          "pass_yards_allowed": "229",
+          "total_yards_allowed": "314"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 23,
+      "New York Jets": 20
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        7,
+        13,
+        0,
+        3
+      ],
+      "New York Jets": [
+        10,
+        7,
+        3,
+        0
+      ]
+    },
+    "week": 6,
+    "date": "October 14, 2024",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Jets": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 35,
+            "completions": 23,
+            "yards": 294,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 52,
+            "sacks": 3,
+            "loss": 22,
+            "rate": 99.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 18,
+            "yards": 113,
+            "average": 6.28,
+            "long": 42,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Garrett Wilson",
+            "receptions": 8,
+            "yards": 107,
+            "average": 13.38,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 6,
+            "yards": 114,
+            "average": 19.0,
+            "long": 52,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 5,
+            "yards": 56,
+            "average": 11.2,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Tyler Conklin",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mike Williams",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Zuerlein",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 4,
+            "long": 34,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "149",
+          "pass_yards_allowed": "210",
+          "total_yards_allowed": "359"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 25,
+            "completions": 19,
+            "yards": 215,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 42,
+            "sacks": 2,
+            "loss": 5,
+            "rate": 127.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 20,
+            "yards": 97,
+            "average": 4.85,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 9,
+            "yards": 18,
+            "average": 2.0,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 6,
+            "yards": 51,
+            "average": 8.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 3,
+            "yards": 55,
+            "average": 18.33,
+            "long": 42,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 3,
+            "yards": 44,
+            "average": 14.67,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Khalil Shakir",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 22,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "121",
+          "pass_yards_allowed": "272",
+          "total_yards_allowed": "393"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 22,
+      "Green Bay Packers": 24
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        3,
+        16,
+        0,
+        3
+      ],
+      "Green Bay Packers": [
+        0,
+        14,
+        7,
+        3
+      ]
+    },
+    "week": 7,
+    "date": "October 20, 2024",
+    "location": "Lambeau Field",
+    "teams": {
+      "Green Bay Packers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 33,
+            "completions": 24,
+            "yards": 220,
+            "touchdowns": 3,
+            "interceptions": 2,
+            "long": 30,
+            "sacks": 3,
+            "loss": 25,
+            "rate": 95.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 12,
+            "yards": 76,
+            "average": 6.33,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 5,
+            "yards": 11,
+            "average": 2.2,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bo Melton",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Christian Watson",
+            "attempts": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Romeo Doubs",
+            "receptions": 8,
+            "yards": 94,
+            "average": 11.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 5,
+            "yards": 16,
+            "average": 3.2,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ben Sims",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 45,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "142",
+          "pass_yards_allowed": "55",
+          "total_yards_allowed": "197"
+        }
+      },
+      "Houston Texans": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 21,
+            "completions": 10,
+            "yards": 86,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 4,
+            "loss": 31,
+            "rate": 58.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 25,
+            "yards": 115,
+            "average": 4.6,
+            "long": 32,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "",
+            "attempts": 5,
+            "yards": 19,
+            "average": 3.8,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dameon Pierce",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Stefon Diggs",
+            "receptions": 5,
+            "yards": 23,
+            "average": 4.6,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 52,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "82",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "277"
+        }
+      }
+    }
+  }
+}

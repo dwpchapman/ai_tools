@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Indianapolis Colts": 10,
+      "Green Bay Packers": 16
+    },
+    "team_scores_by_quarter": {
+      "Indianapolis Colts": [
+        0,
+        0,
+        3,
+        7
+      ],
+      "Green Bay Packers": [
+        10,
+        0,
+        3,
+        3
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "Lambeau Field",
+    "teams": {
+      "Green Bay Packers": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Malik Willis",
+            "attempts": 14,
+            "completions": 12,
+            "yards": 122,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 126.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 32,
+            "yards": 151,
+            "average": 4.72,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 8
+          },
+          {
+            "player": "Malik Willis",
+            "attempts": 6,
+            "yards": 41,
+            "average": 6.83,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "MarShawn Lloyd",
+            "attempts": 6,
+            "yards": 15,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 5,
+            "yards": 9,
+            "average": 1.8,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bo Melton",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Romeo Doubs",
+            "receptions": 3,
+            "yards": 62,
+            "average": 20.67,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "MarShawn Lloyd",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Luke Musgrave",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brayden Narveson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 46,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "140",
+          "pass_yards_allowed": "198",
+          "total_yards_allowed": "338"
+        }
+      },
+      "Indianapolis Colts": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Anthony Richardson",
+            "attempts": 34,
+            "completions": 17,
+            "yards": 204,
+            "touchdowns": 1,
+            "interceptions": 3,
+            "long": 30,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 41.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jonathan Taylor",
+            "attempts": 12,
+            "yards": 103,
+            "average": 8.58,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Anthony Richardson",
+            "attempts": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Trey Sermon",
+            "attempts": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Alec Pierce",
+            "receptions": 5,
+            "yards": 56,
+            "average": 11.2,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Michael Pittman",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jonathan Taylor",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Mo Alie-Cox",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Ashton Dulin",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tyler Goodson",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kylen Granson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Adonai Mitchell",
+            "receptions": 1,
+            "yards": 30,
+            "average": 30.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Andrew Ogletree",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Trey Sermon",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Gay",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 34,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "261",
+          "pass_yards_allowed": "122",
+          "total_yards_allowed": "383"
+        }
+      }
+    }
+  }
+}

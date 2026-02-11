@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "New England Patriots": 17,
+      "Arizona Cardinals": 30
+    },
+    "team_scores_by_quarter": {
+      "New England Patriots": [
+        0,
+        3,
+        0,
+        14
+      ],
+      "Arizona Cardinals": [
+        10,
+        3,
+        3,
+        14
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 30,
+            "completions": 23,
+            "yards": 224,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 97.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Conner",
+            "attempts": 16,
+            "yards": 110,
+            "average": 6.88,
+            "long": 53,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Trey Benson",
+            "attempts": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "DeeJay Dallas",
+            "attempts": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 5,
+            "yards": 11,
+            "average": 2.2,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Greg Dortch",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Clayton Tune",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 9,
+            "yards": 87,
+            "average": 9.67,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "James Conner",
+            "receptions": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 3,
+            "yards": 60,
+            "average": 20.0,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tip Reiman",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Zay Jones",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 49,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "116",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "311"
+        }
+      },
+      "New England Patriots": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Drake Maye",
+            "attempts": 23,
+            "completions": 19,
+            "yards": 202,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 2,
+            "loss": 7,
+            "rate": 99.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 13,
+            "yards": 69,
+            "average": 5.31,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Antonio Gibson",
+            "attempts": 7,
+            "yards": 33,
+            "average": 4.71,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 4,
+            "yards": 14,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Hunter Henry",
+            "receptions": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 3,
+            "yards": 44,
+            "average": 14.67,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Antonio Gibson",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Marcus Jones",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Ja'Lynn Polk",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 50,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "163",
+          "pass_yards_allowed": "232",
+          "total_yards_allowed": "395"
+        }
+      }
+    }
+  }
+}
