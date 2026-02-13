@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 26,
+      "Carolina Panthers": 3
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        6,
+        14,
+        3,
+        3
+      ],
+      "Carolina Panthers": [
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "Bank of America Stadium",
+    "teams": {
+      "Carolina Panthers": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Bryce Young",
+            "attempts": 26,
+            "completions": 18,
+            "yards": 84,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 12,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 57.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chuba Hubbard",
+            "attempts": 10,
+            "yards": 64,
+            "average": 6.4,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Miles Sanders",
+            "attempts": 7,
+            "yards": 20,
+            "average": 2.86,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Bryce Young",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chuba Hubbard",
+            "receptions": 4,
+            "yards": 12,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Diontae Johnson",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Miles Sanders",
+            "receptions": 3,
+            "yards": 5,
+            "average": 1.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Tommy Tremble",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Ja'Tavion Sanders",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Adam Thielen",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "David Moore",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Eddy Pineiro",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 38,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "219",
+          "pass_yards_allowed": "130",
+          "total_yards_allowed": "349"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 20,
+            "completions": 14,
+            "yards": 130,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 29,
+            "sacks": 1,
+            "loss": 0,
+            "rate": 100.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 17,
+            "yards": 131,
+            "average": 7.71,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Gus Edwards",
+            "attempts": 18,
+            "yards": 59,
+            "average": 3.28,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 6,
+            "yards": 18,
+            "average": 3.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Quentin Johnston",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 29,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Hayden Hurst",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Eric Tomlinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 46,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "90",
+          "pass_yards_allowed": "69",
+          "total_yards_allowed": "159"
+        }
+      }
+    }
+  }
+}

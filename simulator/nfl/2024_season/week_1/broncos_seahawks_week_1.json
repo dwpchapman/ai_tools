@@ -1,0 +1,371 @@
+{
+  "game_info": {
+    "final_score": {
+      "Denver Broncos": 20,
+      "Seattle Seahawks": 26
+    },
+    "team_scores_by_quarter": {
+      "Denver Broncos": [
+        3,
+        10,
+        0,
+        7
+      ],
+      "Seattle Seahawks": [
+        3,
+        6,
+        10,
+        7
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Lumen Field",
+    "teams": {
+      "Seattle Seahawks": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 25,
+            "completions": 18,
+            "yards": 171,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 87.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 20,
+            "yards": 103,
+            "average": 5.15,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 34,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 8,
+            "yards": 12,
+            "average": 1.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Laviska Shenault",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Lockett",
+            "receptions": 6,
+            "yards": 77,
+            "average": 12.83,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Laviska Shenault",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Dareke Young",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 50,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "99",
+          "pass_yards_allowed": "132",
+          "total_yards_allowed": "231"
+        }
+      },
+      "Denver Broncos": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 42,
+            "completions": 26,
+            "yards": 138,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 25,
+            "sacks": 2,
+            "loss": 6,
+            "rate": 47.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 5,
+            "yards": 35,
+            "average": 7.0,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 10,
+            "yards": 27,
+            "average": 2.7,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Javonte Williams",
+            "attempts": 8,
+            "yards": 23,
+            "average": 2.88,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Audric Estime",
+            "attempts": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Devaughn Vele",
+            "receptions": 8,
+            "yards": 39,
+            "average": 4.88,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "receptions": 5,
+            "yards": 1,
+            "average": 0.2,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Josh Reynolds",
+            "receptions": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 12,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Greg Dulcich",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Michael Burton",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Lil'Jordan Humphrey",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Marvin Mims",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Adam Trautman",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 45,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "146",
+          "pass_yards_allowed": "158",
+          "total_yards_allowed": "304"
+        }
+      }
+    }
+  }
+}

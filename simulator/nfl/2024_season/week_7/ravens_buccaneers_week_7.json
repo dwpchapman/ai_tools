@@ -1,0 +1,380 @@
+{
+  "game_info": {
+    "final_score": {
+      "Baltimore Ravens": 41,
+      "Tampa Bay Buccaneers": 31
+    },
+    "team_scores_by_quarter": {
+      "Baltimore Ravens": [
+        0,
+        17,
+        17,
+        7
+      ],
+      "Tampa Bay Buccaneers": [
+        10,
+        0,
+        0,
+        21
+      ]
+    },
+    "week": 7,
+    "date": "October 21, 2024",
+    "location": "Raymond James Stadium",
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "score": 31,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 45,
+            "completions": 31,
+            "yards": 370,
+            "touchdowns": 3,
+            "interceptions": 2,
+            "long": 28,
+            "sacks": 3,
+            "loss": 14,
+            "rate": 97.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rachaad White",
+            "attempts": 10,
+            "yards": 40,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 9,
+            "yards": 23,
+            "average": 2.56,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen McMillan",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Cade Otton",
+            "receptions": 8,
+            "yards": 100,
+            "average": 12.5,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Chris Godwin",
+            "receptions": 7,
+            "yards": 65,
+            "average": 9.29,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 6,
+            "yards": 71,
+            "average": 11.83,
+            "long": 23,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 75
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Mike Evans",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Trey Palmer",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Sean Tucker",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 23,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "244",
+          "pass_yards_allowed": "264",
+          "total_yards_allowed": "508"
+        }
+      },
+      "Baltimore Ravens": {
+        "score": 41,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 22,
+            "completions": 17,
+            "yards": 281,
+            "touchdowns": 5,
+            "interceptions": 0,
+            "long": 59,
+            "sacks": 2,
+            "loss": 17,
+            "rate": 158.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 15,
+            "yards": 169,
+            "average": 11.27,
+            "long": 81,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 9,
+            "yards": 52,
+            "average": 5.78,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Zay Flowers",
+            "attempts": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 5,
+            "yards": 4,
+            "average": 0.8,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mark Andrews",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 20,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 4,
+            "yards": 121,
+            "average": 30.25,
+            "long": 59,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 3,
+            "yards": 44,
+            "average": 14.67,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Patrick Ricard",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 52,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "125",
+          "pass_yards_allowed": "356",
+          "total_yards_allowed": "481"
+        }
+      }
+    }
+  }
+}

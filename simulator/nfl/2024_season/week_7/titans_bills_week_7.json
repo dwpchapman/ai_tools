@@ -1,0 +1,353 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 10,
+      "Buffalo Bills": 34
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        3,
+        7,
+        0,
+        0
+      ],
+      "Buffalo Bills": [
+        0,
+        7,
+        10,
+        17
+      ]
+    },
+    "week": 7,
+    "date": "October 20, 2024",
+    "location": "Highmark Stadium",
+    "teams": {
+      "Buffalo Bills": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 33,
+            "completions": 21,
+            "yards": 323,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 57,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 116.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "James Cook",
+            "attempts": 12,
+            "yards": 32,
+            "average": 2.67,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 3,
+            "yards": 1,
+            "average": 0.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 7,
+            "yards": 65,
+            "average": 9.29,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Amari Cooper",
+            "receptions": 4,
+            "yards": 66,
+            "average": 16.5,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 4,
+            "yards": 125,
+            "average": 31.25,
+            "long": 57,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 79
+          },
+          {
+            "player": "Dalton Kincaid",
+            "receptions": 3,
+            "yards": 52,
+            "average": 17.33,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 30,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "89",
+          "pass_yards_allowed": "200",
+          "total_yards_allowed": "289"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Mason Rudolph",
+            "attempts": 40,
+            "completions": 25,
+            "yards": 215,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 3,
+            "loss": 15,
+            "rate": 74.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 16,
+            "yards": 61,
+            "average": 3.81,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mason Rudolph",
+            "attempts": 5,
+            "yards": 13,
+            "average": 2.6,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Boyd",
+            "receptions": 5,
+            "yards": 43,
+            "average": 8.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 4,
+            "yards": 50,
+            "average": 12.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Julius Chestnut",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": -6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 25,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "74",
+          "pass_yards_allowed": "315",
+          "total_yards_allowed": "389"
+        }
+      }
+    }
+  }
+}

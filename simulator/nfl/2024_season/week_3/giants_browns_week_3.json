@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 21,
+      "Cleveland Browns": 15
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        7,
+        14,
+        0,
+        0
+      ],
+      "Cleveland Browns": [
+        7,
+        0,
+        0,
+        8
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2024",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Deshaun Watson",
+            "attempts": 37,
+            "completions": 21,
+            "yards": 196,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 8,
+            "loss": 48,
+            "rate": 89.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jerome Ford",
+            "attempts": 10,
+            "yards": 37,
+            "average": 3.7,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Deshaun Watson",
+            "attempts": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "D'Onta Foreman",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jameis Winston",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amari Cooper",
+            "receptions": 7,
+            "yards": 86,
+            "average": 12.29,
+            "long": 24,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "112",
+          "pass_yards_allowed": "228",
+          "total_yards_allowed": "340"
+        }
+      },
+      "New York Giants": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 34,
+            "completions": 24,
+            "yards": 236,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 2,
+            "loss": 8,
+            "rate": 109.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Devin Singletary",
+            "attempts": 16,
+            "yards": 65,
+            "average": 4.06,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 5,
+            "yards": 23,
+            "average": 4.6,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 8,
+            "yards": 20,
+            "average": 2.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Malik Nabers",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Eric Gray",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Malik Nabers",
+            "receptions": 8,
+            "yards": 78,
+            "average": 9.75,
+            "long": 28,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 7,
+            "yards": 61,
+            "average": 8.71,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 48
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Joseph",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "69",
+          "pass_yards_allowed": "148",
+          "total_yards_allowed": "217"
+        }
+      }
+    }
+  }
+}

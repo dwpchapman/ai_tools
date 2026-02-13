@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 17,
+      "Minnesota Vikings": 23
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        0,
+        7,
+        0,
+        10
+      ],
+      "Minnesota Vikings": [
+        3,
+        10,
+        7,
+        3
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 26,
+            "completions": 17,
+            "yards": 268,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 97,
+            "sacks": 3,
+            "loss": 10,
+            "rate": 109.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ty Chandler",
+            "attempts": 10,
+            "yards": 82,
+            "average": 8.2,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 5,
+            "yards": 32,
+            "average": 6.4,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Aaron Jones",
+            "attempts": 9,
+            "yards": 32,
+            "average": 3.56,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Aaron Jones",
+            "receptions": 5,
+            "yards": 36,
+            "average": 7.2,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 62
+          },
+          {
+            "player": "Justin Jefferson",
+            "receptions": 4,
+            "yards": 133,
+            "average": 33.25,
+            "long": 97,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 3,
+            "yards": 54,
+            "average": 18.0,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Brandon Powell",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Trent Sherfield",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 12
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 39,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "102",
+          "pass_yards_allowed": "294",
+          "total_yards_allowed": "396"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 36,
+            "completions": 28,
+            "yards": 319,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 6,
+            "loss": 25,
+            "rate": 101.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 20,
+            "yards": 100,
+            "average": 5.0,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Isaac Guerendo",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 2,
+            "yards": -10,
+            "average": -5.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Deebo Samuel",
+            "receptions": 8,
+            "yards": 110,
+            "average": 13.75,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 10,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 7,
+            "yards": 76,
+            "average": 10.86,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Brandon Aiyuk",
+            "receptions": 4,
+            "yards": 43,
+            "average": 10.75,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Chris Conley",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jordan Mason",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 31,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "146",
+          "pass_yards_allowed": "257",
+          "total_yards_allowed": "403"
+        }
+      }
+    }
+  }
+}

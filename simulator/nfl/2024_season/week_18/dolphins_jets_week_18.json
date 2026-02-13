@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "Miami Dolphins": 20,
+      "New York Jets": 32
+    },
+    "team_scores_by_quarter": {
+      "Miami Dolphins": [
+        6,
+        0,
+        0,
+        14
+      ],
+      "New York Jets": [
+        0,
+        15,
+        3,
+        14
+      ]
+    },
+    "week": 18,
+    "date": "January 5, 2025",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Jets": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 36,
+            "completions": 23,
+            "yards": 274,
+            "touchdowns": 4,
+            "interceptions": 1,
+            "long": 43,
+            "sacks": 3,
+            "loss": 17,
+            "rate": 112.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 12,
+            "yards": 57,
+            "average": 4.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Xavier Gipson",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Garrett Wilson",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Davante Adams",
+            "receptions": 6,
+            "yards": 88,
+            "average": 14.67,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 4,
+            "yards": 51,
+            "average": 12.75,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 41
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 3,
+            "yards": 71,
+            "average": 23.67,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Tyler Conklin",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Kenny Yeboah",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Joseph",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 20,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "135",
+          "pass_yards_allowed": "199",
+          "total_yards_allowed": "334"
+        }
+      },
+      "Miami Dolphins": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Tyler Huntley",
+            "attempts": 41,
+            "completions": 25,
+            "yards": 227,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 23,
+            "sacks": 4,
+            "loss": 28,
+            "rate": 63.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 11,
+            "yards": 121,
+            "average": 11.0,
+            "long": 61,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Tyler Huntley",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaylen Waddle",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jeffery Wilson",
+            "attempts": 2,
+            "yards": -4,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jaylen Wright",
+            "attempts": 6,
+            "yards": -4,
+            "average": -0.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jonnu Smith",
+            "receptions": 9,
+            "yards": 56,
+            "average": 6.22,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "River Cracraft",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 4,
+            "yards": 44,
+            "average": 11.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 4,
+            "yards": 48,
+            "average": 12.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Tyreek Hill",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": -2
+          },
+          {
+            "player": "Alec Ingold",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Julian Hill",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Durham Smythe",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Sanders",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 28,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "118",
+          "pass_yards_allowed": "257",
+          "total_yards_allowed": "375"
+        }
+      }
+    }
+  }
+}

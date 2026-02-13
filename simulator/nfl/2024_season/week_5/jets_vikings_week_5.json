@@ -1,0 +1,296 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Jets": 17,
+      "Minnesota Vikings": 23
+    },
+    "team_scores_by_quarter": {
+      "New York Jets": [
+        0,
+        7,
+        3,
+        7
+      ],
+      "Minnesota Vikings": [
+        10,
+        7,
+        0,
+        6
+      ]
+    },
+    "week": 5,
+    "date": "October 6, 2024",
+    "location": "Tottenham Hotspur Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 31,
+            "completions": 14,
+            "yards": 179,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 4,
+            "loss": 32,
+            "rate": 50.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ty Chandler",
+            "attempts": 14,
+            "yards": 30,
+            "average": 2.14,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Jones",
+            "attempts": 7,
+            "yards": 29,
+            "average": 4.14,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 5,
+            "yards": 11,
+            "average": 2.2,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Myles Gaskin",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 6,
+            "yards": 92,
+            "average": 15.33,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 14,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ty Chandler",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Myles Gaskin",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Will Reichard",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 54,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "36",
+          "pass_yards_allowed": "218",
+          "total_yards_allowed": "254"
+        }
+      },
+      "New York Jets": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 54,
+            "completions": 29,
+            "yards": 244,
+            "touchdowns": 2,
+            "interceptions": 3,
+            "long": 25,
+            "sacks": 3,
+            "loss": 26,
+            "rate": 54.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Breece Hall",
+            "attempts": 9,
+            "yards": 23,
+            "average": 2.56,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Braelon Allen",
+            "attempts": 5,
+            "yards": 13,
+            "average": 2.6,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Garrett Wilson",
+            "receptions": 13,
+            "yards": 101,
+            "average": 7.77,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 23,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Tyler Conklin",
+            "receptions": 6,
+            "yards": 55,
+            "average": 9.17,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Mike Williams",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 11
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Zuerlein",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 32,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "82",
+          "pass_yards_allowed": "171",
+          "total_yards_allowed": "253"
+        }
+      }
+    }
+  }
+}

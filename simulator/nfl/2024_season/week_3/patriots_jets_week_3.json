@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "New England Patriots": 3,
+      "New York Jets": 24
+    },
+    "team_scores_by_quarter": {
+      "New England Patriots": [
+        0,
+        3,
+        0,
+        0
+      ],
+      "New York Jets": [
+        7,
+        7,
+        7,
+        3
+      ]
+    },
+    "week": 3,
+    "date": "September 19, 2024",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Jets": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 35,
+            "completions": 27,
+            "yards": 281,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 27,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 118.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Braelon Allen",
+            "attempts": 11,
+            "yards": 55,
+            "average": 5.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Breece Hall",
+            "attempts": 16,
+            "yards": 54,
+            "average": 3.38,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Aaron Rodgers",
+            "attempts": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Isaiah Davis",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Conklin",
+            "receptions": 5,
+            "yards": 93,
+            "average": 18.6,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Garrett Wilson",
+            "receptions": 5,
+            "yards": 33,
+            "average": 6.6,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Breece Hall",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Braelon Allen",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Allen Lazard",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Mike Williams",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Xavier Gipson",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jeremy Ruckert",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 11
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Zuerlein",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 28,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "61",
+          "total_yards_allowed": "139"
+        }
+      },
+      "New England Patriots": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 18,
+            "completions": 12,
+            "yards": 98,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 5,
+            "loss": 46,
+            "rate": 80.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Antonio Gibson",
+            "attempts": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 6,
+            "yards": 23,
+            "average": 3.83,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Drake Maye",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Demario Douglas",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "JaMycal Hasty",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Demario Douglas",
+            "receptions": 7,
+            "yards": 69,
+            "average": 9.86,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Antonio Gibson",
+            "receptions": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Ja'Lynn Polk",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Tyquan Thornton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 44,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "133",
+          "pass_yards_allowed": "267",
+          "total_yards_allowed": "400"
+        }
+      }
+    }
+  }
+}

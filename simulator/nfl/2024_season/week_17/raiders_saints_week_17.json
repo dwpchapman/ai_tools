@@ -1,0 +1,378 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 25,
+      "New Orleans Saints": 10
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        3,
+        10,
+        3,
+        9
+      ],
+      "New Orleans Saints": [
+        0,
+        10,
+        0,
+        0
+      ]
+    },
+    "week": 17,
+    "date": "December 29, 2024",
+    "location": "Caesars Superdome",
+    "teams": {
+      "New Orleans Saints": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 36,
+            "completions": 20,
+            "yards": 218,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 30,
+            "sacks": 3,
+            "loss": 27,
+            "rate": 59.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 3,
+            "yards": 46,
+            "average": 15.33,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Clyde Edwards-Helaire",
+            "attempts": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Juwan Johnson",
+            "receptions": 6,
+            "yards": 66,
+            "average": 11.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 3,
+            "yards": 47,
+            "average": 15.67,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Clyde Edwards-Helaire",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Kendre Miller",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Jamaal Williams",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Adam Prentice",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 34,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "156",
+          "pass_yards_allowed": "232",
+          "total_yards_allowed": "388"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 35,
+            "completions": 20,
+            "yards": 242,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 29,
+            "sacks": 1,
+            "loss": 10,
+            "rate": 97.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 20,
+            "yards": 115,
+            "average": 5.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Alexander Mattison",
+            "attempts": 10,
+            "yards": 32,
+            "average": 3.2,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Chris Collier",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Brock Bowers",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 3,
+            "yards": -1,
+            "average": -0.33,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 7,
+            "yards": 77,
+            "average": 11.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 5,
+            "yards": 61,
+            "average": 12.2,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Terrace Marshall",
+            "receptions": 1,
+            "yards": 28,
+            "average": 28.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Alexander Mattison",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 54,
+            "points": 13
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "81",
+          "pass_yards_allowed": "188",
+          "total_yards_allowed": "269"
+        }
+      }
+    }
+  }
+}

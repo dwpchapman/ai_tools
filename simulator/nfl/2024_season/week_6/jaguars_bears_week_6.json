@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Jacksonville Jaguars": 16,
+      "Chicago Bears": 35
+    },
+    "team_scores_by_quarter": {
+      "Jacksonville Jaguars": [
+        3,
+        0,
+        7,
+        6
+      ],
+      "Chicago Bears": [
+        0,
+        14,
+        7,
+        14
+      ]
+    },
+    "week": 6,
+    "date": "October 13, 2024",
+    "location": "Tottenham Hotspur Stadium",
+    "teams": {
+      "Chicago Bears": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 29,
+            "completions": 23,
+            "yards": 226,
+            "touchdowns": 4,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 3,
+            "loss": 5,
+            "rate": 124.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 17,
+            "yards": 91,
+            "average": 5.35,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 4,
+            "yards": 56,
+            "average": 14.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 5,
+            "yards": 8,
+            "average": 1.6,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tyson Bagent",
+            "attempts": 3,
+            "yards": -3,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Keenan Allen",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 11,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 31,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Roschon Johnson",
+            "receptions": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Marcedes Lewis",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Gerald Everett",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "210",
+          "total_yards_allowed": "278"
+        }
+      },
+      "Jacksonville Jaguars": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 35,
+            "completions": 23,
+            "yards": 234,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 24,
+            "sacks": 3,
+            "loss": 20,
+            "rate": 91.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Ernest Johnson",
+            "attempts": 6,
+            "yards": 28,
+            "average": 4.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 7,
+            "yards": 24,
+            "average": 3.43,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Travis Etienne",
+            "attempts": 3,
+            "yards": -1,
+            "average": -0.33,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Evan Engram",
+            "receptions": 10,
+            "yards": 102,
+            "average": 10.2,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Gabriel Davis",
+            "receptions": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 21,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 3,
+            "yards": 39,
+            "average": 13.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 30,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "152",
+          "pass_yards_allowed": "221",
+          "total_yards_allowed": "373"
+        }
+      }
+    }
+  }
+}

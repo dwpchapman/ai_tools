@@ -1,0 +1,360 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 26,
+      "Baltimore Ravens": 23
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        0,
+        6,
+        7,
+        13
+      ],
+      "Baltimore Ravens": [
+        3,
+        6,
+        7,
+        7
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 34,
+            "completions": 21,
+            "yards": 247,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 21,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 81.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 18,
+            "yards": 84,
+            "average": 4.67,
+            "long": 29,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zay Flowers",
+            "receptions": 7,
+            "yards": 91,
+            "average": 13.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 4,
+            "yards": 51,
+            "average": 12.75,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Patrick Ricard",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 48,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "27",
+          "pass_yards_allowed": "233",
+          "total_yards_allowed": "260"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Gardner Minshew",
+            "attempts": 38,
+            "completions": 30,
+            "yards": 276,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 5,
+            "loss": 43,
+            "rate": 94.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zamir White",
+            "attempts": 9,
+            "yards": 24,
+            "average": 2.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Alexander Mattison",
+            "attempts": 4,
+            "yards": 1,
+            "average": 0.25,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Gardner Minshew",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Davante Adams",
+            "receptions": 9,
+            "yards": 110,
+            "average": 12.22,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Brock Bowers",
+            "receptions": 9,
+            "yards": 98,
+            "average": 10.89,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Zamir White",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Harrison Bryant",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 53,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "151",
+          "pass_yards_allowed": "232",
+          "total_yards_allowed": "383"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 10,
+      "Buffalo Bills": 35
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        3,
+        0,
+        7,
+        0
+      ],
+      "Buffalo Bills": [
+        7,
+        14,
+        7,
+        7
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2024",
+    "location": "Highmark Stadium",
+    "teams": {
+      "Buffalo Bills": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 17,
+            "completions": 13,
+            "yards": 148,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 141.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Cook",
+            "attempts": 14,
+            "yards": 107,
+            "average": 7.64,
+            "long": 65,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 11,
+            "yards": 63,
+            "average": 5.73,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 5,
+            "yards": 28,
+            "average": 5.6,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Josh Allen",
+            "attempts": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Curtis Samuel",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mitchell Trubisky",
+            "attempts": 4,
+            "yards": -3,
+            "average": -0.75,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 4,
+            "yards": 30,
+            "average": 7.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Amari Cooper",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 2,
+            "yards": 56,
+            "average": 28.0,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "James Cook",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Quintin Morris",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Josh Allen",
+            "receptions": 0,
+            "yards": 7,
+            "average": 0.0,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Zach Davidson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "153",
+          "pass_yards_allowed": "86",
+          "total_yards_allowed": "239"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 18,
+            "completions": 11,
+            "yards": 94,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 26,
+            "sacks": 2,
+            "loss": 8,
+            "rate": 74.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jordan Mason",
+            "attempts": 13,
+            "yards": 78,
+            "average": 6.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 7,
+            "yards": 53,
+            "average": 7.57,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Isaac Guerendo",
+            "attempts": 4,
+            "yards": 19,
+            "average": 4.75,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Deebo Samuel",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 3,
+            "yards": 56,
+            "average": 18.67,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Isaac Guerendo",
+            "receptions": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 3,
+            "long": 33,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "220",
+          "pass_yards_allowed": "152",
+          "total_yards_allowed": "372"
+        }
+      }
+    }
+  }
+}

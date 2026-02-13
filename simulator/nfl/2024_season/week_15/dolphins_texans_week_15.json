@@ -1,0 +1,340 @@
+{
+  "game_info": {
+    "final_score": {
+      "Miami Dolphins": 12,
+      "Houston Texans": 20
+    },
+    "team_scores_by_quarter": {
+      "Miami Dolphins": [
+        0,
+        6,
+        6,
+        0
+      ],
+      "Houston Texans": [
+        3,
+        10,
+        7,
+        0
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 26,
+            "completions": 18,
+            "yards": 131,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 15,
+            "sacks": 4,
+            "loss": 27,
+            "rate": 106.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 1,
+            "yards": 35,
+            "average": 35.0,
+            "long": 35,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Joe Mixon",
+            "attempts": 12,
+            "yards": 23,
+            "average": 1.92,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Nathaniel Dell",
+            "attempts": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 6,
+            "yards": 4,
+            "average": 0.67,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Joe Mixon",
+            "receptions": 5,
+            "yards": 33,
+            "average": 6.6,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 4,
+            "yards": 17,
+            "average": 4.25,
+            "long": 8,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 44,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "52",
+          "pass_yards_allowed": "172",
+          "total_yards_allowed": "224"
+        }
+      },
+      "Miami Dolphins": {
+        "score": 12,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 40,
+            "completions": 29,
+            "yards": 196,
+            "touchdowns": 1,
+            "interceptions": 3,
+            "long": 21,
+            "sacks": 3,
+            "loss": 24,
+            "rate": 60.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 12,
+            "yards": 41,
+            "average": 3.42,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 6,
+            "yards": 8,
+            "average": 1.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaylen Wright",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jonnu Smith",
+            "receptions": 9,
+            "yards": 48,
+            "average": 5.33,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "De'Von Achane",
+            "receptions": 7,
+            "yards": 35,
+            "average": 5.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 5,
+            "yards": 52,
+            "average": 10.4,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 40
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Tyreek Hill",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "River Cracraft",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Grant DuBose",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Durham Smythe",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jaylen Waddle",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Sanders",
+            "pat_made": 0,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 55,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "77",
+          "pass_yards_allowed": "104",
+          "total_yards_allowed": "181"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 10,
+      "Baltimore Ravens": 35
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        0,
+        3,
+        0,
+        7
+      ],
+      "Baltimore Ravens": [
+        7,
+        7,
+        7,
+        14
+      ]
+    },
+    "week": 18,
+    "date": "January 4, 2025",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 35,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 32,
+            "completions": 16,
+            "yards": 217,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 92.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 20,
+            "yards": 138,
+            "average": 6.9,
+            "long": 43,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 9,
+            "yards": 63,
+            "average": 7.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Keaton Mitchell",
+            "attempts": 4,
+            "yards": 10,
+            "average": 2.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zay Flowers",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Mark Andrews",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rashod Bateman",
+            "receptions": 5,
+            "yards": 76,
+            "average": 15.2,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Patrick Ricard",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Rasheen Ali",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tylan Wallace",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "56",
+          "pass_yards_allowed": "174",
+          "total_yards_allowed": "230"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Bailey Zappe",
+            "attempts": 31,
+            "completions": 16,
+            "yards": 170,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 30,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 51.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Onta Foreman",
+            "attempts": 10,
+            "yards": 27,
+            "average": 2.7,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jacob Kibodi",
+            "attempts": 5,
+            "yards": 24,
+            "average": 4.8,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dorian Thompson-Robinson",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Bailey Zappe",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jordan Akins",
+            "receptions": 6,
+            "yards": 60,
+            "average": 10.0,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 6,
+            "yards": 63,
+            "average": 10.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 13,
+            "yards_after_catch": 54
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "D'Onta Foreman",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jacob Kibodi",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Blake Whiteheart",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Brenden Bates",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jamari Thrash",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 23,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "220",
+          "pass_yards_allowed": "217",
+          "total_yards_allowed": "437"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 22,
+      "Philadelphia Eagles": 21
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        0,
+        6,
+        9,
+        7
+      ],
+      "Philadelphia Eagles": [
+        0,
+        7,
+        3,
+        11
+      ]
+    },
+    "week": 2,
+    "date": "September 16, 2024",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 30,
+            "completions": 23,
+            "yards": 183,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 19,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 88.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 22,
+            "yards": 95,
+            "average": 4.32,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 13,
+            "yards": 85,
+            "average": 6.54,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "DeVonta Smith",
+            "receptions": 7,
+            "yards": 76,
+            "average": 10.86,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Britain Covey",
+            "receptions": 6,
+            "yards": 23,
+            "average": 3.83,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 4,
+            "yards": 21,
+            "average": 5.25,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Dallas Goedert",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Johnny Wilson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 29,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "152",
+          "pass_yards_allowed": "233",
+          "total_yards_allowed": "385"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 29,
+            "completions": 20,
+            "yards": 241,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 117.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 14,
+            "yards": 97,
+            "average": 6.93,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 9,
+            "yards": 53,
+            "average": 5.89,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 4,
+            "yards": -1,
+            "average": -0.25,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 6,
+            "yards": 54,
+            "average": 9.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 3,
+            "yards": 88,
+            "average": 29.33,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 39,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "186",
+          "pass_yards_allowed": "179",
+          "total_yards_allowed": "365"
+        }
+      }
+    }
+  }
+}

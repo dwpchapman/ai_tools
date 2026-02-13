@@ -1,0 +1,342 @@
+{
+  "game_info": {
+    "final_score": {
+      "Jacksonville Jaguars": 14,
+      "Las Vegas Raiders": 19
+    },
+    "team_scores_by_quarter": {
+      "Jacksonville Jaguars": [
+        7,
+        0,
+        7,
+        0
+      ],
+      "Las Vegas Raiders": [
+        0,
+        13,
+        0,
+        6
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 38,
+            "completions": 24,
+            "yards": 257,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 32,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 82.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 7,
+            "yards": 38,
+            "average": 5.43,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Alexander Mattison",
+            "attempts": 12,
+            "yards": 27,
+            "average": 2.25,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 7,
+            "yards": 12,
+            "average": 1.71,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": -8,
+            "average": -8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 11,
+            "yards": 99,
+            "average": 9.0,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 13,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 5,
+            "yards": 47,
+            "average": 9.4,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Alexander Mattison",
+            "receptions": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 2,
+            "yards": 41,
+            "average": 20.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 41,
+            "average": 20.5,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Terrace Marshall",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Michael Mayer",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 49,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "72",
+          "pass_yards_allowed": "236",
+          "total_yards_allowed": "308"
+        }
+      },
+      "Jacksonville Jaguars": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Mac Jones",
+            "attempts": 39,
+            "completions": 25,
+            "yards": 247,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 62,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 90.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 12,
+            "yards": 50,
+            "average": 4.17,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Travis Etienne",
+            "attempts": 9,
+            "yards": 22,
+            "average": 2.44,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brian Thomas",
+            "receptions": 9,
+            "yards": 132,
+            "average": 14.67,
+            "long": 62,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 13,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 6,
+            "yards": 54,
+            "average": 9.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Devin Duvernay",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josiah Deguara",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Josh Reynolds",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "69",
+          "pass_yards_allowed": "245",
+          "total_yards_allowed": "314"
+        }
+      }
+    }
+  }
+}

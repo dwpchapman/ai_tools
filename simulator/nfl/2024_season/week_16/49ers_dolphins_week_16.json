@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "San Francisco 49ers": 17,
+      "Miami Dolphins": 29
+    },
+    "team_scores_by_quarter": {
+      "San Francisco 49ers": [
+        0,
+        10,
+        0,
+        7
+      ],
+      "Miami Dolphins": [
+        3,
+        10,
+        6,
+        10
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "Hard Rock Stadium",
+    "teams": {
+      "Miami Dolphins": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 34,
+            "completions": 22,
+            "yards": 215,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 24,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 92.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "De'Von Achane",
+            "attempts": 17,
+            "yards": 120,
+            "average": 7.06,
+            "long": 50,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Raheem Mostert",
+            "attempts": 8,
+            "yards": 31,
+            "average": 3.88,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jeffery Wilson",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Alec Ingold",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tua Tagovailoa",
+            "attempts": 2,
+            "yards": -1,
+            "average": -0.5,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "De'Von Achane",
+            "receptions": 6,
+            "yards": 70,
+            "average": 11.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Jonnu Smith",
+            "receptions": 6,
+            "yards": 62,
+            "average": 10.33,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Tyreek Hill",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 24,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Malik Washington",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Raheem Mostert",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "River Cracraft",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Durham Smythe",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Sanders",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 5,
+            "fg_att": 5,
+            "long": 54,
+            "points": 17
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "81",
+          "pass_yards_allowed": "293",
+          "total_yards_allowed": "374"
+        }
+      },
+      "San Francisco 49ers": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 40,
+            "completions": 26,
+            "yards": 313,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 3,
+            "loss": 20,
+            "rate": 95.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 4,
+            "yards": 26,
+            "average": 6.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 5,
+            "yards": 25,
+            "average": 5.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Patrick Taylor",
+            "attempts": 8,
+            "yards": 24,
+            "average": 3.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Kittle",
+            "receptions": 8,
+            "yards": 106,
+            "average": 13.25,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 72
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 7,
+            "yards": 96,
+            "average": 13.71,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 93
+          },
+          {
+            "player": "Jauan Jennings",
+            "receptions": 4,
+            "yards": 51,
+            "average": 12.75,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Patrick Taylor",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 21,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "166",
+          "pass_yards_allowed": "215",
+          "total_yards_allowed": "381"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 20,
+      "Chicago Bears": 19
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        7,
+        0,
+        7,
+        6
+      ],
+      "Chicago Bears": [
+        3,
+        7,
+        9,
+        0
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2024",
+    "location": "Soldier Field",
+    "teams": {
+      "Chicago Bears": {
+        "score": 19,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 31,
+            "completions": 23,
+            "yards": 231,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 3,
+            "loss": 19,
+            "rate": 95.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 14,
+            "yards": 71,
+            "average": 5.07,
+            "long": 39,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 9,
+            "yards": 70,
+            "average": 7.78,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Roschon Johnson",
+            "attempts": 10,
+            "yards": 33,
+            "average": 3.3,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 7,
+            "yards": 62,
+            "average": 8.86,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 6,
+            "yards": 65,
+            "average": 10.83,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Roschon Johnson",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 53,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "106",
+          "pass_yards_allowed": "260",
+          "total_yards_allowed": "366"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 17,
+            "completions": 13,
+            "yards": 261,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 60,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 113.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 18,
+            "yards": 76,
+            "average": 4.22,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 4,
+            "yards": 18,
+            "average": 4.5,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 1,
+            "yards": -5,
+            "average": -5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Josh Jacobs",
+            "receptions": 4,
+            "yards": 58,
+            "average": 14.5,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Christian Watson",
+            "receptions": 4,
+            "yards": 150,
+            "average": 37.5,
+            "long": 60,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 46
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "179",
+          "pass_yards_allowed": "212",
+          "total_yards_allowed": "391"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Chicago Bears": 13,
+      "San Francisco 49ers": 38
+    },
+    "team_scores_by_quarter": {
+      "Chicago Bears": [
+        0,
+        0,
+        6,
+        7
+      ],
+      "San Francisco 49ers": [
+        14,
+        10,
+        0,
+        14
+      ]
+    },
+    "week": 14,
+    "date": "December 8, 2024",
+    "location": "Levi's Stadium",
+    "teams": {
+      "San Francisco 49ers": {
+        "score": 38,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 25,
+            "completions": 20,
+            "yards": 325,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 39,
+            "sacks": 1,
+            "loss": 4,
+            "rate": 145.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Isaac Guerendo",
+            "attempts": 15,
+            "yards": 78,
+            "average": 5.2,
+            "long": 30,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Patrick Taylor",
+            "attempts": 7,
+            "yards": 25,
+            "average": 3.57,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 5,
+            "yards": 13,
+            "average": 2.6,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 5,
+            "yards": 11,
+            "average": 2.2,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Ke'Shawn Vaughn",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jauan Jennings",
+            "receptions": 7,
+            "yards": 90,
+            "average": 12.86,
+            "long": 39,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "George Kittle",
+            "receptions": 6,
+            "yards": 151,
+            "average": 25.17,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 6,
+            "yards_after_catch": 103
+          },
+          {
+            "player": "Isaac Guerendo",
+            "receptions": 2,
+            "yards": 50,
+            "average": 25.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jacob Cowing",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Patrick Taylor",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 23,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "94",
+          "total_yards_allowed": "162"
+        }
+      },
+      "Chicago Bears": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Caleb Williams",
+            "attempts": 23,
+            "completions": 17,
+            "yards": 134,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 17,
+            "sacks": 7,
+            "loss": 46,
+            "rate": 116.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "D'Andre Swift",
+            "attempts": 14,
+            "yards": 38,
+            "average": 2.71,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Caleb Williams",
+            "attempts": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Darrynton Evans",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 6,
+            "yards": 49,
+            "average": 8.17,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Rome Odunze",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 17,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Keenan Allen",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Travis Homer",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Collin Johnson",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "D'Andre Swift",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Cole Kmet",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cairo Santos",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "131",
+          "pass_yards_allowed": "321",
+          "total_yards_allowed": "452"
+        }
+      }
+    }
+  }
+}

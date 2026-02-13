@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 17,
+      "Atlanta Falcons": 13
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        3,
+        6,
+        8,
+        0
+      ],
+      "Atlanta Falcons": [
+        7,
+        0,
+        6,
+        0
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2024",
+    "location": "Mercedes-Benz Stadium",
+    "teams": {
+      "Atlanta Falcons": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Kirk Cousins",
+            "attempts": 39,
+            "completions": 24,
+            "yards": 245,
+            "touchdowns": 0,
+            "interceptions": 4,
+            "long": 60,
+            "sacks": 1,
+            "loss": 11,
+            "rate": 40.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 26,
+            "yards": 102,
+            "average": 3.92,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 8,
+            "yards": 16,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kirk Cousins",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Drake London",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 9,
+            "yards": 86,
+            "average": 9.56,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 16,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 6,
+            "yards": 33,
+            "average": 5.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 4,
+            "yards": 95,
+            "average": 23.75,
+            "long": 60,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 63
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tyler Allgeier",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Younghoe Koo",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 41,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "56",
+          "pass_yards_allowed": "131",
+          "total_yards_allowed": "187"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 23,
+            "completions": 16,
+            "yards": 147,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 48,
+            "sacks": 5,
+            "loss": 19,
+            "rate": 86.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Gus Edwards",
+            "attempts": 6,
+            "yards": 32,
+            "average": 5.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Derius Davis",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 5,
+            "yards": 1,
+            "average": 0.2,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ladd McConkey",
+            "receptions": 9,
+            "yards": 117,
+            "average": 13.0,
+            "long": 48,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Derius Davis",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Gus Edwards",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tucker Fisk",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Scott Matlock",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Stone Smartt",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 51,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "116",
+          "pass_yards_allowed": "234",
+          "total_yards_allowed": "350"
+        }
+      }
+    }
+  }
+}

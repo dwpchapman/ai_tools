@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 18,
+      "Jacksonville Jaguars": 13
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        7,
+        6,
+        3,
+        2
+      ],
+      "Jacksonville Jaguars": [
+        0,
+        3,
+        7,
+        3
+      ]
+    },
+    "week": 2,
+    "date": "September 15, 2024",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 30,
+            "completions": 14,
+            "yards": 220,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 66,
+            "sacks": 4,
+            "loss": 24,
+            "rate": 71.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Travis Etienne",
+            "attempts": 13,
+            "yards": 52,
+            "average": 4.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 2,
+            "yards": 45,
+            "average": 22.5,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "attempts": 5,
+            "yards": 26,
+            "average": 5.2,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Devin Duvernay",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Gabriel Davis",
+            "receptions": 3,
+            "yards": 43,
+            "average": 14.33,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Travis Etienne",
+            "receptions": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Brenton Strange",
+            "receptions": 3,
+            "yards": 65,
+            "average": 21.67,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Luke Farrell",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 2,
+            "yards": 94,
+            "average": 47.0,
+            "long": 66,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 25,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "125",
+          "pass_yards_allowed": "172",
+          "total_yards_allowed": "297"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 18,
+        "passing": [
+          {
+            "player": "Deshaun Watson",
+            "attempts": 34,
+            "completions": 22,
+            "yards": 186,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 78.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jerome Ford",
+            "attempts": 7,
+            "yards": 64,
+            "average": 9.14,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "D'Onta Foreman",
+            "attempts": 14,
+            "yards": 42,
+            "average": 3.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Deshaun Watson",
+            "attempts": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Jameis Winston",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Pierre Strong",
+            "attempts": 1,
+            "yards": -5,
+            "average": -5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Elijah Moore",
+            "receptions": 6,
+            "yards": 44,
+            "average": 7.33,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 5,
+            "yards": 73,
+            "average": 14.6,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "David Bell",
+            "receptions": 3,
+            "yards": 27,
+            "average": 9.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Amari Cooper",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 8,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "D'Onta Foreman",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Pierre Strong",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 53,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "127",
+          "pass_yards_allowed": "196",
+          "total_yards_allowed": "323"
+        }
+      }
+    }
+  }
+}

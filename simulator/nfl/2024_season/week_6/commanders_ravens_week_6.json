@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 23,
+      "Baltimore Ravens": 30
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        3,
+        7,
+        3,
+        10
+      ],
+      "Baltimore Ravens": [
+        3,
+        14,
+        10,
+        3
+      ]
+    },
+    "week": 6,
+    "date": "October 13, 2024",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 26,
+            "completions": 20,
+            "yards": 323,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 44,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 114.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 24,
+            "yards": 132,
+            "average": 5.5,
+            "long": 27,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 11,
+            "yards": 40,
+            "average": 3.64,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Zay Flowers",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Zay Flowers",
+            "receptions": 9,
+            "yards": 132,
+            "average": 14.67,
+            "long": 44,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 9,
+            "yards_after_catch": 90
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 4,
+            "yards": 71,
+            "average": 17.75,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 3,
+            "yards": 66,
+            "average": 22.0,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 45,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "52",
+          "pass_yards_allowed": "253",
+          "total_yards_allowed": "305"
+        }
+      },
+      "Washington Commanders": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 35,
+            "completions": 24,
+            "yards": 269,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 3,
+            "loss": 16,
+            "rate": 110.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 6,
+            "yards": 22,
+            "average": 3.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Austin Ekeler",
+            "attempts": 9,
+            "yards": 21,
+            "average": 2.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Terry McLaurin",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Terry McLaurin",
+            "receptions": 6,
+            "yards": 53,
+            "average": 8.83,
+            "long": 14,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 4,
+            "yards": 58,
+            "average": 14.5,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Austin Ekeler",
+            "receptions": 4,
+            "yards": 47,
+            "average": 11.75,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 4,
+            "yards": 68,
+            "average": 17.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Austin Seibert",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 55,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "176",
+          "pass_yards_allowed": "308",
+          "total_yards_allowed": "484"
+        }
+      }
+    }
+  }
+}

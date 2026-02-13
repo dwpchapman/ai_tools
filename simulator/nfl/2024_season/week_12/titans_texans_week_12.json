@@ -1,0 +1,311 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tennessee Titans": 32,
+      "Houston Texans": 27
+    },
+    "team_scores_by_quarter": {
+      "Tennessee Titans": [
+        10,
+        10,
+        3,
+        9
+      ],
+      "Houston Texans": [
+        7,
+        10,
+        7,
+        3
+      ]
+    },
+    "week": 12,
+    "date": "November 24, 2024",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 33,
+            "completions": 20,
+            "yards": 247,
+            "touchdowns": 2,
+            "interceptions": 2,
+            "long": 56,
+            "sacks": 4,
+            "loss": 27,
+            "rate": 78.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 14,
+            "yards": 22,
+            "average": 1.57,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 5,
+            "yards": 92,
+            "average": 18.4,
+            "long": 56,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 5,
+            "yards": 23,
+            "average": 4.6,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 3,
+            "yards": 72,
+            "average": 24.0,
+            "long": 39,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 54,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "132",
+          "pass_yards_allowed": "237",
+          "total_yards_allowed": "369"
+        }
+      },
+      "Tennessee Titans": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Will Levis",
+            "attempts": 24,
+            "completions": 18,
+            "yards": 278,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 70,
+            "sacks": 8,
+            "loss": 41,
+            "rate": 123.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tony Pollard",
+            "attempts": 24,
+            "yards": 119,
+            "average": 4.96,
+            "long": 27,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Will Levis",
+            "attempts": 8,
+            "yards": 10,
+            "average": 1.25,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Julius Chestnut",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tyler Boyd",
+            "receptions": 6,
+            "yards": 55,
+            "average": 9.17,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Calvin Ridley",
+            "receptions": 5,
+            "yards": 93,
+            "average": 18.6,
+            "long": 63,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 2,
+            "yards": 48,
+            "average": 24.0,
+            "long": 38,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Julius Chestnut",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 1,
+            "yards": 70,
+            "average": 70.0,
+            "long": 70,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 56,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "40",
+          "pass_yards_allowed": "220",
+          "total_yards_allowed": "260"
+        }
+      }
+    }
+  }
+}

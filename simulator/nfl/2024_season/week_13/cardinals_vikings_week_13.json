@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "Arizona Cardinals": 22,
+      "Minnesota Vikings": 23
+    },
+    "team_scores_by_quarter": {
+      "Arizona Cardinals": [
+        3,
+        6,
+        10,
+        3
+      ],
+      "Minnesota Vikings": [
+        3,
+        3,
+        7,
+        10
+      ]
+    },
+    "week": 13,
+    "date": "December 1, 2024",
+    "location": "U.S. Bank Stadium",
+    "teams": {
+      "Minnesota Vikings": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 31,
+            "completions": 21,
+            "yards": 235,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 30,
+            "sacks": 5,
+            "loss": 30,
+            "rate": 111.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cam Akers",
+            "attempts": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Jones",
+            "attempts": 5,
+            "yards": 22,
+            "average": 4.4,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ty Chandler",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 7,
+            "yards": 99,
+            "average": 14.14,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Brandon Powell",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "John Parker Romo",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 4,
+            "long": 55,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "154",
+          "pass_yards_allowed": "252",
+          "total_yards_allowed": "406"
+        }
+      },
+      "Arizona Cardinals": {
+        "score": 22,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 45,
+            "completions": 31,
+            "yards": 260,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 22,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 72.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Conner",
+            "attempts": 17,
+            "yards": 68,
+            "average": 4.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 7,
+            "yards": 48,
+            "average": 6.86,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Trey Benson",
+            "attempts": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Greg Dortch",
+            "attempts": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 12,
+            "yards": 96,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 7,
+            "targets": 12,
+            "yards_after_catch": 56
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 5,
+            "yards": 60,
+            "average": 12.0,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 12,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 5,
+            "yards": 55,
+            "average": 11.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "James Conner",
+            "receptions": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Emari Demercado",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Tip Reiman",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 5,
+            "fg_att": 6,
+            "long": 40,
+            "points": 16
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "68",
+          "pass_yards_allowed": "205",
+          "total_yards_allowed": "273"
+        }
+      }
+    }
+  }
+}

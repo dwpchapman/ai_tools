@@ -1,0 +1,402 @@
+{
+  "game_info": {
+    "final_score": {
+      "Houston Texans": 34,
+      "Dallas Cowboys": 10
+    },
+    "team_scores_by_quarter": {
+      "Houston Texans": [
+        14,
+        3,
+        3,
+        14
+      ],
+      "Dallas Cowboys": [
+        0,
+        10,
+        0,
+        0
+      ]
+    },
+    "week": 11,
+    "date": "November 18, 2024",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Cooper Rush",
+            "attempts": 55,
+            "completions": 32,
+            "yards": 354,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 64,
+            "sacks": 5,
+            "loss": 34,
+            "rate": 75.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 10,
+            "yards": 28,
+            "average": 2.8,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "CeeDee Lamb",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Deuce Vaughn",
+            "attempts": 4,
+            "yards": 13,
+            "average": 3.25,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Cooper Rush",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 8,
+            "yards": 93,
+            "average": 11.62,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 6,
+            "yards": 56,
+            "average": 9.33,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Brevyn Spann-Ford",
+            "receptions": 4,
+            "yards": 42,
+            "average": 10.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 3,
+            "yards": 86,
+            "average": 28.67,
+            "long": 64,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 66
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Juanyeh Thomas",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Deuce Vaughn",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 53,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "141",
+          "pass_yards_allowed": "250",
+          "total_yards_allowed": "391"
+        }
+      },
+      "Houston Texans": {
+        "score": 34,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 34,
+            "completions": 23,
+            "yards": 257,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 77.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 20,
+            "yards": 109,
+            "average": 5.45,
+            "long": 45,
+            "touchdowns": 3,
+            "first_downs": 5
+          },
+          {
+            "player": "",
+            "attempts": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Nathaniel Dell",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dameon Pierce",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Dalton Schultz",
+            "receptions": 5,
+            "yards": 33,
+            "average": 6.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Nathaniel Dell",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Nico Collins",
+            "receptions": 4,
+            "yards": 54,
+            "average": 13.5,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 2,
+            "yards": 44,
+            "average": 22.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 14
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 33,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "64",
+          "pass_yards_allowed": "324",
+          "total_yards_allowed": "388"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "game_info": {
+    "final_score": {
+      "Las Vegas Raiders": 15,
+      "Los Angeles Rams": 20
+    },
+    "team_scores_by_quarter": {
+      "Las Vegas Raiders": [
+        0,
+        6,
+        3,
+        6
+      ],
+      "Los Angeles Rams": [
+        0,
+        14,
+        6,
+        0
+      ]
+    },
+    "week": 7,
+    "date": "October 20, 2024",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 23,
+            "completions": 14,
+            "yards": 154,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 1,
+            "loss": 10,
+            "rate": 62.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 21,
+            "yards": 76,
+            "average": 3.62,
+            "long": 14,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Xavier Smith",
+            "attempts": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Matthew Stafford",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 6,
+            "yards": 51,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Tyler Johnson",
+            "receptions": 4,
+            "yards": 57,
+            "average": 14.25,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 2,
+            "yards": 32,
+            "average": 16.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Hunter Long",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "317"
+        }
+      },
+      "Las Vegas Raiders": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Gardner Minshew",
+            "attempts": 34,
+            "completions": 15,
+            "yards": 154,
+            "touchdowns": 0,
+            "interceptions": 3,
+            "long": 25,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 21.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alexander Mattison",
+            "attempts": 23,
+            "yards": 92,
+            "average": 4.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Zamir White",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Gardner Minshew",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 10,
+            "yards": 93,
+            "average": 9.3,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 14,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Alexander Mattison",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Harrison Bryant",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Zamir White",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 20
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 5,
+            "fg_att": 5,
+            "long": 47,
+            "points": 15
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "115",
+          "pass_yards_allowed": "144",
+          "total_yards_allowed": "259"
+        }
+      }
+    }
+  }
+}

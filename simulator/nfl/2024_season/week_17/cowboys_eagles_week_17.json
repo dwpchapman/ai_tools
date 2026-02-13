@@ -1,0 +1,356 @@
+{
+  "game_info": {
+    "final_score": {
+      "Dallas Cowboys": 7,
+      "Philadelphia Eagles": 41
+    },
+    "team_scores_by_quarter": {
+      "Dallas Cowboys": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "Philadelphia Eagles": [
+        7,
+        17,
+        10,
+        7
+      ]
+    },
+    "week": 17,
+    "date": "December 29, 2024",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 41,
+        "passing": [
+          {
+            "player": "Kenny Pickett",
+            "attempts": 15,
+            "completions": 10,
+            "yards": 143,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 49,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 119.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 31,
+            "yards": 167,
+            "average": 5.39,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 9
+          },
+          {
+            "player": "Tyrion Davis-Price",
+            "attempts": 3,
+            "yards": 7,
+            "average": 2.33,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 3,
+            "yards": 4,
+            "average": 1.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kenny Pickett",
+            "attempts": 3,
+            "yards": 3,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Tanner McKee",
+            "attempts": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "DeVonta Smith",
+            "receptions": 6,
+            "yards": 120,
+            "average": 20.0,
+            "long": 49,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 37
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 36,
+            "average": 12.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 1,
+            "yards": 34,
+            "average": 34.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 5,
+            "pat_att": 5,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 31,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "127",
+          "pass_yards_allowed": "141",
+          "total_yards_allowed": "268"
+        }
+      },
+      "Dallas Cowboys": {
+        "score": 7,
+        "passing": [
+          {
+            "player": "Cooper Rush",
+            "attempts": 28,
+            "completions": 15,
+            "yards": 147,
+            "touchdowns": 1,
+            "interceptions": 2,
+            "long": 22,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 50.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 23,
+            "yards": 104,
+            "average": 4.52,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 6
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "attempts": 3,
+            "yards": 2,
+            "average": 0.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cooper Rush",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Trey Lance",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brandin Cooks",
+            "receptions": 4,
+            "yards": 52,
+            "average": 13.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 3,
+            "yards": 30,
+            "average": 10.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Jalen Brooks",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Hunter Luepke",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jonathan Mingo",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 16
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "179",
+          "pass_yards_allowed": "197",
+          "total_yards_allowed": "376"
+        }
+      }
+    }
+  }
+}

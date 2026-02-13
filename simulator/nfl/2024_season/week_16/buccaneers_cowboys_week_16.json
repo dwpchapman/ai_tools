@@ -1,0 +1,371 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 24,
+      "Dallas Cowboys": 26
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        0,
+        14,
+        3,
+        7
+      ],
+      "Dallas Cowboys": [
+        10,
+        13,
+        3,
+        0
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Cooper Rush",
+            "attempts": 35,
+            "completions": 26,
+            "yards": 292,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 52,
+            "sacks": 1,
+            "loss": 6,
+            "rate": 108.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 13,
+            "yards": 23,
+            "average": 1.77,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Cooper Rush",
+            "attempts": 3,
+            "yards": -4,
+            "average": -1.33,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 7,
+            "yards": 105,
+            "average": 15.0,
+            "long": 52,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Jake Ferguson",
+            "receptions": 6,
+            "yards": 40,
+            "average": 6.67,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Ryan Flournoy",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Hunter Luepke",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 58,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "134",
+          "pass_yards_allowed": "276",
+          "total_yards_allowed": "410"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 43,
+            "completions": 31,
+            "yards": 303,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 4,
+            "loss": 27,
+            "rate": 97.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 16,
+            "yards": 68,
+            "average": 4.25,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Sterling Shepard",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rachaad White",
+            "receptions": 7,
+            "yards": 50,
+            "average": 7.14,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 68
+          },
+          {
+            "player": "Payne Durham",
+            "receptions": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Mike Evans",
+            "receptions": 5,
+            "yards": 69,
+            "average": 13.8,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 5,
+            "yards": 57,
+            "average": 11.4,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "Trey Palmer",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Rakim Jarrett",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 45,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "31",
+          "pass_yards_allowed": "286",
+          "total_yards_allowed": "317"
+        }
+      }
+    }
+  }
+}

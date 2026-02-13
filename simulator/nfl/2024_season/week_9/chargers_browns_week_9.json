@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 27,
+      "Cleveland Browns": 10
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        7,
+        13,
+        0,
+        7
+      ],
+      "Cleveland Browns": [
+        0,
+        3,
+        0,
+        7
+      ]
+    },
+    "week": 9,
+    "date": "November 3, 2024",
+    "location": "Huntington Bank Field",
+    "teams": {
+      "Cleveland Browns": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Jameis Winston",
+            "attempts": 46,
+            "completions": 26,
+            "yards": 235,
+            "touchdowns": 1,
+            "interceptions": 3,
+            "long": 21,
+            "sacks": 6,
+            "loss": 22,
+            "rate": 50.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Nick Chubb",
+            "attempts": 15,
+            "yards": 39,
+            "average": 2.6,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jameis Winston",
+            "attempts": 5,
+            "yards": 27,
+            "average": 5.4,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Pierre Strong",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jerome Ford",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 7,
+            "yards": 73,
+            "average": 10.43,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Cedric Tillman",
+            "receptions": 6,
+            "yards": 75,
+            "average": 12.5,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "David Njoku",
+            "receptions": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 3,
+            "yards": 32,
+            "average": 10.67,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 9,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Nick Chubb",
+            "receptions": 1,
+            "yards": -4,
+            "average": -4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 38,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "96",
+          "pass_yards_allowed": "246",
+          "total_yards_allowed": "342"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 27,
+            "completions": 18,
+            "yards": 282,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 66,
+            "sacks": 6,
+            "loss": 36,
+            "rate": 125.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 14,
+            "yards": 85,
+            "average": 6.07,
+            "long": 34,
+            "touchdowns": 2,
+            "first_downs": 3
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 5,
+            "yards": 7,
+            "average": 1.4,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 3,
+            "yards": 2,
+            "average": 0.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Quentin Johnston",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ladd McConkey",
+            "receptions": 5,
+            "yards": 64,
+            "average": 12.8,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 4,
+            "yards": 118,
+            "average": 29.5,
+            "long": 66,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 63,
+            "average": 31.5,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Hayden Hurst",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalen Reagor",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Eric Tomlinson",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Simi Fehoko",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "79",
+          "pass_yards_allowed": "213",
+          "total_yards_allowed": "292"
+        }
+      }
+    }
+  }
+}

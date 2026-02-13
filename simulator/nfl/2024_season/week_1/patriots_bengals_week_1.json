@@ -1,0 +1,320 @@
+{
+  "game_info": {
+    "final_score": {
+      "New England Patriots": 16,
+      "Cincinnati Bengals": 10
+    },
+    "team_scores_by_quarter": {
+      "New England Patriots": [
+        0,
+        10,
+        3,
+        3
+      ],
+      "Cincinnati Bengals": [
+        0,
+        0,
+        7,
+        3
+      ]
+    },
+    "week": 1,
+    "date": "September 8, 2024",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 10,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 29,
+            "completions": 21,
+            "yards": 164,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 28,
+            "sacks": 3,
+            "loss": 10,
+            "rate": 86.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Zack Moss",
+            "attempts": 9,
+            "yards": 44,
+            "average": 4.89,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Chase Brown",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 6,
+            "yards": 62,
+            "average": 10.33,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Tanner Hudson",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Zack Moss",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Trenton Irwin",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Charlie Jones",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Evan McPherson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 51,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "170",
+          "pass_yards_allowed": "120",
+          "total_yards_allowed": "290"
+        }
+      },
+      "New England Patriots": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 24,
+            "completions": 15,
+            "yards": 121,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 17,
+            "sacks": 1,
+            "loss": 1,
+            "rate": 75.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rhamondre Stevenson",
+            "attempts": 25,
+            "yards": 120,
+            "average": 4.8,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 8
+          },
+          {
+            "player": "Jacoby Brissett",
+            "attempts": 7,
+            "yards": 32,
+            "average": 4.57,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Antonio Gibson",
+            "attempts": 7,
+            "yards": 18,
+            "average": 2.57,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Rhamondre Stevenson",
+            "receptions": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Hunter Henry",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Tyquan Thornton",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Ja'Lynn Polk",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 37,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "70",
+          "pass_yards_allowed": "154",
+          "total_yards_allowed": "224"
+        }
+      }
+    }
+  }
+}

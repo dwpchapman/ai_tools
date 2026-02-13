@@ -1,0 +1,378 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 24,
+      "Kansas City Chiefs": 30
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        0,
+        7,
+        10,
+        7
+      ],
+      "Kansas City Chiefs": [
+        3,
+        7,
+        0,
+        14
+      ]
+    },
+    "week": 9,
+    "date": "November 4, 2024",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 44,
+            "completions": 34,
+            "yards": 291,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 35,
+            "sacks": 4,
+            "loss": 31,
+            "rate": 116.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kareem Hunt",
+            "attempts": 27,
+            "yards": 106,
+            "average": 3.93,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Samaje Perine",
+            "attempts": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Carson Steele",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 2,
+            "yards": -10,
+            "average": -5.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 14,
+            "yards": 100,
+            "average": 7.14,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 16,
+            "yards_after_catch": 35
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 8,
+            "yards": 86,
+            "average": 10.75,
+            "long": 35,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Mecole Hardman",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 3,
+            "yards": 43,
+            "average": 14.33,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Peyton Hendershot",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 40,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "95",
+          "pass_yards_allowed": "189",
+          "total_yards_allowed": "284"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 31,
+            "completions": 23,
+            "yards": 200,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 19,
+            "sacks": 2,
+            "loss": 11,
+            "rate": 112.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 7,
+            "yards": 24,
+            "average": 3.43,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sterling Shepard",
+            "attempts": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Cade Otton",
+            "receptions": 8,
+            "yards": 77,
+            "average": 9.62,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 11,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 4,
+            "yards": 48,
+            "average": 12.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Trey Palmer",
+            "receptions": 2,
+            "yards": 33,
+            "average": 16.5,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Sean Tucker",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Rakim Jarrett",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 47,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "124",
+          "pass_yards_allowed": "260",
+          "total_yards_allowed": "384"
+        }
+      }
+    }
+  }
+}

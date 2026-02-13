@@ -1,0 +1,327 @@
+{
+  "game_info": {
+    "final_score": {
+      "Cleveland Browns": 6,
+      "Cincinnati Bengals": 24
+    },
+    "team_scores_by_quarter": {
+      "Cleveland Browns": [
+        0,
+        0,
+        6,
+        0
+      ],
+      "Cincinnati Bengals": [
+        7,
+        10,
+        0,
+        7
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 30,
+            "completions": 23,
+            "yards": 252,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 32,
+            "sacks": 4,
+            "loss": 42,
+            "rate": 134.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 18,
+            "yards": 91,
+            "average": 5.06,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jake Browning",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tee Higgins",
+            "receptions": 8,
+            "yards": 58,
+            "average": 7.25,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 11,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 6,
+            "yards": 97,
+            "average": 16.17,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 3,
+            "yards": 18,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cade York",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 59,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "148",
+          "pass_yards_allowed": "125",
+          "total_yards_allowed": "273"
+        }
+      },
+      "Cleveland Browns": {
+        "score": 6,
+        "passing": [
+          {
+            "player": "Dorian Thompson-Robinson",
+            "attempts": 34,
+            "completions": 20,
+            "yards": 157,
+            "touchdowns": 0,
+            "interceptions": 2,
+            "long": 29,
+            "sacks": 5,
+            "loss": 32,
+            "rate": 45.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jerome Ford",
+            "attempts": 11,
+            "yards": 92,
+            "average": 8.36,
+            "long": 66,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Dorian Thompson-Robinson",
+            "attempts": 9,
+            "yards": 49,
+            "average": 5.44,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Pierre Strong",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "D'Onta Foreman",
+            "attempts": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "David Njoku",
+            "receptions": 8,
+            "yards": 66,
+            "average": 8.25,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Jerome Ford",
+            "receptions": 5,
+            "yards": 39,
+            "average": 7.8,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Jerry Jeudy",
+            "receptions": 2,
+            "yards": 20,
+            "average": 10.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Elijah Moore",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Pierre Strong",
+            "receptions": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Jordan Akins",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Jamari Thrash",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Michael Woods",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Dustin Hopkins",
+            "pat_made": 0,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 0
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "116",
+          "pass_yards_allowed": "210",
+          "total_yards_allowed": "326"
+        }
+      }
+    }
+  }
+}

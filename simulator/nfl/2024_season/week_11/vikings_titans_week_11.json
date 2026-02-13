@@ -1,0 +1,364 @@
+{
+  "game_info": {
+    "final_score": {
+      "Minnesota Vikings": 23,
+      "Tennessee Titans": 13
+    },
+    "team_scores_by_quarter": {
+      "Minnesota Vikings": [
+        7,
+        9,
+        7,
+        0
+      ],
+      "Tennessee Titans": [
+        3,
+        0,
+        7,
+        3
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2024",
+    "location": "Nissan Stadium",
+    "teams": {
+      "Tennessee Titans": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Will Levis",
+            "attempts": 31,
+            "completions": 17,
+            "yards": 295,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 98,
+            "sacks": 5,
+            "loss": 34,
+            "rate": 84.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Will Levis",
+            "attempts": 7,
+            "yards": 18,
+            "average": 2.57,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Tony Pollard",
+            "attempts": 9,
+            "yards": 15,
+            "average": 1.67,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tyjae Spears",
+            "attempts": 3,
+            "yards": 0,
+            "average": 0.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Calvin Ridley",
+            "receptions": 4,
+            "yards": 58,
+            "average": 14.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": -1
+          },
+          {
+            "player": "Nick Westbrook",
+            "receptions": 2,
+            "yards": 117,
+            "average": 58.5,
+            "long": 98,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 65
+          },
+          {
+            "player": "Tyjae Spears",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Tony Pollard",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Chigoziem Okonkwo",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Tyler Boyd",
+            "receptions": 2,
+            "yards": 34,
+            "average": 17.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 25
+          },
+          {
+            "player": "Josh Whyle",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Nick Vannett",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Bryce Oliver",
+            "receptions": 1,
+            "yards": 33,
+            "average": 33.0,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 5
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Nick Folk",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 43,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "82",
+          "pass_yards_allowed": "236",
+          "total_yards_allowed": "318"
+        }
+      },
+      "Minnesota Vikings": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Sam Darnold",
+            "attempts": 32,
+            "completions": 20,
+            "yards": 246,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 47,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 107.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Aaron Jones",
+            "attempts": 15,
+            "yards": 39,
+            "average": 2.6,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cam Akers",
+            "attempts": 10,
+            "yards": 25,
+            "average": 2.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sam Darnold",
+            "attempts": 8,
+            "yards": 18,
+            "average": 2.25,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 4
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justin Jefferson",
+            "receptions": 6,
+            "yards": 81,
+            "average": 13.5,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Jordan Addison",
+            "receptions": 3,
+            "yards": 61,
+            "average": 20.33,
+            "long": 47,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Josh Oliver",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Cam Akers",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Aaron Jones",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "John Mundt",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Trent Sherfield",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Brandon Powell",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalen Nailor",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "John Parker Romo",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 40,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "33",
+          "pass_yards_allowed": "261",
+          "total_yards_allowed": "294"
+        }
+      }
+    }
+  }
+}

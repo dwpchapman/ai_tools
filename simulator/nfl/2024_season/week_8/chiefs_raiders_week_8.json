@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 27,
+      "Las Vegas Raiders": 20
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        7,
+        10,
+        0,
+        10
+      ],
+      "Las Vegas Raiders": [
+        7,
+        3,
+        3,
+        7
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2024",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Gardner Minshew",
+            "attempts": 30,
+            "completions": 24,
+            "yards": 209,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 20,
+            "sacks": 5,
+            "loss": 14,
+            "rate": 117.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alexander Mattison",
+            "attempts": 14,
+            "yards": 15,
+            "average": 1.07,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Tre Tucker",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Gardner Minshew",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zamir White",
+            "attempts": 2,
+            "yards": -1,
+            "average": -0.5,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jakobi Meyers",
+            "receptions": 6,
+            "yards": 52,
+            "average": 8.67,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Alexander Mattison",
+            "receptions": 5,
+            "yards": 29,
+            "average": 5.8,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Brock Bowers",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "John Samuel Shenker",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 54,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "82",
+          "pass_yards_allowed": "252",
+          "total_yards_allowed": "334"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 38,
+            "completions": 27,
+            "yards": 262,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 25,
+            "sacks": 1,
+            "loss": 10,
+            "rate": 96.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kareem Hunt",
+            "attempts": 21,
+            "yards": 59,
+            "average": 2.81,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 6,
+            "yards": 17,
+            "average": 2.83,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Carson Steele",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 10,
+            "yards": 90,
+            "average": 9.0,
+            "long": 25,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 12,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 4,
+            "yards": 37,
+            "average": 9.25,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 3,
+            "yards": 23,
+            "average": 7.67,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 3,
+            "yards": 33,
+            "average": 11.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 2,
+            "yards": 30,
+            "average": 15.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Mecole Hardman",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Carson Steele",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Joe Fortson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 42,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "33",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "228"
+        }
+      }
+    }
+  }
+}

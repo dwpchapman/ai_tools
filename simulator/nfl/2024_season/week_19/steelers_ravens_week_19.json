@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 14,
+      "Baltimore Ravens": 28
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        0,
+        0,
+        14,
+        0
+      ],
+      "Baltimore Ravens": [
+        7,
+        14,
+        7,
+        0
+      ]
+    },
+    "week": 19,
+    "date": "January 11, 2025",
+    "location": "M&T Bank Stadium",
+    "teams": {
+      "Baltimore Ravens": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 21,
+            "completions": 16,
+            "yards": 175,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 25,
+            "sacks": 1,
+            "loss": 10,
+            "rate": 132.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 26,
+            "yards": 186,
+            "average": 7.15,
+            "long": 44,
+            "touchdowns": 2,
+            "first_downs": 7
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 15,
+            "yards": 81,
+            "average": 5.4,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Steven Sims",
+            "attempts": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 6,
+            "yards": 12,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mark Andrews",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Justice Hill",
+            "receptions": 4,
+            "yards": 13,
+            "average": 3.25,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Anthony Miller",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Rashod Bateman",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tylan Wallace",
+            "receptions": 1,
+            "yards": 21,
+            "average": 21.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "29",
+          "pass_yards_allowed": "251",
+          "total_yards_allowed": "280"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 29,
+            "completions": 20,
+            "yards": 270,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 4,
+            "loss": 19,
+            "rate": 121.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 6,
+            "yards": 17,
+            "average": 2.83,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 2,
+            "yards": 6,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Pickens",
+            "receptions": 5,
+            "yards": 87,
+            "average": 17.4,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 4,
+            "yards": 19,
+            "average": 4.75,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 3,
+            "yards": 15,
+            "average": 5.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 1,
+            "yards": 25,
+            "average": 25.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Mike Williams",
+            "receptions": 1,
+            "yards": 37,
+            "average": 37.0,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "299",
+          "pass_yards_allowed": "165",
+          "total_yards_allowed": "464"
+        }
+      }
+    }
+  }
+}

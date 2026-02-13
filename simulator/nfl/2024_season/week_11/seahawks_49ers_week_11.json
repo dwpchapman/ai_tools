@@ -1,0 +1,305 @@
+{
+  "game_info": {
+    "final_score": {
+      "Seattle Seahawks": 20,
+      "San Francisco 49ers": 17
+    },
+    "team_scores_by_quarter": {
+      "Seattle Seahawks": [
+        3,
+        3,
+        7,
+        7
+      ],
+      "San Francisco 49ers": [
+        7,
+        0,
+        3,
+        7
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2024",
+    "location": "Levi's Stadium",
+    "teams": {
+      "San Francisco 49ers": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Brock Purdy",
+            "attempts": 28,
+            "completions": 21,
+            "yards": 159,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 22,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 85.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Christian McCaffrey",
+            "attempts": 19,
+            "yards": 79,
+            "average": 4.16,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Brock Purdy",
+            "attempts": 5,
+            "yards": 40,
+            "average": 8.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3
+          },
+          {
+            "player": "Jordan Mason",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Deebo Samuel",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jauan Jennings",
+            "receptions": 10,
+            "yards": 91,
+            "average": 9.1,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 7,
+            "targets": 11,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Christian McCaffrey",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Deebo Samuel",
+            "receptions": 4,
+            "yards": 22,
+            "average": 5.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Kyle Juszczyk",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Eric Saubert",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ricky Pearsall",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Moody",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 33,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "94",
+          "pass_yards_allowed": "195",
+          "total_yards_allowed": "289"
+        }
+      },
+      "Seattle Seahawks": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 32,
+            "completions": 25,
+            "yards": 221,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 26,
+            "sacks": 4,
+            "loss": 26,
+            "rate": 82.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kenneth Walker",
+            "attempts": 14,
+            "yards": 54,
+            "average": 3.86,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Geno Smith",
+            "attempts": 4,
+            "yards": 29,
+            "average": 7.25,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 4,
+            "yards": 3,
+            "average": 0.75,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 10,
+            "yards": 110,
+            "average": 11.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 11,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "",
+            "receptions": 7,
+            "yards": 70,
+            "average": 10.0,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 2,
+            "yards": 19,
+            "average": 9.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Kenneth Walker",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 12
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 57,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "131",
+          "pass_yards_allowed": "146",
+          "total_yards_allowed": "277"
+        }
+      }
+    }
+  }
+}

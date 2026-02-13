@@ -1,0 +1,338 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 32,
+      "Las Vegas Raiders": 13
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        3,
+        9,
+        10,
+        10
+      ],
+      "Las Vegas Raiders": [
+        7,
+        0,
+        0,
+        6
+      ]
+    },
+    "week": 6,
+    "date": "October 13, 2024",
+    "location": "Allegiant Stadium",
+    "teams": {
+      "Las Vegas Raiders": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Aidan O'Connell",
+            "attempts": 40,
+            "completions": 27,
+            "yards": 227,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 79.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alexander Mattison",
+            "attempts": 14,
+            "yards": 33,
+            "average": 2.36,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Ameer Abdullah",
+            "attempts": 4,
+            "yards": 24,
+            "average": 6.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dylan Laube",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brock Bowers",
+            "receptions": 9,
+            "yards": 71,
+            "average": 7.89,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Alexander Mattison",
+            "receptions": 5,
+            "yards": 32,
+            "average": 6.4,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 33
+          },
+          {
+            "player": "Ameer Abdullah",
+            "receptions": 3,
+            "yards": 14,
+            "average": 4.67,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Alex Bachman",
+            "receptions": 3,
+            "yards": 31,
+            "average": 10.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Harrison Bryant",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Kristian Wilkerson",
+            "receptions": 2,
+            "yards": 18,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Tre Tucker",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Daniel Carlson",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "183",
+          "pass_yards_allowed": "110",
+          "total_yards_allowed": "293"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "Justin Fields",
+            "attempts": 24,
+            "completions": 14,
+            "yards": 145,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 3,
+            "loss": 35,
+            "rate": 75.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 14,
+            "yards": 106,
+            "average": 7.57,
+            "long": 36,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 11,
+            "yards": 59,
+            "average": 5.36,
+            "long": 18,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Jonathan Ward",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 6,
+            "yards": 7,
+            "average": 1.17,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Aaron Shampklin",
+            "attempts": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "George Pickens",
+            "receptions": 3,
+            "yards": 53,
+            "average": 17.67,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 8,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 3,
+            "yards": 11,
+            "average": 3.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Calvin Austin",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Connor Heyward",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Darnell Washington",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 52,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "57",
+          "pass_yards_allowed": "218",
+          "total_yards_allowed": "275"
+        }
+      }
+    }
+  }
+}

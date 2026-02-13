@@ -1,0 +1,393 @@
+{
+  "game_info": {
+    "final_score": {
+      "Kansas City Chiefs": 21,
+      "Buffalo Bills": 30
+    },
+    "team_scores_by_quarter": {
+      "Kansas City Chiefs": [
+        0,
+        14,
+        0,
+        7
+      ],
+      "Buffalo Bills": [
+        6,
+        10,
+        0,
+        14
+      ]
+    },
+    "week": 11,
+    "date": "November 17, 2024",
+    "location": "Highmark Stadium",
+    "teams": {
+      "Buffalo Bills": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 40,
+            "completions": 27,
+            "yards": 262,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 30,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 83.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 12,
+            "yards": 55,
+            "average": 4.58,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "James Cook",
+            "attempts": 9,
+            "yards": 20,
+            "average": 2.22,
+            "long": 6,
+            "touchdowns": 2,
+            "first_downs": 2
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 5,
+            "yards": 18,
+            "average": 3.6,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 5,
+            "yards": 11,
+            "average": 2.2,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Khalil Shakir",
+            "receptions": 8,
+            "yards": 70,
+            "average": 8.75,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 12,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "James Cook",
+            "receptions": 5,
+            "yards": 7,
+            "average": 1.4,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 4,
+            "yards": 40,
+            "average": 10.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Amari Cooper",
+            "receptions": 2,
+            "yards": 55,
+            "average": 27.5,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Zach Davidson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Quintin Morris",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 3,
+            "pat_att": 4,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 33,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "78",
+          "pass_yards_allowed": "181",
+          "total_yards_allowed": "259"
+        }
+      },
+      "Kansas City Chiefs": {
+        "score": 21,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 33,
+            "completions": 23,
+            "yards": 196,
+            "touchdowns": 3,
+            "interceptions": 2,
+            "long": 31,
+            "sacks": 2,
+            "loss": 15,
+            "rate": 90.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kareem Hunt",
+            "attempts": 14,
+            "yards": 60,
+            "average": 4.29,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Mecole Hardman",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Carson Steele",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Xavier Worthy",
+            "receptions": 4,
+            "yards": 61,
+            "average": 15.25,
+            "long": 31,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 4,
+            "yards": 23,
+            "average": 5.75,
+            "long": 14,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 5,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "DeAndre Hopkins",
+            "receptions": 3,
+            "yards": 29,
+            "average": 9.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Travis Kelce",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Justin Watson",
+            "receptions": 2,
+            "yards": 26,
+            "average": 13.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Mecole Hardman",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Peyton Hendershot",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Mike Caliendo",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Carson Steele",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Spencer Shrader",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "104",
+          "pass_yards_allowed": "262",
+          "total_yards_allowed": "366"
+        }
+      }
+    }
+  }
+}

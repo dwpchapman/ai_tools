@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Detroit Lions": 20,
+      "Arizona Cardinals": 13
+    },
+    "team_scores_by_quarter": {
+      "Detroit Lions": [
+        7,
+        13,
+        0,
+        0
+      ],
+      "Arizona Cardinals": [
+        7,
+        3,
+        0,
+        3
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2024",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 34,
+            "completions": 21,
+            "yards": 207,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 28,
+            "sacks": 1,
+            "loss": 7,
+            "rate": 76.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "James Conner",
+            "attempts": 9,
+            "yards": 17,
+            "average": 1.89,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Trey Benson",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Michael Wilson",
+            "receptions": 8,
+            "yards": 64,
+            "average": 8.0,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 9,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 5,
+            "yards": 64,
+            "average": 12.8,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 3,
+            "yards": 35,
+            "average": 11.67,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Trey McBride",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "James Conner",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 45,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "187",
+          "pass_yards_allowed": "186",
+          "total_yards_allowed": "373"
+        }
+      },
+      "Detroit Lions": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Jared Goff",
+            "attempts": 23,
+            "completions": 18,
+            "yards": 199,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 24,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 113.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "David Montgomery",
+            "attempts": 23,
+            "yards": 105,
+            "average": 4.57,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 7
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "attempts": 16,
+            "yards": 83,
+            "average": 5.19,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jared Goff",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jameson Williams",
+            "attempts": 1,
+            "yards": -7,
+            "average": -7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amon-Ra S",
+            "receptions": 7,
+            "yards": 75,
+            "average": 10.71,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Brock Wright",
+            "receptions": 4,
+            "yards": 34,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "David Montgomery",
+            "receptions": 3,
+            "yards": 17,
+            "average": 5.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Sam LaPorta",
+            "receptions": 2,
+            "yards": 36,
+            "average": 18.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Tim Patrick",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Jameson Williams",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "receptions": 0,
+            "yards": 20,
+            "average": 0.0,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 0,
+            "targets": 0,
+            "yards_after_catch": 20
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Bates",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "77",
+          "pass_yards_allowed": "200",
+          "total_yards_allowed": "277"
+        }
+      }
+    }
+  }
+}

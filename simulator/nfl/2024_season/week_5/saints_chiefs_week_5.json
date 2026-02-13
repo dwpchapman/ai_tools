@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 13,
+      "Kansas City Chiefs": 26
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        0,
+        7,
+        0,
+        6
+      ],
+      "Kansas City Chiefs": [
+        7,
+        9,
+        0,
+        10
+      ]
+    },
+    "week": 5,
+    "date": "October 7, 2024",
+    "location": "GEHA Field at Arrowhead Stadium",
+    "teams": {
+      "Kansas City Chiefs": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 39,
+            "completions": 28,
+            "yards": 331,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 50,
+            "sacks": 2,
+            "loss": 10,
+            "rate": 86.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kareem Hunt",
+            "attempts": 27,
+            "yards": 102,
+            "average": 3.78,
+            "long": 8,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Patrick Mahomes",
+            "attempts": 6,
+            "yards": 22,
+            "average": 3.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Carson Steele",
+            "attempts": 5,
+            "yards": 12,
+            "average": 2.4,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Xavier Worthy",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 1,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Travis Kelce",
+            "receptions": 9,
+            "yards": 70,
+            "average": 7.78,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "JuJu Smith-Schuster",
+            "receptions": 7,
+            "yards": 130,
+            "average": 18.57,
+            "long": 50,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 82
+          },
+          {
+            "player": "Mecole Hardman",
+            "receptions": 4,
+            "yards": 33,
+            "average": 8.25,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 44
+          },
+          {
+            "player": "Xavier Worthy",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 30
+          },
+          {
+            "player": "Noah Gray",
+            "receptions": 2,
+            "yards": 29,
+            "average": 14.5,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Joe Fortson",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Kareem Hunt",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Samaje Perine",
+            "receptions": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 25
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Harrison Butker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 38,
+            "points": 14
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "46",
+          "pass_yards_allowed": "174",
+          "total_yards_allowed": "220"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Derek Carr",
+            "attempts": 28,
+            "completions": 18,
+            "yards": 165,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 43,
+            "sacks": 1,
+            "loss": 8,
+            "rate": 89.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 11,
+            "yards": 26,
+            "average": 2.36,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jake Haener",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Alvin Kamara",
+            "receptions": 6,
+            "yards": 40,
+            "average": 6.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 5,
+            "yards": 31,
+            "average": 6.2,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Rashid Shaheed",
+            "receptions": 4,
+            "yards": 86,
+            "average": 21.5,
+            "long": 43,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Chris Olave",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 1
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "139",
+          "pass_yards_allowed": "321",
+          "total_yards_allowed": "460"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "game_info": {
+    "final_score": {
+      "Baltimore Ravens": 28,
+      "Dallas Cowboys": 25
+    },
+    "team_scores_by_quarter": {
+      "Baltimore Ravens": [
+        14,
+        7,
+        7,
+        0
+      ],
+      "Dallas Cowboys": [
+        3,
+        3,
+        0,
+        19
+      ]
+    },
+    "week": 3,
+    "date": "September 22, 2024",
+    "location": "AT&T Stadium",
+    "teams": {
+      "Dallas Cowboys": {
+        "score": 25,
+        "passing": [
+          {
+            "player": "Dak Prescott",
+            "attempts": 51,
+            "completions": 28,
+            "yards": 379,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 3,
+            "loss": 18,
+            "rate": 91.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Rico Dowdle",
+            "attempts": 8,
+            "yards": 32,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Dak Prescott",
+            "attempts": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "attempts": 3,
+            "yards": 6,
+            "average": 2.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Deuce Vaughn",
+            "attempts": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "KaVontae Turpin",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Jake Ferguson",
+            "receptions": 6,
+            "yards": 95,
+            "average": 15.83,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "CeeDee Lamb",
+            "receptions": 4,
+            "yards": 67,
+            "average": 16.75,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Rico Dowdle",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Jalen Tolbert",
+            "receptions": 3,
+            "yards": 42,
+            "average": 14.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "KaVontae Turpin",
+            "receptions": 3,
+            "yards": 51,
+            "average": 17.0,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Brandin Cooks",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Hunter Luepke",
+            "receptions": 2,
+            "yards": 41,
+            "average": 20.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Ezekiel Elliott",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Jalen Brooks",
+            "receptions": 1,
+            "yards": 24,
+            "average": 24.0,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Luke Schoonmaker",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Tyler Smith",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Deuce Vaughn",
+            "receptions": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon Aubrey",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 65,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "274",
+          "pass_yards_allowed": "182",
+          "total_yards_allowed": "456"
+        }
+      },
+      "Baltimore Ravens": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Lamar Jackson",
+            "attempts": 15,
+            "completions": 12,
+            "yards": 182,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 56,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 139.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Derrick Henry",
+            "attempts": 25,
+            "yards": 151,
+            "average": 6.04,
+            "long": 29,
+            "touchdowns": 2,
+            "first_downs": 8
+          },
+          {
+            "player": "Lamar Jackson",
+            "attempts": 14,
+            "yards": 87,
+            "average": 6.21,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Justice Hill",
+            "attempts": 5,
+            "yards": 33,
+            "average": 6.6,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Zay Flowers",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Rashod Bateman",
+            "receptions": 3,
+            "yards": 28,
+            "average": 9.33,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Zay Flowers",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Justice Hill",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Nelson Agholor",
+            "receptions": 1,
+            "yards": 56,
+            "average": 56.0,
+            "long": 56,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 50
+          },
+          {
+            "player": "Isaiah Likely",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Charlie Kolar",
+            "receptions": 1,
+            "yards": 30,
+            "average": 30.0,
+            "long": 30,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Derrick Henry",
+            "receptions": 1,
+            "yards": 23,
+            "average": 23.0,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Mark Andrews",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Justin Tucker",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 1,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "51",
+          "pass_yards_allowed": "361",
+          "total_yards_allowed": "412"
+        }
+      }
+    }
+  }
+}

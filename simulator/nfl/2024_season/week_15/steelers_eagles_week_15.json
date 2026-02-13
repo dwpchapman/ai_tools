@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Pittsburgh Steelers": 13,
+      "Philadelphia Eagles": 27
+    },
+    "team_scores_by_quarter": {
+      "Pittsburgh Steelers": [
+        3,
+        10,
+        0,
+        0
+      ],
+      "Philadelphia Eagles": [
+        10,
+        7,
+        3,
+        7
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "Lincoln Financial Field",
+    "teams": {
+      "Philadelphia Eagles": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 32,
+            "completions": 25,
+            "yards": 290,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 3,
+            "loss": 20,
+            "rate": 125.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 19,
+            "yards": 65,
+            "average": 3.42,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 15,
+            "yards": 45,
+            "average": 3.0,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 7,
+            "yards": 20,
+            "average": 2.86,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "DeVonta Smith",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "DeVonta Smith",
+            "receptions": 11,
+            "yards": 109,
+            "average": 9.91,
+            "long": 22,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 12,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "",
+            "receptions": 8,
+            "yards": 110,
+            "average": 13.75,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 62
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 3,
+            "yards": 40,
+            "average": 13.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 43
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 1,
+            "yards": 22,
+            "average": 22.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Johnny Wilson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 41,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "56",
+          "pass_yards_allowed": "107",
+          "total_yards_allowed": "163"
+        }
+      },
+      "Pittsburgh Steelers": {
+        "score": 13,
+        "passing": [
+          {
+            "player": "Russell Wilson",
+            "attempts": 22,
+            "completions": 14,
+            "yards": 128,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 31,
+            "sacks": 2,
+            "loss": 21,
+            "rate": 94.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Najee Harris",
+            "attempts": 6,
+            "yards": 14,
+            "average": 2.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Russell Wilson",
+            "attempts": 4,
+            "yards": 13,
+            "average": 3.25,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Jaylen Warren",
+            "attempts": 4,
+            "yards": 12,
+            "average": 3.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "attempts": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Fields",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Calvin Austin",
+            "receptions": 5,
+            "yards": 65,
+            "average": 13.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Pat Freiermuth",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 12,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Najee Harris",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Van Jefferson",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cordarrelle Patterson",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Ben Skowronek",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jaylen Warren",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Mike Williams",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Scott Miller",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chris Boswell",
+            "pat_made": 1,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 49,
+            "points": 7
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "131",
+          "pass_yards_allowed": "270",
+          "total_yards_allowed": "401"
+        }
+      }
+    }
+  }
+}

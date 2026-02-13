@@ -1,0 +1,336 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 16,
+      "New England Patriots": 23
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        0,
+        10,
+        6,
+        0
+      ],
+      "New England Patriots": [
+        7,
+        7,
+        3,
+        6
+      ]
+    },
+    "week": 18,
+    "date": "January 5, 2025",
+    "location": "Gillette Stadium",
+    "teams": {
+      "New England Patriots": {
+        "score": 23,
+        "passing": [
+          {
+            "player": "Joe Milton",
+            "attempts": 29,
+            "completions": 22,
+            "yards": 241,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 48,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 111.4
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Antonio Gibson",
+            "attempts": 12,
+            "yards": 41,
+            "average": 3.42,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Terrell Jennings",
+            "attempts": 8,
+            "yards": 20,
+            "average": 2.5,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Joe Milton",
+            "attempts": 10,
+            "yards": 16,
+            "average": 1.6,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 4
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kayshon Boutte",
+            "receptions": 7,
+            "yards": 117,
+            "average": 16.71,
+            "long": 48,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 7,
+            "yards_after_catch": 32
+          },
+          {
+            "player": "Antonio Gibson",
+            "receptions": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Austin Hooper",
+            "receptions": 4,
+            "yards": 27,
+            "average": 6.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 6,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Demario Douglas",
+            "receptions": 3,
+            "yards": 34,
+            "average": 11.33,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Kendrick Bourne",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Javon Baker",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jaheim Bell",
+            "receptions": 1,
+            "yards": 19,
+            "average": 19.0,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Terrell Jennings",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joey Slye",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 50,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "130",
+          "pass_yards_allowed": "129",
+          "total_yards_allowed": "259"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 16,
+        "passing": [
+          {
+            "player": "Mitchell Trubisky",
+            "attempts": 21,
+            "completions": 15,
+            "yards": 101,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 20,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 97.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Re'Mahn Davis",
+            "attempts": 15,
+            "yards": 64,
+            "average": 4.27,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "James Cook",
+            "attempts": 10,
+            "yards": 28,
+            "average": 2.8,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Ty Johnson",
+            "attempts": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Mitchell Trubisky",
+            "attempts": 4,
+            "yards": 12,
+            "average": 3.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Keon Coleman",
+            "attempts": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Reggie Gilliam",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Curtis Samuel",
+            "receptions": 7,
+            "yards": 52,
+            "average": 7.43,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Quintin Morris",
+            "receptions": 3,
+            "yards": 20,
+            "average": 6.67,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Keon Coleman",
+            "receptions": 2,
+            "yards": 31,
+            "average": 15.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Re'Mahn Davis",
+            "receptions": 2,
+            "yards": 1,
+            "average": 0.5,
+            "long": 2,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 1,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 49,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "77",
+          "pass_yards_allowed": "232",
+          "total_yards_allowed": "309"
+        }
+      }
+    }
+  }
+}

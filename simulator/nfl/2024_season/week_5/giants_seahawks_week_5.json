@@ -1,0 +1,318 @@
+{
+  "game_info": {
+    "final_score": {
+      "New York Giants": 29,
+      "Seattle Seahawks": 20
+    },
+    "team_scores_by_quarter": {
+      "New York Giants": [
+        0,
+        10,
+        10,
+        9
+      ],
+      "Seattle Seahawks": [
+        7,
+        3,
+        3,
+        7
+      ]
+    },
+    "week": 5,
+    "date": "October 6, 2024",
+    "location": "Lumen Field",
+    "teams": {
+      "Seattle Seahawks": {
+        "score": 20,
+        "passing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 40,
+            "completions": 28,
+            "yards": 284,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 33,
+            "sacks": 7,
+            "loss": 53,
+            "rate": 98.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Geno Smith",
+            "attempts": 4,
+            "yards": 72,
+            "average": 18.0,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kenneth Walker",
+            "attempts": 5,
+            "yards": 19,
+            "average": 3.8,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Zach Charbonnet",
+            "attempts": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Kenneth Walker",
+            "receptions": 7,
+            "yards": 57,
+            "average": 8.14,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 58
+          },
+          {
+            "player": "Tyler Lockett",
+            "receptions": 4,
+            "yards": 75,
+            "average": 18.75,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 55,
+            "average": 13.75,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "receptions": 4,
+            "yards": 31,
+            "average": 7.75,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Zach Charbonnet",
+            "receptions": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Noah Fant",
+            "receptions": 3,
+            "yards": 24,
+            "average": 8.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "AJ Barner",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jake Bobo",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Pharaoh Brown",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jason Myers",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 48,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "175",
+          "pass_yards_allowed": "245",
+          "total_yards_allowed": "420"
+        }
+      },
+      "New York Giants": {
+        "score": 29,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 34,
+            "completions": 23,
+            "yards": 257,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 3,
+            "loss": 12,
+            "rate": 109.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 18,
+            "yards": 129,
+            "average": 7.17,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 5
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 11,
+            "yards": 38,
+            "average": 3.45,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Eric Gray",
+            "attempts": 4,
+            "yards": 4,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "attempts": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Darius Slayton",
+            "receptions": 8,
+            "yards": 122,
+            "average": 15.25,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 11,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 6,
+            "yards": 36,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 9,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Theo Johnson",
+            "receptions": 5,
+            "yards": 48,
+            "average": 9.6,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Eric Gray",
+            "receptions": 3,
+            "yards": 50,
+            "average": 16.67,
+            "long": 19,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 60
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Joseph",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 38,
+            "points": 11
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "102",
+          "pass_yards_allowed": "231",
+          "total_yards_allowed": "333"
+        }
+      }
+    }
+  }
+}

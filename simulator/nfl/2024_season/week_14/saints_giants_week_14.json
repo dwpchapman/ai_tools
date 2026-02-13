@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 14,
+      "New York Giants": 11
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        7,
+        0,
+        7,
+        0
+      ],
+      "New York Giants": [
+        0,
+        3,
+        0,
+        8
+      ]
+    },
+    "week": 14,
+    "date": "December 8, 2024",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 11,
+        "passing": [
+          {
+            "player": "Drew Lock",
+            "attempts": 49,
+            "completions": 21,
+            "yards": 227,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 23,
+            "sacks": 2,
+            "loss": 14,
+            "rate": 48.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Drew Lock",
+            "attempts": 5,
+            "yards": 59,
+            "average": 11.8,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 16,
+            "yards": 45,
+            "average": 2.81,
+            "long": 7,
+            "touchdowns": 1,
+            "first_downs": 1
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 7,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Malik Nabers",
+            "receptions": 5,
+            "yards": 79,
+            "average": 15.8,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 5,
+            "yards": 38,
+            "average": 7.6,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 10,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 11,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Graham Gano",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 43,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "92",
+          "pass_yards_allowed": "200",
+          "total_yards_allowed": "292"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Derek Carr",
+            "attempts": 31,
+            "completions": 20,
+            "yards": 219,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 32,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 82.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 17,
+            "yards": 44,
+            "average": 2.59,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 10,
+            "yards": 32,
+            "average": 3.2,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 4
+          },
+          {
+            "player": "Derek Carr",
+            "attempts": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 3,
+            "yards": 5,
+            "average": 1.67,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jake Haener",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Alvin Kamara",
+            "receptions": 5,
+            "yards": 35,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 4,
+            "yards": 50,
+            "average": 12.5,
+            "long": 30,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Marquez Valdes-Scantling",
+            "receptions": 4,
+            "yards": 51,
+            "average": 12.75,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 2,
+            "yards": 40,
+            "average": 20.0,
+            "long": 32,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 20
+          },
+          {
+            "player": "Jamaal Williams",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Kevin Austin",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Dallin Holker",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Cedrick Wilson",
+            "receptions": 1,
+            "yards": 18,
+            "average": 18.0,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kendre Miller",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Dante Pettis",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 2,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "112",
+          "pass_yards_allowed": "213",
+          "total_yards_allowed": "325"
+        }
+      }
+    }
+  }
+}

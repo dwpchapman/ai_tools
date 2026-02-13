@@ -1,0 +1,367 @@
+{
+  "game_info": {
+    "final_score": {
+      "New Orleans Saints": 8,
+      "Los Angeles Chargers": 26
+    },
+    "team_scores_by_quarter": {
+      "New Orleans Saints": [
+        2,
+        3,
+        3,
+        0
+      ],
+      "Los Angeles Chargers": [
+        0,
+        9,
+        7,
+        10
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2024",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Chargers": {
+        "score": 26,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 32,
+            "completions": 20,
+            "yards": 279,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 60,
+            "sacks": 3,
+            "loss": 23,
+            "rate": 111.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 17,
+            "yards": 57,
+            "average": 3.35,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 4,
+            "yards": 49,
+            "average": 12.25,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 6,
+            "yards": 16,
+            "average": 2.67,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "JK Scott",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ladd McConkey",
+            "receptions": 6,
+            "yards": 111,
+            "average": 18.5,
+            "long": 60,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 6,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 5,
+            "yards": 41,
+            "average": 8.2,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "",
+            "receptions": 4,
+            "yards": 11,
+            "average": 2.75,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 26
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 72,
+            "average": 36.0,
+            "long": 45,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Jalen Reagor",
+            "receptions": 2,
+            "yards": 35,
+            "average": 17.5,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Scott Matlock",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Simi Fehoko",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Eric Tomlinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 2,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 46,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "117",
+          "pass_yards_allowed": "249",
+          "total_yards_allowed": "366"
+        }
+      },
+      "New Orleans Saints": {
+        "score": 8,
+        "passing": [
+          {
+            "player": "Spencer Rattler",
+            "attempts": 24,
+            "completions": 12,
+            "yards": 156,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 3,
+            "loss": 16,
+            "rate": 70.8
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Alvin Kamara",
+            "attempts": 10,
+            "yards": 67,
+            "average": 6.7,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Taysom Hill",
+            "attempts": 4,
+            "yards": 20,
+            "average": 5.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kendre Miller",
+            "attempts": 3,
+            "yards": 16,
+            "average": 5.33,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jake Haener",
+            "attempts": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jamaal Williams",
+            "attempts": 2,
+            "yards": 4,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Chris Olave",
+            "receptions": 8,
+            "yards": 107,
+            "average": 13.38,
+            "long": 28,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 14,
+            "yards_after_catch": 34
+          },
+          {
+            "player": "Alvin Kamara",
+            "receptions": 6,
+            "yards": 55,
+            "average": 9.17,
+            "long": 37,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 11,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Juwan Johnson",
+            "receptions": 3,
+            "yards": 48,
+            "average": 16.0,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Taysom Hill",
+            "receptions": 2,
+            "yards": 21,
+            "average": 10.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Mason Tipton",
+            "receptions": 2,
+            "yards": 14,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jerrod Means",
+            "receptions": 1,
+            "yards": 36,
+            "average": 36.0,
+            "long": 36,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Foster Moreau",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Adam Prentice",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Blake Grupe",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 2,
+            "fg_att": 3,
+            "long": 43,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "122",
+          "pass_yards_allowed": "256",
+          "total_yards_allowed": "378"
+        }
+      }
+    }
+  }
+}

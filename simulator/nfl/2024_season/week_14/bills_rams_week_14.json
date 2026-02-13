@@ -1,0 +1,309 @@
+{
+  "game_info": {
+    "final_score": {
+      "Buffalo Bills": 42,
+      "Los Angeles Rams": 44
+    },
+    "team_scores_by_quarter": {
+      "Buffalo Bills": [
+        7,
+        7,
+        7,
+        21
+      ],
+      "Los Angeles Rams": [
+        7,
+        17,
+        14,
+        6
+      ]
+    },
+    "week": 14,
+    "date": "December 8, 2024",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Rams": {
+        "score": 44,
+        "passing": [
+          {
+            "player": "Matthew Stafford",
+            "attempts": 30,
+            "completions": 23,
+            "yards": 320,
+            "touchdowns": 2,
+            "interceptions": 0,
+            "long": 37,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 132.6
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Kyren Williams",
+            "attempts": 29,
+            "yards": 87,
+            "average": 3.0,
+            "long": 12,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Blake Corum",
+            "attempts": 8,
+            "yards": 34,
+            "average": 4.25,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Puka Nacua",
+            "attempts": 5,
+            "yards": 16,
+            "average": 3.2,
+            "long": 9,
+            "touchdowns": 1,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Puka Nacua",
+            "receptions": 12,
+            "yards": 162,
+            "average": 13.5,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 8,
+            "targets": 14,
+            "yards_after_catch": 84
+          },
+          {
+            "player": "Cooper Kupp",
+            "receptions": 5,
+            "yards": 92,
+            "average": 18.4,
+            "long": 37,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Chatarius Atwell",
+            "receptions": 3,
+            "yards": 45,
+            "average": 15.0,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Kyren Williams",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Colby Parkinson",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 5
+          },
+          {
+            "player": "Hunter Long",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Demarcus Robinson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Joshua Karty",
+            "pat_made": 5,
+            "pat_att": 6,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 22,
+            "points": 8
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "103",
+          "pass_yards_allowed": "342",
+          "total_yards_allowed": "445"
+        }
+      },
+      "Buffalo Bills": {
+        "score": 42,
+        "passing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 37,
+            "completions": 22,
+            "yards": 342,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 51,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 117.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Allen",
+            "attempts": 10,
+            "yards": 82,
+            "average": 8.2,
+            "long": 30,
+            "touchdowns": 3,
+            "first_downs": 6
+          },
+          {
+            "player": "James Cook",
+            "attempts": 6,
+            "yards": 20,
+            "average": 3.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Curtis Samuel",
+            "attempts": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Amari Cooper",
+            "receptions": 6,
+            "yards": 95,
+            "average": 15.83,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 14,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Khalil Shakir",
+            "receptions": 5,
+            "yards": 106,
+            "average": 21.2,
+            "long": 51,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 53
+          },
+          {
+            "player": "Mack Hollins",
+            "receptions": 4,
+            "yards": 57,
+            "average": 14.25,
+            "long": 21,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "James Cook",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Ty Johnson",
+            "receptions": 2,
+            "yards": 55,
+            "average": 27.5,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 64
+          },
+          {
+            "player": "Curtis Samuel",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Dawson Knox",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 7
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Bass",
+            "pat_made": 6,
+            "pat_att": 6,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "137",
+          "pass_yards_allowed": "320",
+          "total_yards_allowed": "457"
+        }
+      }
+    }
+  }
+}

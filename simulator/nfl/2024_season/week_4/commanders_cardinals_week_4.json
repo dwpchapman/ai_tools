@@ -1,0 +1,329 @@
+{
+  "game_info": {
+    "final_score": {
+      "Washington Commanders": 42,
+      "Arizona Cardinals": 14
+    },
+    "team_scores_by_quarter": {
+      "Washington Commanders": [
+        7,
+        10,
+        10,
+        15
+      ],
+      "Arizona Cardinals": [
+        7,
+        0,
+        7,
+        0
+      ]
+    },
+    "week": 4,
+    "date": "September 29, 2024",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 14,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 22,
+            "completions": 16,
+            "yards": 142,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 22,
+            "sacks": 4,
+            "loss": 27,
+            "rate": 104.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Conner",
+            "attempts": 18,
+            "yards": 104,
+            "average": 5.78,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 8
+          },
+          {
+            "player": "Trey Benson",
+            "attempts": 9,
+            "yards": 50,
+            "average": 5.56,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 4,
+            "yards": 24,
+            "average": 6.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marvin Harrison",
+            "receptions": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 4,
+            "yards": 38,
+            "average": 9.5,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 27
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 3,
+            "yards": 38,
+            "average": 12.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 7,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 2,
+            "yards": 12,
+            "average": 6.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "James Conner",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Emari Demercado",
+            "receptions": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Matt Prater",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 2
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "216",
+          "pass_yards_allowed": "233",
+          "total_yards_allowed": "449"
+        }
+      },
+      "Washington Commanders": {
+        "score": 42,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 30,
+            "completions": 26,
+            "yards": 233,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 27,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 96.2
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Brian Robinson",
+            "attempts": 21,
+            "yards": 101,
+            "average": 4.81,
+            "long": 18,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 8,
+            "yards": 68,
+            "average": 8.5,
+            "long": 27,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Jayden Daniels",
+            "attempts": 8,
+            "yards": 47,
+            "average": 5.88,
+            "long": 10,
+            "touchdowns": 1,
+            "first_downs": 3
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Terry McLaurin",
+            "receptions": 7,
+            "yards": 52,
+            "average": 7.43,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 10,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 6,
+            "yards": 85,
+            "average": 14.17,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 6,
+            "targets": 6,
+            "yards_after_catch": 70
+          },
+          {
+            "player": "Noah Brown",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 3,
+            "yards": 22,
+            "average": 7.33,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 3,
+            "yards": 12,
+            "average": 4.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "John Bates",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 1,
+            "yards": 17,
+            "average": 17.0,
+            "long": 17,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 9
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Austin Seibert",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 45,
+            "points": 10
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "181",
+          "pass_yards_allowed": "115",
+          "total_yards_allowed": "296"
+        }
+      }
+    }
+  }
+}

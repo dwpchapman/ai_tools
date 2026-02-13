@@ -1,0 +1,380 @@
+{
+  "game_info": {
+    "final_score": {
+      "Green Bay Packers": 30,
+      "Jacksonville Jaguars": 27
+    },
+    "team_scores_by_quarter": {
+      "Green Bay Packers": [
+        0,
+        13,
+        7,
+        10
+      ],
+      "Jacksonville Jaguars": [
+        0,
+        10,
+        7,
+        10
+      ]
+    },
+    "week": 8,
+    "date": "October 27, 2024",
+    "location": "EverBank Stadium",
+    "teams": {
+      "Jacksonville Jaguars": {
+        "score": 27,
+        "passing": [
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 32,
+            "completions": 21,
+            "yards": 308,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 1,
+            "loss": 9,
+            "rate": 104.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Cartavious Bigsby",
+            "attempts": 18,
+            "yards": 78,
+            "average": 4.33,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Trevor Lawrence",
+            "attempts": 4,
+            "yards": 10,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "attempts": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Brenton Strange",
+            "receptions": 5,
+            "yards": 59,
+            "average": 11.8,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 29
+          },
+          {
+            "player": "Evan Engram",
+            "receptions": 4,
+            "yards": 36,
+            "average": 9.0,
+            "long": 14,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Brian Thomas",
+            "receptions": 3,
+            "yards": 60,
+            "average": 20.0,
+            "long": 28,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Parker Washington",
+            "receptions": 3,
+            "yards": 46,
+            "average": 15.33,
+            "long": 23,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Christian Kirk",
+            "receptions": 2,
+            "yards": 59,
+            "average": 29.5,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Cartavious Bigsby",
+            "receptions": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Tim Jones",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "receptions": 1,
+            "yards": 20,
+            "average": 20.0,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 15
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cam Little",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 47,
+            "points": 9
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "170",
+          "pass_yards_allowed": "252",
+          "total_yards_allowed": "422"
+        }
+      },
+      "Green Bay Packers": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Jordan Love",
+            "attempts": 22,
+            "completions": 14,
+            "yards": 196,
+            "touchdowns": 0,
+            "interceptions": 1,
+            "long": 67,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 73.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Josh Jacobs",
+            "attempts": 25,
+            "yards": 127,
+            "average": 5.08,
+            "long": 38,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Malik Willis",
+            "attempts": 4,
+            "yards": 23,
+            "average": 5.75,
+            "long": 20,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Christopher Brooks",
+            "attempts": 4,
+            "yards": 16,
+            "average": 4.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Emanuel Wilson",
+            "attempts": 4,
+            "yards": 5,
+            "average": 1.25,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jayden Reed",
+            "attempts": 1,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jordan Love",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Christian Watson",
+            "receptions": 4,
+            "yards": 39,
+            "average": 9.75,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Romeo Doubs",
+            "receptions": 3,
+            "yards": 72,
+            "average": 24.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Tucker Kraft",
+            "receptions": 3,
+            "yards": 78,
+            "average": 26.0,
+            "long": 67,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 3,
+            "yards_after_catch": 47
+          },
+          {
+            "player": "Emanuel Wilson",
+            "receptions": 2,
+            "yards": -2,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Jayden Reed",
+            "receptions": 2,
+            "yards": 55,
+            "average": 27.5,
+            "long": 51,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 36
+          },
+          {
+            "player": "Christopher Brooks",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Josh Jacobs",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Bo Melton",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Ben Sims",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Brandon McManus",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 38,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "91",
+          "pass_yards_allowed": "299",
+          "total_yards_allowed": "390"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 33,
+      "Washington Commanders": 36
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        21,
+        0,
+        6,
+        6
+      ],
+      "Washington Commanders": [
+        7,
+        7,
+        0,
+        22
+      ]
+    },
+    "week": 16,
+    "date": "December 22, 2024",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 36,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 39,
+            "completions": 24,
+            "yards": 258,
+            "touchdowns": 5,
+            "interceptions": 2,
+            "long": 51,
+            "sacks": 1,
+            "loss": 3,
+            "rate": 99.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 9,
+            "yards": 81,
+            "average": 9.0,
+            "long": 29,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 10,
+            "yards": 24,
+            "average": 2.4,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 3,
+            "yards": 5,
+            "average": 1.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Terry McLaurin",
+            "receptions": 5,
+            "yards": 60,
+            "average": 12.0,
+            "long": 32,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 6,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 5,
+            "yards": 70,
+            "average": 14.0,
+            "long": 49,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Dyami Brown",
+            "receptions": 4,
+            "yards": 56,
+            "average": 14.0,
+            "long": 51,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 16
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 4,
+            "yards": 15,
+            "average": 3.75,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Jamison Crowder",
+            "receptions": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 9,
+            "touchdowns": 2,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Luke McCaffrey",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "John Bates",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "211",
+          "pass_yards_allowed": "127",
+          "total_yards_allowed": "338"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 33,
+        "passing": [
+          {
+            "player": "Kenny Pickett",
+            "attempts": 24,
+            "completions": 14,
+            "yards": 143,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 45,
+            "sacks": 3,
+            "loss": 25,
+            "rate": 72.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 29,
+            "yards": 150,
+            "average": 5.17,
+            "long": 68,
+            "touchdowns": 2,
+            "first_downs": 5
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 3,
+            "yards": 41,
+            "average": 13.67,
+            "long": 22,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kenny Pickett",
+            "attempts": 3,
+            "yards": 13,
+            "average": 4.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 4,
+            "yards": 7,
+            "average": 1.75,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 8,
+            "yards": 97,
+            "average": 12.12,
+            "long": 45,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 15,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 6,
+            "yards": 51,
+            "average": 8.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 8,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 4,
+            "fg_att": 5,
+            "long": 50,
+            "points": 15
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "113",
+          "pass_yards_allowed": "255",
+          "total_yards_allowed": "368"
+        }
+      }
+    }
+  }
+}

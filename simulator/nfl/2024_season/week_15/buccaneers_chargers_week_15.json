@@ -1,0 +1,309 @@
+{
+  "game_info": {
+    "final_score": {
+      "Tampa Bay Buccaneers": 40,
+      "Los Angeles Chargers": 17
+    },
+    "team_scores_by_quarter": {
+      "Tampa Bay Buccaneers": [
+        7,
+        6,
+        17,
+        10
+      ],
+      "Los Angeles Chargers": [
+        7,
+        10,
+        0,
+        0
+      ]
+    },
+    "week": 15,
+    "date": "December 15, 2024",
+    "location": "SoFi Stadium",
+    "teams": {
+      "Los Angeles Chargers": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 33,
+            "completions": 21,
+            "yards": 195,
+            "touchdowns": 2,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 3,
+            "loss": 25,
+            "rate": 87.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Gus Edwards",
+            "attempts": 8,
+            "yards": 23,
+            "average": 2.88,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Quentin Johnston",
+            "receptions": 5,
+            "yards": 45,
+            "average": 9.0,
+            "long": 13,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 10,
+            "yards_after_catch": 22
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 5,
+            "yards": 58,
+            "average": 11.6,
+            "long": 20,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Stone Smartt",
+            "receptions": 5,
+            "yards": 50,
+            "average": 10.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 2,
+            "yards": 10,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 2,
+            "yards": 13,
+            "average": 6.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Tucker Fisk",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 2
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 41,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "223",
+          "pass_yards_allowed": "283",
+          "total_yards_allowed": "506"
+        }
+      },
+      "Tampa Bay Buccaneers": {
+        "score": 40,
+        "passing": [
+          {
+            "player": "Baker Mayfield",
+            "attempts": 27,
+            "completions": 22,
+            "yards": 288,
+            "touchdowns": 4,
+            "interceptions": 1,
+            "long": 57,
+            "sacks": 1,
+            "loss": 5,
+            "rate": 135.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Mar'Keise Irving",
+            "attempts": 15,
+            "yards": 117,
+            "average": 7.8,
+            "long": 54,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Rachaad White",
+            "attempts": 15,
+            "yards": 64,
+            "average": 4.27,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Baker Mayfield",
+            "attempts": 2,
+            "yards": 25,
+            "average": 12.5,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Sean Tucker",
+            "attempts": 7,
+            "yards": 17,
+            "average": 2.43,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 2
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Mike Evans",
+            "receptions": 9,
+            "yards": 159,
+            "average": 17.67,
+            "long": 57,
+            "touchdowns": 2,
+            "first_downs": 5,
+            "targets": 11,
+            "yards_after_catch": 57
+          },
+          {
+            "player": "Jalen McMillan",
+            "receptions": 5,
+            "yards": 75,
+            "average": 15.0,
+            "long": 26,
+            "touchdowns": 1,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Mar'Keise Irving",
+            "receptions": 2,
+            "yards": -4,
+            "average": -2.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Cade Otton",
+            "receptions": 2,
+            "yards": 24,
+            "average": 12.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 3,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Rachaad White",
+            "receptions": 2,
+            "yards": 17,
+            "average": 8.5,
+            "long": 11,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 28
+          },
+          {
+            "player": "Ryan Miller",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Sterling Shepard",
+            "receptions": 1,
+            "yards": 16,
+            "average": 16.0,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chase McLaughlin",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 4,
+            "fg_att": 4,
+            "long": 43,
+            "points": 16
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "32",
+          "pass_yards_allowed": "174",
+          "total_yards_allowed": "206"
+        }
+      }
+    }
+  }
+}

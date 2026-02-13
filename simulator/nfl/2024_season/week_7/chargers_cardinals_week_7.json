@@ -1,0 +1,369 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 15,
+      "Arizona Cardinals": 17
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        0,
+        6,
+        3,
+        6
+      ],
+      "Arizona Cardinals": [
+        0,
+        7,
+        0,
+        10
+      ]
+    },
+    "week": 7,
+    "date": "October 21, 2024",
+    "location": "State Farm Stadium",
+    "teams": {
+      "Arizona Cardinals": {
+        "score": 17,
+        "passing": [
+          {
+            "player": "Kyler Murray",
+            "attempts": 26,
+            "completions": 14,
+            "yards": 145,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 33,
+            "sacks": 0,
+            "loss": 0,
+            "rate": 67.0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "James Conner",
+            "attempts": 19,
+            "yards": 101,
+            "average": 5.32,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 7
+          },
+          {
+            "player": "Kyler Murray",
+            "attempts": 6,
+            "yards": 64,
+            "average": 10.67,
+            "long": 44,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Emari Demercado",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Clayton Tune",
+            "attempts": 3,
+            "yards": 2,
+            "average": 0.67,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Trey McBride",
+            "receptions": 5,
+            "yards": 51,
+            "average": 10.2,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Marvin Harrison",
+            "receptions": 3,
+            "yards": 21,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 6,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "James Conner",
+            "receptions": 2,
+            "yards": 51,
+            "average": 25.5,
+            "long": 33,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 59
+          },
+          {
+            "player": "Tip Reiman",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Elijah Higgins",
+            "receptions": 1,
+            "yards": 1,
+            "average": 1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Greg Dortch",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 1,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Michael Wilson",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Zay Jones",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Chad Ryland",
+            "pat_made": 2,
+            "pat_att": 2,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 32,
+            "points": 5
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "59",
+          "pass_yards_allowed": "336",
+          "total_yards_allowed": "395"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 15,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 39,
+            "completions": 27,
+            "yards": 349,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 3,
+            "loss": 13,
+            "rate": 97.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 14,
+            "yards": 40,
+            "average": 2.86,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Kimani Vidal",
+            "attempts": 3,
+            "yards": 10,
+            "average": 3.33,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Justin Herbert",
+            "attempts": 2,
+            "yards": 8,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 2,
+            "yards": 2,
+            "average": 1.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jalen Reagor",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Will Dissly",
+            "receptions": 8,
+            "yards": 81,
+            "average": 10.12,
+            "long": 18,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 11,
+            "yards_after_catch": 45
+          },
+          {
+            "player": "Ladd McConkey",
+            "receptions": 5,
+            "yards": 46,
+            "average": 9.2,
+            "long": 21,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 7,
+            "yards_after_catch": 21
+          },
+          {
+            "player": "Josh Palmer",
+            "receptions": 4,
+            "yards": 63,
+            "average": 15.75,
+            "long": 24,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 5,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "",
+            "receptions": 3,
+            "yards": 26,
+            "average": 8.67,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 18
+          },
+          {
+            "player": "Simi Fehoko",
+            "receptions": 3,
+            "yards": 45,
+            "average": 15.0,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 6,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Kimani Vidal",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Eric Tomlinson",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Stone Smartt",
+            "receptions": 1,
+            "yards": 31,
+            "average": 31.0,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 2,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Jalen Reagor",
+            "receptions": 1,
+            "yards": 41,
+            "average": 41.0,
+            "long": 41,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 5,
+            "fg_att": 5,
+            "long": 59,
+            "points": 15
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "181",
+          "pass_yards_allowed": "145",
+          "total_yards_allowed": "326"
+        }
+      }
+    }
+  }
+}

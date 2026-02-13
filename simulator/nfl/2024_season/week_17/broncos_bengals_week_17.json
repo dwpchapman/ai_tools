@@ -1,0 +1,351 @@
+{
+  "game_info": {
+    "final_score": {
+      "Denver Broncos": 24,
+      "Cincinnati Bengals": 30
+    },
+    "team_scores_by_quarter": {
+      "Denver Broncos": [
+        3,
+        0,
+        7,
+        14
+      ],
+      "Cincinnati Bengals": [
+        0,
+        7,
+        3,
+        14
+      ]
+    },
+    "week": 17,
+    "date": "December 28, 2024",
+    "location": "Paycor Stadium",
+    "teams": {
+      "Cincinnati Bengals": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Joe Burrow",
+            "attempts": 49,
+            "completions": 39,
+            "yards": 412,
+            "touchdowns": 3,
+            "interceptions": 0,
+            "long": 38,
+            "sacks": 7,
+            "loss": 28,
+            "rate": 122.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Chase Brown",
+            "attempts": 20,
+            "yards": 67,
+            "average": 3.35,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Joe Burrow",
+            "attempts": 4,
+            "yards": 25,
+            "average": 6.25,
+            "long": 19,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Khalil Herbert",
+            "attempts": 4,
+            "yards": 23,
+            "average": 5.75,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Tee Higgins",
+            "receptions": 11,
+            "yards": 131,
+            "average": 11.91,
+            "long": 31,
+            "touchdowns": 3,
+            "first_downs": 8,
+            "targets": 12,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Mike Gesicki",
+            "receptions": 10,
+            "yards": 86,
+            "average": 8.6,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 12,
+            "yards_after_catch": 31
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "receptions": 9,
+            "yards": 102,
+            "average": 11.33,
+            "long": 38,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 15,
+            "yards_after_catch": 39
+          },
+          {
+            "player": "Chase Brown",
+            "receptions": 4,
+            "yards": 24,
+            "average": 6.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 23
+          },
+          {
+            "player": "Andrei Iosivas",
+            "receptions": 3,
+            "yards": 59,
+            "average": 19.67,
+            "long": 26,
+            "touchdowns": 0,
+            "first_downs": 3,
+            "targets": 4,
+            "yards_after_catch": 15
+          },
+          {
+            "player": "Drew Sample",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 1
+          },
+          {
+            "player": "Cam Grandy",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cade York",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 22,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "123",
+          "pass_yards_allowed": "206",
+          "total_yards_allowed": "329"
+        }
+      },
+      "Denver Broncos": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Bo Nix",
+            "attempts": 31,
+            "completions": 24,
+            "yards": 219,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 51,
+            "sacks": 2,
+            "loss": 13,
+            "rate": 114.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jaleel McLaughlin",
+            "attempts": 10,
+            "yards": 69,
+            "average": 6.9,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Bo Nix",
+            "attempts": 7,
+            "yards": 31,
+            "average": 4.43,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Audric Estime",
+            "attempts": 9,
+            "yards": 24,
+            "average": 2.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Marvin Mims",
+            "attempts": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Marvin Mims",
+            "receptions": 8,
+            "yards": 103,
+            "average": 12.88,
+            "long": 51,
+            "touchdowns": 2,
+            "first_downs": 3,
+            "targets": 8,
+            "yards_after_catch": 42
+          },
+          {
+            "player": "Courtland Sutton",
+            "receptions": 5,
+            "yards": 55,
+            "average": 11.0,
+            "long": 15,
+            "touchdowns": 1,
+            "first_downs": 4,
+            "targets": 9,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Javonte Williams",
+            "receptions": 2,
+            "yards": 0,
+            "average": 0.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Devaughn Vele",
+            "receptions": 2,
+            "yards": 27,
+            "average": 13.5,
+            "long": 16,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 2,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Jaleel McLaughlin",
+            "receptions": 2,
+            "yards": 7,
+            "average": 3.5,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Nate Adkins",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Audric Estime",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Troy Franklin",
+            "receptions": 1,
+            "yards": -1,
+            "average": -1.0,
+            "long": 1,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Lucas Krull",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Adam Trautman",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 3
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Wil Lutz",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 30,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "115",
+          "pass_yards_allowed": "384",
+          "total_yards_allowed": "499"
+        }
+      }
+    }
+  }
+}

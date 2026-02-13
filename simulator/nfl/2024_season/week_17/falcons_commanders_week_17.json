@@ -1,0 +1,358 @@
+{
+  "game_info": {
+    "final_score": {
+      "Atlanta Falcons": 24,
+      "Washington Commanders": 30
+    },
+    "team_scores_by_quarter": {
+      "Atlanta Falcons": [
+        7,
+        10,
+        0,
+        7
+      ],
+      "Washington Commanders": [
+        7,
+        0,
+        7,
+        10
+      ]
+    },
+    "week": 17,
+    "date": "December 29, 2024",
+    "location": "Northwest Stadium",
+    "teams": {
+      "Washington Commanders": {
+        "score": 30,
+        "passing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 36,
+            "completions": 24,
+            "yards": 227,
+            "touchdowns": 3,
+            "interceptions": 1,
+            "long": 37,
+            "sacks": 5,
+            "loss": 31,
+            "rate": 100.1
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Jayden Daniels",
+            "attempts": 16,
+            "yards": 127,
+            "average": 7.94,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 7
+          },
+          {
+            "player": "Brian Robinson",
+            "attempts": 13,
+            "yards": 60,
+            "average": 4.62,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 4
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "attempts": 5,
+            "yards": 16,
+            "average": 3.2,
+            "long": 6,
+            "touchdowns": 1,
+            "first_downs": 2
+          },
+          {
+            "player": "Olamide Zaccheaus",
+            "attempts": 1,
+            "yards": 8,
+            "average": 8.0,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Jeremy McNichols",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Olamide Zaccheaus",
+            "receptions": 8,
+            "yards": 85,
+            "average": 10.62,
+            "long": 16,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 9,
+            "yards_after_catch": 49
+          },
+          {
+            "player": "Zach Ertz",
+            "receptions": 6,
+            "yards": 72,
+            "average": 12.0,
+            "long": 37,
+            "touchdowns": 2,
+            "first_downs": 4,
+            "targets": 7,
+            "yards_after_catch": 38
+          },
+          {
+            "player": "Jamison Crowder",
+            "receptions": 3,
+            "yards": 25,
+            "average": 8.33,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 5,
+            "yards_after_catch": 3
+          },
+          {
+            "player": "Jeremy McNichols",
+            "receptions": 2,
+            "yards": 5,
+            "average": 2.5,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Brian Robinson",
+            "receptions": 2,
+            "yards": 9,
+            "average": 4.5,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "John Bates",
+            "receptions": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Terry McLaurin",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 7,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Christopher Rodriguez",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 11
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Zane Gonzalez",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 31,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "126",
+          "pass_yards_allowed": "211",
+          "total_yards_allowed": "337"
+        }
+      },
+      "Atlanta Falcons": {
+        "score": 24,
+        "passing": [
+          {
+            "player": "Michael Penix",
+            "attempts": 35,
+            "completions": 19,
+            "yards": 223,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 31,
+            "sacks": 2,
+            "loss": 12,
+            "rate": 71.5
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Bijan Robinson",
+            "attempts": 17,
+            "yards": 90,
+            "average": 5.29,
+            "long": 13,
+            "touchdowns": 2,
+            "first_downs": 6
+          },
+          {
+            "player": "Tyler Allgeier",
+            "attempts": 3,
+            "yards": 19,
+            "average": 6.33,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "attempts": 1,
+            "yards": 14,
+            "average": 14.0,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Michael Penix",
+            "attempts": 2,
+            "yards": 3,
+            "average": 1.5,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Drake London",
+            "receptions": 7,
+            "yards": 106,
+            "average": 15.14,
+            "long": 31,
+            "touchdowns": 0,
+            "first_downs": 5,
+            "targets": 13,
+            "yards_after_catch": 24
+          },
+          {
+            "player": "Kyle Pitts",
+            "receptions": 4,
+            "yards": 44,
+            "average": 11.0,
+            "long": 23,
+            "touchdowns": 1,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Bijan Robinson",
+            "receptions": 3,
+            "yards": 8,
+            "average": 2.67,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 13
+          },
+          {
+            "player": "Darnell Mooney",
+            "receptions": 2,
+            "yards": 37,
+            "average": 18.5,
+            "long": 25,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 5,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Khadarel Hodge",
+            "receptions": 1,
+            "yards": 9,
+            "average": 9.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Ray Ray McCloud",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 10
+          },
+          {
+            "player": "Charlie Woerner",
+            "receptions": 1,
+            "yards": 6,
+            "average": 6.0,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Chris Blair",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Riley Patterson",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 1,
+            "fg_att": 2,
+            "long": 39,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "216",
+          "pass_yards_allowed": "196",
+          "total_yards_allowed": "412"
+        }
+      }
+    }
+  }
+}

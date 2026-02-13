@@ -1,0 +1,349 @@
+{
+  "game_info": {
+    "final_score": {
+      "Los Angeles Chargers": 12,
+      "Houston Texans": 32
+    },
+    "team_scores_by_quarter": {
+      "Los Angeles Chargers": [
+        6,
+        0,
+        0,
+        6
+      ],
+      "Houston Texans": [
+        0,
+        10,
+        10,
+        12
+      ]
+    },
+    "week": 19,
+    "date": "January 11, 2025",
+    "location": "NRG Stadium",
+    "teams": {
+      "Houston Texans": {
+        "score": 32,
+        "passing": [
+          {
+            "player": "",
+            "attempts": 33,
+            "completions": 22,
+            "yards": 282,
+            "touchdowns": 1,
+            "interceptions": 1,
+            "long": 41,
+            "sacks": 3,
+            "loss": 21,
+            "rate": 90.7
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Joe Mixon",
+            "attempts": 25,
+            "yards": 106,
+            "average": 4.24,
+            "long": 17,
+            "touchdowns": 1,
+            "first_downs": 5
+          },
+          {
+            "player": "",
+            "attempts": 6,
+            "yards": 42,
+            "average": 7.0,
+            "long": 27,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Dameon Pierce",
+            "attempts": 2,
+            "yards": 15,
+            "average": 7.5,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Dare Ogunbowale",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Nico Collins",
+            "receptions": 7,
+            "yards": 122,
+            "average": 17.43,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 6,
+            "targets": 8,
+            "yards_after_catch": 61
+          },
+          {
+            "player": "John Metchie",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 8,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Cade Stover",
+            "receptions": 4,
+            "yards": 28,
+            "average": 7.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 19
+          },
+          {
+            "player": "Dalton Schultz",
+            "receptions": 2,
+            "yards": 23,
+            "average": 11.5,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 4,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Robert Woods",
+            "receptions": 2,
+            "yards": 22,
+            "average": 11.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 2,
+            "targets": 4,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "Xavier Hutchinson",
+            "receptions": 1,
+            "yards": 34,
+            "average": 34.0,
+            "long": 34,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "Diontae Johnson",
+            "receptions": 1,
+            "yards": 12,
+            "average": 12.0,
+            "long": 12,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 4
+          },
+          {
+            "player": "Joe Mixon",
+            "receptions": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 10
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "pat_made": 3,
+            "pat_att": 3,
+            "fg_made": 3,
+            "fg_att": 3,
+            "long": 41,
+            "points": 12
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "50",
+          "pass_yards_allowed": "211",
+          "total_yards_allowed": "261"
+        }
+      },
+      "Los Angeles Chargers": {
+        "score": 12,
+        "passing": [
+          {
+            "player": "Justin Herbert",
+            "attempts": 32,
+            "completions": 14,
+            "yards": 242,
+            "touchdowns": 1,
+            "interceptions": 4,
+            "long": 86,
+            "sacks": 4,
+            "loss": 31,
+            "rate": 40.9
+          }
+        ],
+        "rushing": [
+          {
+            "player": "",
+            "attempts": 9,
+            "yards": 26,
+            "average": 2.89,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Gus Edwards",
+            "attempts": 7,
+            "yards": 22,
+            "average": 3.14,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Hassan Haskins",
+            "attempts": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Derius Davis",
+            "attempts": 1,
+            "yards": -3,
+            "average": -3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ladd McConkey",
+            "receptions": 9,
+            "yards": 197,
+            "average": 21.89,
+            "long": 86,
+            "touchdowns": 1,
+            "first_downs": 8,
+            "targets": 14,
+            "yards_after_catch": 79
+          },
+          {
+            "player": "Will Dissly",
+            "receptions": 2,
+            "yards": 16,
+            "average": 8.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "",
+            "receptions": 1,
+            "yards": 10,
+            "average": 10.0,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 4,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Derius Davis",
+            "receptions": 1,
+            "yards": 4,
+            "average": 4.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Tucker Fisk",
+            "receptions": 1,
+            "yards": 15,
+            "average": 15.0,
+            "long": 15,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 2
+          },
+          {
+            "player": "",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Hassan Haskins",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Quentin Johnston",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 5,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Cameron Dicker",
+            "pat_made": 0,
+            "pat_att": 1,
+            "fg_made": 2,
+            "fg_att": 2,
+            "long": 39,
+            "points": 6
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "168",
+          "pass_yards_allowed": "261",
+          "total_yards_allowed": "429"
+        }
+      }
+    }
+  }
+}

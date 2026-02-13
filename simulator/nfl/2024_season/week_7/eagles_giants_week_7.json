@@ -1,0 +1,347 @@
+{
+  "game_info": {
+    "final_score": {
+      "Philadelphia Eagles": 28,
+      "New York Giants": 3
+    },
+    "team_scores_by_quarter": {
+      "Philadelphia Eagles": [
+        0,
+        14,
+        7,
+        7
+      ],
+      "New York Giants": [
+        0,
+        3,
+        0,
+        0
+      ]
+    },
+    "week": 7,
+    "date": "October 20, 2024",
+    "location": "MetLife Stadium",
+    "teams": {
+      "New York Giants": {
+        "score": 3,
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "attempts": 21,
+            "completions": 14,
+            "yards": 99,
+            "touchdowns": 0,
+            "interceptions": 0,
+            "long": 14,
+            "sacks": 7,
+            "loss": 56,
+            "rate": 77.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Tyrone Tracy",
+            "attempts": 6,
+            "yards": 23,
+            "average": 3.83,
+            "long": 8,
+            "touchdowns": 0,
+            "first_downs": 2
+          },
+          {
+            "player": "Daniel Jones",
+            "attempts": 5,
+            "yards": 20,
+            "average": 4.0,
+            "long": 9,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Devin Singletary",
+            "attempts": 5,
+            "yards": 18,
+            "average": 3.6,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0
+          },
+          {
+            "player": "Drew Lock",
+            "attempts": 1,
+            "yards": 13,
+            "average": 13.0,
+            "long": 13,
+            "touchdowns": 0,
+            "first_downs": 1
+          },
+          {
+            "player": "Eric Gray",
+            "attempts": 1,
+            "yards": 2,
+            "average": 2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Wan'Dale Robinson",
+            "receptions": 6,
+            "yards": 23,
+            "average": 3.83,
+            "long": 6,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 9,
+            "yards_after_catch": 9
+          },
+          {
+            "player": "Malik Nabers",
+            "receptions": 4,
+            "yards": 41,
+            "average": 10.25,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 4,
+            "targets": 8,
+            "yards_after_catch": 12
+          },
+          {
+            "player": "Tyrone Tracy",
+            "receptions": 3,
+            "yards": 9,
+            "average": 3.0,
+            "long": 4,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 11
+          },
+          {
+            "player": "Daniel Bellinger",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 8
+          },
+          {
+            "player": "Eric Gray",
+            "receptions": 1,
+            "yards": 7,
+            "average": 7.0,
+            "long": 7,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Devin Singletary",
+            "receptions": 1,
+            "yards": 3,
+            "average": 3.0,
+            "long": 3,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 6
+          },
+          {
+            "player": "Darius Slayton",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 3,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jalin Hyatt",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Greg Joseph",
+            "pat_made": 0,
+            "pat_att": 0,
+            "fg_made": 1,
+            "fg_att": 1,
+            "long": 38,
+            "points": 3
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "269",
+          "pass_yards_allowed": "70",
+          "total_yards_allowed": "339"
+        }
+      },
+      "Philadelphia Eagles": {
+        "score": 28,
+        "passing": [
+          {
+            "player": "Jalen Hurts",
+            "attempts": 14,
+            "completions": 10,
+            "yards": 114,
+            "touchdowns": 1,
+            "interceptions": 0,
+            "long": 41,
+            "sacks": 4,
+            "loss": 36,
+            "rate": 119.3
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Saquon Barkley",
+            "attempts": 17,
+            "yards": 176,
+            "average": 10.35,
+            "long": 55,
+            "touchdowns": 1,
+            "first_downs": 6
+          },
+          {
+            "player": "Kenny Gainwell",
+            "attempts": 13,
+            "yards": 56,
+            "average": 4.31,
+            "long": 14,
+            "touchdowns": 0,
+            "first_downs": 3
+          },
+          {
+            "player": "Jalen Hurts",
+            "attempts": 7,
+            "yards": 22,
+            "average": 3.14,
+            "long": 16,
+            "touchdowns": 2,
+            "first_downs": 4
+          },
+          {
+            "player": "Will Shipley",
+            "attempts": 8,
+            "yards": 15,
+            "average": 1.88,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "",
+            "receptions": 5,
+            "yards": 89,
+            "average": 17.8,
+            "long": 41,
+            "touchdowns": 1,
+            "first_downs": 5,
+            "targets": 5,
+            "yards_after_catch": 14
+          },
+          {
+            "player": "Saquon Barkley",
+            "receptions": 2,
+            "yards": 11,
+            "average": 5.5,
+            "long": 10,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 3,
+            "yards_after_catch": 17
+          },
+          {
+            "player": "Grant Calcaterra",
+            "receptions": 1,
+            "yards": 5,
+            "average": 5.0,
+            "long": 5,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Kenny Gainwell",
+            "receptions": 1,
+            "yards": 11,
+            "average": 11.0,
+            "long": 11,
+            "touchdowns": 0,
+            "first_downs": 1,
+            "targets": 1,
+            "yards_after_catch": 7
+          },
+          {
+            "player": "DeVonta Smith",
+            "receptions": 1,
+            "yards": -2,
+            "average": -2.0,
+            "long": 2,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 2,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Parris Campbell",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          },
+          {
+            "player": "Jahan Dotson",
+            "receptions": 0,
+            "yards": 0,
+            "average": 0.0,
+            "long": 0,
+            "touchdowns": 0,
+            "first_downs": 0,
+            "targets": 1,
+            "yards_after_catch": 0
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Jake Elliott",
+            "pat_made": 4,
+            "pat_att": 4,
+            "fg_made": 0,
+            "fg_att": 0,
+            "long": 0,
+            "points": 4
+          }
+        ],
+        "defense": {
+          "rush_yards_allowed": "76",
+          "pass_yards_allowed": "43",
+          "total_yards_allowed": "119"
+        }
+      }
+    }
+  }
+}
