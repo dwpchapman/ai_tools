@@ -5,149 +5,122 @@
 
 import sqlite3
 import json
-import argparse
 import logging
+import argparse
 from pathlib import Path
 
-
-
-# --- Logging Configuration ---
+# --- Professional Logging ---
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(message)s',
-    handlers=[
-        logging.FileHandler("nfl_pipeline.log"),  # Saves all details to a file
-        logging.StreamHandler()                 # Prints info to your terminal
-    ]
+    handlers=[logging.FileHandler("nfl_pipeline.log"), logging.StreamHandler()]
 )
 logger = logging.getLogger(__name__)
 
 class NFLStatsDatabase:
-    """Handles all SQLite database operations and schema management."""
+    def __init__(self, db_path):
+        self.conn = sqlite3.connect(db_path)
+        self.conn.row_factory = sqlite3.Row
+        self._create_tables()
 
-    def __init__(self, db_name):
-        self.db_name = db_name
-        try:
-            self.conn = sqlite3.connect(self.db_name)
-            self.cursor = self.conn.cursor()
-            self._setup_master_tables()
-            logger.info(f"Connected to database: {db_name}")
-        except sqlite3.Error as e:
-            logger.error(f"Database connection failed: {e}")
-            raise
+    def _create_tables(self):
+        """Creates the foundation tables with unique constraints to prevent duplicates."""
+        with self.conn:
+            self.conn.execute("""
+                CREATE TABLE IF NOT EXISTS games (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    matchup TEXT,
+                    date TEXT,
+                    week INTEGER,
+                    filename TEXT,
+                    UNIQUE(matchup, date)
+                )
+            """)
 
-    def _setup_master_tables(self):
-        self.cursor.execute('''
-            CREATE TABLE IF NOT EXISTS games (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                matchup TEXT,
-                date TEXT,
-                filename TEXT
-            )
-        ''')
-        self.conn.commit()
+    def insert_game(self, matchup, date, week, filename):
+        cursor = self.conn.cursor()
+        cursor.execute("""
+            INSERT OR IGNORE INTO games (matchup, date, week, filename)
+            VALUES (?, ?, ?, ?)
+        """, (matchup, date, week, filename))
 
-    def ensure_table_and_columns(self, table_name, columns):
-        self.cursor.execute(f"CREATE TABLE IF NOT EXISTS [{table_name}] (id INTEGER PRIMARY KEY AUTOINCREMENT, game_id INTEGER, team TEXT)")
-
-        self.cursor.execute(f"PRAGMA table_info([{table_name}])")
-        existing = [info[1] for info in self.cursor.fetchall()]
-
-        integer_keywords = {"yards", "tds", "long", "ints", "rec", "att", "sacks", "fumbles"}
-
-        for col in columns:
-            if col not in existing:
-                col_type = "INTEGER" if any(k in col.lower() for k in integer_keywords) else "TEXT"
-                logger.info(f"Adding new column: {col} ({col_type}) to table [{table_name}]")
-                self.cursor.execute(f"ALTER TABLE [{table_name}] ADD COLUMN [{col}] {col_type}")
-
-    def insert_game(self, matchup, date, filename):
-        self.cursor.execute("INSERT INTO games (matchup, date, filename) VALUES (?, ?, ?)",
-                            (matchup, date, filename))
-        return self.cursor.lastrowid
+        cursor.execute("SELECT id FROM games WHERE matchup=? AND date=?", (matchup, date))
+        return cursor.fetchone()[0]
 
     def insert_stats(self, table_name, game_id, team, stats_dict):
+        """Dynamically builds tables for Passing, Rushing, etc."""
+        table_name = f"{table_name.lower()}_stats"
+        cursor = self.conn.cursor()
+
+        # Clean data: separate player name from numeric stats
+        player_name = stats_dict.pop('player', 'Unknown')
         keys = list(stats_dict.keys())
-        self.ensure_table_and_columns(table_name, keys)
 
-        values = [game_id, team]
-        for k in keys:
-            val = stats_dict[k]
-            if isinstance(val, str) and val.isdigit():
-                values.append(int(val))
-            else:
-                values.append(val if val is not None else "")
+        # Build dynamic SQL
+        cols_def = ", ".join([f"[{k}] REAL" for k in keys])
+        cursor.execute(f"CREATE TABLE IF NOT EXISTS [{table_name}] (id INTEGER, game_id INTEGER, team TEXT, player TEXT, {cols_def})")
 
-        placeholders = ", ".join(["?"] * len(values))
-        col_names = ", ".join([f"[{c}]" for c in keys])
-        query = f"INSERT INTO [{table_name}] (game_id, team, {col_names}) VALUES ({placeholders})"
-        self.cursor.execute(query, values)
+        placeholders = ", ".join(["?"] * (len(keys) + 3))
+        col_names = ", ".join([f"[{k}]" for k in keys])
+        vals = [game_id, team, player_name] + [stats_dict.get(k) for k in keys]
 
-    def commit(self):
-        self.conn.commit()
-
-    def close(self):
-        if self.conn:
-            self.conn.close()
-            logger.info("Database connection closed.")
+        cursor.execute(f"INSERT INTO [{table_name}] (game_id, team, player, {col_names}) VALUES ({placeholders})", vals)
 
 class NFLStatsImporter:
-    """Handles the business logic of reading JSON files and directing the DB."""
-
     def __init__(self, db_manager):
         self.db = db_manager
 
-    def process_directory(self, directory_path):
-        path = Path(directory_path)
-        if not path.is_dir():
-            logger.error(f"Provided path is not a directory: {directory_path}")
-            return
+    def process_directory(self, folder_path):
+        files = list(Path(folder_path).rglob("*.json"))
+        logger.info(f"Scanning {folder_path}... Found {len(files)} files.")
 
-        json_files = list(path.glob("*.json"))
-        logger.info(f"Starting import of {len(json_files)} files...")
+        for f in files:
+            if "schema_template" in f.name: continue
+            self._import_file(f)
+            self.db.conn.commit()
 
-        for json_file in json_files:
-            try:
-                self._import_single_file(json_file)
-                self.db.commit()
-                logger.info(f"Successfully processed: {json_file.name}")
-            except Exception as e:
-                # This catches errors in one file but keeps the loop running for the rest
-                logger.error(f"Failed to process {json_file.name}: {e}", exc_info=True)
+    def _import_file(self, file_path):
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
 
-    def _import_single_file(self, file_path):
-        with open(file_path, 'r') as f:
-            data = json.load(f)
+            game_info = data.get("game_info", {})
 
-        game_info = data.get("game_info", {})
-        game_id = self.db.insert_game(
-            game_info.get("matchup"),
-            game_info.get("date"),
-            file_path.name
-        )
+            # --- 2024 vs 2025 FLEX-LOGIC ---
+            # Try 2025 path first, then fall back to the 2024 final_score path
+            teams_data = game_info.get("teams")
+            if not teams_data and "final_score" in game_info:
+                # 2024 files nest teams inside the scores of the two playing teams
+                for key, value in game_info["final_score"].items():
+                    if isinstance(value, dict) and "teams" in value:
+                        teams_data = value["teams"]
+                        break
 
-        teams = data.get("teams", {})
-        for team_name, categories in teams.items():
-            for category, stats_list in categories.items():
-                if not isinstance(stats_list, list): continue
+            # Build Matchup String (e.g., "Denver Broncos vs Seattle Seahawks")
+            scores = game_info.get("final_score", {})
+            team_names = [k for k in scores.keys() if isinstance(scores[k], (int, dict))]
+            matchup = f"{team_names[0]} vs {team_names[1]}" if len(team_names) >= 2 else "Unknown"
 
-                table_name = category.replace(" ", "_").lower()
-                for entry in stats_list:
-                    self.db.insert_stats(table_name, game_id, team_name, entry)
+            # 1. Save Game
+            game_id = self.db.insert_game(matchup, game_info.get("date"), game_info.get("week"), file_path.name)
+
+            # 2. Save Stats
+            if teams_data:
+                for team, categories in teams_data.items():
+                    for cat_name, players in categories.items():
+                        if not isinstance(players, list): continue
+                        for p_stats in players:
+                            self.db.insert_stats(cat_name, game_id, team, p_stats)
+
+            logger.info(f"Successfully Imported: {file_path.name}")
+        except Exception as e:
+            logger.error(f"Failed {file_path.name}: {e}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Professional NFL Box Score Importer")
-    parser.add_argument("directory", help="Path to JSON folder")
-    parser.add_argument("--db", default="NFL_season_stats.db", help="Output database name")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("folder", help="Path to your 'nfl' directory")
     args = parser.parse_args()
 
-    db_manager = NFLStatsDatabase(args.db)
-    importer = NFLStatsImporter(db_manager)
-
-    try:
-        importer.process_directory(args.directory)
-    except KeyboardInterrupt:
-        logger.warning("Process interrupted by user.")
-    finally:
-        db_manager.close()
-        logger.info("Import session finished.")
+    db = NFLStatsDatabase("NFL_Master_Stats.db")
+    importer = NFLStatsImporter(db)
+    importer.process_directory(args.folder)
