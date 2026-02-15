@@ -7,11 +7,7 @@
     <h1>Running Backs</h1>
     <ul>
         {% for rb in backs %}
-            <li>
-                <a href="{% url 'running_back_detail' rb.player %}">
-                    {{ rb.player }} — {{ rb.yards }} yards
-                </a>
-            </li>
+            <a href="{% url 'running_back_detail' rb.player %}">{{ rb.player }}</a><br>
         {% endfor %}
     </ul>
 

@@ -1,34 +1,39 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>{{ player_name }}</title>
-</head>
-<body>
-    <h1>{{ player_name }}</h1>
+<h1>{{ player_name }}</h1>
 
-    <h2>Totals</h2>
-    <p><strong>Total Carries:</strong> {{ stats.total_carries }}</p>
-    <p><strong>Total Yards:</strong> {{ stats.total_yards }}</p>
+<h2>2025 Season</h2>
 
-    <h2>Averages</h2>
-    <p><strong>Average Carries per Game:</strong> {{ stats.avg_carries|floatformat:2 }}</p>
-    <p><strong>Average Yards per Game:</strong> {{ stats.avg_yards|floatformat:2 }}</p>
+<table border="1" cellpadding="6">
+    <tr>
+        <th>Date</th>
+        <th>Attempts</th>
+        <th>Yards</th>
+    </tr>
 
-    <h2>Game Log</h2>
-    <table border="1" cellpadding="6">
-        <tr>
-            <th>Carries</th>
-            <th>Yards</th>
-        </tr>
+    {% for game in games_2025 %}
+    <tr>
+        <td>{{ game.game.date }}</td>
+        <td>{{ game.attempts }}</td>
+        <td>{{ game.yards }}</td>
+    </tr>
+    {% endfor %}
+</table>
 
-        {% for game in games %}
-        <tr>
-            <td>{{ game.carries }}</td>
-            <td>{{ game.yards }}</td>
-        </tr>
-        {% endfor %}
-    </table>
 
-    <p><a href="/nfl/running_backs">Back to list</a></p>
-</body>
-</html>
+<h2>2024 Season</h2>
+
+<table border="1" cellpadding="6">
+    <tr>
+        <th>Date</th>
+        <th>Attempts</th>
+        <th>Yards</th>
+    </tr>
+
+    {% for game in games_2024 %}
+    <tr>
+        <td>{{ game.game.date }}</td>
+        <td>{{ game.attempts }}</td>
+        <td>{{ game.yards }}</td>
+    </tr>
+    {% endfor %}
+</table>
+

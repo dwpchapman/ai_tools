@@ -18,6 +18,6 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
+    path("", include("nfl.urls")),     # root goes to nfl app
     path("admin/", admin.site.urls),
-    path("nfl/", include("nfl.urls")),
 ]
