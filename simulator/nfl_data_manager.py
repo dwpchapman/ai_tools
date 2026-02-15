@@ -30,7 +30,7 @@ class NFLStatsDatabase:
                 CREATE TABLE IF NOT EXISTS games (
                     id INTEGER PRIMARY KEY AUTOINCREMENT,
                     matchup TEXT,
-                    date TEXT,
+                    date DATE,
                     week INTEGER,
                     filename TEXT,
                     UNIQUE(matchup, date)
