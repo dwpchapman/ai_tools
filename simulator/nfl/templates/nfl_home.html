@@ -1,0 +1,81 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NostradAImos Games</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0d0d0d;
+            color: #f0f0f0;
+        }
+
+        .hero {
+            position: relative;
+            width: 100%;
+            height: 2048px;
+            background-image: url('/static/images/wizard.png'); /* update path */
+            background-size: cover;
+            background-position: center;
+        }
+
+        .hero::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(
+                rgba(0, 0, 0, 0.6),
+                rgba(0, 0, 0, 0.8)
+            );
+            z-index: 1;
+        }
+
+        .hero-text {
+            position: absolute;
+            top: 40px;     /* moves it up */
+            left: 40px;
+            z-index: 10;
+        }
+
+        .hero-text h1 {
+        font-size: 48px;
+        margin: 0;
+        color: #ffffff;
+        text-shadow: 0 0 12px #6ab7ff, 0 0 24px #2e6cff;
+        }
+
+        .link-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 22px;
+            background-color: #4a90e2;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 6px;
+            transition: background 0.2s ease;
+        }
+
+        .link-button:hover {
+            background-color: #357ab8;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="hero">
+        <div class="hero-text">
+            <h1>NFL Simulator</h1>
+            <a class="link-button" href="{% url 'running_backs' %}">
+                View Running Backs
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
