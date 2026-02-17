@@ -1,4 +1,4 @@
-# chaz 01.04.26
+# chaz 01.04.26 | 02.13.26 Refactor code to be season agnostic (json has different formats)|02.14.26 Changed date to DATE|Format date: yyyy-mm-dd before insert.
 # File Name: nfl_data_manager.property
 # OPP version of batch_json_to_sql.py
 # Usage: python nfl_data_manager.py ./NFL_2025_week_1 --db Week1_Stats.db (if you want to overwrite the default db name.)
@@ -8,6 +8,7 @@ import json
 import logging
 import argparse
 from pathlib import Path
+from datetime import datetime
 
 # --- Professional Logging ---
 logging.basicConfig(
@@ -95,6 +96,15 @@ class NFLStatsImporter:
                     if isinstance(value, dict) and "teams" in value:
                         teams_data = value["teams"]
                         break
+            raw_date = game_info.get("date")
+            if raw_date:
+                try:
+                    # Converts "September 8, 2024" -> "2024-09-08"
+                    date_obj = datetime.strptime(raw_date, "%B %d, %Y")
+                    formatted_date = date_obj.strftime("%Y-%m-%d")
+                except ValueError:
+                    # If the format is already correct or different, keep original
+                    pass
 
             # Build Matchup String (e.g., "Denver Broncos vs Seattle Seahawks")
             scores = game_info.get("final_score", {})
@@ -102,7 +112,8 @@ class NFLStatsImporter:
             matchup = f"{team_names[0]} vs {team_names[1]}" if len(team_names) >= 2 else "Unknown"
 
             # 1. Save Game
-            game_id = self.db.insert_game(matchup, game_info.get("date"), game_info.get("week"), file_path.name)
+            # Now the game is saved with the standardized date
+            game_id = self.db.insert_game(matchup, formatted_date, game_info.get("week"), file_path.name)
 
             # 2. Save Stats
             if teams_data:
