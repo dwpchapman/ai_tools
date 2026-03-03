@@ -1,0 +1,45 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Simulation result — {{ player_name }} vs {{ opponent }}</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial; margin: 24px; }
+    h1 { margin-bottom: 8px; }
+    ul { margin: 8px 0 16px 20px; }
+    pre { background:#f6f6f6; padding:12px; border-radius:6px; overflow:auto; }
+  </style>
+</head>
+<body>
+  <a href="{% url 'running_back_detail' player_name %}">← Back to player</a>
+
+  <h1>Simulation result for {{ player_name }} vs {{ opponent|default:"(no opponent selected)" }}</h1>
+
+  <section>
+    <h3>Model predicted stat line</h3>
+    <ul>
+      <li><strong>Rush attempts</strong> — {{ simulation.rush_attempts }}</li>
+      <li><strong>Rush yards</strong> — {{ simulation.rush_yards }}</li>
+      <li><strong>Rush TDs</strong> — {{ simulation.rush_tds }}</li>
+      <li><strong>Receptions</strong> — {{ simulation.receptions }}</li>
+      <li><strong>Receiving yards</strong> — {{ simulation.receiving_yards }}</li>
+      <li><strong>Receiving TDs</strong> — {{ simulation.receiving_tds }}</li>
+    </ul>
+  </section>
+
+  <section>
+    <h3>Model notes and assumptions</h3>
+    <pre>{{ simulation.notes|default:"(no notes provided)" }}</pre>
+  </section>
+
+  <section>
+    <h3>Context used for the simulation</h3>
+    <ul>
+      {% if defense_averages %}
+        <li><strong>Opponent defense (rush yards per game)</strong> — {{ defense_averages.rush_yards_per_game|floatformat:2 }}</li>
+      {% endif %}
+    </ul>
+  </section>
+</body>
+</html>

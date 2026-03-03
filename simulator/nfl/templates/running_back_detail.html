@@ -1,39 +1,82 @@
-<h1>{{ player_name }}</h1>
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ player_stats.player_name }} — Detail</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial; margin: 24px; }
+    h1 { margin-bottom: 8px; }
+    section { margin-bottom: 20px; }
+    ul { margin: 8px 0 16px 20px; }
+    .form-row { margin: 8px 0; }
+  </style>
+</head>
+<body>
+  <a href="{% url 'running_backs' %}">← Back to running backs</a>
 
-<h2>2025 Season</h2>
+  <h1>{{ player_stats.player_name }}</h1>
 
-<table border="1" cellpadding="6">
-    <tr>
-        <th>Date</th>
-        <th>Attempts</th>
-        <th>Yards</th>
-    </tr>
+  <section>
+    <h3>Rushing</h3>
+    <ul>
+      <li><strong>Games with rushes</strong> — {{ player_stats.rush_games }}</li>
+      <li><strong>Attempts</strong> — {{ player_stats.rush_attempts }}</li>
+      <li><strong>Yards</strong> — {{ player_stats.rush_yards }}</li>
+      <li><strong>Touchdowns</strong> — {{ player_stats.rush_touchdowns }}</li>
+      <li><strong>Longest rush</strong> — {{ player_stats.rush_long|default:"N/A" }}</li>
+      <li><strong>Yards per game</strong> — {{ player_stats.rush_yards_per_game }}</li>
+      <li><strong>Yards per attempt</strong> — {{ player_stats.rush_yards_per_attempt }}</li>
+    </ul>
+  </section>
 
-    {% for game in games_2025 %}
-    <tr>
-        <td>{{ game.game.date }}</td>
-        <td>{{ game.attempts }}</td>
-        <td>{{ game.yards }}</td>
-    </tr>
-    {% endfor %}
-</table>
+  <section>
+    <h3>Receiving</h3>
+    <ul>
+      <li><strong>Games with receiving</strong> — {{ player_stats.rec_games }}</li>
+      <li><strong>Receptions</strong> — {{ player_stats.receptions }}</li>
+      <li><strong>Receiving yards</strong> — {{ player_stats.receiving_yards }}</li>
+      <li><strong>Receiving touchdowns</strong> — {{ player_stats.receiving_touchdowns }}</li>
+      <li><strong>Targets</strong> — {{ player_stats.targets }}</li>
+      <li><strong>Yards per reception</strong> — {{ player_stats.receiving_yards_per_reception }}</li>
+      <li><strong>YAC (total)</strong> — {{ player_stats.receiving_yac }}</li>
+    </ul>
+  </section>
 
+  <section>
+    <h3>Team defense (season averages)</h3>
+    {% if player_stats.defense_averages %}
+      <ul>
+        <li><strong>Team</strong> — {{ player_stats.defense_averages.team }}</li>
+        <li><strong>Games</strong> — {{ player_stats.defense_averages.games }}</li>
+        <li><strong>Rush yards allowed (season)</strong> — {{ player_stats.defense_averages.rush_yards_allowed }}</li>
+        <li><strong>Rush yards per game</strong> — {{ player_stats.defense_averages.rush_yards_per_game|floatformat:2 }}</li>
+        <li><strong>Pass yards per game</strong> — {{ player_stats.defense_averages.pass_yards_per_game|floatformat:2 }}</li>
+        <li><strong>Total yards per game</strong> — {{ player_stats.defense_averages.total_yards_per_game|floatformat:2 }}</li>
+      </ul>
+    {% else %}
+      <p>No defensive season averages available for the inferred opponent.</p>
+    {% endif %}
+  </section>
 
-<h2>2024 Season</h2>
-
-<table border="1" cellpadding="6">
-    <tr>
-        <th>Date</th>
-        <th>Attempts</th>
-        <th>Yards</th>
-    </tr>
-
-    {% for game in games_2024 %}
-    <tr>
-        <td>{{ game.game.date }}</td>
-        <td>{{ game.attempts }}</td>
-        <td>{{ game.yards }}</td>
-    </tr>
-    {% endfor %}
-</table>
-
+  <section>
+    <h3>Run a simulation for a single game</h3>
+    <form method="post" action="{% url 'run_simulation' player_stats.player_name %}">
+      {% csrf_token %}
+      <div class="form-row">
+        <label for="opponent_team"><strong>Select opponent</strong></label><br>
+        <select name="opponent_team" id="opponent_team" required>
+          <option value="">— choose opponent —</option>
+          {% for team in teams_list %}
+            <option value="{{ team }}">{{ team }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="form-row">
+        <button type="submit">Run simulation</button>
+      </div>
+    </form>
+    <p style="font-size:0.9em;color:#666">The simulation will ask the model to predict a single-game stat line for this player vs the selected defense.</p>
+  </section>
+</body>
+</html>

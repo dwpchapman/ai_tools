@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'simulator.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'NFL_Master_Stats.db',
+        'NAME': BASE_DIR / 'NFL_Seasons_Stats.db',
     }
 }
 

@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Simulation error</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial; margin: 24px; color:#333; }
+    pre { background:#f6f6f6; padding:12px; border-radius:6px; overflow:auto; }
+  </style>
+</head>
+<body>
+  <a href="{% url 'running_back_detail' player_name %}">← Back to player</a>
+  <h1>Simulation error for {{ player_name }}</h1>
+  <p>There was a problem running the simulation:</p>
+  <pre>{{ error|default:"Unknown error" }}</pre>
+  <p style="color:#666">Check your Ollama endpoint, network, and server logs for details.</p>
+</body>
+</html>
